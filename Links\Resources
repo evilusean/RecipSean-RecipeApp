@@ -35,3 +35,6 @@ If I can figure out how to do the prompts - I can build faster and get crazy goo
 Since it can't see my project or codebase - you need to remind it what tech you are using - it keeps giving me '.js' instead of '.ts'
 so I will need to craft my proompt each day to build the UI for this app - remind it that I'm using TS/Tailwind/ShadCN etc :
 I'm building a recipe app using TS/Tailwind/and ShadCN components - I want it to..... <future sean problem>
+
+I figured out a good way to visually show how it all works - instead of figma - going to try playing around with obsidian - will be able to show how each part connects with eachother and the prompts I used to build that component to save future sean some time - 
+system design diagram - I can also make sure the schema is set up for the DB - and see how it interacts - Do I need graphQL? MongoDB? SQL? Do I even need a DB? How does the schema look like? how is the nextJS app going to read it, multiple languages? - how do they interact? etc - still have alot of planning to do - better done in obsidian
