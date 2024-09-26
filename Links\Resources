@@ -27,3 +27,11 @@ Italian
 Spanish (various ways of beans and meat on bread - tacoboutit)
 Tuna and Rice(a daily staple, for years. tuna and rice a la sean(the secret ingredient=you add chickpeas) - at what point does deprivASean become abuse?
 Haitian - (mud pies, cats, dogs, soylent green, '"the other other white meat"' barbeque, Lol, Lmao, etc) : https://www.youtube.com/watch?v=IpjvNw88jns&ab_channel=PetTasticsTV
+
+Trying to build this with V0 + Claude + Cursor - I only get a limited amount of credits per day as a F2P -
+I can build it page by page, brick by brick, each day adding a bit, then hooking it up on the backend and fixing the code/UI
+The AI can do the heavy lifting, I just need to DrAIve it, to build and fix what I need, use my limited tokens each day
+If I can figure out how to do the prompts - I can build faster and get crazy good workflows - and finally get paid - Step 1) Escape
+Since it can't see my project or codebase - you need to remind it what tech you are using - it keeps giving me '.js' instead of '.ts'
+so I will need to craft my proompt each day to build the UI for this app - remind it that I'm using TS/Tailwind/ShadCN etc :
+I'm building a recipe app using TS/Tailwind/and ShadCN components - I want it to..... <future sean problem>
