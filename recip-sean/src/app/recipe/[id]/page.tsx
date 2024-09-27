@@ -1,45 +1,33 @@
 'use client'
 
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
+import { Recipe } from '@/utils/recipeUtils'
 
-// Mock data - replace with actual data fetching logic
-const mockRecipe = {
-  id: '1',
-  name: 'Spaghetti Carbonara',
-  ingredients: ['Spaghetti', 'Eggs', 'Pancetta', 'Parmesan cheese', 'Black pepper'],
-  utensils: ['Large pot', 'Frying pan', 'Mixing bowl'],
-  cookingTime: 20,
-  prepTime: 10,
-  instructions: [
-    {
-      time: 10,
-      en: 'Cook the spaghetti in salted water until al dente.',
-      sk: 'Uvarte špagety v osolenej vode, kým nebudú al dente.',
-      ja: '塩水でスパゲッティをアルデンテに茹でる。',
-      primaryIngredient: 'Spaghetti'
-    },
-    {
-      time: 5,
-      en: 'Fry the pancetta until crispy.',
-      sk: 'Opečte pancettu do chrumkava.',
-      ja: 'パンチェッタをカリカリに焼く。',
-      primaryIngredient: 'Pancetta'
-    },
-    {
-      time: 5,
-      en: 'Mix eggs, cheese, and pepper in a bowl.',
-      sk: 'Zmiešajte vajcia, syr a čierne korenie v miske.',
-      ja: 'ボウルに卵、チーズ、こしょうを混ぜる。',
-      primaryIngredient: 'Eggs'
-    }
-  ],
-  recipeType: 'Italian'
-}
-
-export default function RecipePage({ params }: { params: { id: string } }) {
+export default function RecipePage({ params }: { params: { id: string[] } }) {
+  const [recipe, setRecipe] = useState<Recipe | null>(null)
   const [language, setLanguage] = useState<'en' | 'sk' | 'ja'>('en')
-  const recipe = mockRecipe // Replace with actual data fetching based on params.id
+
+  useEffect(() => {
+    const fetchRecipe = async () => {
+      try {
+        const response = await fetch(`/api/recipes/${params.id.join('/')}`)
+        if (!response.ok) {
+          throw new Error('Failed to fetch recipe')
+        }
+        const data = await response.json()
+        setRecipe(data)
+      } catch (error) {
+        console.error('Error fetching recipe:', error)
+      }
+    }
+
+    fetchRecipe()
+  }, [params.id])
+
+  if (!recipe) {
+    return <div>Loading...</div>
+  }
 
   return (
     <div className="container mx-auto px-4 py-8">
