@@ -1,20 +1,17 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useState, useEffect, useCallback } from 'react'
 import Link from 'next/link'
 import { SearchComponent } from '@/components/search'
 import { Recipe } from '@/utils/recipeUtils'
+import { debounce } from 'lodash'
 
 export default function Home() {
   const [recipes, setRecipes] = useState<Recipe[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
-  useEffect(() => {
-    fetchRecipes()
-  }, [])
-
-  const fetchRecipes = async (query: string = '') => {
+  const fetchRecipes = useCallback(async (query: string = '') => {
     setLoading(true)
     setError(null)
     try {
@@ -23,7 +20,6 @@ export default function Home() {
         throw new Error(`HTTP error! status: ${response.status}`)
       }
       const data = await response.json()
-      console.log(`Fetched ${data.length} recipes`)
       setRecipes(data)
     } catch (error) {
       console.error('Error fetching recipes:', error)
@@ -31,33 +27,49 @@ export default function Home() {
     } finally {
       setLoading(false)
     }
-  }
+  }, [])
+
+  useEffect(() => {
+    fetchRecipes()
+  }, [fetchRecipes])
+
+  const debouncedSearch = useCallback(
+    debounce((query: string) => {
+      fetchRecipes(query)
+    }, 300),
+    [fetchRecipes]
+  )
 
   const handleSearch = (query: string) => {
-    console.log(`Searching for: "${query}"`)
-    fetchRecipes(query)
+    debouncedSearch(query)
   }
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <h1 className="text-4xl font-bold mb-8">Recipe App</h1>
+    <div className="container mx-auto px-4 py-6 sm:py-8">
+      <h1 className="text-3xl sm:text-4xl font-bold mb-6 sm:mb-8">Recipe App</h1>
       <SearchComponent onSearch={handleSearch} />
-      {loading && <p className="mt-8">Loading recipes...</p>}
-      {error && <p className="mt-8 text-red-500">{error}</p>}
+      {loading && <p className="mt-6 sm:mt-8">Loading recipes...</p>}
+      {error && <p className="mt-6 sm:mt-8 text-red-500">{error}</p>}
       {!loading && !error && (
-        <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {recipes.map(recipe => (
-            <Link href={`/recipe/${recipe.id}`} key={recipe.id}>
-              <div className="border rounded-lg p-4 hover:shadow-lg transition-shadow">
-                <h2 className="text-xl font-semibold">{recipe.name}</h2>
-                <p className="text-gray-600">{recipe.recipeType}</p>
-                <p className="text-sm text-gray-500">Cooking Time: {recipe.cookingTime} minutes</p>
-                {recipe.favorite && (
-                  <p className="text-yellow-500 mt-2">⭐ Favorite</p>
-                )}
-              </div>
-            </Link>
-          ))}
+        <div className="mt-6 sm:mt-8">
+          {recipes.length > 0 ? (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+              {recipes.map(recipe => (
+                <Link href={`/recipe/${recipe.id}`} key={recipe.id}>
+                  <div className="border rounded-lg p-4 hover:shadow-lg transition-shadow">
+                    <h2 className="text-lg sm:text-xl font-semibold">{recipe.name}</h2>
+                    <p className="text-gray-600 text-sm sm:text-base">{recipe.recipeType}</p>
+                    <p className="text-sm text-gray-500">Cooking Time: {recipe.cookingTime} minutes</p>
+                    {recipe.favorite && (
+                      <p className="text-yellow-500 mt-2">⭐ Favorite</p>
+                    )}
+                  </div>
+                </Link>
+              ))}
+            </div>
+          ) : (
+            <p className="mt-6 sm:mt-8 text-center text-gray-500">No recipes found. Try a different search term.</p>
+          )}
         </div>
       )}
     </div>

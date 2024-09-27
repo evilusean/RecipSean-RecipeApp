@@ -18,14 +18,15 @@ export function SearchComponent({ onSearch }: SearchProps) {
   }
 
   return (
-    <form onSubmit={handleSearch} className="flex w-full max-w-sm items-center space-x-2">
+    <form onSubmit={handleSearch} className="flex flex-col sm:flex-row w-full max-w-sm sm:max-w-md mx-auto items-center space-y-2 sm:space-y-0 sm:space-x-2">
       <Input
         type="text"
-        placeholder="Search recipes, ingredients, types, or 'favorite'"
+        placeholder="Search recipes, ingredients, or types..."
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        className="w-full"
       />
-      <Button type="submit">
+      <Button type="submit" className="w-full sm:w-auto">
         <Search className="mr-2 h-4 w-4" />
         Search
       </Button>
