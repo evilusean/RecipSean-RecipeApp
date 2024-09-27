@@ -1,32 +1,63 @@
 'use client'
 
 import { useState, useEffect } from 'react'
+import { useRouter } from 'next/navigation'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Recipe } from '@/utils/recipeUtils'
 
-export default function RecipePage({ params }: { params: { id: string[] } }) {
+export default function RecipePage({ params }: { params: { id: string | string[] } }) {
   const [recipe, setRecipe] = useState<Recipe | null>(null)
   const [language, setLanguage] = useState<'en' | 'sk' | 'ja'>('en')
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
+  const router = useRouter()
 
   useEffect(() => {
     const fetchRecipe = async () => {
+      setLoading(true)
+      setError(null)
       try {
-        const response = await fetch(`/api/recipes/${params.id.join('/')}`)
+        const recipeId = Array.isArray(params.id) ? params.id.join('/') : params.id
+        const response = await fetch(`/api/recipes/${recipeId}`)
         if (!response.ok) {
+          if (response.status === 404) {
+            throw new Error('Recipe not found')
+          }
           throw new Error('Failed to fetch recipe')
         }
         const data = await response.json()
         setRecipe(data)
       } catch (error) {
         console.error('Error fetching recipe:', error)
+        setError(error instanceof Error ? error.message : 'An unknown error occurred')
+      } finally {
+        setLoading(false)
       }
     }
 
     fetchRecipe()
   }, [params.id])
 
+  if (loading) {
+    return <div className="container mx-auto px-4 py-8">Loading...</div>
+  }
+
+  if (error) {
+    return (
+      <div className="container mx-auto px-4 py-8">
+        <p className="text-red-500">{error}</p>
+        <button 
+          className="mt-4 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+          onClick={() => router.push('/')}
+        >
+          Back to Home
+        </button>
+      </div>
+    )
+  }
+
   if (!recipe) {
-    return <div>Loading...</div>
+    return null
   }
 
   return (
@@ -84,6 +115,13 @@ export default function RecipePage({ params }: { params: { id: string[] } }) {
           </div>
         ))}
       </div>
+      
+      <button 
+        className="mt-8 px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
+        onClick={() => router.push('/')}
+      >
+        Back to Home
+      </button>
     </div>
   )
 }

@@ -8,6 +8,7 @@ import { Recipe } from '@/utils/recipeUtils'
 export default function Home() {
   const [recipes, setRecipes] = useState<Recipe[]>([])
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
   useEffect(() => {
     fetchRecipes()
@@ -15,21 +16,25 @@ export default function Home() {
 
   const fetchRecipes = async (query: string = '') => {
     setLoading(true)
+    setError(null)
     try {
       const response = await fetch(`/api/recipes?search=${encodeURIComponent(query)}`)
       if (!response.ok) {
-        throw new Error('Failed to fetch recipes')
+        throw new Error(`HTTP error! status: ${response.status}`)
       }
       const data = await response.json()
+      console.log(`Fetched ${data.length} recipes`)
       setRecipes(data)
     } catch (error) {
       console.error('Error fetching recipes:', error)
+      setError('Failed to fetch recipes. Please try again.')
     } finally {
       setLoading(false)
     }
   }
 
   const handleSearch = (query: string) => {
+    console.log(`Searching for: "${query}"`)
     fetchRecipes(query)
   }
 
@@ -37,9 +42,9 @@ export default function Home() {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-bold mb-8">Recipe App</h1>
       <SearchComponent onSearch={handleSearch} />
-      {loading ? (
-        <p className="mt-8">Loading recipes...</p>
-      ) : (
+      {loading && <p className="mt-8">Loading recipes...</p>}
+      {error && <p className="mt-8 text-red-500">{error}</p>}
+      {!loading && !error && (
         <div className="mt-8 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {recipes.map(recipe => (
             <Link href={`/recipe/${recipe.id}`} key={recipe.id}>
