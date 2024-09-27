@@ -13,10 +13,10 @@ export default function Home() {
     fetchRecipes()
   }, [])
 
-  const fetchRecipes = async (query: string = '', type: string = '', nationality: string = '') => {
+  const fetchRecipes = async (query: string = '') => {
     setLoading(true)
     try {
-      const response = await fetch(`/api/recipes?search=${query}&type=${type}&nationality=${nationality}`)
+      const response = await fetch(`/api/recipes?search=${encodeURIComponent(query)}`)
       if (!response.ok) {
         throw new Error('Failed to fetch recipes')
       }
@@ -29,8 +29,8 @@ export default function Home() {
     }
   }
 
-  const handleSearch = (query: string, type: string, nationality: string) => {
-    fetchRecipes(query, type, nationality)
+  const handleSearch = (query: string) => {
+    fetchRecipes(query)
   }
 
   return (
@@ -47,6 +47,9 @@ export default function Home() {
                 <h2 className="text-xl font-semibold">{recipe.name}</h2>
                 <p className="text-gray-600">{recipe.recipeType}</p>
                 <p className="text-sm text-gray-500">Cooking Time: {recipe.cookingTime} minutes</p>
+                {recipe.favorite && (
+                  <p className="text-yellow-500 mt-2">⭐ Favorite</p>
+                )}
               </div>
             </Link>
           ))}

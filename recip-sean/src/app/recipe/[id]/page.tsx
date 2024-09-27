@@ -33,6 +33,9 @@ export default function RecipePage({ params }: { params: { id: string[] } }) {
     <div className="container mx-auto px-4 py-8">
       <h1 className="text-4xl font-bold mb-4">{recipe.name}</h1>
       <p className="text-gray-600 mb-4">{recipe.recipeType}</p>
+      {recipe.favorite && (
+        <p className="text-yellow-500 mb-4">⭐ Favorite</p>
+      )}
       
       <div className="mb-6">
         <h2 className="text-2xl font-semibold mb-2">Ingredients</h2>
