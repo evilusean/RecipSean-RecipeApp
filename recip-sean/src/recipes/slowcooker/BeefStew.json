@@ -1,0 +1,74 @@
+{
+    "id": "slowcooker_beef_stew_001",
+    "name": "Slow Cooker Beef Stew",
+    "ingredients": [
+      "1kg beef chuck, cut into cubes",
+      "4 medium potatoes, peeled and cubed",
+      "3 carrots, sliced",
+      "1 onion, chopped",
+      "2 celery stalks, chopped",
+      "3 cloves garlic, minced",
+      "2 cups beef broth",
+      "1 can (400g) diced tomatoes",
+      "2 tbsp tomato paste",
+      "1 tsp dried thyme",
+      "1 tsp dried rosemary",
+      "2 bay leaves",
+      "Salt and pepper to taste",
+      "2 tbsp all-purpose flour"
+    ],
+    "utensils": [
+      "Slow cooker",
+      "Cutting board",
+      "Knife",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 480,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Season beef cubes with salt, pepper, and flour. Place in the slow cooker",
+        "sk": "Okoreňte kocky hovädzieho mäsa soľou, čiernym korením a obaľte v múke. Vložte do pomalého hrnca",
+        "ja": "牛肉に塩、こしょう、小麦粉をまぶし、スロークッカーに入れる",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 5,
+        "en": "Add chopped vegetables (potatoes, carrots, onion, celery, garlic) to the slow cooker",
+        "sk": "Pridajte nakrájanú zeleninu (zemiaky, mrkvu, cibuľu, zeler, cesnak) do pomalého hrnca",
+        "ja": "刻んだ野菜（じゃがいも、にんじん、たまねぎ、セロリ、にんにく）をスロークッカーに加える",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 3,
+        "en": "Pour in beef broth, diced tomatoes, and tomato paste. Add thyme, rosemary, and bay leaves",
+        "sk": "Prilejte hovädzí vývar, pridajte kocky paradajok a paradajkový pretlak. Pridajte tymian, rozmarín a bobkové listy",
+        "ja": "ビーフブロス、ダイストマト、トマトペーストを注ぎ入れる。タイム、ローズマリー、ローリエを加える",
+        "primaryIngredient": "beef broth"
+      },
+      {
+        "time": 2,
+        "en": "Stir all ingredients to combine",
+        "sk": "Premiešajte všetky prísady",
+        "ja": "全ての材料をよく混ぜ合わせる",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 480,
+        "en": "Cover and cook on low heat for 8 hours or on high heat for 4-5 hours",
+        "sk": "Zakryte a varte na nízkom stupni 8 hodín alebo na vysokom stupni 4-5 hodín",
+        "ja": "蓋をして弱火で8時間、または強火で4-5時間煮込む",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 1,
+        "en": "Remove bay leaves before serving",
+        "sk": "Pred podávaním vyberte bobkové listy",
+        "ja": "提供前にローリエを取り除く",
+        "primaryIngredient": "bay leaves"
+      }
+    ],
+    "favorite": true,
+    "recipeType": "slowcooker"
+  }

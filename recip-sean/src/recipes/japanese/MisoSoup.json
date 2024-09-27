@@ -1,0 +1,59 @@
+{
+    "id": "japanese_miso_soup_001",
+    "name": "Miso Soup",
+    "ingredients": [
+      "4 cups water",
+      "2 teaspoons dashi granules",
+      "3 tablespoons miso paste",
+      "1 block silken tofu, cubed",
+      "1 green onion, thinly sliced",
+      "1 sheet nori, cut into small strips"
+    ],
+    "utensils": [
+      "Medium pot",
+      "Whisk",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a medium pot, bring water to a boil and add dashi granules",
+        "sk": "V stredne veľkom hrnci priveďte vodu do varu a pridajte granule dashi",
+        "ja": "中サイズの鍋に水を入れて沸騰させ、だしの素を加える",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 2,
+        "en": "Reduce heat to low and add cubed tofu",
+        "sk": "Znížte teplotu na nízku a pridajte nakrájanú tofu",
+        "ja": "弱火にし、さいの目に切った豆腐を加える",
+        "primaryIngredient": "tofu"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, whisk miso paste with a little hot dashi broth until smooth",
+        "sk": "V malej miske rozšľahajte miso pastu s trochou horúceho vývaru dashi, až kým nebude hladká",
+        "ja": "小さなボウルに味噌を入れ、少量の熱いだし汁を加えてなめらかになるまで混ぜる",
+        "primaryIngredient": "miso paste"
+      },
+      {
+        "time": 1,
+        "en": "Add miso mixture to the pot and stir gently",
+        "sk": "Pridajte miso zmes do hrnca a jemne premiešajte",
+        "ja": "鍋に味噌を溶いただし汁を加え、優しくかき混ぜる",
+        "primaryIngredient": "miso paste"
+      },
+      {
+        "time": 1,
+        "en": "Serve in bowls and garnish with sliced green onions and nori strips",
+        "sk": "Podávajte v miskách a ozdobte nakrájanou jarnou cibuľkou a prúžkami nori",
+        "ja": "器に注ぎ、刻んだネギと刻みのりを上にのせる",
+        "primaryIngredient": "green onion"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "japanese"
+  }

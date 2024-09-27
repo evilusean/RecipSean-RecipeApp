@@ -1,0 +1,62 @@
+{
+    "id": "italian_carbonara_001",
+    "name": "Pasta Carbonara",
+    "ingredients": [
+      "400g spaghetti",
+      "200g pancetta or guanciale, diced",
+      "4 large eggs",
+      "100g Pecorino Romano cheese, grated",
+      "100g Parmigiano-Reggiano cheese, grated",
+      "2 cloves garlic, minced",
+      "Salt and black pepper to taste",
+      "2 tbsp olive oil"
+    ],
+    "utensils": [
+      "Large pot",
+      "Frying pan",
+      "Mixing bowl",
+      "Cheese grater",
+      "Tongs"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Bring a large pot of salted water to boil and cook spaghetti according to package instructions",
+        "sk": "Priveďte veľký hrniec slanej vody do varu a uvarte špagety podľa pokynov na obale",
+        "ja": "大きな鍋に塩水を沸かし、パッケージの指示に従ってスパゲッティを茹でる",
+        "primaryIngredient": "spaghetti"
+      },
+      {
+        "time": 8,
+        "en": "In a frying pan, cook pancetta with olive oil until crispy",
+        "sk": "Na panvici opečte pancettu na olivovom oleji do chrumkava",
+        "ja": "フライパンでパンチェッタをオリーブオイルでカリカリに炒める",
+        "primaryIngredient": "pancetta"
+      },
+      {
+        "time": 5,
+        "en": "In a mixing bowl, whisk together eggs, grated cheeses, salt, and pepper",
+        "sk": "V miske vyšľahajte vajcia, nastrúhané syry, soľ a čierne korenie",
+        "ja": "ボウルに卵、すりおろしたチーズ、塩、こしょうを入れて混ぜる",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "Drain pasta, reserving 1/2 cup of pasta water. Add pasta to the pan with pancetta",
+        "sk": "Sceďte cestoviny, pričom si odložte 1/2 šálky vody z cestovín. Pridajte cestoviny do panvice s pancettou",
+        "ja": "パスタの茹で汁1/2カップを取り分けてから湯切りし、パンチェッタの入ったフライパンに加える",
+        "primaryIngredient": "spaghetti"
+      },
+      {
+        "time": 2,
+        "en": "Remove pan from heat, add egg mixture, tossing quickly to coat pasta without scrambling eggs",
+        "sk": "Odstavte panvicu z ohňa, pridajte vaječnú zmes a rýchlo premiešajte, aby sa cestoviny obalili bez toho, aby sa vajcia zrazili",
+        "ja": "フライパンを火から外し、卵液を加えて素早く絡める（卵が固まらないように注意）",
+        "primaryIngredient": "eggs"
+      }
+    ],
+    "favorite": true,
+    "recipeType": "italian"
+  }
