@@ -1,0 +1,81 @@
+{
+    "id": "simple_tuna_rice_001",
+    "name": "Tuna and Rice",
+    "ingredients": [
+      "2 cups white rice",
+      "1 cans of tuna in water, drained",
+      "1/2 can of chickpeas, drained and rinsed",
+      "Soy sauce to taste(optional)",
+      "Hot sauce (optional)",
+      "4 cups water"
+    ],
+    "utensils": [
+      "Rice cooker",
+      "Can opener",
+      "Mixing spoon",
+      "Measuring cup",
+      "Colander"
+    ],
+    "cookingTime": 25,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Rinse the rice in a colander until the water runs clear",
+        "sk": "Prepláchnite ryžu v cedníku, kým voda nebude čistá",
+        "ja": "米をざるで水がきれいになるまですすぐ",
+        "primaryIngredient": "rice"
+      },
+      {
+        "time": 1,
+        "en": "Add the rinsed rice and 4 cups of water to the rice cooker",
+        "sk": "Pridajte prepláchnutú ryžu a 4 šálky vody do ryžovaru",
+        "ja": "すすいだ米と4カップの水を炊飯器に入れる",
+        "primaryIngredient": "rice"
+      },
+      {
+        "time": 20,
+        "en": "Cook the rice in the rice cooker according to the manufacturer's instructions",
+        "sk": "Uvarte ryžu v ryžovari podľa pokynov výrobcu",
+        "ja": "炊飯器の説明書に従って米を炊く",
+        "primaryIngredient": "rice"
+      },
+      {
+        "time": 2,
+        "en": "While the rice is cooking, drain the tuna and chickpeas",
+        "sk": "Kým sa ryža varí, sceďte tuniak a cícer",
+        "ja": "米が炊けている間に、ツナとひよこ豆の水気を切る",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 3,
+        "en": "Once the rice is cooked, fluff it with a fork and add the drained tuna and chickpeas",
+        "sk": "Keď je ryža uvarená, nakyprite ju vidličkou a pridajte scedený tuniak a cícer",
+        "ja": "米が炊けたら、フォークでほぐし、水気を切ったツナとひよこ豆を加える",
+        "primaryIngredient": "rice"
+      },
+      {
+        "time": 2,
+        "en": "Gently mix the tuna and chickpeas with the rice",
+        "sk": "Jemne premiešajte tuniak a cícer s ryžou",
+        "ja": "ツナとひよこ豆を米と優しく混ぜ合わせる",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 1,
+        "en": "Serve in bowls and add soy sauce and hot sauce (if available) to taste",
+        "sk": "Podávajte v miskách a pridajte sójovú omáčku a pálivú omáčku (ak používate) podľa chuti",
+        "ja": "器に盛り、好みで醤油と辛いソースをかける",
+        "primaryIngredient": "soy sauce"
+      },
+      {
+        "time": 1,
+        "en": "Consume daily for 6+ months at a time, live in canada, with no(very little) chance of escape, and try to be thankful and optimistic for the future",
+        "sk": "Konzumujte denne po dobu 6 a viac mesiacov, žite v Kanade a snažte sa byť optimistickí a vďační",
+        "ja": "6ヶ月以上毎日摂取し、カナダに住み、楽観的で感謝の気持ちを持つよう心がける",
+        "primaryIngredient": "negasean"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "simple"
+  }
