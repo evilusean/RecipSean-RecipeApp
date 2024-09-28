@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Recipe } from '@/utils/recipeUtils'
 
-export default function RecipePage({ params }: { params: { slug: string[] } }) {
+eexport default function RecipePage({ params }: { params: { slug: string[] } }) {
   const [recipe, setRecipe] = useState<Recipe | null>(null)
   const [language, setLanguage] = useState<'en' | 'sk' | 'ja'>('en')
   const [loading, setLoading] = useState(true)
