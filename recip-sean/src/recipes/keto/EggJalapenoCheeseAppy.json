@@ -1,0 +1,72 @@
+{
+    "id": "egg_jalapeno_cheese_appetizer_001",
+    "name": "Egg    Jalapeño Cheese Appetizer",
+    "ingredients": [
+      "4 eggs",
+      "7 ounce can sliced pickled jalapeños, drained and chopped (about 3/4 cup)",
+      "8 ounces cheddar or colby cheese, shredded"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Whisk",
+      "9x9 inch baking pan (nonstick recommended)",
+      "Oven",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Whisk the eggs well in a mixing bowl",
+        "sk": "V miske dobre rozšľahajte vajcia",
+        "ja": "ボウルで卵をよく泡立てる",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 3,
+        "en": "Drain and chop the pickled jalapeños",
+        "sk": "Sceďte a nasekajte nakladané jalapeños",
+        "ja": "ピクルスのハラペーニョの水気を切り、刻む",
+        "primaryIngredient": "jalapeños"
+      },
+      {
+        "time": 2,
+        "en": "Stir the chopped jalapeños and shredded cheese into the whisked eggs",
+        "sk": "Vmiešajte nasekané jalapeños a nastrúhaný syr do rozšľahaných vajec",
+        "ja": "刻んだハラペーニョとシュレッドチーズを泡立てた卵に混ぜ込む",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Pour the mixture into a greased 9x9 inch baking pan",
+        "sk": "Nalejte zmes do vymastenej 23x23 cm formy na pečenie",
+        "ja": "混ぜたものを油を塗った23cm四方の焼き皿に注ぐ",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F (175°C) for 15-20 minutes until firm but still slightly soft",
+        "sk": "Pečte pri teplote 175°C 15-20 minút, kým nebude pevné, ale stále mierne mäkké",
+        "ja": "350°F（175°C）のオーブンで15〜20分、固まるがまだ少し柔らかい状態になるまで焼く",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 10,
+        "en": "Cool for 10 minutes before cutting into 1-inch squares",
+        "sk": "Pred nakrájaním na 2,5 cm štvorce nechajte 10 minút vychladnúť",
+        "ja": "10分間冷ましてから2.5cm四方に切り分ける",
+        "primaryIngredient": "baked egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Cut into 36 squares (6 across and 6 down)",
+        "sk": "Nakrájajte na 36 štvorcov (6 krát 6)",
+        "ja": "36個の正方形に切る（6×6）",
+        "primaryIngredient": "baked egg mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

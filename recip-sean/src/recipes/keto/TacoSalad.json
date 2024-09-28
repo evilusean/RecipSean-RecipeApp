@@ -1,0 +1,51 @@
+{
+    "id": "main_dish_taco_salad_001",
+    "name": "Taco Salad",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 1/2 tablespoons Taco Seasoning",
+      "1-2 tablespoons Taco Bell taco sauce (optional)",
+      "12 ounces iceberg lettuce, chopped",
+      "1 small tomato, diced (3 ounces)",
+      "3 ounces cheddar cheese, shredded",
+      "6 tablespoons sour cream",
+      "6 tablespoons salsa",
+      "3/4 cup guacamole"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Strainer",
+      "Mixing spoon",
+      "Measuring spoons",
+      "Cutting board",
+      "Knife",
+      "6 large plates for serving"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Brown the ground beef in a large skillet; drain off the fat",
+        "sk": "Opečte mleté mäso na veľkej panvici; zlejte tuk",
+        "ja": "大きなフライパンでひき肉を炒めて、脂を切る",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 3,
+        "en": "Stir in the Taco Seasoning, optional Taco Bell taco sauce, and a little water if desired",
+        "sk": "Vmiešajte Taco korenie, voliteľnú Taco Bell taco omáčku a trochu vody, ak chcete",
+        "ja": "タコシーズニング、タコベルタコソース（任意）、必要に応じて少量の水を加えて混ぜる",
+        "primaryIngredient": "Taco Seasoning"
+      },
+      {
+        "time": 10,
+        "en": "Divide all ingredients among 6 large plates: seasoned beef, chopped lettuce, diced tomato, shredded cheese, sour cream, salsa, and guacamole",
+        "sk": "Rozdeľte všetky ingrediencie medzi 6 veľkých tanierov: ochutené mäso, nakrájaný šalát, nakrájané paradajky, strúhaný syr, kyslú smotanu, salsu a guacamole",
+        "ja": "6枚の大皿に全ての材料を分ける：味付けしたひき肉、刻んだレタス、さいの目に切ったトマト、シュレッドチーズ、サワークリーム、サルサ、ワカモレ",
+        "primaryIngredient": "ground beef"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

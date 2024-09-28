@@ -1,0 +1,63 @@
+{
+    "id": "microwave_cheese_crisps_001",
+    "name": "Cheese Crisps (Microwave Method)",
+    "ingredients": [
+      "8 ounce bag shredded cheese, any flavor"
+    ],
+    "utensils": [
+      "Microwave",
+      "Microwaveable dinner plate",
+      "Parchment paper",
+      "Tongs",
+      "Paper towels",
+      "Airtight container for storage"
+    ],
+    "cookingTime": 1,
+    "prepTime": 2,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Place a square of parchment paper on a microwaveable dinner plate",
+        "sk": "Položte štvorec papiera na pečenie na tanier vhodný do mikrovlnnej rúry",
+        "ja": "電子レンジ対応の皿にパーチメント紙を四角く置く",
+        "primaryIngredient": "parchment paper"
+      },
+      {
+        "time": 1,
+        "en": "Place a generous tablespoon of shredded cheese in the center of the plate",
+        "sk": "Položte štedru lyžicu nastrúhaného syra do stredu taniera",
+        "ja": "皿の中央に大さじ1杯強のシュレッドチーズを置く",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Gently spread the cheese into a circle about 3.5-4 inches in diameter, not too thick in the middle",
+        "sk": "Jemne roztiahnite syr do kruhu s priemerom asi 9-10 cm, nie príliš hrubého v strede",
+        "ja": "チーズを直径9〜10cmの円形に優しく広げ、中央が厚くなりすぎないようにする",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Microwave on HIGH for 30-40 seconds or until toasty in color and crisp when tapped",
+        "sk": "Mikrovlnujte na VYSOKOM výkone 30-40 sekúnd alebo kým nezhnedne a nebude chrumkavý pri poklepaní",
+        "ja": "電子レンジの強で30〜40秒、または色がこんがりして触るとパリッとするまで加熱する",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Lift the cheese crisp off the paper with tongs and set on paper towel to cool",
+        "sk": "Zdvihnite syrový crisp z papiera kliešťami a položte na papierovú utierku na vychladnutie",
+        "ja": "トングを使ってチーズクリスプを紙から持ち上げ、ペーパータオルの上に置いて冷ます",
+        "primaryIngredient": "cheese crisp"
+      },
+      {
+        "time": 1,
+        "en": "Repeat the process with remaining cheese, reusing the same parchment paper",
+        "sk": "Opakujte proces so zvyšným syrom, pričom použite rovnaký papier na pečenie",
+        "ja": "残りのチーズで同じ工程を繰り返し、同じパーチメント紙を再利用する",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

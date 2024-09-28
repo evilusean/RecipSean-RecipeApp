@@ -1,0 +1,90 @@
+{
+    "id": "snack_low_carb_cheese_snacks_001",
+    "name": "Low Carb Egg N Cheese Snacks",
+    "ingredients": [
+      "3 egg whites",
+      "1/8 teaspoon cream of tartar",
+      "2 ounces cheddar cheese, shredded then frozen several hours",
+      "Popcorn cheese seasoning"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "Electric mixer or whisk",
+      "Food processor",
+      "Large zip-top bag",
+      "Scissors",
+      "Baking sheet",
+      "Parchment paper or Silpat",
+      "Oven",
+      "Airtight container for storage"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Beat egg whites and cream of tartar until stiff peaks form",
+        "sk": "Vyšľahajte bielka a vínny kameň do tuhých špičiek",
+        "ja": "卵白とクリームオブタルタルを固いピークができるまで泡立てる",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 2,
+        "en": "Process frozen shredded cheese in a food processor until very fine",
+        "sk": "Spracujte zmrazený nastrúhaný syr v kuchynskom robote, až kým nebude veľmi jemný",
+        "ja": "冷凍したシュレッドチーズをフードプロセッサーで細かくなるまで処理する",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "Gently fold grated cheese into egg whites, being careful not to deflate them",
+        "sk": "Jemne vmiešajte nastrúhaný syr do bielkov, dávajte pozor, aby ste ich nesplaskli",
+        "ja": "おろしたチーズを卵白に優しく折り込む。卵白をつぶさないように注意する",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Spoon mixture into a large zip-top bag and cut a 1/2-inch hole in one corner",
+        "sk": "Nalejte zmes do veľkého zipového vrecka a vystrihnite 1,3 cm otvor v jednom rohu",
+        "ja": "混ぜたものを大きなジップロック袋に入れ、片方の角に1.3cmの穴を開ける",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 5,
+        "en": "Pipe mixture onto parchment or Silpat lined baking sheet in cheese curl shapes",
+        "sk": "Vytlačte zmes na plech vyložený papierom na pečenie alebo podložkou Silpat v tvare syrových kučier",
+        "ja": "パーチメント紙またはシルパット敷いたベーキングシートにチーズカール状に絞り出す",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 1,
+        "en": "Lightly sprinkle with popcorn cheese seasoning",
+        "sk": "Jemne posypte korením na syrový popcorn",
+        "ja": "ポップコーンチーズシーズニングを軽くふりかける",
+        "primaryIngredient": "popcorn cheese seasoning"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 300°F (150°C) for 20 minutes",
+        "sk": "Pečte pri teplote 150°C 20 minút",
+        "ja": "300°F（150°C）で20分焼く",
+        "primaryIngredient": "cheese snacks"
+      },
+      {
+        "time": 20,
+        "en": "Turn off oven and leave pan in for another 10-20 minutes until firm and crisp",
+        "sk": "Vypnite rúru a nechajte plech vnútri ďalších 10-20 minút, kým nebudú pevné a chrumkavé",
+        "ja": "オーブンの電源を切り、さらに10〜20分、固くてパリッとするまで中に置いておく",
+        "primaryIngredient": "cheese snacks"
+      },
+      {
+        "time": 2,
+        "en": "Remove from pan and cool before storing in an airtight container",
+        "sk": "Vyberte z plechu a pred uložením do vzduchotesnej nádoby nechajte vychladnúť",
+        "ja": "パンから取り出し、冷ましてから密閉容器に保存する",
+        "primaryIngredient": "cheese snacks"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

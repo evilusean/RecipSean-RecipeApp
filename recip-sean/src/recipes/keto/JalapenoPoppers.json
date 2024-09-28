@@ -1,0 +1,57 @@
+{
+    "id": "appetizer_jalapeno_poppers_001",
+    "name": "Jalapeño Poppers",
+    "ingredients": [
+      "8 fresh jalapeños",
+      "4 ounces cream cheese, softened",
+      "8 slices thin bacon"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Baking sheet",
+      "Aluminum foil",
+      "Oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the jalapeños in half lengthwise and scrape out seeds and membranes",
+        "sk": "Rozrežte jalapeños pozdĺžne na polovicu a vyškrabte semienka a blany",
+        "ja": "ハラペーニョを縦半分に切り、種と薄皮を取り除く",
+        "primaryIngredient": "jalapeños"
+      },
+      {
+        "time": 5,
+        "en": "Fill each jalapeño half with cream cheese, but do not mound it",
+        "sk": "Naplňte každú polovicu jalapeña krémovým syrom, ale neprehŕňajte",
+        "ja": "各ハラペーニョの半分にクリームチーズを詰める（山盛りにしないこと）",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Cut bacon slices in half crosswise and wrap each jalapeño half with half a slice of bacon",
+        "sk": "Rozrežte plátky slaniny na polovicu a obaľte každú polovicu jalapeña polovicou plátku slaniny",
+        "ja": "ベーコンを半分に切り、各ハラペーニョの半分を半分のベーコンで巻く",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "Place wrapped jalapeños cream cheese side up on a foil-lined baking sheet",
+        "sk": "Položte obalené jalapeños stranou s krémovým syrom nahor na plech vyložený alobalom",
+        "ja": "アルミホイルを敷いたベーキングシートにクリームチーズ側を上にして並べる",
+        "primaryIngredient": "jalapeños"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 375°F (190°C) for 20-25 minutes. If bacon isn't quite done, broil for a few more minutes to brown",
+        "sk": "Pečte pri teplote 190°C 20-25 minút. Ak slanina nie je úplne hotová, grilujte ešte niekoľko minút do zhnednutia",
+        "ja": "375°F（190°C）で20-25分焼く。ベーコンが十分に焼けていない場合は、さらに数分間こんがりするまでグリルする",
+        "primaryIngredient": "jalapeños"
+      }
+    ],
+    "favorite": true,
+    "recipeType": "keto"
+  }

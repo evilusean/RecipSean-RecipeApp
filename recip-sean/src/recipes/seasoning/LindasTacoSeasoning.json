@@ -1,0 +1,40 @@
+{
+    "id": "seasoning_taco_seasoning_001",
+    "name": "Lindas Taco Seasoning",
+    "ingredients": [
+      "1 teaspoon chili powder",
+      "3/4 teaspoon paprika",
+      "1 teaspoon cumin",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon ground coriander",
+      "1/8 teaspoon cayenne",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon xanthan gum",
+      "1/8 teaspoon MSG (optional)"
+    ],
+    "utensils": [
+      "Small mixing bowl",
+      "Measuring spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Combine all ingredients in a small bowl and mix well",
+        "sk": "Zmiešajte všetky ingrediencie v malej miske a dobre premiešajte",
+        "ja": "小さなボウルに全ての材料を入れてよく混ぜる",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 10,
+        "en": "To use: Brown 1 pound ground beef and drain. Add seasoning mixture with 1/2 cup water and 1-2 tablespoons Taco Bell Restaurant Hot Sauce (optional). Simmer for 5-10 minutes",
+        "sk": "Použitie: Opečte 500 g mletého hovädzieho mäsa a sceďte. Pridajte zmes korenia s 120 ml vody a 1-2 lyžicami Taco Bell Restaurant Hot Sauce (voliteľné). Varte na miernom ohni 5-10 minút",
+        "ja": "使用方法：牛ひき肉450gを炒めて油を切る。調味料ミックスと水120ml、タコベルレストランホットソース大さじ1〜2（任意）を加え、5〜10分煮込む",
+        "primaryIngredient": "ground beef"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "seasoning"
+  }

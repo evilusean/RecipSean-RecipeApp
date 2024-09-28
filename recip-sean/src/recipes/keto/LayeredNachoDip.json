@@ -1,0 +1,58 @@
+{
+    "id": "main_dish_taco_salad_001",
+    "name": "Taco Salad with Homemade Seasoning and Cheese Dip",
+    "ingredients": [
+      "1 pound ground beef",
+      "12 ounces iceberg lettuce, chopped",
+      "1 small tomato, diced, 3 ounces",
+      "3 ounces cheddar cheese, shredded",
+      "6 tablespoons sour cream",
+      "6 tablespoons salsa",
+      "3/4 cup guacamole",
+      "1-2 tablespoons Taco Bell taco sauce (optional)",
+      "Taco Seasoning ingredients (see instructions)",
+      "Cheese Dip ingredients (see instructions)"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Mixing bowls",
+      "Measuring spoons and cups",
+      "Microwave-safe bowl",
+      "Microwave",
+      "6 large plates for serving"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Make Taco Seasoning: Combine 1 tsp chili powder, 3/4 tsp paprika, 1 tsp cumin, 1/2 tsp onion powder, 1/2 tsp garlic powder, 1/4 tsp ground coriander, 1/8 tsp cayenne, 1/2 tsp salt, 1/4 tsp xanthan gum, and 1/8 tsp MSG (optional)",
+        "sk": "Pripravte Taco korenie: Zmiešajte 1 ČL mletej papriky, 3/4 ČL papriky, 1 ČL rasce, 1/2 ČL cibuľového prášku, 1/2 ČL cesnakového prášku, 1/4 ČL mletého koriandra, 1/8 ČL kajenského korenia, 1/2 ČL soli, 1/4 ČL xantánovej gumy a 1/8 ČL MSG (voliteľné)",
+        "ja": "タコシーズニングを作る：チリパウダー小さじ1、パプリカ小さじ3/4、クミン小さじ1、オニオンパウダー小さじ1/2、ガーリックパウダー小さじ1/2、コリアンダーパウダー小さじ1/4、カイエンペッパー小さじ1/8、塩小さじ1/2、キサンタンガム小さじ1/4、MSG小さじ1/8（任意）を混ぜる",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef in a large skillet; drain fat. Add 1 1/2 tbsp of the Taco Seasoning, optional Taco Bell sauce, and a little water if desired. Simmer for 5-10 minutes",
+        "sk": "Opečte mleté mäso na veľkej panvici; zlejte tuk. Pridajte 1 1/2 PL Taco korenia, voliteľnú Taco Bell omáčku a trochu vody, ak chcete. Varte na miernom ohni 5-10 minút",
+        "ja": "大きなフライパンでひき肉を炒めて脂を切る。タコシーズニング大さじ1 1/2、タコベルソース（任意）、必要に応じて少量の水を加える。5〜10分煮込む",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Make Quick Nacho Cheese Dip: In a microwave-safe bowl, combine 2 slices of torn Deluxe American cheese with 2 tbsp chunky salsa. Microwave on 40-50% power for 1 minute, stir, then microwave for another 30 seconds or until smooth",
+        "sk": "Pripravte rýchly syrový dip Nacho: V miske vhodnej do mikrovlnky zmiešajte 2 plátky potrhaného Deluxe amerického syra s 2 PL hustej salsy. Mikrovlnujte na 40-50% výkone 1 minútu, premiešajte, potom mikrovlnujte ďalších 30 sekúnd alebo kým nebude hladký",
+        "ja": "クイックナチョチーズディップを作る：電子レンジ対応のボウルで、千切りにしたデラックスアメリカンチーズ2枚とチャンキーサルサ大さじ2を混ぜる。40〜50％の出力で1分加熱し、かき混ぜてからさらに30秒、または滑らかになるまで加熱する",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 10,
+        "en": "Assemble Taco Salad: Divide chopped lettuce, diced tomato, shredded cheese, sour cream, salsa, and guacamole among 6 large plates. Top each with a portion of the seasoned ground beef",
+        "sk": "Zostavte Taco šalát: Rozdeľte nakrájaný šalát, nakrájané paradajky, strúhaný syr, kyslú smotanu, salsu a guacamole medzi 6 veľkých tanierov. Na každý dajte porciu ochuteného mletého mäsa",
+        "ja": "タコサラダを組み立てる：刻んだレタス、さいの目に切ったトマト、シュレッドチーズ、サワークリーム、サルサ、ワカモレを6枚の大皿に分ける。各皿に味付けしたひき肉をのせる",
+        "primaryIngredient": "lettuce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

@@ -1,0 +1,73 @@
+{
+    "id": "topping_yogurt_coconutty_crunch_001",
+    "name": "Yogurt Topping: Coconutty Crunch with Vanilla Maple Nut",
+    "ingredients": [
+      "4 ounces chopped pecans",
+      "4 ounces sliced almonds",
+      "2 1/2 ounces unsweetened coconut (about 3/4 cup)",
+      "2 ounces unsalted sunflower kernels (about 1/2 cup)",
+      "Pinch salt",
+      "1 teaspoon cinnamon",
+      "3 tablespoons coconut oil",
+      "1/3 cup granular Splenda or equivalent liquid Splenda",
+      "1/2 teaspoon vanilla",
+      "1-2 teaspoons maple extract (for variation)"
+    ],
+    "utensils": [
+      "Medium-large bowl",
+      "Small bowl",
+      "Large jelly roll pan",
+      "Oven",
+      "Microwave",
+      "Measuring cups and spoons",
+      "Airtight container for storage"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "In a medium-large bowl, combine nuts, coconut, and sunflower kernels. Add a pinch of salt and cinnamon, then toss together",
+        "sk": "Vo väčšej miske zmiešajte orechy, kokos a slnečnicové semienka. Pridajte štipku soli a škorice, potom všetko premiešajte",
+        "ja": "中〜大きめのボウルにナッツ、ココナッツ、ヒマワリの種を入れる。塩少々とシナモンを加え、全体を混ぜる",
+        "primaryIngredient": "nuts"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, mix warmed coconut oil, sweetener, and vanilla",
+        "sk": "V malej miske zmiešajte zohriaty kokosový olej, sladidlo a vanilku",
+        "ja": "小さなボウルで温めたココナッツオイル、甘味料、バニラを混ぜる",
+        "primaryIngredient": "coconut oil"
+      },
+      {
+        "time": 2,
+        "en": "Pour oil mixture over nuts and toss to coat evenly",
+        "sk": "Nalejte olejovú zmes na orechy a premiešajte, aby sa rovnomerne obalili",
+        "ja": "ナッツにオイルの混合物を注ぎ、均一にコーティングされるよう混ぜる",
+        "primaryIngredient": "nuts"
+      },
+      {
+        "time": 2,
+        "en": "Spread mixture on a large jelly roll pan",
+        "sk": "Rozložte zmes na veľký plech na pečenie",
+        "ja": "大きなジェリーロール型に混合物を広げる",
+        "primaryIngredient": "nut mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 300°F (150°C) for 15-20 minutes, stirring every 5 minutes, until lightly toasted. Watch closely to prevent burning",
+        "sk": "Pečte pri teplote 150°C 15-20 minút, každých 5 minút premiešajte, kým nezhnedne. Pozorne sledujte, aby sa nespálilo",
+        "ja": "300°F（150°C）のオーブンで15〜20分焼く。5分ごとにかき混ぜ、軽く焦げ目がつくまで焼く。焦げないよう注意深く見守る",
+        "primaryIngredient": "nut mixture"
+      },
+      {
+        "time": 30,
+        "en": "Cool completely before storing in an airtight container in the refrigerator",
+        "sk": "Pred uložením do vzduchotesnej nádoby v chladničke nechajte úplne vychladnúť",
+        "ja": "完全に冷ましてから密閉容器に入れ、冷蔵庫で保存する",
+        "primaryIngredient": "nut mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

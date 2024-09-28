@@ -1,0 +1,71 @@
+{
+    "id": "snack_deviled_eggs_001",
+    "name": "Snack Deviled Eggs",
+    "ingredients": [
+      "Hard boiled eggs",
+      "Mustard (yellow, Dijon or spicy brown, etc.)",
+      "Mayonnaise",
+      "Dill or sugar free sweet pickle relish",
+      "Chives, minced",
+      "Salt",
+      "Pepper",
+      "Paprika",
+      "Spicy Seasoning Salt (optional)"
+    ],
+    "utensils": [
+      "Bowl",
+      "Whisk or fork",
+      "Knife",
+      "Cutting board",
+      "Spoon or piping bag",
+      "Plate for serving"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Peel the hard boiled eggs and slice them in half lengthwise",
+        "sk": "Olúpte vajcia natvrdo a pozdĺžne ich prekrojte na polovicu",
+        "ja": "ゆで卵の殻をむき、縦半分に切る",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Remove the yolks and place them in a bowl",
+        "sk": "Vyberte žĺtky a vložte ich do misky",
+        "ja": "黄身を取り出してボウルに入れる",
+        "primaryIngredient": "egg yolks"
+      },
+      {
+        "time": 5,
+        "en": "Combine yolks with mustard, mayonnaise, pickle relish, and seasonings to taste",
+        "sk": "Zmiešajte žĺtky s horčicou, majonézou, nakladanou zeleninou a korením podľa chuti",
+        "ja": "黄身にマスタード、マヨネーズ、ピクルス、調味料を好みで加えて混ぜる",
+        "primaryIngredient": "egg yolks"
+      },
+      {
+        "time": 2,
+        "en": "Beat or whisk the yolk mixture until smooth and creamy",
+        "sk": "Vyšľahajte alebo vymiešajte zmes žĺtkov, až kým nebude hladká a krémová",
+        "ja": "黄身の混ぜ物を滑らかでクリーミーになるまで泡立てるか混ぜる",
+        "primaryIngredient": "egg yolk mixture"
+      },
+      {
+        "time": 3,
+        "en": "Spoon or pipe the yolk mixture into the egg white halves",
+        "sk": "Naložte alebo vtlačte zmes žĺtkov do polovíc bielkov",
+        "ja": "スプーンまたは絞り袋を使って、卵白の半分に黄身の混ぜ物を詰める",
+        "primaryIngredient": "egg yolk mixture"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with paprika, Spicy Seasoning Salt and/or minced chives for garnish",
+        "sk": "Posypte paprikou, pikantnou koreninovou soľou a/alebo nasekanými pažítkami na ozdobu",
+        "ja": "パプリカ、スパイシーシーズニングソルト、刻んだチャイブをガーニッシュとして振りかける",
+        "primaryIngredient": "paprika"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

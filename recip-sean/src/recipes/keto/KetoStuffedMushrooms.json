@@ -1,0 +1,69 @@
+{
+    "id": "appetizer_keto_stuffed_mushrooms_001",
+    "name": "Cheese Pork Stuffed Mushrooms",
+    "ingredients": [
+      "2 pounds fresh mushrooms",
+      "8 ounces cream cheese, softened",
+      "1 pound pork sausage",
+      "8 ounces cheddar cheese, shredded",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Frying pan",
+      "Mixing bowl",
+      "Baking pan",
+      "Aluminum foil (optional)",
+      "Small cookie scoop (optional)",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Remove stems from mushrooms by gently twisting them off. Chop stems finely",
+        "sk": "Odstráňte stonky z húb jemným odkrútením. Stonky najemno nasekajte",
+        "ja": "マッシュルームの軸を優しくねじって取り除く。軸を細かく刻む",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 10,
+        "en": "Brown chopped mushroom stems and pork sausage in a pan. Drain excess fat if necessary. Chop meat finely but not to a mushy consistency",
+        "sk": "Opečte nasekané stonky húb a bravčovú klobásu na panvici. V prípade potreby zlejte prebytočný tuk. Mäso nasekajte najemno, ale nie na kašu",
+        "ja": "刻んだマッシュルームの軸とポークソーセージを鍋で炒める。必要に応じて余分な脂を切る。肉を細かく刻むが、ドロドロにならないように注意する",
+        "primaryIngredient": "pork sausage"
+      },
+      {
+        "time": 5,
+        "en": "Mix browned sausage with cream cheese, shredded cheddar, salt, and pepper",
+        "sk": "Zmiešajte opečenú klobásu s krémovým syrom, strúhaným čedarom, soľou a korením",
+        "ja": "炒めたソーセージにクリームチーズ、シュレッドチェダーチーズ、塩、こしょうを加えて混ぜる",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 10,
+        "en": "Fill mushroom caps with sausage mixture using a small cookie scoop or fingers. Pack as much filling as possible into each mushroom",
+        "sk": "Naplňte klobúčiky húb zmesou klobásy pomocou malej lyžičky na cukrovinky alebo prstov. Natlačte do každej huby čo najviac plnky",
+        "ja": "小さなクッキースクープまたは指を使って、マッシュルームの傘にソーセージミックスを詰める。各マッシュルームにできるだけたくさん詰める",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Arrange stuffed mushrooms in a greased or foil-lined baking pan",
+        "sk": "Rozložte plnené huby na vymastený alebo alobalom vyložený plech na pečenie",
+        "ja": "詰めたマッシュルームを油を塗った、またはアルミホイルを敷いたベーキング皿に並べる",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 30,
+        "en": "Bake uncovered at 350°F (175°C) for 20-30 minutes until hot and bubbly",
+        "sk": "Pečte nezakryté pri teplote 175°C 20-30 minút, kým nebudú horúce a bublajúce",
+        "ja": "350°F（175°C）のオーブンで20〜30分、熱々になり泡立つまで蓋をせずに焼く",
+        "primaryIngredient": "mushrooms"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

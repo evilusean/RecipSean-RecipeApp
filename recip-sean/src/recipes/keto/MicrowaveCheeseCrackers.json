@@ -1,0 +1,70 @@
+{
+    "id": "microwave_crispy_cheese_crackers_001",
+    "name": "Microwave Crispy Cheese Crackers",
+    "ingredients": [
+      "Deluxe American cheese slices (not cheese food or cheese product)"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Parchment paper",
+      "Microwave",
+      "Microwave-safe tray",
+      "Airtight container for storage"
+    ],
+    "cookingTime": 2,
+    "prepTime": 3,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Cut one square of cheese into 16 tiny squares",
+        "sk": "Nakrájajte jeden štvorec syra na 16 malých štvorčekov",
+        "ja": "チーズ1枚を16個の小さな正方形に切る",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Arrange cheese squares on parchment paper in a ring around the edges, not too close together",
+        "sk": "Rozložte syrové štvorčeky na papier na pečenie do kruhu okolo okrajov, nie príliš blízko seba",
+        "ja": "パーチメント紙の端に沿って輪状にチーズを並べる。互いに近すぎないように注意する",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Place the parchment paper on the microwave tray",
+        "sk": "Položte papier na pečenie na tanier do mikrovlnnej rúry",
+        "ja": "電子レンジのトレイにパーチメント紙を置く",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Microwave on HIGH for about 65 seconds, or until crackers are well-browned but not burnt",
+        "sk": "Mikrovlnujte na VYSOKOM výkone asi 65 sekúnd, alebo kým krekry nezhnednú, ale nespália sa",
+        "ja": "電子レンジの強で約65秒、またはクラッカーが十分に茶色くなるまで加熱する（焦がさないように注意）",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Let crackers cool slightly before removing from parchment paper",
+        "sk": "Nechajte krekry mierne vychladnúť pred odstránením z papiera na pečenie",
+        "ja": "パーチメント紙から取り除く前に、クラッカーを少し冷ます",
+        "primaryIngredient": "cheese crackers"
+      },
+      {
+        "time": 1,
+        "en": "Peel crackers off the paper and store in an airtight container",
+        "sk": "Odlúpnite krekry z papiera a uložte do vzduchotesnej nádoby",
+        "ja": "クラッカーを紙からはがし、密閉容器に保存する",
+        "primaryIngredient": "cheese crackers"
+      },
+      {
+        "time": 1,
+        "en": "Repeat the process with remaining cheese slices",
+        "sk": "Opakujte proces so zvyšnými plátkami syra",
+        "ja": "残りのチーズスライスで同じ工程を繰り返す",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

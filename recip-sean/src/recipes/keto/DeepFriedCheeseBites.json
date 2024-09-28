@@ -1,0 +1,72 @@
+{
+    "id": "appetizer_deep_fried_cheese_bites_001",
+    "name": "Deep-Fried Cheese Bites",
+    "ingredients": [
+      "12 ounce package Wisconsin Farms Frying Cheese or Mexican Frying Cheese",
+      "Oil for deep frying",
+      "Marinara sauce (optional, for serving)"
+    ],
+    "utensils": [
+      "Deep fryer",
+      "Knife",
+      "Cutting board",
+      "Slotted spoon or spider",
+      "Paper towels",
+      "Plate for serving"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Heat the oil in deep fryer according to the manufacturer's instructions",
+        "sk": "Zohrejte olej vo fritéze podľa pokynov výrobcu",
+        "ja": "製造元の指示に従って、ディープフライヤーで油を加熱する",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 3,
+        "en": "Cut the cheese into 3/4 inch (2 cm) cubes",
+        "sk": "Nakrájajte syr na kocky s veľkosťou 2 cm",
+        "ja": "チーズを2cm角に切る",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "Carefully drop a few cubes of cheese into the hot oil, frying in small batches to prevent sticking",
+        "sk": "Opatrne vhoďte niekoľko kociek syra do horúceho oleja, smažte v malých dávkach, aby sa nezlepili",
+        "ja": "熱した油に少量のチーズキューブを慎重に入れる。くっつかないよう少量ずつ揚げる",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Keep moving the cheese cubes with a spatula to prevent them from touching each other",
+        "sk": "Pohybujte kockami syra pomocou varešky, aby sa navzájom nedotýkali",
+        "ja": "ヘラを使ってチーズキューブを動かし、互いにくっつかないようにする",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Remove cheese bites as soon as they turn golden brown",
+        "sk": "Vyberte syrové kúsky hneď, ako zhnednú do zlatista",
+        "ja": "きつね色になったらすぐにチーズバイトを取り出す",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Drain on paper towels",
+        "sk": "Nechajte odkvapkať na papierových utierka",
+        "ja": "ペーパータオルの上で油を切る",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Serve hot with marinara sauce, if desired",
+        "sk": "Podávajte horúce s marinara omáčkou, ak chcete",
+        "ja": "お好みでマリナラソースと一緒に熱いうちに提供する",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

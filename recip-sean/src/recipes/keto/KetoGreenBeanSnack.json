@@ -1,0 +1,57 @@
+{
+    "id": "snack_keto_green_bean_001",
+    "name": "Keto Green Bean Snack",
+    "ingredients": [
+      "16 ounce package frozen whole green beans, do not thaw",
+      "2 tablespoons oil",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large baking sheet",
+      "Heavy foil",
+      "Oven",
+      "Plastic bag or container for shaking",
+      "Measuring spoons"
+    ],
+    "cookingTime": 120,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat oven to 275°F (135°C) and line a large baking sheet with heavy foil",
+        "sk": "Predhrejte rúru na 135°C a vyložte veľký plech na pečenie ťažkou fóliou",
+        "ja": "オーブンを275°F（135°C）に予熱し、大きなベーキングシートに厚手のアルミホイルを敷く",
+        "primaryIngredient": "baking sheet"
+      },
+      {
+        "time": 3,
+        "en": "Cut open the bag of frozen green beans and pour in the oil. Close the bag and shake to coat the beans completely",
+        "sk": "Otvorte vrecko mrazených zelených fazuliek a nalejte do neho olej. Vrecko zatvorte a pretrepte, aby sa fazuľky úplne obalili",
+        "ja": "冷凍インゲンの袋を開け、油を注ぐ。袋を閉じて振り、インゲンに油を均一にコーティングする",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Pour the oil-coated green beans onto the prepared baking sheet",
+        "sk": "Nalejte olejom obalené zelené fazuľky na pripravený plech na pečenie",
+        "ja": "油をまぶしたインゲンを準備したベーキングシートに広げる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 120,
+        "en": "Bake for 1 1/2 to 2 hours or until the beans are very dark and crisp, but not burnt",
+        "sk": "Pečte 1,5 až 2 hodiny alebo kým fazuľky nebudú veľmi tmavé a chrumkavé, ale nie spálené",
+        "ja": "1時間半から2時間、またはインゲンが非常に濃い色でパリパリになるまで焼く（焦がさないように注意）",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Remove from the oven and immediately sprinkle with salt to taste",
+        "sk": "Vyberte z rúry a ihneď posypte soľou podľa chuti",
+        "ja": "オーブンから取り出し、すぐに好みの量の塩をふりかける",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

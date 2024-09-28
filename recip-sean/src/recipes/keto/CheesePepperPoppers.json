@@ -1,0 +1,64 @@
+{
+    "id": "appetizer_cheesy_pepper_poppers_001",
+    "name": "Cheesy Pepper Poppers",
+    "ingredients": [
+      "10-12 large jalapeño peppers",
+      "8 ounces colby-jack cheese",
+      "Salsa or Cilantro Pepita Dressing & Dip (optional, for serving)"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Baking sheet",
+      "Aluminum foil",
+      "Oven"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim off jalapeño stems, leaving the stem caps intact. Cut peppers in half lengthwise and remove seeds and membranes",
+        "sk": "Odrežte stonky jalapeño, ale nechajte vrchnáčiky stoniek. Rozrežte papriky pozdĺžne na polovicu a odstráňte semienka a blany",
+        "ja": "ハラペーニョの茎を切り取り、茎の付け根は残す。縦半分に切り、種と薄皮を取り除く",
+        "primaryIngredient": "jalapeño peppers"
+      },
+      {
+        "time": 2,
+        "en": "Arrange the pepper halves on a large foil-lined baking sheet",
+        "sk": "Rozložte polovice paprík na veľký plech vyložený alobalom",
+        "ja": "アルミホイルを敷いた大きなベーキングシートにハラペーニョを並べる",
+        "primaryIngredient": "jalapeño peppers"
+      },
+      {
+        "time": 5,
+        "en": "Slice the cheese into 10-12 cross-wise slices. Cut or fold each slice in half and place one in each pepper half",
+        "sk": "Nakrájajte syr na 10-12 priečnych plátkov. Každý plátok preložte alebo prerežte na polovicu a vložte do každej polovice papriky",
+        "ja": "チーズを10〜12枚に輪切りにする。各スライスを半分に切るか折り、各ハラペーニョの半分に1枚ずつ置く",
+        "primaryIngredient": "colby-jack cheese"
+      },
+      {
+        "time": 15,
+        "en": "Bake at 375°F (190°C) for 10-15 minutes or until cheese is bubbly and peppers are slightly tender but not mushy",
+        "sk": "Pečte pri teplote 190°C 10-15 minút alebo kým sa syr neroztopí a papriky nezmäknú, ale nie na kašu",
+        "ja": "375°F（190°C）で10〜15分、またはチーズが泡立ち、ピーマンが少し柔らかくなるまで（ふやけないように注意）焼く",
+        "primaryIngredient": "jalapeño peppers"
+      },
+      {
+        "time": 2,
+        "en": "If cheese has oozed out, scrape it up and put it back in the peppers",
+        "sk": "Ak syr vytiekol, zoškrabte ho a vráťte späť do paprík",
+        "ja": "チーズが溢れ出ていたら、掻き集めてハラペーニョに戻す",
+        "primaryIngredient": "colby-jack cheese"
+      },
+      {
+        "time": 1,
+        "en": "Serve with salsa or Cilantro Pepita Dressing & Dip, if desired",
+        "sk": "Podávajte so salsou alebo Cilantro Pepita dressingom a dipom, ak chcete",
+        "ja": "お好みでサルサまたはコリアンダーペピータドレッシング＆ディップを添えて提供する",
+        "primaryIngredient": "salsa"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }

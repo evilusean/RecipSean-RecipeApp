@@ -1,0 +1,67 @@
+{
+    "id": "snack_cauliflower_popcorn_001",
+    "name": "Cauliflower 'Popcorn'",
+    "ingredients": [
+      "1 pound fresh cauliflower",
+      "2 tablespoons oil",
+      "4 teaspoons Mrs. Dash Table Blend seasoning",
+      "Salt, to taste",
+      "Pinch granular Splenda, to taste (optional)"
+    ],
+    "utensils": [
+      "Large plastic storage bag or large mixing bowl",
+      "Baking sheet",
+      "Non-stick foil (optional)",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 60,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the cauliflower into bite-size pieces",
+        "sk": "Nakrájajte karfiol na kúsky veľkosti sústa",
+        "ja": "カリフラワーを一口大に切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 3,
+        "en": "Place cauliflower in a large plastic bag or mixing bowl. Drizzle with oil and sprinkle with Mrs. Dash and salt",
+        "sk": "Vložte karfiol do veľkého plastového vrecka alebo misky. Pokvapkajte olejom a posypte korením Mrs. Dash a soľou",
+        "ja": "カリフラワーを大きなビニール袋またはボウルに入れ、油を垂らし、Mrs. Dashシーズニングと塩をふりかける",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Shake bag or toss in bowl until florets are evenly coated",
+        "sk": "Pretrepte vrecko alebo premiešajte v miske, až kým nebudú ružičky rovnomerne obalené",
+        "ja": "袋を振るか、ボウルで混ぜ合わせ、カリフラワーに均等にコーティングする",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Spread cauliflower in a single layer on a baking sheet (optionally lined with non-stick foil)",
+        "sk": "Rozložte karfiol v jednej vrstve na plech na pečenie (voliteľne vyložený nepriľnavou fóliou)",
+        "ja": "ベーキングシート（必要に応じてノンスティックホイルを敷く）にカリフラワーを一層に広げる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 60,
+        "en": "Bake at 400°F (200°C) for 50-60 minutes, turning every 15 minutes, until very dark brown but not burnt",
+        "sk": "Pečte pri teplote 200°C 50-60 minút, každých 15 minút otočte, až kým nebudú veľmi tmavohnedé, ale nie spálené",
+        "ja": "400°F（200°C）で50〜60分焼く。15分ごとにひっくり返し、こげ茶色になるまで（焦げすぎないように注意）焼く",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Taste and add more salt if needed, and optionally sprinkle with a light dusting of Splenda",
+        "sk": "Ochutnajte a v prípade potreby pridajte viac soli, prípadne posypte jemnou vrstvou Splendy",
+        "ja": "味見をし、必要に応じて塩を加え、お好みで少量のスプレンダをふりかける",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto"
+  }
