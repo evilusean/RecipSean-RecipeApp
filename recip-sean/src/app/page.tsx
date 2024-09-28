@@ -45,33 +45,35 @@ export default function Home() {
   }
 
   return (
-    <div className="container mx-auto px-4 py-6 sm:py-8">
-      <h1 className="text-3xl sm:text-4xl font-bold mb-6 sm:mb-8">Recipe App</h1>
-      <SearchComponent onSearch={handleSearch} />
-      {loading && <p className="mt-6 sm:mt-8">Loading recipes...</p>}
-      {error && <p className="mt-6 sm:mt-8 text-red-500">{error}</p>}
-      {!loading && !error && (
-        <div className="mt-6 sm:mt-8">
-          {recipes.length > 0 ? (
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
-              {recipes.map(recipe => (
-                <Link href={`/recipe/${recipe.id}`} key={recipe.id}>
-                  <div className="border rounded-lg p-4 hover:shadow-lg transition-shadow">
-                    <h2 className="text-lg sm:text-xl font-semibold">{recipe.name}</h2>
-                    <p className="text-gray-600 text-sm sm:text-base">{recipe.recipeType}</p>
-                    <p className="text-sm text-gray-500">Cooking Time: {recipe.cookingTime} minutes</p>
-                    {recipe.favorite && (
-                      <p className="text-yellow-500 mt-2">⭐ Favorite</p>
-                    )}
-                  </div>
-                </Link>
-              ))}
-            </div>
-          ) : (
-            <p className="mt-6 sm:mt-8 text-center text-gray-500">No recipes found. Try a different search term.</p>
-          )}
-        </div>
-      )}
+    <div className="min-h-screen bg-tokyo-bg text-tokyo-fg">
+      <div className="container mx-auto px-4 py-6 sm:py-8">
+        <h1 className="text-3xl sm:text-4xl font-bold mb-6 sm:mb-8 text-tokyo-blue">Recipe App</h1>
+        <SearchComponent onSearch={handleSearch} />
+        {loading && <p className="mt-6 sm:mt-8">Loading recipes...</p>}
+        {error && <p className="mt-6 sm:mt-8 text-tokyo-red">{error}</p>}
+        {!loading && !error && (
+          <div className="mt-6 sm:mt-8">
+            {recipes.length > 0 ? (
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+                {recipes.map(recipe => (
+                  <Link href={`/recipe/${recipe.id}`} key={recipe.id}>
+                    <div className="border border-tokyo-blue rounded-lg p-4 hover:bg-tokyo-blue hover:bg-opacity-10 transition-colors">
+                      <h2 className="text-lg sm:text-xl font-semibold text-tokyo-cyan">{recipe.name}</h2>
+                      <p className="text-tokyo-magenta text-sm sm:text-base">{recipe.recipeType}</p>
+                      <p className="text-sm text-tokyo-green">Cooking Time: {recipe.cookingTime} minutes</p>
+                      {recipe.favorite && (
+                        <p className="text-tokyo-yellow mt-2">⭐ Favorite</p>
+                      )}
+                    </div>
+                  </Link>
+                ))}
+              </div>
+            ) : (
+              <p className="mt-6 sm:mt-8 text-center text-tokyo-fg">No recipes found. Try a different search term.</p>
+            )}
+          </div>
+        )}
+      </div>
     </div>
   )
 }

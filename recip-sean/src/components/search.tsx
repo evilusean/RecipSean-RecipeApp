@@ -24,9 +24,9 @@ export function SearchComponent({ onSearch }: SearchProps) {
         placeholder="Search recipes, ingredients, or types..."
         value={query}
         onChange={(e) => setQuery(e.target.value)}
-        className="w-full"
+        className="w-full bg-tokyo-bg text-tokyo-fg border-tokyo-blue focus:border-tokyo-cyan"
       />
-      <Button type="submit" className="w-full sm:w-auto">
+      <Button type="submit" className="w-full sm:w-auto bg-tokyo-blue hover:bg-tokyo-cyan text-tokyo-bg">
         <Search className="mr-2 h-4 w-4" />
         Search
       </Button>

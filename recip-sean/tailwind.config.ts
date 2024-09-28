@@ -1,13 +1,12 @@
-import type { Config } from "tailwindcss"
-
-const config: Config = {
+/** @type {import('tailwindcss').Config} */
+module.exports = {
   darkMode: ["class"],
   content: [
     './pages/**/*.{ts,tsx}',
     './components/**/*.{ts,tsx}',
     './app/**/*.{ts,tsx}',
     './src/**/*.{ts,tsx}',
-  ],
+	],
   theme: {
     container: {
       center: true,
@@ -51,6 +50,17 @@ const config: Config = {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        // Tokyo Night colors
+        tokyo: {
+          bg: '#1a1b26',
+          fg: '#a9b1d6',
+          blue: '#7aa2f7',
+          cyan: '#7dcfff',
+          green: '#9ece6a',
+          magenta: '#bb9af7',
+          red: '#f7768e',
+          yellow: '#e0af68',
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
@@ -59,12 +69,12 @@ const config: Config = {
       },
       keyframes: {
         "accordion-down": {
-          from: { height: "0" },
+          from: { height: 0 },
           to: { height: "var(--radix-accordion-content-height)" },
         },
         "accordion-up": {
           from: { height: "var(--radix-accordion-content-height)" },
-          to: { height: "0" },
+          to: { height: 0 },
         },
       },
       animation: {
@@ -74,6 +84,4 @@ const config: Config = {
     },
   },
   plugins: [require("tailwindcss-animate")],
-} satisfies Config
-
-export default config
+}
