@@ -1,0 +1,60 @@
+{
+    "id": "keto-side_cauliflower_hash_browns_001",
+    "name": "Cauliflower Hash Browns",
+    "ingredients": [
+      "12 ounces fresh cauliflower, grated (about 1/2 medium head)",
+      "4 slices bacon, chopped",
+      "3 ounces onion, chopped (about 1/2 cup)",
+      "1-2 tablespoons butter, optional",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Medium-large nonstick skillet",
+      "Knife",
+      "Cutting board",
+      "Grater",
+      "Measuring cups and spoons",
+      "Stirring spoon or spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Grate cauliflower and chop bacon and onion",
+        "sk": "Nastrúhajte karfiol a nakrájajte slaninu a cibuľu",
+        "ja": "カリフラワーをすりおろし、ベーコンと玉ねぎを刻む",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a medium-large nonstick skillet, cook chopped bacon and onion until they just start to brown",
+        "sk": "Vo veľkej nepriľnavej panvici opečte nakrájanú slaninu a cibuľu, kým nezačnú hnednúť",
+        "ja": "中〜大型のノンスティックフライパンで、刻んだベーコンと玉ねぎを軽く茶色くなるまで調理する",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Add grated cauliflower; cook and stir until cauliflower is tender and nicely browned all over",
+        "sk": "Pridajte nastrúhaný karfiol; varte a miešajte, kým karfiol nezmäkne a nezhnedne po celom povrchu",
+        "ja": "すりおろしたカリフラワーを加え、柔らかくなり全体的にきれいな茶色になるまで炒める",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Optionally, add 1-2 tablespoons of butter during cooking to speed up browning and add flavor",
+        "sk": "Voliteľne pridajte počas varenia 1-2 lyžice masla na urýchlenie zhnednutia a pridanie chuti",
+        "ja": "必要に応じて、調理中に1〜2大さじのバターを加えて褐色化を早め、風味を増す",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Season to taste with salt and pepper",
+        "sk": "Ochuťte soľou a korením podľa chuti",
+        "ja": "塩コショウで味を調える",
+        "primaryIngredient": "salt and pepper"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

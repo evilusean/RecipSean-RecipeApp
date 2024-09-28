@@ -1,0 +1,62 @@
+{
+    "id": "keto-side_cheesy_hash_brown_patties_001",
+    "name": "Cheesy Hash Brown Patties",
+    "ingredients": [
+      "1 cup cooked shredded cauliflower (about 4 3/4 ounces)",
+      "2 tablespoons onion, very finely minced (about 3/4 ounce)",
+      "1 egg",
+      "4 ounces mozzarella cheese, shredded",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "Butter for greasing pan"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Muffin top pan",
+      "Measuring cups and spoons",
+      "Grater (for cheese if not pre-shredded)",
+      "Spatula for flipping",
+      "Oven"
+    ],
+    "cookingTime": 14,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix shredded cauliflower, minced onion, egg, shredded mozzarella, salt, and pepper well in a bowl",
+        "sk": "V miske dobre zmiešajte nastrúhaný karfiol, nadrobno nasekanú cibuľu, vajce, nastrúhanú mozzarellu, soľ a korenie",
+        "ja": "ボウルですりおろしたカリフラワー、みじん切りの玉ねぎ、卵、シュレッドモッツァレラ、塩、コショウをよく混ぜる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Grease a muffin top pan with butter",
+        "sk": "Vymastite formu na muffiny maslom",
+        "ja": "マフィントップパンにバターを塗る",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 3,
+        "en": "Pat the mixture evenly into the greased muffin top pan",
+        "sk": "Zmes rovnomerne rozotrite do vymastenej formy na muffiny",
+        "ja": "混ぜた材料をバターを塗ったマフィントップパンに均等に広げる",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 450°F (230°C) for 8-10 minutes or until crispy and brown on the bottom",
+        "sk": "Pečte pri teplote 230°C 8-10 minút alebo kým nebude spodok chrumkavý a hnedý",
+        "ja": "450°F（230°C）で8〜10分、または底面がカリカリできつね色になるまで焼く",
+        "primaryIngredient": "patties"
+      },
+      {
+        "time": 4,
+        "en": "Flip patties over and bake for another 3-4 minutes to brown the other side",
+        "sk": "Placky otočte a pečte ďalšie 3-4 minúty, aby zhnedla aj druhá strana",
+        "ja": "パティをひっくり返し、さらに3〜4分焼いて反対側も焼き色をつける",
+        "primaryIngredient": "patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

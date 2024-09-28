@@ -1,0 +1,79 @@
+{
+    "id": "side_dish_broccoli_cauliflower_gratin_001",
+    "name": "Broccoli-and-Cauliflower Gratin",
+    "ingredients": [
+      "1 pound fresh broccoli florets",
+      "1 pound fresh cauliflower florets",
+      "Salt and pepper, to taste",
+      "1 1/2 cups mayonnaise",
+      "4 ounces cheddar cheese, 1 cup",
+      "3 ounces parmesan cheese, about 1/2 cup",
+      "4 green onions, chopped",
+      "2 tablespoons Dijon mustard",
+      "1/4 teaspoon cayenne",
+      "3 tablespoons parmesan cheese, 1 ounce"
+    ],
+    "utensils": [
+      "Steamer",
+      "9x13 inch baking pan",
+      "Medium bowl",
+      "Measuring cups and spoons",
+      "Oven",
+      "Spoon"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Steam broccoli and cauliflower florets until crisp-tender, 6-8 minutes",
+        "sk": "Parne varte ružičky brokolice a karfiolu, kým nebudú chrumkavé, 6-8 minút",
+        "ja": "ブロッコリーとカリフラワーの小花を6〜8分蒸し、歯ごたえが残る程度に仕上げる",
+        "primaryIngredient": "broccoli and cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Drain vegetables well and season with salt and pepper",
+        "sk": "Zeleninu dobre sceďte a ochuťte soľou a korením",
+        "ja": "野菜の水気をよく切り、塩コショウで味を調える",
+        "primaryIngredient": "broccoli and cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Place seasoned vegetables in a greased 9x13 inch baking pan",
+        "sk": "Ochutenú zeleninu vložte do vymastenej zapekacej misy 23x33 cm",
+        "ja": "味付けした野菜を油を塗った23x33cmの焼き皿に入れる",
+        "primaryIngredient": "broccoli and cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, mix mayonnaise, cheddar cheese, 1/2 cup parmesan cheese, chopped green onions, Dijon mustard, and cayenne",
+        "sk": "V strednej miske zmiešajte majonézu, čedar, 1/2 šálky parmezánu, nakrájanú jarnú cibuľku, dijonskú horčicu a kajenské korenie",
+        "ja": "中くらいのボウルでマヨネーズ、チェダーチーズ、パルメザンチーズ1/2カップ、刻んだ青ネギ、ディジョンマスタード、カイエンペッパーを混ぜる",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "Spoon the mixture over the vegetables and spread evenly",
+        "sk": "Nalejte zmes na zeleninu a rovnomerne rozotrite",
+        "ja": "混ぜたものを野菜の上にかけ、均等に広げる",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle 3 tablespoons of parmesan cheese over the top",
+        "sk": "Posypte 3 polievkovými lyžicami parmezánu",
+        "ja": "上から3大さじのパルメザンチーズをふりかける",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350°F (175°C) for 20-25 minutes until the topping is golden brown and bubbly",
+        "sk": "Pečte pri teplote 175°C 20-25 minút, kým nebude vrch zlatohnedý a bublinkový",
+        "ja": "350°F（175°C）のオーブンで20〜25分、上部が金色に焼け、泡立つまで焼く",
+        "primaryIngredient": "gratin"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

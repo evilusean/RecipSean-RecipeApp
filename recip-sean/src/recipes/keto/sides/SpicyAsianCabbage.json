@@ -1,0 +1,54 @@
+{
+    "id": "keto-side_spicy_asian_cabbage_001",
+    "name": "Spicy Asian Cabbage",
+    "ingredients": [
+      "2 tablespoons oil",
+      "1 medium onion, slivered (4 ounces)",
+      "12 ounces coleslaw mix with carrots (about 6 cups)",
+      "1 tablespoon soy sauce",
+      "1 tablespoon oyster sauce",
+      "Dash pepper",
+      "Pinch crushed red pepper"
+    ],
+    "utensils": [
+      "Wok or very large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring spoon or spatula"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Heat oil over medium-high heat in a wok or very large skillet",
+        "sk": "Rozohrejte olej na stredne vysokom ohni vo woku alebo veľmi veľkej panvici",
+        "ja": "中高温で中華鍋または大きなフライパンに油を熱する",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 3,
+        "en": "Sauté slivered onion for a few minutes until it starts to soften",
+        "sk": "Opečte nakrájanú cibuľu niekoľko minút, kým nezačne mäknúť",
+        "ja": "細切りにした玉ねぎを数分間、柔らかくなり始めるまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 4,
+        "en": "Add coleslaw mix and stir-fry until it wilts but still has a little crunch",
+        "sk": "Pridajte zmes na coleslaw a opekajte, kým nezvädne, ale stále má trochu chrumkavosti",
+        "ja": "コールスローミックスを加え、しんなりするまで炒めるが、少し歯ごたえを残す",
+        "primaryIngredient": "coleslaw mix"
+      },
+      {
+        "time": 2,
+        "en": "Add soy sauce, oyster sauce, pepper, and crushed red pepper; toss to mix well",
+        "sk": "Pridajte sójovú omáčku, ustricovú omáčku, čierne korenie a drvené červené korenie; dobre premiešajte",
+        "ja": "醤油、オイスターソース、コショウ、唐辛子を加え、よく混ぜ合わせる",
+        "primaryIngredient": "sauces and spices"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

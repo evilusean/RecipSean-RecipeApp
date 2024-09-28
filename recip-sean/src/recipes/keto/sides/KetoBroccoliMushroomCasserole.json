@@ -1,0 +1,58 @@
+{
+    "id": "keto-side_broccoli_mushroom_casserole_001",
+    "name": "Broccoli Mushroom Casserole",
+    "ingredients": [
+      "2 16-ounce bags frozen broccoli cuts, cooked and well drained",
+      "4 ounce can mushrooms, well drained",
+      "1/2 medium onion, chopped, 2 ounces",
+      "2 stalks celery, minced",
+      "2 tablespoons butter",
+      "1/4 cup mayonnaise",
+      "8 ounces cheddar cheese, shredded",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/8 teaspoon garlic powder"
+    ],
+    "utensils": [
+      "Large pot for cooking broccoli",
+      "2-quart casserole dish",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook frozen broccoli cuts according to package instructions and drain well",
+        "sk": "Uvarte mrazenú nakrájanú brokolicu podľa pokynov na obale a dobre sceďte",
+        "ja": "冷凍ブロッコリーをパッケージの指示通りに調理し、よく水気を切る",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "In the same pot, sauté chopped onion, minced celery, and drained canned mushrooms in butter until soft",
+        "sk": "V tom istom hrnci opražte na masle nakrájanú cibuľu, nasekaný zeler a scedené konzervované huby do mäkka",
+        "ja": "同じ鍋で、みじん切りにした玉ねぎとセロリ、水気を切った缶詰のキノコをバターで柔らかくなるまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Mix all ingredients in a greased 2-quart casserole dish",
+        "sk": "Zmiešajte všetky ingrediencie vo vymastenej 2-litrovej zapekacej miske",
+        "ja": "すべての材料を油を塗った2クォートのキャセロール皿に混ぜ合わせる",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F (175°C) for 30 minutes",
+        "sk": "Pečte pri teplote 175°C 30 minút",
+        "ja": "350°F（175°C）のオーブンで30分焼く",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

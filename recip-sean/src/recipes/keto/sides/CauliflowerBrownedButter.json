@@ -1,0 +1,59 @@
+{
+    "id": "keto-side_cauliflower_with_browned_butter_001",
+    "name": "Cauliflower with Browned Butter",
+    "ingredients": [
+      "Frozen cauliflower or fresh cauliflower, cut into florets",
+      "2 tablespoons butter",
+      "Salt, to taste",
+      "Nutmeg, optional"
+    ],
+    "utensils": [
+      "Pot for cooking cauliflower",
+      "Bowl",
+      "Colander or strainer",
+      "Stirring spoon or spatula",
+      "Measuring spoons",
+      "Knife and cutting board (if using fresh cauliflower)"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook cauliflower until tender",
+        "sk": "Varte karfiol, kým nezmäkne",
+        "ja": "カリフラワーを柔らかくなるまで調理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Drain cauliflower and transfer to a bowl; keep warm",
+        "sk": "Sceďte karfiol a preložte do misky; udržujte teplý",
+        "ja": "カリフラワーの水気を切り、ボウルに移す。温かいままにしておく",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 3,
+        "en": "In the same pot, melt butter over medium heat. Cook and stir constantly until it just begins to brown",
+        "sk": "V tom istom hrnci roztopte maslo na strednom ohni. Varte a neustále miešajte, kým nezačne hnednúť",
+        "ja": "同じ鍋で、中火でバターを溶かす。きつね色になり始めるまで、絶えずかき混ぜながら調理する",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Remove from heat immediately and pour browned butter over cauliflower",
+        "sk": "Okamžite odstavte z ohňa a nalejte zhnednuté maslo na karfiol",
+        "ja": "すぐに火から外し、きつね色のバターをカリフラワーにかける",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and optional nutmeg to taste",
+        "sk": "Ochuťte soľou a voliteľne muškátovým orieškom podľa chuti",
+        "ja": "塩と必要に応じてナツメグで味を調える",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

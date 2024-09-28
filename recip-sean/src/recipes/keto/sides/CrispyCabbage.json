@@ -1,0 +1,57 @@
+{
+    "id": "keto-side_crispy_cabbage_001",
+    "name": "Crispy Cabbage",
+    "ingredients": [
+      "1 medium head cabbage, about 27 ounces before trimming",
+      "4 tablespoons butter, melted",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Baking sheet",
+      "Pastry brush",
+      "Oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the cabbage into 1-inch wedges, keeping the core intact on every wedge",
+        "sk": "Nakrájajte kapustu na 2,5 cm kliny, pričom dbajte na to, aby jadro zostalo na každom kline neporušené",
+        "ja": "キャベツを2.5cmの楔形に切り、それぞれの楔に芯が残るようにする",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 2,
+        "en": "Place cabbage wedges on a baking sheet",
+        "sk": "Položte kapustové kliny na plech na pečenie",
+        "ja": "キャベツの楔をベーキングシートに並べる",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 3,
+        "en": "Brush one side of cabbage wedges with melted butter and sprinkle with salt and pepper",
+        "sk": "Potrite jednu stranu kapustových klinov roztopeným maslom a posypte soľou a korením",
+        "ja": "キャベツの楔の片面に溶かしバターを塗り、塩コショウをふる",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 3,
+        "en": "Turn wedges over and repeat butter, salt, and pepper on the other side",
+        "sk": "Otočte kliny a zopakujte maslo, soľ a korenie na druhej strane",
+        "ja": "楔を裏返し、もう片面にもバター、塩、コショウを同様に塗る",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 25,
+        "en": "Roast at 450°F (230°C) for 20-25 minutes, until cabbage is browned around the edges",
+        "sk": "Pečte pri teplote 230°C 20-25 minút, kým kapusta nezhnedne okolo okrajov",
+        "ja": "450°F（230°C）のオーブンで20〜25分、キャベツの端が焦げ目がつくまで焼く",
+        "primaryIngredient": "cabbage"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

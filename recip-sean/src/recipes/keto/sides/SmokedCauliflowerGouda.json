@@ -1,0 +1,101 @@
+{
+    "id": "keto-side_smoked_gouda_cauliflower_001",
+    "name": "Smoked Gouda Cauliflower",
+    "ingredients": [
+      "1 large head cauliflower (about 1 3/4 to 2 pounds trimmed)",
+      "1 medium onion, slivered (about 6 ounces after trimming)",
+      "1 tablespoon butter",
+      "8 ounces cream cheese, softened",
+      "8 ounces smoked Gouda cheese, rind removed and grated (7 1/4 ounces after trimming)",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large covered casserole dish",
+      "Medium skillet",
+      "9x13 inch baking dish",
+      "Grater",
+      "Fork",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring spoon",
+      "Microwave or steamer",
+      "Oven"
+    ],
+    "cookingTime": 47,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut cauliflower into bite-size pieces",
+        "sk": "Nakrájajte karfiol na kúsky veľkosti sústa",
+        "ja": "カリフラワーを一口大に切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 12,
+        "en": "Steam or microwave cauliflower until tender (if microwaving, cook on HIGH for 10-12 minutes in a covered dish, stirring occasionally)",
+        "sk": "Karfiol uvarte v pare alebo v mikrovlnnej rúre do mäkka (ak používate mikrovlnku, varte na VYSOKOM výkone 10-12 minút v zakrytej nádobe, občas premiešajte)",
+        "ja": "カリフラワーを柔らかくなるまで蒸すか電子レンジで加熱する（電子レンジの場合、蓋付き容器に入れて強で10〜12分加熱し、時々かき混ぜる）",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 10,
+        "en": "In a medium skillet, heat butter and cook slivered onion until caramelized",
+        "sk": "Na stredne veľkej panvici rozohrejte maslo a opečte nakrájanú cibuľu do karamelizácie",
+        "ja": "中サイズのフライパンでバターを熱し、薄切りの玉ねぎをキャラメル化するまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Place cooked cauliflower in a greased 9x13 inch baking dish and break up florets slightly with a fork",
+        "sk": "Vložte uvarený karfiol do vymastenej zapekacej misy 23x33 cm a vidličkou mierne rozdeľte ružičky",
+        "ja": "調理したカリフラワーを油を塗った9x13インチの焼き皿に入れ、フォークで小花を軽くほぐす",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Stir in cream cheese and blend well",
+        "sk": "Vmiešajte krémový syr a dobre premiešajte",
+        "ja": "クリームチーズを加えてよく混ぜる",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 1,
+        "en": "Stir in caramelized onions",
+        "sk": "Vmiešajte karamelizovanú cibuľu",
+        "ja": "キャラメル化した玉ねぎを混ぜ込む",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste",
+        "sk": "Ochuťte soľou a korením podľa chuti",
+        "ja": "塩コショウで味を調える",
+        "primaryIngredient": "salt and pepper"
+      },
+      {
+        "time": 2,
+        "en": "Add all but about 3 ounces of the grated Gouda cheese and mix",
+        "sk": "Pridajte všetok nastrúhaný syr Gouda okrem asi 85 gramov a premiešajte",
+        "ja": "おろしたゴーダチーズを約85グラム残して加え、混ぜる",
+        "primaryIngredient": "Gouda cheese"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle the remaining Gouda over the top",
+        "sk": "Posypte zvyšným syrom Gouda navrch",
+        "ja": "残りのゴーダチーズを上からかける",
+        "primaryIngredient": "Gouda cheese"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 30-35 minutes or until bubbly and browned on top",
+        "sk": "Pečte pri teplote 175°C 30-35 minút alebo kým nebude bublať a nezhnedne na povrchu",
+        "ja": "350°F（175°C）のオーブンで30〜35分、または表面が泡立ち茶色くなるまで焼く",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,92 @@
+{
+    "id": "keto-side_mashed_cauliflower_caramelized_onions_001",
+    "name": "Mashed Cauliflower with Caramelized Onions",
+    "ingredients": [
+      "1 extra-large onion, slivered or chopped (about 8 ounces after peeling)",
+      "2 tablespoons butter",
+      "1 medium fresh cauliflower, chopped (about 1 pound)",
+      "Salt, to taste",
+      "1 tablespoon heavy cream",
+      "1 tablespoon water"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "Covered casserole dish",
+      "Microwave",
+      "Food processor with chopping blade",
+      "Serving bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring spoon"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "In a medium skillet, sauté slivered or chopped onions in butter over medium-low heat until caramelized",
+        "sk": "V stredne veľkej panvici opečte nakrájané alebo nasekané cibule na masle na stredne nízkom ohni, kým nezkaramelizujú",
+        "ja": "中サイズのフライパンで、中低温でバターでスライスまたはみじん切りの玉ねぎをキャラメル化するまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Season caramelized onions with salt to taste",
+        "sk": "Osoľte karamelizované cibule podľa chuti",
+        "ja": "キャラメル化した玉ねぎを塩で味付けする",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Put chopped cauliflower in a covered casserole dish with 1 tablespoon water",
+        "sk": "Vložte nasekaný karfiol do zapekacej misy s pokrievkou spolu s 1 lyžicou vody",
+        "ja": "刻んだカリフラワーを大さじ1の水と共に蓋付きキャセロールに入れる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Microwave cauliflower on HIGH for 5 minutes",
+        "sk": "Varte karfiol v mikrovlnnej rúre na VYSOKOM výkone 5 minút",
+        "ja": "カリフラワーを電子レンジの強で5分加熱する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Stir cauliflower, then microwave for another 5 minutes or until very tender",
+        "sk": "Karfiol premiešajte, potom varte v mikrovlnnej rúre ďalších 5 minút alebo kým nebude veľmi mäkký",
+        "ja": "カリフラワーをかき混ぜ、さらに5分間または非常に柔らかくなるまで電子レンジで加熱する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Let cauliflower stand covered for 5 minutes, then drain any excess water",
+        "sk": "Nechajte karfiol prikrytý stáť 5 minút, potom zlejte prebytočnú vodu",
+        "ja": "カリフラワーを蓋をしたまま5分間置き、その後余分な水分を切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Put cauliflower in food processor with cream and a little salt, process until very smooth",
+        "sk": "Vložte karfiol do kuchynského robota so smotanou a trochou soli, mixujte, kým nebude veľmi hladký",
+        "ja": "カリフラワーをクリームと少量の塩と共にフードプロセッサーに入れ、非常に滑らかになるまで処理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Transfer mashed cauliflower to a serving bowl and stir in caramelized onions",
+        "sk": "Preložte rozmixovaný karfiol do servírovacej misy a vmiešajte karamelizované cibule",
+        "ja": "マッシュしたカリフラワーを器に移し、キャラメル化した玉ねぎを混ぜ込む",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Adjust seasoning with salt if needed",
+        "sk": "V prípade potreby upravte dochutenie soľou",
+        "ja": "必要に応じて塩で味を調整する",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

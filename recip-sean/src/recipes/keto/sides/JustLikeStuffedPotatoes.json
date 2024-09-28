@@ -1,0 +1,78 @@
+{
+    "id": "keto-side_just_like_stuffed_baked_potatoes_001",
+    "name": "Just Like Stuffed Baked Potatoes",
+    "ingredients": [
+      "16 ounce package frozen cauliflower",
+      "8 ounce cream cheese, softened",
+      "8 ounce cheddar cheese, shredded",
+      "4 green onions, chopped",
+      "1/4 teaspoon salt or to taste",
+      "1/4 teaspoon pepper",
+      "3 pieces bacon, chopped and fried until crisp",
+      "Paprika, optional"
+    ],
+    "utensils": [
+      "8 x 8 inch baking pan or 2-quart casserole",
+      "Cooking pot for cauliflower",
+      "Colander",
+      "Mixing spoon",
+      "Measuring spoons",
+      "Oven or microwave",
+      "Frying pan for bacon"
+    ],
+    "cookingTime": 50,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook frozen cauliflower until soft, about 8-10 minutes",
+        "sk": "Varte mrazený karfiol do mäkka, asi 8-10 minút",
+        "ja": "冷凍カリフラワーを柔らかくなるまで8〜10分ほど調理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Drain cauliflower very well and break up florets a bit with a spoon",
+        "sk": "Karfiol dobre sceďte a lyžicou trochu rozlámte ružičky",
+        "ja": "カリフラワーの水気をよく切り、スプーンで小花を少し砕く",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Place cauliflower in a greased 8 x 8 inch baking pan or 2-quart casserole",
+        "sk": "Vložte karfiol do vymastenej 20 x 20 cm zapekacej formy alebo 2-litrovej zapekacej misy",
+        "ja": "カリフラワーを油を塗った20cm四方の焼き皿または2クォートのキャセロールに入れる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Mix in softened cream cheese, shredded cheddar, chopped green onions, salt, pepper, and crispy bacon",
+        "sk": "Vmiešajte zmäknutý krémový syr, strúhaný čedar, nasekanú jarnú cibuľku, soľ, korenie a chrumkavú slaninu",
+        "ja": "柔らかくしたクリームチーズ、シュレッドチェダー、刻んだ青ネギ、塩、コショウ、カリカリのベーコンを混ぜ合わせる",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Optionally, dust the top with paprika",
+        "sk": "Voliteľne posypte vrch paprikou",
+        "ja": "必要に応じて、上からパプリカをふりかける",
+        "primaryIngredient": "paprika"
+      },
+      {
+        "time": 40,
+        "en": "Oven method: Bake at 350°F (175°C) for 20-40 minutes, until browned and bubbly",
+        "sk": "Metóda v rúre: Pečte pri 175°C 20-40 minút, kým nezhnedne a nebuble",
+        "ja": "オーブン調理法：350°F（175°C）で20〜40分、茶色くなり泡立つまで焼く",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 40,
+        "en": "Microwave method: Cook loosely covered for about 40 minutes on 50% power, turning the dish after 20 minutes",
+        "sk": "Metóda v mikrovlnnej rúre: Varte voľne prikryté asi 40 minút na 50% výkone, po 20 minútach otočte nádobu",
+        "ja": "電子レンジ調理法：50％の出力で約40分、緩く覆って加熱し、20分後に皿を回転させる",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,77 @@
+{
+    "id": "keto-side_braised_cauliflower_with_garlic_001",
+    "name": "Braised Cauliflower with Garlic",
+    "ingredients": [
+      "2 1/2 tablespoons butter, divided",
+      "2 pound head cauliflower (1 medium)",
+      "3 cloves garlic, minced",
+      "1 teaspoon Better Than Bouillon, chicken flavor",
+      "2/3 cup chicken broth",
+      "2 tablespoons fresh parsley, minced",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Measuring cup",
+      "Stirring spoon or spatula",
+      "Garlic mincer"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut cauliflower into bite-size pieces",
+        "sk": "Nakrájajte karfiol na kúsky veľkosti sústa",
+        "ja": "カリフラワーを一口大に切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 7,
+        "en": "Melt 2 tablespoons butter in a large skillet over low to medium heat. Add cauliflower and cook, stirring occasionally, until florets begin to brown, 6 to 7 minutes",
+        "sk": "Rozpustite 2 lyžice masla vo veľkej panvici na nízkom až strednom ohni. Pridajte karfiol a varte za občasného miešania, kým ružičky nezačnú hnednúť, 6 až 7 minút",
+        "ja": "大きなフライパンで2大さじのバターを弱〜中火で溶かす。カリフラワーを加え、時々かき混ぜながら6〜7分間、小花が茶色くなり始めるまで調理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Clear space in center of pan. Add remaining 1/2 tablespoon butter, minced garlic, and Better Than Bouillon",
+        "sk": "Uvoľnite priestor v strede panvice. Pridajte zvyšnú 1/2 lyžice masla, nasekaný cesnak a Better Than Bouillon",
+        "ja": "フライパンの中央にスペースを作る。残りの1/2大さじのバター、みじん切りにしたニンニク、ベターザンブイヨンを加える",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 1,
+        "en": "Mash and stir garlic mixture in center of pan until fragrant, about 30 seconds. Stir to combine with cauliflower",
+        "sk": "Roztlačte a miešajte cesnakovú zmes v strede panvice, kým nezačne voňať, asi 30 sekúnd. Premiešajte s karfiolom",
+        "ja": "ニンニクの混ぜ物をフライパンの中央で30秒ほど香りが出るまで潰しながら混ぜる。カリフラワーと合わせる",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 5,
+        "en": "Add chicken broth, bring to simmer. Cover and cook until cauliflower is tender but not too soft, 4 to 5 minutes",
+        "sk": "Pridajte slepačí vývar, priveďte do varu. Prikryte a varte, kým karfiol nezmäkne, ale nie príliš, 4 až 5 minút",
+        "ja": "チキンブロスを加え、沸騰させる。蓋をして4〜5分間、カリフラワーが柔らかくなるまで（ただし柔らかすぎないように）調理する",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 1,
+        "en": "Drain off excess liquid",
+        "sk": "Zlejte prebytočnú tekutinu",
+        "ja": "余分な液体を切る",
+        "primaryIngredient": "liquid"
+      },
+      {
+        "time": 1,
+        "en": "Add minced parsley and season with salt to taste. Serve immediately",
+        "sk": "Pridajte nasekanú petržlenovú vňať a ochuťte soľou podľa chuti. Ihneď podávajte",
+        "ja": "みじん切りのパセリを加え、塩で味を調える。すぐに供する",
+        "primaryIngredient": "parsley"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

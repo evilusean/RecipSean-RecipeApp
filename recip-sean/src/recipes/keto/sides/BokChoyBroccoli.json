@@ -1,0 +1,76 @@
+{
+    "id": "side_dish_bok_choy_with_broccoli_001",
+    "name": "Bok Choy with Broccoli-Side",
+    "ingredients": [
+      "1 pound bok choy, about 1 medium bunch",
+      "1 pound broccoli, about 1 large bunch",
+      "1/2 cup water",
+      "2 tablespoons oil",
+      "1 clove garlic, minced",
+      "1 tablespoon fresh ginger, grated",
+      "2 tablespoons soy sauce"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Peeler",
+      "Grater"
+    ],
+    "cookingTime": 13,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut bok choy stalks into 1-inch pieces and coarsely chop the leaves",
+        "sk": "Nakrájajte stonky bok choy na 2,5 cm kúsky a nahrubo nasekajte listy",
+        "ja": "チンゲン菜の茎を2.5cm幅に切り、葉を粗みじん切りにする",
+        "primaryIngredient": "bok choy"
+      },
+      {
+        "time": 5,
+        "en": "Peel broccoli stalks and cut into 1/4-inch pieces. Cut florets into bite-size pieces",
+        "sk": "Olúpte stonky brokolice a nakrájajte na 0,6 cm kúsky. Nakrájajte ružičky na kúsky veľkosti sústa",
+        "ja": "ブロッコリーの茎の皮をむき、0.6cm幅に切る。小花を一口大に切る",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "In a large skillet or wok, bring 1/2 cup water to a boil. Add bok choy stalks, broccoli stalks and florets",
+        "sk": "Vo veľkej panvici alebo woku priveďte 120 ml vody do varu. Pridajte stonky bok choy, stonky a ružičky brokolice",
+        "ja": "大きなフライパンまたはワックで120mlの水を沸騰させる。チンゲン菜の茎、ブロッコリーの茎と小花を加える",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 5,
+        "en": "Cover and simmer on medium-low heat until broccoli is bright green, about 5 minutes",
+        "sk": "Prikryte a varte na stredne nízkom ohni, kým brokolica nezozelenie, asi 5 minút",
+        "ja": "蓋をして中火〜弱火で約5分、ブロッコリーが鮮やかな緑色になるまで煮る",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 4,
+        "en": "Uncover and cook on high heat until water evaporates, 2-4 minutes",
+        "sk": "Odkryte a varte na vysokom ohni, kým sa voda neodparí, 2-4 minúty",
+        "ja": "蓋を取り、強火で2〜4分、水分が蒸発するまで調理する",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Remove from heat, add bok choy leaves, oil, and garlic. Return to heat and cook, stirring often, for 2 minutes",
+        "sk": "Odstavte z ohňa, pridajte listy bok choy, olej a cesnak. Vráťte na oheň a varte za častého miešania 2 minúty",
+        "ja": "火を止め、チンゲン菜の葉、油、にんにくを加える。再び火にかけ、頻繁に混ぜながら2分間調理する",
+        "primaryIngredient": "bok choy leaves"
+      },
+      {
+        "time": 1,
+        "en": "Add ginger and soy sauce, toss well",
+        "sk": "Pridajte zázvor a sójovú omáčku, dobre premiešajte",
+        "ja": "生姜と醤油を加え、よく和える",
+        "primaryIngredient": "ginger"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,100 @@
+{
+    "id": "keto-side_quick_spicy_kimchee_001",
+    "name": "Quick Spicy Kimchee",
+    "ingredients": [
+      "1 head napa cabbage (1 to 1 1/2 pounds)",
+      "1/4 cup kosher salt",
+      "1/2 cup rice vinegar",
+      "1 tablespoon granular Splenda or equivalent liquid Splenda",
+      "2 tablespoons chili paste",
+      "1 tablespoon ginger root, grated",
+      "2 cloves garlic, chopped fine",
+      "2 green onions, sliced fine",
+      "Water, as needed"
+    ],
+    "utensils": [
+      "Large colander",
+      "Large bowl",
+      "Knife",
+      "Cutting board",
+      "Grater",
+      "Clean quart canning jar",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 240,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Chop stem end off cabbage, cut into quarters lengthwise, then into 1/2-inch chunks",
+        "sk": "Odrežte koniec stonky kapusty, rozštvrtite ju pozdĺžne a potom nakrájajte na 1,3 cm kúsky",
+        "ja": "キャベツの根元を切り落とし、縦4等分にしてから1.3cm幅に刻む",
+        "primaryIngredient": "napa cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Place chopped cabbage in a large colander, add salt and mix well",
+        "sk": "Vložte nakrájanú kapustu do veľkého cedidla, pridajte soľ a dobre premiešajte",
+        "ja": "刻んだキャベツを大きなざるに入れ、塩を加えてよく混ぜる",
+        "primaryIngredient": "napa cabbage"
+      },
+      {
+        "time": 120,
+        "en": "Let cabbage drain, covered, for about 2 hours until wilted",
+        "sk": "Nechajte kapustu odkvapkať, prikrytú, asi 2 hodiny, kým nezvädne",
+        "ja": "キャベツを覆いをして約2時間、しんなりするまで水切りする",
+        "primaryIngredient": "napa cabbage"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl, mix vinegar and Splenda",
+        "sk": "Vo veľkej miske zmiešajte ocot a Splendu",
+        "ja": "大きなボウルで酢とスプレンダを混ぜる",
+        "primaryIngredient": "rice vinegar"
+      },
+      {
+        "time": 5,
+        "en": "Add chili paste, grated ginger, chopped garlic, and sliced green onions to the vinegar mixture",
+        "sk": "Pridajte do octovej zmesi chili pastu, nastrúhaný zázvor, nasekaný cesnak a nakrájané jarné cibuľky",
+        "ja": "酢の混合物にチリペースト、すりおろした生姜、みじん切りにしたニンニク、刻んだ青ネギを加える",
+        "primaryIngredient": "chili paste"
+      },
+      {
+        "time": 5,
+        "en": "Rinse salt off the cabbage well and drain",
+        "sk": "Dobre opláchnite soľ z kapusty a nechajte odkvapkať",
+        "ja": "キャベツの塩をよく洗い流し、水気を切る",
+        "primaryIngredient": "napa cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Add drained cabbage to the vinegar mixture",
+        "sk": "Pridajte odkvapkanú kapustu do octovej zmesi",
+        "ja": "水気を切ったキャベツを酢の混合物に加える",
+        "primaryIngredient": "napa cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Pack mixture tightly into a clean quart canning jar",
+        "sk": "Zmes pevne natlačte do čistého litrového zaváracieho pohára",
+        "ja": "混ぜたものを清潔な1クォートの保存瓶にしっかり詰める",
+        "primaryIngredient": "kimchee mixture"
+      },
+      {
+        "time": 1,
+        "en": "Add enough water to cover the cabbage",
+        "sk": "Pridajte dostatok vody na pokrytie kapusty",
+        "ja": "キャベツが隠れるまで水を加える",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 240,
+        "en": "Cover and refrigerate for at least 4 hours, preferably overnight",
+        "sk": "Prikryte a chlaďte najmenej 4 hodiny, najlepšie cez noc",
+        "ja": "蓋をして冷蔵庫で最低4時間、できれば一晩置く",
+        "primaryIngredient": "kimchee"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

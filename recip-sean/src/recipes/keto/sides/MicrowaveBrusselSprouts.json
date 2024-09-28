@@ -1,0 +1,65 @@
+{
+    "id": "keto-side_microwave_brussels_sprouts_001",
+    "name": "Microwave Brussels Sprouts",
+    "ingredients": [
+      "Brussels sprouts",
+      "1 cup cold water",
+      "Butter, to taste",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Microwave steamer with base and insert",
+      "Knife",
+      "Cutting board",
+      "Serving bowl",
+      "Microwave"
+    ],
+    "cookingTime": 6,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Wash Brussels sprouts and remove any wilted or discolored outer leaves",
+        "sk": "Umyte ružičkový kel a odstráňte zvädnuté alebo sfarbené vonkajšie listy",
+        "ja": "芽キャベツを洗い、しおれたり変色した外側の葉を取り除く",
+        "primaryIngredient": "Brussels sprouts"
+      },
+      {
+        "time": 1,
+        "en": "Cut Brussels sprouts in half (leave very small ones whole)",
+        "sk": "Prekrojte ružičkový kel na polovice (veľmi malé nechajte celé)",
+        "ja": "芽キャベツを半分に切る（とても小さいものは丸ごとにする）",
+        "primaryIngredient": "Brussels sprouts"
+      },
+      {
+        "time": 1,
+        "en": "Fill microwave steamer base with 1 cup of cold water",
+        "sk": "Naplňte základňu mikrovlnného paráka 1 šálkou studenej vody",
+        "ja": "電子レンジ用蒸し器の底に1カップの冷水を入れる",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 1,
+        "en": "Place steamer insert over base and add prepared Brussels sprouts",
+        "sk": "Položte vložku paráka na základňu a pridajte pripravený ružičkový kel",
+        "ja": "蒸し器の内側の容器を置き、準備した芽キャベツを入れる",
+        "primaryIngredient": "Brussels sprouts"
+      },
+      {
+        "time": 6,
+        "en": "Cover and microwave on HIGH for 5-6 minutes, stirring once or twice",
+        "sk": "Zakryte a varte v mikrovlnnej rúre na VYSOKOM výkone 5-6 minút, raz alebo dvakrát premiešajte",
+        "ja": "蓋をして、電子レンジの強火で5〜6分加熱し、1〜2回かき混ぜる",
+        "primaryIngredient": "Brussels sprouts"
+      },
+      {
+        "time": 1,
+        "en": "Transfer cooked sprouts to a serving bowl, add butter, salt, and pepper to taste",
+        "sk": "Preložte uvarený kel do servírovacej misky, pridajte maslo, soľ a korenie podľa chuti",
+        "ja": "調理した芽キャベツを器に移し、好みの量のバター、塩、コショウを加える",
+        "primaryIngredient": "Brussels sprouts"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

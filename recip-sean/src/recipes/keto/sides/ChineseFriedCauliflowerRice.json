@@ -1,0 +1,85 @@
+{
+    "id": "keto-side_chinese_fried_rice_001",
+    "name": "Chinese Fried 'Rice'",
+    "ingredients": [
+      "10 ounces fresh cauliflower (1/2 medium head)",
+      "Cooking oil",
+      "3 green onions",
+      "1 clove garlic, minced",
+      "Dash ginger, optional",
+      "3 tablespoons soy sauce",
+      "Few drops sesame oil, to taste",
+      "1-2 cups pork, chicken, beef, ham or shrimp, diced",
+      "3 eggs, beaten"
+    ],
+    "utensils": [
+      "Wok or very large skillet",
+      "Hand grater or food processor with grating blade",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Spatula or wooden spoon"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Grate cauliflower to rice-like consistency, measure out 10 ounces",
+        "sk": "Nastrúhajte karfiol na konzistenciu podobnú ryži, odvážte 280 gramov",
+        "ja": "カリフラワーをすりおろしてご飯のような食感にし、280グラムを計量する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Slice green onions, keeping white parts and green tops separate",
+        "sk": "Nakrájajte jarnú cibuľku, oddeľte biele časti od zelených vrchov",
+        "ja": "青ネギを切り、白い部分と緑の部分を分ける",
+        "primaryIngredient": "green onions"
+      },
+      {
+        "time": 2,
+        "en": "Heat oil in wok or large skillet on medium-high",
+        "sk": "Rozohrejte olej vo woku alebo veľkej panvici na stredne vysokom ohni",
+        "ja": "中高温で中華鍋または大きなフライパンに油を熱する",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Quickly stir-fry white parts of green onions and minced garlic",
+        "sk": "Rýchlo opražte biele časti jarnej cibuľky a nasekaný cesnak",
+        "ja": "青ネギの白い部分とみじん切りにしたニンニクを手早く炒める",
+        "primaryIngredient": "green onions"
+      },
+      {
+        "time": 5,
+        "en": "Add cauliflower; fry 4-5 minutes, stirring constantly until it begins to color",
+        "sk": "Pridajte karfiol; smažte 4-5 minút za stáleho miešania, kým nezačne meniť farbu",
+        "ja": "カリフラワーを加え、色づき始めるまで4〜5分間絶えずかき混ぜながら炒める",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Stir in ginger, soy sauce, sesame oil, and diced meat. Stir-fry until somewhat browned",
+        "sk": "Vmiešajte zázvor, sójovú omáčku, sezamový olej a nakrájané mäso. Opekajte, kým mierne nezhnedne",
+        "ja": "生姜、醤油、ごま油、刻んだ肉を加える。少し焦げ目がつくまで炒める",
+        "primaryIngredient": "meat"
+      },
+      {
+        "time": 3,
+        "en": "Push 'rice' to one side, pour beaten eggs into other side; scramble until moist",
+        "sk": "Odsuňte 'ryžu' na jednu stranu, nalejte rozšľahané vajcia na druhú stranu; miešajte, kým nebudú vláčne",
+        "ja": "「ご飯」を片側に寄せ、溶き卵を反対側に注ぐ。半熟状態になるまで炒り混ぜる",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Mix eggs into 'rice', breaking up large chunks. Add green onion tops and toss lightly",
+        "sk": "Vmiešajte vajcia do 'ryže', rozdrobte väčšie kusy. Pridajte zelené časti jarnej cibuľky a zľahka premiešajte",
+        "ja": "卵を「ご飯」に混ぜ、大きな塊をほぐす。青ネギの緑の部分を加えて軽く混ぜる",
+        "primaryIngredient": "eggs"
+      }
+    ],
+    "favorite": true,
+    "recipeType": "keto-side"
+  }

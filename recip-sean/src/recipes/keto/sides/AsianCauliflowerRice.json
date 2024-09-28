@@ -1,0 +1,56 @@
+{
+    "id": "keto-side_asian_flavored_rice_001",
+    "name": "Asian Flavored Cauliflower 'Rice'",
+    "ingredients": [
+      "2 tablespoons oil",
+      "1 tablespoon sesame oil",
+      "1 medium fresh cauliflower, about 20 ounces",
+      "8 ounces fresh bean sprouts",
+      "2 cloves garlic, minced",
+      "3 tablespoons soy sauce",
+      "Salt and pepper, to taste",
+      "1 bunch green onions, chopped"
+    ],
+    "utensils": [
+      "Wok or very large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring spoon or spatula",
+      "Garlic mincer"
+    ],
+    "cookingTime": 7,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Heat oils in a wok or very large skillet over medium-high heat",
+        "sk": "Rozohrejte oleje vo woku alebo veľmi veľkej panvici na stredne vysokom ohni",
+        "ja": "中華鍋または大きなフライパンで中高温で油を熱する",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 5,
+        "en": "Add cauliflower, bean sprouts, minced garlic, soy sauce, salt, and pepper; stir fry until tender, about 5 minutes",
+        "sk": "Pridajte karfiol, fazuľové klíčky, nasekaný cesnak, sójovú omáčku, soľ a korenie; opekajte, kým nezmäknú, asi 5 minút",
+        "ja": "カリフラワー、もやし、みじん切りにしたニンニク、醤油、塩、コショウを加え、柔らかくなるまで約5分間炒める",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add chopped green onions and stir fry for a few seconds, just until heated",
+        "sk": "Pridajte nakrájanú jarnú cibuľku a opekajte niekoľko sekúnd, len kým sa nezohreje",
+        "ja": "刻んだ青ネギを加え、温まる程度に数秒間炒める",
+        "primaryIngredient": "green onions"
+      },
+      {
+        "time": 1,
+        "en": "Adjust seasoning to taste",
+        "sk": "Upravte dochutenie podľa chuti",
+        "ja": "味を調整する",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

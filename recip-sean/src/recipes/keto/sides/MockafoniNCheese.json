@@ -1,0 +1,99 @@
+{
+    "id": "keto-side_mockafoni_and_cheese_001",
+    "name": "Mockafoni & Cheese",
+    "ingredients": [
+      "16 ounce bag frozen cauliflower",
+      "4 ounces cream cheese",
+      "2 tablespoons heavy cream or low carb milk",
+      "6 ounces cheddar cheese, shredded (divided into 4 oz and 2 oz)",
+      "2 green onions, finely chopped",
+      "1 teaspoon minced chives, optional",
+      "1/2 teaspoon salt, or to taste",
+      "1/2 teaspoon pepper, or to taste"
+    ],
+    "utensils": [
+      "1 1/2 quart casserole dish",
+      "Microwave",
+      "Whisk",
+      "Stirring spoon",
+      "Oven",
+      "Measuring cups and spoons",
+      "Colander for draining cauliflower"
+    ],
+    "cookingTime": 50,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook frozen cauliflower until tender; drain well",
+        "sk": "Uvarte mrazený karfiol do mäkka; dobre sceďte",
+        "ja": "冷凍カリフラワーを柔らかくなるまで調理し、よく水気を切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "In a 1 1/2 quart casserole, soften cream cheese in microwave for 30-40 seconds on HIGH",
+        "sk": "V 1,5 litrovej zapekacej miske zmäkčite krémový syr v mikrovlnnej rúre 30-40 sekúnd na VYSOKOM výkone",
+        "ja": "1.5クォートのキャセロールで、クリームチーズを電子レンジの強で30〜40秒柔らかくする",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 1,
+        "en": "Whisk heavy cream or low carb milk into softened cream cheese until smooth",
+        "sk": "Vyšľahajte smotanu alebo nízkosacharidové mlieko do zmäknutého krémového syra, kým nebude hladké",
+        "ja": "柔らかくなったクリームチーズに生クリームまたは低糖質ミルクを加え、滑らかになるまで泡立てる",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 1,
+        "en": "Stir in 4 ounces of shredded cheddar cheese",
+        "sk": "Vmiešajte 115 gramov strúhaného čedaru",
+        "ja": "シュレッドチェダーチーズ115グラムを混ぜ込む",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 3,
+        "en": "Microwave on MEDIUM for 2-3 minutes or until cheese is melted, stirring until creamy and smooth",
+        "sk": "Varte v mikrovlnnej rúre na STREDNOM výkone 2-3 minúty alebo kým sa syr neroztopí, miešajte, kým nebude krémový a hladký",
+        "ja": "電子レンジの中火で2〜3分、またはチーズが溶けるまで加熱し、クリーミーで滑らかになるまで混ぜる",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 1,
+        "en": "Stir in green onions, chives, salt, and pepper",
+        "sk": "Vmiešajte jarnú cibuľku, pažítku, soľ a korenie",
+        "ja": "青ネギ、チャイブ、塩、コショウを混ぜ込む",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 2,
+        "en": "Gently fold cooked cauliflower into the cheese sauce to coat well",
+        "sk": "Jemne vmiešajte uvarený karfiol do syrové omáčky, aby sa dobre obalil",
+        "ja": "調理したカリフラワーをチーズソースに優しく折り込み、よくコーティングする",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Adjust seasonings if needed",
+        "sk": "V prípade potreby upravte dochutenie",
+        "ja": "必要に応じて味を調整する",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 1,
+        "en": "Top with remaining 2 ounces of shredded cheddar cheese",
+        "sk": "Posypte zvyšnými 55 gramami strúhaného čedaru",
+        "ja": "残りの55グラムのシュレッドチェダーチーズを上にかける",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 35 minutes, until bubbly and brown on top",
+        "sk": "Pečte pri teplote 175°C 35 minút, kým nebude bublať a zhnedne na povrchu",
+        "ja": "350°F（175°C）で35分間、表面が泡立ち茶色くなるまで焼く",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

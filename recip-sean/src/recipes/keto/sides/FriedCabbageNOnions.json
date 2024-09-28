@@ -1,0 +1,50 @@
+{
+    "id": "keto-side_fried_cabbage_and_onions_001",
+    "name": "Fried Cabbage & Onions",
+    "ingredients": [
+      "3-4 pieces bacon, chopped",
+      "1 pound cabbage, coarsely chopped (about 1 small head)",
+      "1 small onion, coarsely chopped (2 1/2 ounces)",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Stirring spoon"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Chop bacon, cabbage, and onion",
+        "sk": "Nakrájajte slaninu, kapustu a cibuľu",
+        "ja": "ベーコン、キャベツ、玉ねぎを刻む",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "In a large skillet, fry the chopped bacon until almost crisp",
+        "sk": "Na veľkej panvici opečte nakrájanú slaninu, kým nebude takmer chrumkavá",
+        "ja": "大きなフライパンで刻んだベーコンをほぼカリカリになるまで揚げる",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Add chopped cabbage and onions to the skillet; cook and stir until cabbage is wilted and lightly browned",
+        "sk": "Pridajte nakrájanú kapustu a cibuľu do panvice; varte a miešajte, kým kapusta nezvädne a mierne nezhnedne",
+        "ja": "刻んだキャベツと玉ねぎをフライパンに加え、キャベツがしんなりして軽く焦げ目がつくまで炒める",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste",
+        "sk": "Ochuťte soľou a korením podľa chuti",
+        "ja": "塩コショウで味を調える",
+        "primaryIngredient": "salt and pepper"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,67 @@
+{
+    "id": "keto-side_faux_rice_001",
+    "name": "Faux Rice",
+    "ingredients": [
+      "20 ounces fresh cauliflower (1 medium)",
+      "2-4 tablespoons water",
+      "Butter, to taste",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Food processor with grating disk",
+      "2 1/2 quart casserole with lid",
+      "Microwave",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring spoon"
+    ],
+    "cookingTime": 14,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim cauliflower leaves and tough stalks, then coarsely chop into pieces that fit the food processor feed tube",
+        "sk": "Odstráňte listy a väčšinu tvrdých stoniek karfiolu, potom nahrubo nasekajte na kúsky, ktoré sa zmestia do podávača kuchynského robota",
+        "ja": "カリフラワーの葉と硬い茎を取り除き、フードプロセッサーの投入口に入る大きさに粗く刻む",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 3,
+        "en": "Using the grating disk, process the cauliflower in the food processor",
+        "sk": "Pomocou strúhadlového kotúča spracujte karfiol v kuchynskom robote",
+        "ja": "おろし金ディスクを使用して、フードプロセッサーでカリフラワーを処理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Put processed cauliflower in a 2 1/2 quart casserole with a lid",
+        "sk": "Vložte spracovaný karfiol do 2,5 litrovej zapekacej misy s pokrievkou",
+        "ja": "処理したカリフラワーを2.5クォートのふた付きキャセロールに入れる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add 2-4 tablespoons of water and cover",
+        "sk": "Pridajte 2-4 lyžice vody a prikryte",
+        "ja": "大さじ2〜4の水を加えて蓋をする",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 14,
+        "en": "Microwave on HIGH for 8-14 minutes, stirring every 4-5 minutes and checking for doneness",
+        "sk": "Varte v mikrovlnnej rúre na VYSOKOM výkone 8-14 minút, každé 4-5 minút premiešajte a skontrolujte, či je hotové",
+        "ja": "電子レンジの強で8〜14分加熱し、4〜5分ごとにかき混ぜて火の通り具合を確認する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "When tender but not mushy, add butter and season with salt and pepper to taste",
+        "sk": "Keď je mäkký, ale nie rozvarený, pridajte maslo a ochuťte soľou a korením podľa chuti",
+        "ja": "柔らかくなったがふやけていない状態で、バターを加え、塩コショウで味を調える",
+        "primaryIngredient": "butter"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

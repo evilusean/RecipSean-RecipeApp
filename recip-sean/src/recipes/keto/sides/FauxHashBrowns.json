@@ -1,0 +1,89 @@
+{
+    "id": "keto-side_faux_hash_browns_001",
+    "name": "Faux Hash Browns",
+    "ingredients": [
+      "20 ounces fresh cauliflower (1 medium)",
+      "2-4 tablespoons water",
+      "Butter (for Faux Rice and for frying)",
+      "Salt and pepper, to taste",
+      "1 teaspoon to 1 tablespoon onion, chopped (optional)"
+    ],
+    "utensils": [
+      "Food processor with grating disk",
+      "2 1/2 quart casserole with lid",
+      "Microwave",
+      "Small nonstick skillet",
+      "Spatula or wooden spoon",
+      "Measuring cups and spoons",
+      "Knife and cutting board"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim cauliflower leaves and tough stalks, coarsely chop to fit food processor feed tube",
+        "sk": "Odstráňte listy a tvrdé stonky karfiolu, nahrubo nasekajte na veľkosť vhodnú pre podávač kuchynského robota",
+        "ja": "カリフラワーの葉と硬い茎を取り除き、フードプロセッサーの投入口に入る大きさに粗く刻む",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Grate cauliflower using food processor grating disk",
+        "sk": "Nastrúhajte karfiol pomocou strúhadlového kotúča kuchynského robota",
+        "ja": "フードプロセッサーのおろし金ディスクを使ってカリフラワーをすりおろす",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Place grated cauliflower in casserole, add 2-4 tablespoons water",
+        "sk": "Vložte nastrúhaný karfiol do zapekacej misy, pridajte 2-4 lyžice vody",
+        "ja": "すりおろしたカリフラワーをキャセロールに入れ、大さじ2〜4の水を加える",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 14,
+        "en": "Microwave on HIGH for 8-14 minutes, stirring every 4-5 minutes until tender but not mushy",
+        "sk": "Varte v mikrovlnnej rúre na VYSOKOM výkone 8-14 minút, každé 4-5 minút premiešajte, kým nebude mäkký, ale nie rozvarený",
+        "ja": "電子レンジの強で8〜14分加熱し、4〜5分ごとにかき混ぜる。柔らかくなるが、ふやけないようにする",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add butter to cooked cauliflower, season with salt and pepper to taste",
+        "sk": "Pridajte maslo k uvarenému karfiolu, ochuťte soľou a korením podľa chuti",
+        "ja": "調理したカリフラワーにバターを加え、塩コショウで味を調える",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 2,
+        "en": "Heat 1-2 tablespoons butter in a small nonstick skillet",
+        "sk": "Rozohrejte 1-2 lyžice masla v malej nepriľnavej panvici",
+        "ja": "小さな非粘着性フライパンで大さじ1〜2のバターを熱する",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Add 1/2 to 1 cup of prepared Faux Rice and optional chopped onion to skillet",
+        "sk": "Pridajte 1/2 až 1 šálku pripravenej falošnej ryže a voliteľne nasekanú cibuľu do panvice",
+        "ja": "準備した偽米1/2〜1カップと刻んだ玉ねぎ（オプション）をフライパンに加える",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Cook on medium-high heat until 'rice' and onion are nicely browned, stirring frequently",
+        "sk": "Varte na stredne vysokom ohni, kým 'ryža' a cibuľa nezhnednú, často miešajte",
+        "ja": "中高温で「ご飯」と玉ねぎがきつね色になるまで頻繁に混ぜながら調理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Season with additional salt and pepper to taste",
+        "sk": "Dochuťte dodatočnou soľou a korením podľa chuti",
+        "ja": "必要に応じて塩コショウで味を調える",
+        "primaryIngredient": "salt and pepper"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

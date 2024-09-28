@@ -1,0 +1,52 @@
+{
+    "id": "keto-side_skillet_cauliflower_gratin_001",
+    "name": "Skillet Cauliflower Gratin",
+    "ingredients": [
+      "1 head cauliflower, grated",
+      "4 tablespoons butter",
+      "1 cup heavy cream",
+      "Salt and pepper, to taste",
+      "Pinch nutmeg, optional",
+      "4 ounces Swiss cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Grater",
+      "Measuring cups and spoons",
+      "Stirring spoon or spatula"
+    ],
+    "cookingTime": 16,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Cook grated cauliflower and butter in a large skillet over medium-high heat until light golden brown, about 8 minutes",
+        "sk": "Varte nastrúhaný karfiol a maslo na veľkej panvici na stredne vysokom ohni, kým nezíska svetlohnedú farbu, asi 8 minút",
+        "ja": "大きなフライパンで中高温で、おろしたカリフラワーとバターを薄い金色になるまで約8分間調理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add heavy cream, salt, pepper, and optional nutmeg to the skillet",
+        "sk": "Pridajte do panvice smotanu na šľahanie, soľ, korenie a voliteľne muškátový oriešok",
+        "ja": "フライパンに生クリーム、塩、コショウ、お好みでナツメグを加える",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 5,
+        "en": "Bring to a simmer and cook uncovered until cream has reduced and thickened, about 3-5 minutes",
+        "sk": "Priveďte do varu a varte nezakryté, kým sa smotana nezredukuje a nezhustne, asi 3-5 minút",
+        "ja": "沸騰させ、クリームが減って濃くなるまで蓋をせずに3〜5分ほど煮る",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 2,
+        "en": "Stir in shredded Swiss cheese and cook over low heat until cheese has melted",
+        "sk": "Vmiešajte strúhaný švajčiarsky syr a varte na miernom ohni, kým sa syr neroztopí",
+        "ja": "シュレッドしたスイスチーズを加え、弱火でチーズが溶けるまで調理する",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,92 @@
+{
+    "id": "keto-side_colcannon_001",
+    "name": "Keto Colcannon",
+    "ingredients": [
+      "29 ounces fresh cauliflower, coarsely chopped (1 large head)",
+      "1 tablespoon heavy cream",
+      "Salt and pepper, to taste",
+      "Pinch nutmeg, optional",
+      "2 slices bacon, chopped",
+      "1 pound cabbage, coarsely shredded",
+      "1 small onion, chopped (2 1/2 ounces)",
+      "1 tablespoon water"
+    ],
+    "utensils": [
+      "Large covered casserole dish",
+      "Food processor with chopping blade",
+      "Large skillet",
+      "Microwave",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons"
+    ],
+    "cookingTime": 22,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Chop cauliflower into small pieces and place in a large covered casserole dish with 1 tablespoon water",
+        "sk": "Nakrájajte karfiol na malé kúsky a vložte do veľkej zapekacej misy s pokrievkou s 1 lyžicou vody",
+        "ja": "カリフラワーを小さく切り、大きな蓋付きキャセロール皿に水大さじ1と共に入れる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 12,
+        "en": "Microwave cauliflower on HIGH for 5 minutes, stir, then cook another 5-7 minutes until very tender",
+        "sk": "Varte karfiol v mikrovlnnej rúre na VYSOKOM výkone 5 minút, premiešajte, potom varte ďalších 5-7 minút, kým nebude veľmi mäkký",
+        "ja": "カリフラワーを強火で5分加熱し、かき混ぜてからさらに5〜7分、非常に柔らかくなるまで調理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Let cauliflower stand covered for 5 minutes, then drain",
+        "sk": "Nechajte karfiol prikrytý stáť 5 minút, potom sceďte",
+        "ja": "カリフラワーを蓋をしたまま5分置き、その後水気を切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Process cauliflower with heavy cream in a food processor until smooth and creamy",
+        "sk": "Spracujte karfiol s ťažkou smotanou v kuchynskom robote, kým nebude hladký a krémový",
+        "ja": "カリフラワーと生クリームをフードプロセッサーで滑らかでクリーミーになるまで処理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Season cauliflower puree with salt, pepper, and optional nutmeg",
+        "sk": "Ochuťte karfiolovú pyré soľou, korením a voliteľne muškátovým orieškom",
+        "ja": "カリフラワーのピューレに塩、コショウ、お好みでナツメグで味付けする",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a large skillet, fry chopped bacon until crisp",
+        "sk": "Na veľkej panvici opečte nakrájanú slaninu do chrumkava",
+        "ja": "大きなフライパンで刻んだベーコンをカリカリになるまで揚げる",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Add shredded cabbage and chopped onion to the skillet with bacon fat, cook until cabbage is very tender",
+        "sk": "Pridajte nastrúhanú kapustu a nakrájanú cibuľu do panvice so slaninou, varte, kým kapusta nebude veľmi mäkká",
+        "ja": "千切りキャベツと刻んだ玉ねぎをベーコンの脂が残ったフライパンに加え、キャベツが非常に柔らかくなるまで調理する",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 1,
+        "en": "Season cabbage mixture with salt and pepper",
+        "sk": "Ochuťte kapustovú zmes soľou a korením",
+        "ja": "キャベツの混ぜ物に塩コショウで味付けする",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 2,
+        "en": "Gently stir the cabbage mixture into the cauliflower puree without over mixing",
+        "sk": "Jemne vmiešajte kapustovú zmes do karfiolovej pyré bez prílišného miešania",
+        "ja": "キャベツの混ぜ物をカリフラワーのピューレに優しく混ぜ込む（混ぜすぎないように注意）",
+        "primaryIngredient": "cabbage"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

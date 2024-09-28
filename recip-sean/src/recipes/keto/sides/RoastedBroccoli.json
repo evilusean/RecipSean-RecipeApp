@@ -1,0 +1,50 @@
+{
+    "id": "keto-side_roasted_broccoli_001",
+    "name": "Roasted Broccoli",
+    "ingredients": [
+      "Fresh broccoli, trimmed and cut into spears",
+      "Oil or olive oil",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Large bowl for tossing",
+      "Roasting pan or baking sheet",
+      "Oven"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim fresh broccoli and cut into spears",
+        "sk": "Očistite čerstvú brokolicu a nakrájajte ju na ružičky",
+        "ja": "新鮮なブロッコリーを切り揃え、小房に切り分ける",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 3,
+        "en": "Toss broccoli spears with oil, salt, and pepper to coat evenly",
+        "sk": "Premiešajte ružičky brokolice s olejom, soľou a korením, aby sa rovnomerne obalili",
+        "ja": "ブロッコリーの小房に油、塩、コショウを均一にまぶす",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 2,
+        "en": "Arrange seasoned broccoli in a single layer on a roasting pan or baking sheet",
+        "sk": "Rozložte ochutenú brokolicu v jednej vrstve na pekáč alebo plech na pečenie",
+        "ja": "味付けしたブロッコリーをローストパンまたはベーキングシートに一層に並べる",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 375-400°F (190-200°C) for 20 minutes, until tender and browned",
+        "sk": "Pečte pri teplote 190-200°C 20 minút, kým nebude mäkká a zhnednutá",
+        "ja": "375-400°F（190-200°C）のオーブンで20分間、柔らかくなり褐色になるまで焼く",
+        "primaryIngredient": "broccoli"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

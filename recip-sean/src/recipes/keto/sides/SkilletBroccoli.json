@@ -1,0 +1,71 @@
+{
+    "id": "keto-side_skillet_broccoli_cooked_just_right_001",
+    "name": "Skillet Broccoli Cooked Just Right",
+    "ingredients": [
+      "1 bunch fresh broccoli, about 2 pounds",
+      "Salt, to taste",
+      "Butter, about 2 tablespoons"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Peeler",
+      "Colander"
+    ],
+    "cookingTime": 8,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Wash broccoli and peel away the tough outer layer of the stems",
+        "sk": "Umyte brokolicu a olúpte tvrdú vonkajšiu vrstvu stoniek",
+        "ja": "ブロッコリーを洗い、茎の固い外皮を剥く",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 3,
+        "en": "Cut each broccoli stalk into 2-3 spears",
+        "sk": "Nakrájajte každú stonku brokolice na 2-3 ružice",
+        "ja": "ブロッコリーの茎を2〜3本の小房に切り分ける",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 2,
+        "en": "Arrange broccoli in a large skillet and add water to 1 inch depth. Sprinkle with salt",
+        "sk": "Uložte brokolicu do veľkej panvice a pridajte vodu do výšky 2,5 cm. Posoľte",
+        "ja": "大きなフライパンにブロッコリーを並べ、2.5cmの深さまで水を入れる。塩をふる",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 3,
+        "en": "Bring to a boil, then reduce heat to simmer. Cover and cook for 3 minutes",
+        "sk": "Priveďte do varu, potom znížte teplotu na mierny var. Prikryte a varte 3 minúty",
+        "ja": "沸騰させてから弱火にし、蓋をして3分間煮る",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 1,
+        "en": "Remove from heat and drain",
+        "sk": "Odstavte z ohňa a sceďte",
+        "ja": "火を止めて水気を切る",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Cover the pan and let stand off the heat for 5 minutes",
+        "sk": "Prikryte panvicu a nechajte odstáť mimo tepla 5 minút",
+        "ja": "フライパンに蓋をして火を止めたまま5分間蒸らす",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 1,
+        "en": "Season to taste and add butter before serving",
+        "sk": "Pred podávaním ochuťte podľa chuti a pridajte maslo",
+        "ja": "味を調え、バターを加えて供する",
+        "primaryIngredient": "butter"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

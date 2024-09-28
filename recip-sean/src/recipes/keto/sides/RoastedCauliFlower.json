@@ -1,0 +1,82 @@
+{
+    "id": "keto-side_roasted_cauliflower_001",
+    "name": "Roasted Cauliflower",
+    "ingredients": [
+      "1 medium head cauliflower (about 2 pounds)",
+      "2 tablespoons olive oil or vegetable oil",
+      "2 tablespoons butter, melted",
+      "1/2 teaspoon coarse salt",
+      "1/4 teaspoon freshly ground pepper"
+    ],
+    "utensils": [
+      "Large zipper bag",
+      "Small bowl",
+      "Large rimmed baking sheet",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Rinse the cauliflower and cut into serving-sized pieces",
+        "sk": "Opláchnite karfiol a nakrájajte na kúsky veľkosti porcie",
+        "ja": "カリフラワーを洗い、食べやすい大きさに切る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Place cauliflower pieces in a large zipper bag",
+        "sk": "Vložte kúsky karfiolu do veľkého zipového vrecka",
+        "ja": "カリフラワーの切り身を大きなジッパー付き袋に入れる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, mix oil, melted butter, salt, and pepper",
+        "sk": "V malej miske zmiešajte olej, rozpustené maslo, soľ a korenie",
+        "ja": "小さなボウルに油、溶かしバター、塩、コショウを混ぜる",
+        "primaryIngredient": "oil mixture"
+      },
+      {
+        "time": 1,
+        "en": "Pour oil mixture into the bag with cauliflower",
+        "sk": "Nalejte olejovú zmes do vrecka s karfiolom",
+        "ja": "油混合物をカリフラワーの入った袋に注ぐ",
+        "primaryIngredient": "oil mixture"
+      },
+      {
+        "time": 2,
+        "en": "Seal the bag and gently toss to coat cauliflower with oil mixture",
+        "sk": "Uzavrite vrecko a jemne pretrepte, aby sa karfiol obalil olejovou zmesou",
+        "ja": "袋を密閉し、優しく振ってカリフラワーに油混合物をまぶす",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Spread cauliflower in a single layer on a large rimmed baking sheet",
+        "sk": "Rozložte karfiol v jednej vrstve na veľký plech s okrajmi",
+        "ja": "大きな縁付きベーキングシートにカリフラワーを一層に広げる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Preheat oven to 400°F (200°C)",
+        "sk": "Predhrejte rúru na 200°C",
+        "ja": "オーブンを400°F（200°C）に予熱する",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 30,
+        "en": "Bake for 25-30 minutes, turning cauliflower every 10 minutes, until browned on edges and tender",
+        "sk": "Pečte 25-30 minút, každých 10 minút karfiol otočte, kým nezhnedne na okrajoch a nezmäkne",
+        "ja": "25〜30分焼き、10分ごとにカリフラワーを返しながら、端が茶色くなり柔らかくなるまで調理する",
+        "primaryIngredient": "cauliflower"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

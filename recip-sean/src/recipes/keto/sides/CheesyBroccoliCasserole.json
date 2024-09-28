@@ -1,0 +1,63 @@
+{
+    "id": "keto-side_cheesy_broccoli_casserole_001",
+    "name": "Cheesy Broccoli Casserole",
+    "ingredients": [
+      "14-16 ounce package frozen broccoli florets",
+      "4 ounces cream cheese, softened",
+      "4 ounces cheddar cheese, shredded",
+      "4 green onions, chopped",
+      "Salt and pepper, to taste",
+      "3 pieces bacon, chopped and fried until crisp"
+    ],
+    "utensils": [
+      "2-quart casserole dish",
+      "Large pot for cooking broccoli",
+      "Colander",
+      "Knife",
+      "Cutting board",
+      "Mixing spoon",
+      "Frying pan for bacon",
+      "Oven"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cook frozen broccoli florets for 4-5 minutes or until tender-crisp; drain very well",
+        "sk": "Varte mrazené ružičky brokolice 4-5 minút alebo kým nebudú chrumkavé; dobre sceďte",
+        "ja": "冷凍ブロッコリーを4〜5分、またはちょうど歯ごたえが残る程度に茹で、よく水気を切る",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Chop green onions and fry chopped bacon until crisp",
+        "sk": "Nakrájajte jarnú cibuľku a opražte nakrájanú slaninu do chrumkava",
+        "ja": "青ネギを刻み、ベーコンを細かく切って揚げてカリカリにする",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Place cooked broccoli in a greased 2-quart casserole dish",
+        "sk": "Vložte uvarenú brokolicu do vymastenej 2-litrovej zapekacej misy",
+        "ja": "茹でたブロッコリーを油を塗った2クォートのキャセロール皿に入れる",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Mix in softened cream cheese, shredded cheddar, chopped green onions, salt, pepper, and crispy bacon",
+        "sk": "Primiešajte zmäknutý krémový syr, strúhaný čedar, nakrájanú jarnú cibuľku, soľ, korenie a chrumkavú slaninu",
+        "ja": "柔らかくしたクリームチーズ、シュレッドチェダーチーズ、刻んだ青ネギ、塩、コショウ、カリカリのベーコンを混ぜ合わせる",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F (175°C) for 20-30 minutes, until bubbly",
+        "sk": "Pečte pri teplote 175°C 20-30 minút, kým nebude bublinkové",
+        "ja": "350°F（175°C）のオーブンで20〜30分、泡立つまで焼く",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

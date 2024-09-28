@@ -1,0 +1,63 @@
+{
+    "id": "keto-side_cauliflower_mexican_rice_001",
+    "name": "Cauliflower Mexican 'Rice'",
+    "ingredients": [
+      "10 ounces fresh cauliflower, grated (1/2 medium)",
+      "1 small onion, slivered (2 1/2 ounces)",
+      "2-3 tablespoons butter or oil or a combination",
+      "1/2 cup salsa",
+      "1/8 teaspoon garlic powder",
+      "3/4 teaspoon salt, or to taste",
+      "1/4 teaspoon pepper",
+      "1/8 teaspoon granular Splenda"
+    ],
+    "utensils": [
+      "Very large skillet with lid",
+      "Grater",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Stirring spoon"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Grate cauliflower and sliver onion",
+        "sk": "Nastrúhajte karfiol a nakrájajte cibuľu na tenké plátky",
+        "ja": "カリフラワーをすりおろし、玉ねぎを薄切りにする",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a very large skillet with a lid, sauté slivered onion in butter and/or oil until tender",
+        "sk": "Vo veľmi veľkej panvici s pokrievkou opečte nakrájanú cibuľu na masle a/alebo oleji, kým nezmäkne",
+        "ja": "蓋付きの大きなフライパンで、薄切りの玉ねぎをバターやオイルで柔らかくなるまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Stir in grated cauliflower",
+        "sk": "Vmiešajte nastrúhaný karfiol",
+        "ja": "すりおろしたカリフラワーを加えて混ぜる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add salsa, garlic powder, salt, pepper, and Splenda. Mix well",
+        "sk": "Pridajte salsu, cesnakový prášok, soľ, korenie a Splendu. Dobre premiešajte",
+        "ja": "サルサ、ニンニクパウダー、塩、コショウ、スプレンダを加えてよく混ぜる",
+        "primaryIngredient": "salsa"
+      },
+      {
+        "time": 12,
+        "en": "Cover and simmer for 10-12 minutes until cauliflower is tender but not mushy, stirring occasionally",
+        "sk": "Prikryte a varte na miernom ohni 10-12 minút, kým karfiol nezmäkne, ale nie je rozvarený, občas premiešajte",
+        "ja": "蓋をして10〜12分間、時々かき混ぜながら、カリフラワーが柔らかくなるまで（ただし煮崩れないように）煮る",
+        "primaryIngredient": "cauliflower"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

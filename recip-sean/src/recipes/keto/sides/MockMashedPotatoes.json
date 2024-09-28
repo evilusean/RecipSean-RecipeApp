@@ -1,0 +1,102 @@
+{
+    "id": "keto-side_nancys_mock_twice_baked_potatoes_001",
+    "name": "Nancy's Mock Twice Baked Potatoes",
+    "ingredients": [
+      "20 ounces frozen cauliflower",
+      "1/2 cup sour cream",
+      "2 ounces cream cheese, cut up",
+      "4 tablespoons butter, divided",
+      "1/2-1 cup cheddar cheese, divided (2-4 ounces)",
+      "6 slices bacon, fried and crumbled, divided",
+      "1 teaspoon dry minced onion",
+      "1 1/4 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1/2 cup water (for cooking cauliflower)"
+    ],
+    "utensils": [
+      "1 1/2-quart casserole dish",
+      "Microwave",
+      "Colander",
+      "Paper towels",
+      "Food processor with chopping blade",
+      "Oven",
+      "Measuring cups and spoons",
+      "Stirring spoon"
+    ],
+    "cookingTime": 46,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Place frozen cauliflower in a 1 1/2-quart casserole with 1/2 cup water",
+        "sk": "Vložte mrazený karfiol do 1,5 litrovej zapekacej misy s 1/2 šálkou vody",
+        "ja": "冷凍カリフラワーを1.5クォートのキャセロールに入れ、1/2カップの水を加える",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 7,
+        "en": "Cover and microwave on HIGH for 7 minutes",
+        "sk": "Prikryte a varte v mikrovlnnej rúre na VYSOKOM výkone 7 minút",
+        "ja": "蓋をして電子レンジの強で7分加熱する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 7,
+        "en": "Stir cauliflower and microwave for another 7 minutes",
+        "sk": "Premiešajte karfiol a varte v mikrovlnnej rúre ďalších 7 minút",
+        "ja": "カリフラワーをかき混ぜ、さらに7分加熱する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Let cauliflower stand for 2 minutes",
+        "sk": "Nechajte karfiol odstáť 2 minúty",
+        "ja": "カリフラワーを2分間置く",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 3,
+        "en": "Drain cauliflower in a colander and blot with paper towels to remove excess moisture",
+        "sk": "Sceďte karfiol v cedidle a osušte papierovými utierkami, aby ste odstránili prebytočnú vlhkosť",
+        "ja": "ざるでカリフラワーの水気を切り、ペーパータオルで余分な水分を吸い取る",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a food processor, combine cauliflower, sour cream, cream cheese, half the butter, half the cheese, half the bacon, dry minced onion, salt, and pepper. Process until desired smoothness",
+        "sk": "V kuchynskom robote zmiešajte karfiol, kyslú smotanu, krémový syr, polovicu masla, polovicu syra, polovicu slaniny, sušenú cibuľu, soľ a korenie. Mixujte do požadovanej hladkosti",
+        "ja": "フードプロセッサーでカリフラワー、サワークリーム、クリームチーズ、バターの半分、チーズの半分、ベーコンの半分、乾燥ミンチオニオン、塩、コショウを合わせ、好みの滑らかさになるまで処理する",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Butter the casserole dish used for cooking the cauliflower",
+        "sk": "Vymastite zapekaciu misu, ktorú ste použili na varenie karfiolu, maslom",
+        "ja": "カリフラワーを調理したキャセロール皿にバターを塗る",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Pour the cauliflower mixture into the buttered casserole dish",
+        "sk": "Nalejte karfiolovú zmes do vymastenej zapekacej misy",
+        "ja": "バターを塗ったキャセロール皿にカリフラワーの混ぜ物を注ぐ",
+        "primaryIngredient": "cauliflower mixture"
+      },
+      {
+        "time": 2,
+        "en": "Top with remaining butter, cheese, and bacon bits",
+        "sk": "Posypte zvyšným maslom, syrom a kúskami slaniny",
+        "ja": "残りのバター、チーズ、ベーコンビッツをトッピングする",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 25,
+        "en": "Bake uncovered at 400°F (200°C) for 25 minutes or until lightly browned",
+        "sk": "Pečte nezakryté pri teplote 200°C 25 minút alebo kým mierne nezhnedne",
+        "ja": "400°F（200°C）のオーブンで25分間、または軽く焦げ目がつくまで蓋をせずに焼く",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,60 @@
+{
+    "id": "keto-side_loaded_cauliflower_001",
+    "name": "'Loaded' Cauliflower",
+    "ingredients": [
+      "1 cup cooked cauliflower",
+      "1 teaspoon butter",
+      "Salt and pepper, to taste",
+      "1 ounce cheddar cheese, shredded",
+      "1 tablespoon ranch dressing or sour cream",
+      "1 strip bacon, crumbled",
+      "1 teaspoon chives"
+    ],
+    "utensils": [
+      "Individual-serving baking dish",
+      "Microwave or broiler",
+      "Measuring cups and spoons",
+      "Cheese grater (if cheese isn't pre-shredded)"
+    ],
+    "cookingTime": 5,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Add butter to cooked cauliflower and season with salt and pepper",
+        "sk": "Pridajte maslo k uvarenému karfiolu a ochuťte soľou a korením",
+        "ja": "調理済みのカリフラワーにバターを加え、塩コショウで味を調える",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Place seasoned cauliflower in an individual-serving baking dish",
+        "sk": "Vložte ochutený karfiol do zapekacej misky na jednu porciu",
+        "ja": "味付けしたカリフラワーを一人分の耐熱皿に入れる",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Top cauliflower with shredded cheddar cheese",
+        "sk": "Posypte karfiol strúhaným čedarom",
+        "ja": "カリフラワーの上にシュレッドチェダーチーズをのせる",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Microwave or broil until cheese is melted",
+        "sk": "Varte v mikrovlnnej rúre alebo grilujte, kým sa syr neroztopí",
+        "ja": "チーズが溶けるまで電子レンジで加熱するかブロイルする",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Top with ranch dressing or sour cream, crumbled bacon, and chives",
+        "sk": "Navrch pridajte dresing ranch alebo kyslú smotanu, rozdrvenú slaninu a pažítku",
+        "ja": "上からランチドレッシングまたはサワークリーム、細かく砕いたベーコン、チャイブをかける",
+        "primaryIngredient": "toppings"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

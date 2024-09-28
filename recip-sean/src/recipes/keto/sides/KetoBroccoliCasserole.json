@@ -1,0 +1,82 @@
+{
+  "id": "keto-side_broccoli_casserole_with_mushroom_soup_001",
+  "name": "Broccoli Casserole with Homemade Cream of Mushroom Soup",
+  "ingredients": [
+    "8 small mushrooms, chopped, 3 ounces",
+    "1 stalk celery, chopped",
+    "2 tablespoons onion, chopped, about 1 ounce",
+    "2 tablespoons butter",
+    "1/2 cup chicken broth",
+    "3/4 cup heavy cream",
+    "Salt and pepper, to taste",
+    "Xanthan gum, optional",
+    "24 ounces frozen broccoli florets",
+    "8 ounces cheddar cheese"
+  ],
+  "utensils": [
+    "Medium skillet",
+    "Knife",
+    "Cutting board",
+    "Measuring cups and spoons",
+    "Stirring spoon",
+    "Large pot for cooking broccoli",
+    "Colander",
+    "Baking dish",
+    "Oven"
+  ],
+  "cookingTime": 45,
+  "prepTime": 25,
+  "instructions": [
+    {
+      "time": 5,
+      "en": "Sauté chopped mushrooms, celery, and onion in butter until soft",
+      "sk": "Opražte nakrájané huby, zeler a cibuľu na masle do mäkka",
+      "ja": "刻んだキノコ、セロリ、玉ねぎをバターで柔らかくなるまで炒める",
+      "primaryIngredient": "mushrooms"
+    },
+    {
+      "time": 10,
+      "en": "Add broth and cream. Bring to a boil, then reduce heat and cook until thickened, stirring frequently",
+      "sk": "Pridajte vývar a smotanu. Priveďte do varu, potom znížte teplotu a varte za častého miešania, kým sa nezahustí",
+      "ja": "ブロスとクリームを加える。沸騰させた後、火を弱め、頻繁に混ぜながら濃くなるまで煮る",
+      "primaryIngredient": "cream"
+    },
+    {
+      "time": 2,
+      "en": "Season mushroom soup with salt and pepper to taste",
+      "sk": "Ochuťte hubovú polievku soľou a korením podľa chuti",
+      "ja": "マッシュルームスープに塩コショウで味を調える",
+      "primaryIngredient": "salt and pepper"
+    },
+    {
+      "time": 3,
+      "en": "Optional: Sprinkle xanthan gum lightly over soup as it thickens, stirring quickly",
+      "sk": "Voliteľné: Ľahko posypte polievku xantánovou gumou, keď sa začne zahusťovať, rýchlo zamiešajte",
+      "ja": "オプション：スープが濃くなり始めたら、キサンタンガムを軽くふりかけ、素早く混ぜる",
+      "primaryIngredient": "xanthan gum"
+    },
+    {
+      "time": 10,
+      "en": "Cook frozen broccoli florets until not quite tender; drain well",
+      "sk": "Uvarte mrazené ružičky brokolice, kým nie sú úplne mäkké; dobre sceďte",
+      "ja": "冷凍ブロッコリーを少し固めに茹で、よく水気を切る",
+      "primaryIngredient": "broccoli"
+    },
+    {
+      "time": 5,
+      "en": "Mix cooked broccoli with prepared mushroom soup and cheddar cheese",
+      "sk": "Zmiešajte uvarenú brokolicu s pripravenou hubovou polievkou a čedarom",
+      "ja": "茹でたブロッコリーを作ったマッシュルームスープとチェダーチーズと混ぜる",
+      "primaryIngredient": "broccoli"
+    },
+    {
+      "time": 30,
+      "en": "Bake at 350°F (175°C) for 30 minutes until hot and bubbly",
+      "sk": "Pečte pri teplote 175°C 30 minút, kým nebude horúce a bublinkové",
+      "ja": "350°F（175°C）のオーブンで30分、熱々で泡立つまで焼く",
+      "primaryIngredient": "casserole"
+    }
+  ],
+  "favorite": false,
+  "recipeType": "keto-side"
+}

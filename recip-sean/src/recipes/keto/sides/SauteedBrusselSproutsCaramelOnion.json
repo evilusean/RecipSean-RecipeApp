@@ -1,0 +1,68 @@
+{
+    "id": "keto-side_sauteed_brussels_sprouts_caramelized_onions_001",
+    "name": "Sautéed Brussels Sprouts with Caramelized Onions",
+    "ingredients": [
+      "1 pound Brussels sprouts",
+      "1 tablespoon butter",
+      "1 tablespoon oil",
+      "1 large onion, slivered (about 5 1/4 ounces)",
+      "Salt and pepper, to taste",
+      "1/4 cup water"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Measuring cup",
+      "Stirring spoon or spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Wash Brussels sprouts, remove any wilted or discolored outer leaves, and cut in half",
+        "sk": "Umyte ružičkový kel, odstráňte zvädnuté alebo sfarbené vonkajšie listy a prekrojte na polovicu",
+        "ja": "芽キャベツを洗い、しおれたり変色した外側の葉を取り除き、半分に切る",
+        "primaryIngredient": "Brussels sprouts"
+      },
+      {
+        "time": 2,
+        "en": "Sliver the large onion",
+        "sk": "Nakrájajte veľkú cibuľu na tenké plátky",
+        "ja": "大きな玉ねぎを細切りにする",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Heat butter and oil in a large skillet or wok over medium heat",
+        "sk": "Na veľkej panvici alebo woku rozohrejte maslo a olej na strednom ohni",
+        "ja": "大きなフライパンまたは中華鍋で中火でバターと油を熱する",
+        "primaryIngredient": "butter and oil"
+      },
+      {
+        "time": 8,
+        "en": "Sauté Brussels sprouts and onion until onion is golden and sprouts are lightly browned, seasoning with salt and pepper",
+        "sk": "Opečte ružičkový kel a cibuľu, kým cibuľa nezozlatne a kel sa mierne nezhnedne, ochuťte soľou a korením",
+        "ja": "芽キャベツと玉ねぎを炒め、玉ねぎが金色になり芽キャベツが軽く焦げ目がつくまで調理し、塩コショウで味付けする",
+        "primaryIngredient": "Brussels sprouts and onion"
+      },
+      {
+        "time": 1,
+        "en": "Add 1/4 cup water to the skillet",
+        "sk": "Pridajte do panvice 1/4 šálky vody",
+        "ja": "フライパンに1/4カップの水を加える",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 5,
+        "en": "Cover and simmer on low heat for 4-5 minutes until sprouts are tender, stirring frequently",
+        "sk": "Prikryte a varte na miernom ohni 4-5 minút, kým kel nezmäkne, často miešajte",
+        "ja": "蓋をして弱火で4〜5分、芽キャベツが柔らかくなるまで頻繁に混ぜながら煮る",
+        "primaryIngredient": "Brussels sprouts"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }
