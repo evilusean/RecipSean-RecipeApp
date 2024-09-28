@@ -2,23 +2,25 @@ import fs from 'fs'
 import path from 'path'
 
 export interface Recipe {
-  id: string
-  name: string
-  ingredients: string[]
-  utensils: string[]
-  cookingTime: number
-  prepTime: number
-  instructions: {
-    time: number
-    en: string
-    sk?: string
-    ja?: string
-    primaryIngredient: string
-  }[]
-  favorite: boolean
-  recipeType: string
+  id: string;
+  folder: string;
+  name: string;
+  recipeType: string;
+  favorite: boolean;
+  ingredients: string[];
+  utensils: string[];
+  prepTime: number;
+  cookingTime: number;
+  instructions: Instruction[];
 }
 
+interface Instruction {
+  time: number;
+  en: string;
+  sk: string;
+  ja: string;
+  primaryIngredient: string;
+}
 export function getAllRecipes(): Recipe[] {
   const recipesDir = path.join(process.cwd(), 'src', 'recipes')
   return readRecipesInDir(recipesDir) as Recipe[]

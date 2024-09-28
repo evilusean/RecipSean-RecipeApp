@@ -66,7 +66,7 @@ export default function Home() {
             {recipes.length > 0 ? (
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
                 {recipes.map(recipe => (
-                  <Link href={`/recipe/${recipe.id}`} key={recipe.id}>
+                  <Link href={`/recipe/${recipe.folder}/${recipe.id}`} key={recipe.id}>
                     <div className="border border-tokyo-blue rounded-lg p-4 hover:bg-tokyo-blue hover:bg-opacity-10 transition-colors">
                       <h2 className="text-lg sm:text-xl font-semibold text-tokyo-red">{recipe.name}</h2>
                       <div className="flex justify-between items-center mt-2">
