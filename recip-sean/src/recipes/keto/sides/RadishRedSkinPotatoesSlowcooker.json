@@ -1,0 +1,70 @@
+{
+    "id": "keto-side_radish_red_skin_potatoes_001",
+    "name": "Radish \"Red Skin Potatoes\"",
+    "ingredients": [
+      "1 pound red radishes",
+      "Seasonings of choice",
+      "Beef brisket (amount not specified)",
+      "Onions, sliced (amount not specified)"
+    ],
+    "utensils": [
+      "Slow cooker",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 480,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim stems and tails off the radishes",
+        "sk": "Odrežte stonky a korene z reďkoviek",
+        "ja": "ラディッシュの茎と根を切り落とす",
+        "primaryIngredient": "radishes"
+      },
+      {
+        "time": 3,
+        "en": "Cut radishes in half",
+        "sk": "Prekrojte reďkovky na polovicu",
+        "ja": "ラディッシュを半分に切る",
+        "primaryIngredient": "radishes"
+      },
+      {
+        "time": 1,
+        "en": "Place halved radishes in the bottom of the slow cooker",
+        "sk": "Položte polovice reďkoviek na dno pomalého hrnca",
+        "ja": "スロークッカーの底に半分に切ったラディッシュを置く",
+        "primaryIngredient": "radishes"
+      },
+      {
+        "time": 1,
+        "en": "Season the radishes",
+        "sk": "Ochuťte reďkovky",
+        "ja": "ラディッシュに味付けをする",
+        "primaryIngredient": "radishes"
+      },
+      {
+        "time": 2,
+        "en": "Place seasoned beef brisket on top of the radishes",
+        "sk": "Položte ochutený hovädzí hrudník na reďkovky",
+        "ja": "味付けした牛ブリスケットをラディッシュの上に置く",
+        "primaryIngredient": "beef brisket"
+      },
+      {
+        "time": 2,
+        "en": "Top the brisket with sliced onions",
+        "sk": "Na vrch hrudníka položte nakrájanú cibuľu",
+        "ja": "ブリスケットの上にスライスした玉ねぎをのせる",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 480,
+        "en": "Cook on LOW for 8 hours",
+        "sk": "Varte na nízkej teplote 8 hodín",
+        "ja": "低温で8時間調理する",
+        "primaryIngredient": "all"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

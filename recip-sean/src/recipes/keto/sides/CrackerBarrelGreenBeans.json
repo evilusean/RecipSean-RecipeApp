@@ -1,0 +1,74 @@
+{
+    "id": "keto-side_cracker_barrel_country_green_beans_001",
+    "name": "Cracker Barrel Country Green Beans",
+    "ingredients": [
+      "1/4 pound bacon, chopped (4 slices)",
+      "3 14-ounce cans whole green beans with liquid",
+      "1 teaspoon granular Splenda",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1 small onion, chopped (2 1/2 ounces)"
+    ],
+    "utensils": [
+      "2-quart pot with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Can opener"
+    ],
+    "cookingTime": 50,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Chop bacon and onion",
+        "sk": "Nakrájajte slaninu a cibuľu",
+        "ja": "ベーコンと玉ねぎをみじん切りにする",
+        "primaryIngredient": "bacon and onion"
+      },
+      {
+        "time": 5,
+        "en": "In a 2-quart pot, cook chopped bacon until browned but not crisp. Do not drain the grease",
+        "sk": "V 2-litrovom hrnci opečte nakrájanú slaninu do hneda, ale nie do chrumkava. Nevylievajte masť",
+        "ja": "2クォートの鍋で、ベーコンを茶色くなるまで炒めるが、カリカリにはしない。脂は捨てない",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "Add canned green beans with liquid, Splenda, salt, and pepper to the pot",
+        "sk": "Pridajte do hrnca konzervované zelené fazuľky s tekutinou, Splendu, soľ a korenie",
+        "ja": "鍋に缶詰のグリーンビーンズ（液体ごと）、スプレンダ、塩、コショウを加える",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle chopped onion over the top of the beans without mixing",
+        "sk": "Posypte nasekanú cibuľu na vrch fazuliek bez premiešania",
+        "ja": "刻んだ玉ねぎをグリーンビーンズの上に振りかけ、混ぜない",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Cover the pot and bring to a light boil",
+        "sk": "Prikryte hrniec a priveďte do mierneho varu",
+        "ja": "鍋に蓋をして軽く沸騰させる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 45,
+        "en": "Reduce heat and simmer for 45 minutes",
+        "sk": "Znížte teplotu a varte na miernom ohni 45 minút",
+        "ja": "火を弱めて45分間煮込む",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Adjust seasoning if needed",
+        "sk": "V prípade potreby upravte dochutenie",
+        "ja": "必要に応じて味を調整する",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

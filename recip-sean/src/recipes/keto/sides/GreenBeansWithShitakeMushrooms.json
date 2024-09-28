@@ -1,0 +1,101 @@
+{
+    "id": "keto-side_green_beans_braised_with_shiitake_mushrooms_001",
+    "name": "Green Beans Braised with Shiitake Mushrooms",
+    "ingredients": [
+      "1/2 ounce dried shiitake mushrooms (about 10-11 small mushrooms)",
+      "1 cup boiling water",
+      "1 tablespoon soy sauce",
+      "1 teaspoon granular Splenda or equivalent liquid Splenda",
+      "1 teaspoon oil",
+      "1 teaspoon fresh ginger, grated",
+      "1 pound fresh green beans, ends trimmed",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "Plastic wrap",
+      "Paper towel",
+      "Strainer",
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Grater",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Soak dried shiitake mushrooms in 1 cup boiling water for 5 minutes, covered with plastic wrap",
+        "sk": "Namočte sušené huby shiitake v 1 šálke vriacej vody na 5 minút, prikryté potravinovou fóliou",
+        "ja": "乾燥椎茸を1カップの熱湯に5分間浸し、ラップをかける",
+        "primaryIngredient": "shiitake mushrooms"
+      },
+      {
+        "time": 3,
+        "en": "Remove mushrooms, cool slightly, remove tough stems and dice caps",
+        "sk": "Vyberte huby, nechajte mierne vychladnúť, odstráňte tvrdé stonky a nakrájajte klobúčiky na kocky",
+        "ja": "椎茸を取り出し、少し冷まして硬い軸を取り除き、かさを細かく切る",
+        "primaryIngredient": "shiitake mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Strain mushroom liquid through a paper towel lined strainer",
+        "sk": "Preceďte hubovú tekutinu cez sitko vyložené papierovou utierkou",
+        "ja": "ペーパータオルを敷いたザルで椎茸の戻し汁をこす",
+        "primaryIngredient": "mushroom liquid"
+      },
+      {
+        "time": 1,
+        "en": "Add soy sauce and Splenda to strained mushroom liquid",
+        "sk": "Pridajte sójovú omáčku a Splendu do precedenej hubovej tekutiny",
+        "ja": "こした戻し汁に醤油とスプレンダを加える",
+        "primaryIngredient": "mushroom liquid"
+      },
+      {
+        "time": 1,
+        "en": "Heat oil in a large skillet over medium-high heat until almost smoking",
+        "sk": "Rozohrejte olej vo veľkej panvici na stredne vysokom ohni, kým sa takmer nezačne dymiť",
+        "ja": "大きなフライパンで油を中高温で加熱し、煙が出そうになるまで熱する",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Add grated ginger and cook for 20-30 seconds",
+        "sk": "Pridajte nastrúhaný zázvor a varte 20-30 sekúnd",
+        "ja": "おろした生姜を加えて20〜30秒炒める",
+        "primaryIngredient": "ginger"
+      },
+      {
+        "time": 2,
+        "en": "Add green beans, diced mushrooms, and mushroom liquid mixture to the skillet",
+        "sk": "Pridajte zelené fazuľky, nakrájané huby a hubovú tekutinu do panvice",
+        "ja": "フライパンにインゲン豆、刻んだ椎茸、椎茸の戻し汁を加える",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 20,
+        "en": "Cover and simmer on low heat for 15-20 minutes, stirring occasionally",
+        "sk": "Prikryte a varte na miernom ohni 15-20 minút, občas premiešajte",
+        "ja": "蓋をして弱火で15〜20分煮込み、時々かき混ぜる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Increase heat to high briefly to evaporate remaining liquid",
+        "sk": "Krátko zvýšte teplotu na vysokú, aby sa odparila zvyšná tekutina",
+        "ja": "火を強めて残った液体を蒸発させる",
+        "primaryIngredient": "liquid"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste",
+        "sk": "Dochuťte soľou a korením podľa chuti",
+        "ja": "塩コショウで味を調える",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

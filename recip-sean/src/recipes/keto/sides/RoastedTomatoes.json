@@ -1,0 +1,73 @@
+{
+    "id": "keto-side_roasted_tomatoes_001",
+    "name": "Roasted Tomatoes",
+    "ingredients": [
+      "4 Roma tomatoes, about 4 ounces each",
+      "Oil or olive oil",
+      "1 clove garlic, minced",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Oven with broiler",
+      "Baking sheet",
+      "Knife",
+      "Cutting board",
+      "Garlic mincer or knife",
+      "Measuring spoons"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Cut the Roma tomatoes in half lengthwise",
+        "sk": "Prekrojte paradajky Roma pozdĺžne na polovicu",
+        "ja": "ローマトマトを縦半分に切る",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 1,
+        "en": "Place tomato halves on a baking sheet",
+        "sk": "Položte polovice paradajok na plech na pečenie",
+        "ja": "トマトの半分をベーキングシートに置く",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 1,
+        "en": "Drizzle tomatoes with oil or olive oil",
+        "sk": "Pokvapkajte paradajky olejom alebo olivovým olejom",
+        "ja": "トマトにオイルまたはオリーブオイルをかける",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle tomatoes with salt and pepper",
+        "sk": "Posypte paradajky soľou a korením",
+        "ja": "トマトに塩コショウをふりかける",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 2,
+        "en": "Mince garlic clove and sprinkle over tomatoes",
+        "sk": "Nasekajte strúčik cesnaku a posypte ním paradajky",
+        "ja": "ニンニクをみじん切りにしてトマトの上にふりかける",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 1,
+        "en": "Preheat broiler",
+        "sk": "Predhrejte gril",
+        "ja": "ブロイラーを予熱する",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 10,
+        "en": "Broil tomatoes until hot and the top is sizzling",
+        "sk": "Grilujte paradajky, kým nebudú horúce a vrch nezačne syčať",
+        "ja": "トマトが熱くなり、表面がジュージューとするまでブロイルする",
+        "primaryIngredient": "tomatoes"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

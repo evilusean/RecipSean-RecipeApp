@@ -1,0 +1,89 @@
+{
+    "id": "keto-side_baked_string_beans_001",
+    "name": "Baked String Beans",
+    "ingredients": [
+      "16 ounces frozen French-style green beans, thawed",
+      "2 strips bacon",
+      "1 teaspoon beef bouillon granules (1 cube)",
+      "1 cup hot water",
+      "1/2 teaspoon garlic salt",
+      "Pinch pepper"
+    ],
+    "utensils": [
+      "1 1/2-quart baking dish",
+      "Frying pan",
+      "Measuring cups and spoons",
+      "Aluminum foil",
+      "Stirring spoon",
+      "Oven"
+    ],
+    "cookingTime": 65,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place thawed green beans in an ungreased 1 1/2-quart baking dish",
+        "sk": "Vložte rozmrazené zelené fazuľky do nevymastenej 1,5 litrovej zapekacej misy",
+        "ja": "解凍したインゲン豆を油を引いていない1.5クォートの耐熱皿に入れる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 5,
+        "en": "Cook bacon until crisp, reserve 1 tablespoon of bacon grease and set bacon aside",
+        "sk": "Opečte slaninu do chrumkava, odložte 1 polievkovú lyžicu slaniny a slaninu dajte bokom",
+        "ja": "ベーコンをカリカリに焼き、ベーコンの脂大さじ1を取り分け、ベーコンは脇に置く",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "Dissolve beef bouillon in 1 cup of hot water",
+        "sk": "Rozpustite hovädzí bujón v 1 šálke horúcej vody",
+        "ja": "1カップの熱湯でビーフブイヨンを溶かす",
+        "primaryIngredient": "bouillon"
+      },
+      {
+        "time": 1,
+        "en": "Add garlic salt and pepper to the bouillon mixture",
+        "sk": "Pridajte cesnakovou soľ a korenie do bujónovej zmesi",
+        "ja": "ブイヨン液にガーリックソルトとコショウを加える",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 1,
+        "en": "Stir reserved bacon grease into the bouillon mixture",
+        "sk": "Vmiešajte odloženú slaninovou masť do bujónovej zmesi",
+        "ja": "取り分けておいたベーコンの脂をブイヨン液に混ぜる",
+        "primaryIngredient": "bacon grease"
+      },
+      {
+        "time": 2,
+        "en": "Pour bouillon mixture over green beans and stir well",
+        "sk": "Nalejte bujónovú zmes na zelené fazuľky a dobre premiešajte",
+        "ja": "ブイヨン液をインゲン豆にかけてよく混ぜる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Cover baking dish with aluminum foil",
+        "sk": "Prikryte zapekaciu misu alobalom",
+        "ja": "耐熱皿をアルミホイルで覆う",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 60,
+        "en": "Bake at 350°F (175°C) for 1 hour",
+        "sk": "Pečte pri teplote 175°C 1 hodinu",
+        "ja": "350°F（175°C）のオーブンで1時間焼く",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Crumble reserved bacon and sprinkle over the top just before serving",
+        "sk": "Rozdrvte odloženú slaninu a posypte ňou vrch tesne pred podávaním",
+        "ja": "取り分けておいたベーコンを砕き、提供直前に上からかける",
+        "primaryIngredient": "bacon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

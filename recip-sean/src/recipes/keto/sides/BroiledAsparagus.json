@@ -1,0 +1,101 @@
+{
+    "id": "keto-side_broiled_asparagus_001",
+    "name": "Broiled Asparagus",
+    "ingredients": [
+      "1 pound fresh asparagus",
+      "1 tablespoon oil",
+      "Salt and pepper, to taste",
+      "1 tablespoon butter, melted (optional)"
+    ],
+    "utensils": [
+      "Oven with broiler",
+      "Baking sheet",
+      "Aluminum foil",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons"
+    ],
+    "cookingTime": 8,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Raise oven rack to the highest setting and preheat the broiler",
+        "sk": "Zdvihnite rošt rúry do najvyššej polohy a predhrejte gril",
+        "ja": "オーブンラックを一番上の位置に上げ、ブロイラーを予熱する",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "Wash and dry the asparagus",
+        "sk": "Umyte a osušte špargľu",
+        "ja": "アスパラガスを洗って水気を拭き取る",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 5,
+        "en": "Cut off the tough ends of each asparagus spear",
+        "sk": "Odrežte tvrdé konce každého výhonku špargle",
+        "ja": "各アスパラガスの固い根元を切り落とす",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 2,
+        "en": "Line a baking sheet with aluminum foil",
+        "sk": "Vyložte plech na pečenie alobalom",
+        "ja": "ベーキングシートにアルミホイルを敷く",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 2,
+        "en": "Place asparagus on the lined baking sheet and drizzle with oil",
+        "sk": "Položte špargľu na vyložený plech a pokvapkajte olejom",
+        "ja": "アルミホイルを敷いたベーキングシートにアスパラガスを並べ、油をかける",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 1,
+        "en": "Toss asparagus with hands to coat well with oil",
+        "sk": "Rukami premiešajte špargľu, aby sa dobre obalila olejom",
+        "ja": "手でアスパラガスを混ぜ、油がよく絡むようにする",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 1,
+        "en": "Season asparagus with salt and pepper",
+        "sk": "Ochuťte špargľu soľou a korením",
+        "ja": "アスパラガスに塩コショウで味付けする",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 4,
+        "en": "Broil asparagus for 4 minutes",
+        "sk": "Grilujte špargľu 4 minúty",
+        "ja": "アスパラガスを4分間ブロイルする",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 1,
+        "en": "Turn asparagus and rotate baking sheet for even cooking",
+        "sk": "Otočte špargľu a otočte plech na pečenie pre rovnomerné varenie",
+        "ja": "アスパラガスをひっくり返し、均一に焼けるようにベーキングシートを回転させる",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 4,
+        "en": "Continue broiling for another 3-4 minutes until tender and lightly browned",
+        "sk": "Pokračujte v grilovaní ďalšie 3-4 minúty, kým nebude mäkká a mierne zhnednutá",
+        "ja": "さらに3〜4分間、柔らかくなり軽く焦げ目がつくまでブロイルを続ける",
+        "primaryIngredient": "asparagus"
+      },
+      {
+        "time": 1,
+        "en": "Optionally, drizzle with melted butter before serving",
+        "sk": "Voliteľne pokvapkajte roztopeným maslom pred podávaním",
+        "ja": "必要に応じて、提供前に溶かしバターをかける",
+        "primaryIngredient": "butter"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,71 @@
+{
+    "id": "keto-side_roasted_green_beans_001",
+    "name": "Roasted Green Beans",
+    "ingredients": [
+      "1 1/2 pounds thin fresh green beans, trimmed",
+      "2 tablespoons oil or olive oil",
+      "1/2 teaspoon salt"
+    ],
+    "utensils": [
+      "Oven",
+      "2 sheet pans",
+      "Mixing bowl",
+      "Measuring spoons",
+      "Tongs or spatula"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 375°F (190°C)",
+        "sk": "Predhrejte rúru na 190°C",
+        "ja": "オーブンを375°F（190°C）に予熱する",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "Trim the ends of the fresh green beans if necessary",
+        "sk": "V prípade potreby odrežte konce čerstvých zelených fazuliek",
+        "ja": "必要に応じて新鮮なインゲン豆の両端を切り落とす",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 3,
+        "en": "In a bowl, toss green beans with oil and salt",
+        "sk": "V miske premiešajte zelené fazuľky s olejom a soľou",
+        "ja": "ボウルでインゲン豆に油と塩を加えて混ぜる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 2,
+        "en": "Spread the seasoned green beans in a single layer on 2 sheet pans",
+        "sk": "Rozložte ochutené zelené fazuľky v jednej vrstve na 2 plechy",
+        "ja": "味付けしたインゲン豆を2枚のシートパンに一層に広げる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 10,
+        "en": "Roast for 10 minutes",
+        "sk": "Pečte 10 minút",
+        "ja": "10分間焼く",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 2,
+        "en": "Turn the beans over to ensure even browning",
+        "sk": "Otočte fazuľky, aby sa rovnomerne opiekli",
+        "ja": "均一に焼き色がつくようにインゲン豆をひっくり返す",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 10,
+        "en": "Continue roasting for another 10 minutes or until lightly browned and crisp-tender",
+        "sk": "Pokračujte v pečení ďalších 10 minút alebo kým nebudú mierne hnedé a chrumkavé",
+        "ja": "さらに10分間、または軽く焦げ目がついてカリッとするまで焼き続ける",
+        "primaryIngredient": "green beans"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

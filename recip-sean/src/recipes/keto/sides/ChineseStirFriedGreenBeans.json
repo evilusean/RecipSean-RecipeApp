@@ -1,0 +1,69 @@
+{
+    "id": "keto-side_chinese_stir_fried_green_beans_001",
+    "name": "Chinese Stir Fried Green Beans",
+    "ingredients": [
+      "1 pound fresh green beans, ends trimmed",
+      "1/4 cup oil",
+      "1/4 cup Tianjin preserved vegetable",
+      "1/4 cup green onions, chopped",
+      "2 tablespoons soy sauce",
+      "1 teaspoon MSG"
+    ],
+    "utensils": [
+      "Steamer or pot with steamer basket",
+      "Large nonstick skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Stirring utensil",
+      "Colander"
+    ],
+    "cookingTime": 18,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim ends of fresh green beans",
+        "sk": "Odrežte konce čerstvých zelených fazuliek",
+        "ja": "インゲン豆の両端を切り落とす",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 10,
+        "en": "Steam green beans until tender, 7-10 minutes",
+        "sk": "Varte zelené fazuľky v pare, kým nezmäknú, 7-10 minút",
+        "ja": "インゲン豆を7〜10分蒸して柔らかくする",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Drain steamed green beans well",
+        "sk": "Dobre sceďte uvarené zelené fazuľky",
+        "ja": "蒸したインゲン豆の水気をよく切る",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 2,
+        "en": "Heat oil in a large nonstick skillet over medium heat",
+        "sk": "Rozohrejte olej vo veľkej nelepivej panvici na strednom ohni",
+        "ja": "大きな非粘着性フライパンで中火で油を熱する",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 3,
+        "en": "Sauté Tianjin preserved vegetable, green onions, soy sauce, and MSG for 3 minutes",
+        "sk": "Opražte konzervovanú zeleninu Tianjin, jarnú cibuľku, sójovú omáčku a MSG 3 minúty",
+        "ja": "天津漬物、ネギ、醤油、MSGを3分間炒める",
+        "primaryIngredient": "Tianjin preserved vegetable"
+      },
+      {
+        "time": 5,
+        "en": "Add cooked green beans to the skillet; cook and stir for another 5 minutes",
+        "sk": "Pridajte uvarené zelené fazuľky do panvice; varte a miešajte ďalších 5 minút",
+        "ja": "蒸したインゲン豆をフライパンに加え、さらに5分間炒め混ぜる",
+        "primaryIngredient": "green beans"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,67 @@
+{
+    "id": "keto-side_grilled_tomatoes_001",
+    "name": "Grilled Tomatoes",
+    "ingredients": [
+      "2 slices of a medium tomato, about 1/4\" thick (about 1 1/2 ounces)",
+      "Salt and Pepper, to taste",
+      "Garlic powder, for sprinkling",
+      "1 ounce cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Toaster oven",
+      "Baking pan",
+      "Aluminum foil",
+      "Knife",
+      "Cutting board",
+      "Cheese grater",
+      "Measuring scale"
+    ],
+    "cookingTime": 5,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Slice a medium tomato into two 1/4-inch thick slices",
+        "sk": "Nakrájajte stredne veľké paradajky na dva plátky hrubé 0,6 cm",
+        "ja": "中サイズのトマトを0.6cm厚さの2枚にスライスする",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 1,
+        "en": "Line a baking pan that fits your toaster oven with aluminum foil",
+        "sk": "Vyložte plech na pečenie, ktorý sa zmestí do vašej mini rúry, alobalom",
+        "ja": "トースターオーブンに入るベーキング皿にアルミホイルを敷く",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 1,
+        "en": "Place tomato slices on the lined baking pan",
+        "sk": "Položte plátky paradajok na vyložený plech",
+        "ja": "アルミホイルを敷いたベーキング皿にトマトスライスを置く",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 1,
+        "en": "Season tomato slices with salt, pepper, and a sprinkle of garlic powder",
+        "sk": "Ochuťte plátky paradajok soľou, korením a štipkou cesnakového prášku",
+        "ja": "トマトスライスに塩、コショウ、ニンニクパウダーを少々振りかける",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 2,
+        "en": "Top tomato slices with shredded cheddar cheese",
+        "sk": "Na plátky paradajok nasypte strúhaný čedar",
+        "ja": "トマトスライスの上に細切りのチェダーチーズをのせる",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "Broil in toaster oven until cheese is melted and bubbly",
+        "sk": "Grilujte v mini rúre, kým sa syr neroztopí a nezačne bublať",
+        "ja": "チーズが溶けて泡立つまでトースターオーブンで焼く",
+        "primaryIngredient": "tomato and cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

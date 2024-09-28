@@ -1,0 +1,74 @@
+{
+    "id": "keto-side_green_beans_with_bacon_and_mushrooms_001",
+    "name": "Green Beans with Bacon & Mushrooms",
+    "ingredients": [
+      "6 pieces bacon, chopped",
+      "1/2 cup onion, chopped (2 3/4 ounces)",
+      "4 ounce can mushrooms, drained",
+      "16 ounce bag frozen whole green beans, thawed",
+      "1 1/2 teaspoons granular Splenda",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Stirring utensil"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cook chopped bacon in a large skillet until crisp; set aside",
+        "sk": "Opečte nakrájanú slaninu vo veľkej panvici do chrumkava; odložte bokom",
+        "ja": "大きなフライパンで刻んだベーコンをカリカリに炒め、取り出しておく",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 1,
+        "en": "Reserve 2 tablespoons of bacon drippings in the pan",
+        "sk": "Ponechajte 2 polievkové lyžice slaninového tuku v panvici",
+        "ja": "フライパンにベーコンの脂2大さじを残す",
+        "primaryIngredient": "bacon drippings"
+      },
+      {
+        "time": 3,
+        "en": "Sauté chopped onion in the bacon drippings until tender",
+        "sk": "Opražte nakrájanú cibuľu v slaninových výpekoch do mäkka",
+        "ja": "ベーコンの脂で刻んだ玉ねぎを柔らかくなるまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Add drained mushrooms; cook and stir for 2 minutes over medium heat",
+        "sk": "Pridajte scedené huby; varte a miešajte 2 minúty na strednom ohni",
+        "ja": "水気を切ったマッシュルームを加え、中火で2分間炒め混ぜる",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 1,
+        "en": "Stir in thawed green beans, Splenda, and salt to taste (go easy on salt)",
+        "sk": "Vmiešajte rozmrazené zelené fazuľky, Splendu a soľ podľa chuti (opatrne so soľou)",
+        "ja": "解凍したインゲン豆、スプレンダ、塩（控えめに）を加えて混ぜる",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 10,
+        "en": "Cover and cook on low heat for 10 minutes until beans are done, stirring occasionally",
+        "sk": "Prikryte a varte na miernom ohni 10 minút, kým fazuľky nezmäknú, občas premiešajte",
+        "ja": "蓋をして弱火で10分間、時々かき混ぜながらインゲン豆が柔らかくなるまで煮る",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Toss in the cooked bacon",
+        "sk": "Vmiešajte opečenú slaninu",
+        "ja": "炒めたベーコンを加えて混ぜる",
+        "primaryIngredient": "bacon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

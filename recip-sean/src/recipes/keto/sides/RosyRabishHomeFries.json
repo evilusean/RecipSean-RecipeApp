@@ -1,0 +1,80 @@
+{
+    "id": "keto-side_rosy_radish_home_fries_001",
+    "name": "Rosy Radish Home Fries",
+    "ingredients": [
+      "16 ounces radishes, washed, dried and trimmed",
+      "1 small onion, diced (2 1/2 ounces)",
+      "2 tablespoons butter",
+      "1 tablespoon cooking oil",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Medium skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring utensil"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Wash, dry, and trim radishes",
+        "sk": "Umyte, osušte a očistite reďkovky",
+        "ja": "ラディッシュを洗って水気を拭き取り、へたを取る",
+        "primaryIngredient": "radishes"
+      },
+      {
+        "time": 3,
+        "en": "Quarter smaller radishes and cut larger ones into eighths",
+        "sk": "Menšie reďkovky rozštvrťte a väčšie nakrájajte na osminy",
+        "ja": "小さいラディッシュは4等分に、大きいものは8等分に切る",
+        "primaryIngredient": "radishes"
+      },
+      {
+        "time": 2,
+        "en": "Dice the small onion",
+        "sk": "Nakrájajte malú cibuľu na kocky",
+        "ja": "小さな玉ねぎをさいの目切りにする",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Heat butter and oil in a medium skillet",
+        "sk": "Rozohrejte maslo a olej v stredne veľkej panvici",
+        "ja": "中サイズのフライパンでバターと油を熱する",
+        "primaryIngredient": "butter and oil"
+      },
+      {
+        "time": 1,
+        "en": "Add radishes and onions to the skillet",
+        "sk": "Pridajte reďkovky a cibuľu do panvice",
+        "ja": "フライパンにラディッシュと玉ねぎを加える",
+        "primaryIngredient": "radishes and onion"
+      },
+      {
+        "time": 10,
+        "en": "Cover the pan, turn heat to low, and cook for 5-10 minutes",
+        "sk": "Prikryte panvicu, stíšte plameň a varte 5-10 minút",
+        "ja": "蓋をして弱火で5〜10分間調理する",
+        "primaryIngredient": "radishes and onion"
+      },
+      {
+        "time": 10,
+        "en": "Uncover, turn heat to medium and cook until nicely browned, stirring occasionally",
+        "sk": "Odkryte, zvýšte plameň na stredný a varte do zlatohneda, občas premiešajte",
+        "ja": "蓋を取り、中火にして時々かき混ぜながらきつね色になるまで炒める",
+        "primaryIngredient": "radishes and onion"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste",
+        "sk": "Ochuťte soľou a korením podľa chuti",
+        "ja": "塩コショウで味を調える",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

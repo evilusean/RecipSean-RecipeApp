@@ -1,0 +1,119 @@
+{
+    "id": "keto-main_portobello_parmesan_001",
+    "name": "Portobello Parmesan",
+    "ingredients": [
+      "2 portobello mushroom caps",
+      "Salt and pepper, to taste",
+      "Pinch garlic powder",
+      "2 tablespoons spaghetti sauce",
+      "2 ounces mozzarella cheese, shredded (1/2 cup)",
+      "1 ounce freshly grated parmesan cheese (1/4 cup)",
+      "Fresh parsley, chopped (optional)"
+    ],
+    "utensils": [
+      "Oven",
+      "Baking sheet",
+      "Aluminum foil",
+      "Spoon",
+      "Damp cloth",
+      "Measuring spoons",
+      "Cheese grater"
+    ],
+    "cookingTime": 27,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Gently scrape the gills off the underside of the mushroom caps with a spoon",
+        "sk": "Jemne vyškrabte lupienky zo spodnej strany hríbových klobúčikov lyžicou",
+        "ja": "スプーンでマッシュルームの裏側のヒダを優しく取り除く",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 1,
+        "en": "Cut off the stems to make them level with the underside of the mushrooms",
+        "sk": "Odrežte stonky, aby boli zarovnané so spodnou stranou húb",
+        "ja": "マッシュルームの裏側と同じ高さになるように軸を切り落とす",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 2,
+        "en": "Clean the mushrooms with a damp cloth",
+        "sk": "Očistite huby vlhkou handričkou",
+        "ja": "湿らせた布でマッシュルームを拭いて洗う",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 1,
+        "en": "Preheat oven to 400°F (200°C)",
+        "sk": "Predhrejte rúru na 200°C",
+        "ja": "オーブンを400°F（200°C）に予熱する",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 1,
+        "en": "Place mushroom caps stem side up on a foil-lined baking sheet",
+        "sk": "Položte hríbové klobúčiky stonkou nahor na plech vyložený alobalom",
+        "ja": "アルミホイルを敷いたベーキングシートに軸側を上にしてマッシュルームを置く",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 10,
+        "en": "Bake for 10 minutes",
+        "sk": "Pečte 10 minút",
+        "ja": "10分間焼く",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 1,
+        "en": "Turn caps stem side down and bake for another 5 minutes",
+        "sk": "Otočte klobúčiky stonkou nadol a pečte ďalších 5 minút",
+        "ja": "マッシュルームを裏返して軸側を下にし、さらに5分間焼く",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 2,
+        "en": "Remove from oven and turn caps stem side up again",
+        "sk": "Vyberte z rúry a otočte klobúčiky opäť stonkou nahor",
+        "ja": "オーブンから取り出し、再び軸側を上にする",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with salt, pepper, and garlic powder",
+        "sk": "Posypte soľou, korením a cesnakovým práškom",
+        "ja": "塩、コショウ、ニンニクパウダーを振りかける",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 2,
+        "en": "Spread 1 tablespoon of spaghetti sauce on each mushroom",
+        "sk": "Natrite 1 polievkovú lyžicu špagietovej omáčky na každú hubu",
+        "ja": "各マッシュルームに大さじ1のスパゲッティソースを広げる",
+        "primaryIngredient": "spaghetti sauce"
+      },
+      {
+        "time": 2,
+        "en": "Divide mozzarella and parmesan cheeses between the mushrooms",
+        "sk": "Rozdeľte mozzarellu a parmezán medzi huby",
+        "ja": "モッツァレラチーズとパルメザンチーズをマッシュルームに分けて乗せる",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 7,
+        "en": "Bake for 5-7 minutes until cheese is melted and bubbly",
+        "sk": "Pečte 5-7 minút, kým sa syr neroztopí a nezačne bublať",
+        "ja": "チーズが溶けて泡立つまで5〜7分間焼く",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Optionally garnish with chopped parsley before serving",
+        "sk": "Voliteľne ozdobte nasekanou petržlenovou vňaťou pred podávaním",
+        "ja": "必要に応じて刻んだパセリを振りかけて提供する",
+        "primaryIngredient": "parsley"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main"
+  }

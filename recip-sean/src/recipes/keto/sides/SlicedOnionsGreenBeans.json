@@ -1,0 +1,73 @@
+{
+    "id": "keto-side_sliced_onions_green_beans_001",
+    "name": "Sliced Onions Green Beans",
+    "ingredients": [
+      "1 pound fresh green beans",
+      "6 ounces onion, sliced thick",
+      "1 tablespoon oil",
+      "1-2 tablespoons butter",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Stirring utensil"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Wash and trim green beans if necessary",
+        "sk": "V prípade potreby umyte a očistite zelené fazuľky",
+        "ja": "必要に応じてインゲン豆を洗って両端を切り落とす",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 5,
+        "en": "Slice onions thickly",
+        "sk": "Nakrájajte cibuľu na hrubé plátky",
+        "ja": "玉ねぎを厚めにスライスする",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Heat oil and 1 tablespoon butter in a large skillet or wok over medium-high heat",
+        "sk": "Rozohrejte olej a 1 polievkovú lyžicu masla vo veľkej panvici alebo woku na stredne vysokom ohni",
+        "ja": "大きなフライパンまたは中華鍋で油と大さじ1のバターを中高温で熱する",
+        "primaryIngredient": "oil and butter"
+      },
+      {
+        "time": 5,
+        "en": "Sauté green beans for 4-5 minutes or until they start to brown",
+        "sk": "Opražte zelené fazuľky 4-5 minút alebo kým nezačnú hnednúť",
+        "ja": "インゲン豆を4〜5分間、または軽く焦げ目がつくまで炒める",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 1,
+        "en": "Add another tablespoon of butter if needed",
+        "sk": "V prípade potreby pridajte ďalšiu polievkovú lyžicu masla",
+        "ja": "必要に応じてバターをさらに大さじ1加える",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 5,
+        "en": "Add sliced onions and sauté until nicely browned",
+        "sk": "Pridajte nakrájanú cibuľu a opražte do zlatohneda",
+        "ja": "スライスした玉ねぎを加え、きつね色になるまで炒める",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste",
+        "sk": "Ochuťte soľou a korením podľa chuti",
+        "ja": "塩コショウで味を調える",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }
