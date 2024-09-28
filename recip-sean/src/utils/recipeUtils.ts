@@ -21,22 +21,31 @@ export interface Recipe {
 
 export function getAllRecipes(): Recipe[] {
   const recipesDir = path.join(process.cwd(), 'src', 'recipes')
-  const recipes: Recipe[] = []
+  return readRecipesInDir(recipesDir) as Recipe[]
+}
 
-  function readRecipesInDir(dir: string) {
-    const items = fs.readdirSync(dir)
-    for (const item of items) {
-      const fullPath = path.join(dir, item)
-      if (fs.statSync(fullPath).isDirectory()) {
-        readRecipesInDir(fullPath)
-      } else if (path.extname(fullPath) === '.json') {
-        const fileContents = fs.readFileSync(fullPath, 'utf8')
-        const recipe: Recipe = JSON.parse(fileContents)
-        recipes.push(recipe)
+export function readRecipesInDir(dir: string): any[] {
+  const recipes: any[] = [];
+  const files = fs.readdirSync(dir);
+  
+  for (const file of files) {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+    
+    if (stat.isDirectory()) {
+      recipes.push(...readRecipesInDir(filePath));
+    } else if (path.extname(file) === '.json') {
+      try {
+        const content = fs.readFileSync(filePath, 'utf-8');
+        console.log(`Reading file: ${filePath}`);
+        console.log(`File content: ${content}`);
+        const recipe = JSON.parse(content);
+        recipes.push(recipe);
+      } catch (error) {
+        console.error(`Error reading or parsing file ${filePath}:`, error);
       }
     }
   }
-
-  readRecipesInDir(recipesDir)
-  return recipes
+  
+  return recipes;
 }
