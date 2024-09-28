@@ -47,7 +47,7 @@ export default function RecipePage({ params }: { params: { id: string | string[]
       <div className="container mx-auto px-4 py-6 sm:py-8 bg-tokyo-bg text-tokyo-fg">
         <p className="text-tokyo-red">{error}</p>
         <button 
-          className="mt-4 px-4 py-2 bg-tokyo-blue text-tokyo-bg rounded hover:bg-tokyo-cyan"
+          className="mt-4 px-4 py-2 bg-tokyo-red text-tokyo-bg rounded hover:bg-tokyo-red/80"
           onClick={() => router.push('/')}
         >
           Back to Home
@@ -67,37 +67,43 @@ export default function RecipePage({ params }: { params: { id: string | string[]
     );
   };
 
+  const capitalizeFirstLetter = (string: string) => {
+    return string.charAt(0).toUpperCase() + string.slice(1)
+  }
+
   return (
     <div className="min-h-screen bg-tokyo-bg text-tokyo-fg">
       <div className="container mx-auto px-4 py-6 sm:py-8">
-        <h1 className="text-2xl sm:text-4xl font-bold mb-4 text-tokyo-blue">{recipe.name}</h1>
-        <p className="text-tokyo-magenta mb-4">{recipe.recipeType}</p>
+        <h1 className="text-2xl sm:text-4xl font-bold mb-4 text-tokyo-red">{recipe.name}</h1>
+        <p className="text-tokyo-magenta mb-4">{capitalizeFirstLetter(recipe.recipeType)}</p>
         {recipe.favorite && (
           <p className="text-tokyo-yellow mb-4">⭐ Favorite</p>
         )}
         
-        <div className="mb-6">
-          <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Ingredients</h2>
-          <ul className="list-disc list-inside">
-            {recipe.ingredients.map((ingredient, index) => (
-              <li key={index} className="text-sm sm:text-base">{ingredient}</li>
-            ))}
-          </ul>
-        </div>
-        
-        <div className="mb-6">
-          <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Utensils</h2>
-          <ul className="list-disc list-inside">
-            {recipe.utensils.map((utensil, index) => (
-              <li key={index} className="text-sm sm:text-base">{utensil}</li>
-            ))}
-          </ul>
-        </div>
-        
-        <div className="mb-6">
-          <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Cooking Information</h2>
-          <p className="text-sm sm:text-base"><strong>Prep Time:</strong> {recipe.prepTime} minutes</p>
-          <p className="text-sm sm:text-base"><strong>Cooking Time:</strong> {recipe.cookingTime} minutes</p>
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+          <div>
+            <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Cooking Information</h2>
+            <p className="text-sm sm:text-base"><strong>Prep Time:</strong> {recipe.prepTime} minutes</p>
+            <p className="text-sm sm:text-base"><strong>Cooking Time:</strong> {recipe.cookingTime} minutes</p>
+          </div>
+          
+          <div>
+            <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Ingredients</h2>
+            <ul className="list-disc list-inside">
+              {recipe.ingredients.map((ingredient, index) => (
+                <li key={index} className="text-sm sm:text-base">{ingredient}</li>
+              ))}
+            </ul>
+          </div>
+          
+          <div>
+            <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Utensils</h2>
+            <ul className="list-disc list-inside">
+              {recipe.utensils.map((utensil, index) => (
+                <li key={index} className="text-sm sm:text-base">{utensil}</li>
+              ))}
+            </ul>
+          </div>
         </div>
         
         <div>
@@ -115,7 +121,8 @@ export default function RecipePage({ params }: { params: { id: string | string[]
           {recipe.instructions.map((instruction, index) => (
             <div key={index} className="mb-4">
               <p className="font-bold mb-1 text-sm sm:text-base text-tokyo-green">
-                Step {index + 1} - <span className="font-normal">Time: {instruction.time} minutes</span>
+                Step {index + 1} - <span className="font-normal">Time: </span>
+                <span className="text-tokyo-red">{instruction.time} minutes</span>
               </p>
               <p className="text-sm sm:text-base">
                 {highlightMainIngredient(instruction[language] || instruction.en, instruction.primaryIngredient)}
@@ -125,7 +132,7 @@ export default function RecipePage({ params }: { params: { id: string | string[]
         </div>
         
         <button 
-          className="mt-6 sm:mt-8 px-4 py-2 bg-tokyo-blue text-tokyo-bg rounded hover:bg-tokyo-cyan w-full sm:w-auto"
+          className="mt-6 sm:mt-8 px-4 py-2 bg-tokyo-red text-tokyo-bg rounded hover:bg-tokyo-red/80 w-full sm:w-auto"
           onClick={() => router.push('/')}
         >
           Back to Home
