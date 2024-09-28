@@ -42,7 +42,7 @@ function readRecipesInDir(dir: string): Recipe[] {
       try {
         const content = fs.readFileSync(filePath, 'utf-8');
         const recipe = JSON.parse(content) as Recipe;
-        recipe.folder = path.relative(path.join(process.cwd(), 'src', 'recipes'), path.dirname(filePath));
+        recipe.folder = path.relative(path.join(process.cwd(), 'src', 'recipes'), path.dirname(filePath)).replace(/\\/g, '/');
         recipes.push(recipe);
       } catch (error) {
         console.error(`Error reading or parsing file ${filePath}:`, error);
