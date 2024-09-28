@@ -21,13 +21,15 @@ interface Instruction {
   ja: string;
   primaryIngredient: string;
 }
+
 export function getAllRecipes(): Recipe[] {
   const recipesDir = path.join(process.cwd(), 'src', 'recipes')
-  return readRecipesInDir(recipesDir) as Recipe[]
+  return readRecipesInDir(recipesDir)
 }
 
-export function readRecipesInDir(dir: string): any[] {
-  const recipes: any[] = [];
+
+function readRecipesInDir(dir: string): Recipe[] {
+  const recipes: Recipe[] = [];
   const files = fs.readdirSync(dir);
   
   for (const file of files) {
@@ -39,9 +41,8 @@ export function readRecipesInDir(dir: string): any[] {
     } else if (path.extname(file) === '.json') {
       try {
         const content = fs.readFileSync(filePath, 'utf-8');
-        console.log(`Reading file: ${filePath}`);
-        console.log(`File content: ${content}`);
-        const recipe = JSON.parse(content);
+        const recipe = JSON.parse(content) as Recipe;
+        recipe.folder = path.relative(path.join(process.cwd(), 'src', 'recipes'), path.dirname(filePath));
         recipes.push(recipe);
       } catch (error) {
         console.error(`Error reading or parsing file ${filePath}:`, error);
@@ -51,3 +52,5 @@ export function readRecipesInDir(dir: string): any[] {
   
   return recipes;
 }
+
+export const recipes = getAllRecipes();

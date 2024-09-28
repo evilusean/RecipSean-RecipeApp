@@ -1,22 +1,20 @@
-import { NextResponse } from 'next/server'
-import { getAllRecipes } from '@/utils/recipeUtils'
+import { NextRequest, NextResponse } from 'next/server'
+import { getAllRecipes, Recipe } from '@/utils/recipeUtils'
 
-export async function GET(
-  request: Request,
-  { params }: { params: { id: string | string[] } }
-) {
+export async function GET(request: NextRequest) {
+  const searchParams = request.nextUrl.searchParams
+  const query = searchParams.get('search') || ''
+
   try {
-    const recipes = getAllRecipes()
-    const recipeId = Array.isArray(params.id) ? params.id.join('/') : params.id
-    const recipe = recipes.find(r => r.id === recipeId)
+    const allRecipes = getAllRecipes()
+    const filteredRecipes = allRecipes.filter((recipe: Recipe) => {
+      const searchString = `${recipe.name} ${recipe.recipeType} ${recipe.ingredients.join(' ')}`.toLowerCase()
+      return searchString.includes(query.toLowerCase())
+    })
 
-    if (recipe) {
-      return NextResponse.json(recipe)
-    } else {
-      return new NextResponse('Recipe not found', { status: 404 })
-    }
+    return NextResponse.json(filteredRecipes)
   } catch (error) {
-    console.error('Error fetching recipe:', error)
+    console.error('Error fetching recipes:', error)
     return new NextResponse('Internal Server Error', { status: 500 })
   }
 }
