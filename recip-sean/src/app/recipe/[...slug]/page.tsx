@@ -188,7 +188,7 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
             className="bg-tokyo-green hover:bg-tokyo-green/80 text-tokyo-bg w-full sm:w-auto"
           >
             <Shuffle className="mr-2 h-4 w-4" />
-            Random Recipe
+            Random RecipSean
           </Button>
         </div>
       </div>
