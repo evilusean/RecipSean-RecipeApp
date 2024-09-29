@@ -1,0 +1,75 @@
+{
+    "id": "keto-salad_tuna_salad_001",
+    "name": "Tuna Salad",
+    "ingredients": [
+      "12 ounces canned tuna, drained",
+      "4 eggs, hard boiled and coarsely chopped",
+      "1/4 cup sugar free sweet pickle relish",
+      "1/4 cup mayonnaise",
+      "1 tablespoon chives, minced",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Can opener"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Hard boil the eggs, then cool and coarsely chop them.",
+        "sk": "Uvarte vajcia natvrdo, potom ich ochlaďte a nahrubo nasekajte.",
+        "ja": "卵を固ゆでにし、冷まして粗く刻みます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Drain the canned tuna.",
+        "sk": "Sceďte konzervovaný tuniak.",
+        "ja": "ツナ缶の水気を切ります。",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 1,
+        "en": "Mince the chives.",
+        "sk": "Nasekajte pažítku najemno.",
+        "ja": "チャイブをみじん切りにします。",
+        "primaryIngredient": "chives"
+      },
+      {
+        "time": 5,
+        "en": "In a mixing bowl, combine the drained tuna, chopped eggs, sugar free sweet pickle relish, mayonnaise, and minced chives.",
+        "sk": "V miske zmiešajte scedený tuniak, nasekané vajcia, sladkú uhorkovú zmes bez cukru, majonézu a nasekanú pažítku.",
+        "ja": "ボウルに水気を切ったツナ、刻んだ卵、砂糖不使用のスイートピクルスレリッシュ、マヨネーズ、みじん切りのチャイブを入れて混ぜ合わせます。",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 2,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 1,
+        "en": "Mix all ingredients well.",
+        "sk": "Všetky prísady dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 60,
+        "en": "Chill the tuna salad before serving.",
+        "sk": "Pred podávaním tuniakovú šalát ochlaďte.",
+        "ja": "提供前にツナサラダを冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Tuna Salad is a simple, delicious, and keto-friendly dish. It's high in protein from the tuna and eggs, and low in carbs thanks to the use of sugar-free sweet pickle relish. The mayonnaise adds healthy fats, making it a well-balanced keto meal. For the best keto results, ensure your mayonnaise is sugar-free. This salad is versatile and can be served in various ways: on a bed of lettuce, with keto-friendly crackers, or as a filling for lettuce wraps. For extra crunch and flavor, you could add some finely chopped celery or red onion. If you prefer a spicier version, add a dash of hot sauce or some diced jalapeños. This salad keeps well in the refrigerator for 3-4 days, making it great for meal prep. Remember that while chives are low in carbs, they do contain a small amount, so adjust the quantity if you're strictly monitoring your carb intake."
+  }

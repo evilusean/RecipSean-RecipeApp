@@ -1,0 +1,123 @@
+{
+    "id": "keto-salad_sloppy_dog_salad_001",
+    "name": "Sloppy Dog Salad",
+    "ingredients": [
+      "3/4 pound ground chuck",
+      "3/4 small onion, chopped (about 1.9 ounces)",
+      "3/4 clove garlic, minced",
+      "6 ounce can tomato sauce",
+      "3 tablespoons granular Splenda or equivalent liquid Splenda",
+      "3/8 teaspoon blackstrap molasses (optional)",
+      "1 1/2 tablespoons vinegar",
+      "3/4 teaspoon mustard",
+      "3/4 tablespoon Worcestershire sauce",
+      "3/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "1/8 teaspoon xanthan gum (optional)",
+      "1 Oscar Mayer bun-length hot dog (about 2 ounces)",
+      "2 ounces romaine lettuce, chopped",
+      "1/2 ounce onion, chopped (for garnish)",
+      "2 ounces tomato, chopped",
+      "1 ounce pickles, chopped"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Small frying pan",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Can opener",
+      "Large salad plate"
+    ],
+    "cookingTime": 50,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Chop the onions (for both Sloppy Joe mixture and garnish) and mince the garlic.",
+        "sk": "Nasekajte cibuľu (pre zmes Sloppy Joe aj na ozdobu) a prelisujte cesnak.",
+        "ja": "玉ねぎ（スロッピージョーミックス用と飾り用の両方）をみじん切りにし、ニンニクをすりおろします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 10,
+        "en": "In a large skillet, brown the ground chuck along with the chopped onion and minced garlic for the Sloppy Joe mixture.",
+        "sk": "Na veľkej panvici opečte mleté mäso spolu s nasekanou cibuľou a prelisovaným cesnakom pre zmes Sloppy Joe.",
+        "ja": "大きなフライパンで、スロッピージョーミックス用の挽肉、みじん切りの玉ねぎ、すりおろしたニンニクを一緒に炒めて褐色になるまで調理します。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "Drain the fat from the meat mixture.",
+        "sk": "Zlejte tuk z mäsovej zmesi.",
+        "ja": "肉の混ぜ物から脂を切ります。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 5,
+        "en": "Add tomato sauce, Splenda, molasses (if using), vinegar, mustard, Worcestershire sauce, salt, and pepper to the skillet for the Sloppy Joe mixture.",
+        "sk": "Pridajte do panvice paradajkovú omáčku, Splendu, melasu (ak používate), ocot, horčicu, Worcesterskú omáčku, soľ a korenie pre zmes Sloppy Joe.",
+        "ja": "スロッピージョーミックス用に、フライパンにトマトソース、スプレンダ、モラセス（使用する場合）、酢、マスタード、ウスターソース、塩、コショウを加えます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 30,
+        "en": "Cover the skillet and simmer the Sloppy Joe mixture for 30 minutes.",
+        "sk": "Prikryte panvicu a varte zmes Sloppy Joe 30 minút na miernom ohni.",
+        "ja": "フライパンに蓋をしてスロッピージョーミックスを30分間煮込みます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 2,
+        "en": "If the Sloppy Joe sauce is too thin, add xanthan gum to thicken it.",
+        "sk": "Ak je omáčka Sloppy Joe príliš riedka, pridajte xantánovú gumu na zahustenie.",
+        "ja": "スロッピージョーのソースが薄すぎる場合は、キサンタンガムを加えてとろみをつけます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 5,
+        "en": "Slice the hot dog on the diagonal and pan-fry until browned on both sides.",
+        "sk": "Nakrájajte párok diagonálne a opečte na panvici, kým nezhnedne z oboch strán.",
+        "ja": "ホットドッグを斜めに切り、両面が茶色くなるまでフライパンで焼きます。",
+        "primaryIngredient": "hot dog"
+      },
+      {
+        "time": 3,
+        "en": "Chop the romaine lettuce, tomato, and pickles.",
+        "sk": "Nasekajte rímsky šalát, paradajku a uhorky.",
+        "ja": "ロメインレタス、トマト、ピクルスを刻みます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Place the chopped romaine lettuce on a large salad plate.",
+        "sk": "Položte nasekaný rímsky šalát na veľký šalátový tanier.",
+        "ja": "大きなサラダプレートに刻んだロメインレタスを敷きます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Top the lettuce with the heated Sloppy Joe mixture.",
+        "sk": "Na šalát položte ohriatu zmes Sloppy Joe.",
+        "ja": "レタスの上に温めたスロッピージョーミックスをのせます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Add the cooked hot dog slices on top of the Sloppy Joe mixture.",
+        "sk": "Na zmes Sloppy Joe pridajte uvarené plátky párku.",
+        "ja": "スロッピージョーミックスの上に調理したホットドッグのスライスを加えます。",
+        "primaryIngredient": "hot dog"
+      },
+      {
+        "time": 2,
+        "en": "Garnish with the chopped onion, tomato, and pickles.",
+        "sk": "Ozdobte nasekanou cibuľou, paradajkou a uhorkami.",
+        "ja": "刻んだ玉ねぎ、トマト、ピクルスを飾りとして加えます。",
+        "primaryIngredient": "garnish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Sloppy Dog Salad is a creative, keto-friendly twist on classic Sloppy Joes and hot dogs. It's high in protein from the ground chuck and hot dog, and low in carbs thanks to the use of Splenda instead of sugar and lettuce instead of a bun. The xanthan gum helps thicken the sauce without adding carbs. Be mindful of the tomato sauce, onion, and tomato, as they contain some carbs. The optional blackstrap molasses adds depth of flavor but also a small amount of carbs, so use sparingly if including. For the pickles, you can use homemade sugar-free bread & butter pickle chips, dill pickles, or sugar-free sweet pickles. Choose a hot dog with minimal carbs - the one used in this recipe has 1 carb per dog. This dish is best served immediately while the Sloppy Joe mixture and hot dog are still warm, creating a nice contrast with the cool lettuce and vegetables."
+  }

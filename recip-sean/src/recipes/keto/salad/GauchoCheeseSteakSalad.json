@@ -1,0 +1,99 @@
+{
+    "id": "keto-salad_gaucho_cheesesteak_salad_001",
+    "name": "Gaucho Cheesesteak Salad",
+    "ingredients": [
+      "1/3 cup fresh parsley",
+      "1 clove garlic",
+      "1/2 jalapeño, seeded and roughly chopped",
+      "1/8 teaspoon crushed red pepper flakes",
+      "1 1/2 teaspoons lime juice (juice of 1/4 lime)",
+      "1 1/2 tablespoons red wine vinegar",
+      "1/4 cup olive oil",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "1 small red onion, sliced thin (2 1/2 ounces)",
+      "2 Roma tomatoes, chopped (about 4 ounces)",
+      "1 pound skirt steak",
+      "3 ounces leaf lettuce, chopped",
+      "2 ounces Monterey Jack cheese, shredded (1/2 cup)"
+    ],
+    "utensils": [
+      "Food processor",
+      "Mixing bowl",
+      "Grill",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Serving plates"
+    ],
+    "cookingTime": 15,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a food processor with the chopping blade, combine parsley, garlic, jalapeño, red pepper flakes, lime juice, red wine vinegar, olive oil, salt, and pepper. Process until well combined.",
+        "sk": "V kuchynskom robote s nožom na sekanie zmiešajte petržlenovú vňať, cesnak, jalapeño, drvené červené korenie, limetkovú šťavu, červené víno, olivový olej, soľ a čierne korenie. Spracujte, až kým sa dobre nespoja.",
+        "ja": "フードプロセッサーのチョッピングブレードに、パセリ、ニンニク、ハラペーニョ、赤唐辛子フレーク、ライムジュース、赤ワインビネガー、オリーブオイル、塩、コショウを入れます。よく混ざるまで処理します。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "Pour the processed mixture into a bowl and stir in the sliced red onion and chopped tomatoes.",
+        "sk": "Spracovanú zmes nalejte do misky a primiešajte nakrájanú červenú cibuľu a nakrájané paradajky.",
+        "ja": "処理した混合物をボウルに注ぎ、スライスした赤玉ねぎと刻んだトマトを加えて混ぜます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Season the skirt steak with salt and pepper.",
+        "sk": "Okoreňte steak soľou a čiernym korením.",
+        "ja": "スカートステーキに塩コショウで味付けします。",
+        "primaryIngredient": "steak"
+      },
+      {
+        "time": 15,
+        "en": "Grill the seasoned skirt steak to desired doneness.",
+        "sk": "Grilujte okoreněný steak podľa požadovanej prepečenosti.",
+        "ja": "味付けしたスカートステーキを好みの焼き加減でグリルします。",
+        "primaryIngredient": "steak"
+      },
+      {
+        "time": 5,
+        "en": "Once cooked, slice the steak across the grain.",
+        "sk": "Po uvarení nakrájajte steak naprieč vláknom.",
+        "ja": "調理後、ステーキを繊維に対して垂直に切ります。",
+        "primaryIngredient": "steak"
+      },
+      {
+        "time": 3,
+        "en": "Toss the sliced steak with the tomato mixture.",
+        "sk": "Zmiešajte nakrájaný steak s paradajkovou zmesou.",
+        "ja": "スライスしたステーキをトマトミックスと和えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 3,
+        "en": "Arrange the chopped leaf lettuce on 3 serving plates.",
+        "sk": "Rozložte nasekaný listový šalát na 3 servírovacie taniere.",
+        "ja": "刻んだリーフレタスを3枚の皿に盛り付けます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Top the lettuce with the steak and tomato mixture.",
+        "sk": "Na šalát položte zmes steaku a paradajok.",
+        "ja": "レタスの上にステーキとトマトのミックスをのせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle shredded Monterey Jack cheese over the salad.",
+        "sk": "Posypte šalát strúhaným syrom Monterey Jack.",
+        "ja": "サラダの上にシュレッドしたモントレージャックチーズをふりかけます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Gaucho Cheesesteak Salad is a flavorful and satisfying keto-friendly meal. It's high in protein from the skirt steak and cheese, and provides healthy fats from the olive oil and cheese. The vegetables add fiber and nutrients while keeping the carb count relatively low. For the best keto results, be mindful of the amount of onion and tomatoes used, as they contain more carbs than other vegetables in this recipe. You can adjust the portions to fit your specific macronutrient needs. The chimichurri-style dressing adds a burst of flavor that complements the steak perfectly. For a spicier version, you can leave some seeds in the jalapeño or increase the amount of red pepper flakes. This salad is best served immediately after preparation to enjoy the warm steak with the cool lettuce and fresh vegetables. If you're meal prepping, you can prepare the dressing and vegetables in advance, and cook the steak just before serving."
+  }

@@ -1,0 +1,78 @@
+{
+    "id": "keto-salad_roasted_red_pepper_egg_salad_001",
+    "name": "Roasted Red Pepper Egg Salad",
+    "ingredients": [
+      "6 hard boiled eggs, coarsely chopped",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "4 1/2 ounces roasted red pepper, chopped (2 peppers)",
+      "2 ounces sugar free bread and butter pickles, chopped (12 pickle chips)",
+      "1/2 cup mayonnaise",
+      "1/2 teaspoon mustard",
+      "1 tablespoon cider vinegar",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda"
+    ],
+    "utensils": [
+      "Medium mixing bowl",
+      "Whisk",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a medium bowl, whisk together mayonnaise, mustard, cider vinegar, and Splenda to make the dressing.",
+        "sk": "V stredne veľkej miske vyšľahajte majonézu, horčicu, jablčný ocot a Splendu na prípravu dresingu.",
+        "ja": "中サイズのボウルにマヨネーズ、マスタード、サイダービネガー、スプレンダを入れて泡立て器で混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Coarsely chop the hard boiled eggs.",
+        "sk": "Nahrubo nasekajte vajcia uvarené natvrdo.",
+        "ja": "ゆで卵を粗めに刻みます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 3,
+        "en": "Chop the roasted red peppers. If using jarred peppers, drain and pat them dry before chopping.",
+        "sk": "Nasekajte pečené červené papriky. Ak používate papriky zo zaváraniny, sceďte ich a pred sekaním osušte.",
+        "ja": "ローストした赤パプリカを刻みます。瓶詰めのパプリカを使用する場合は、水気を切り、刻む前にペーパータオルで軽く押さえて乾かします。",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 2,
+        "en": "Chop the sugar free bread and butter pickles.",
+        "sk": "Nasekajte sladkokyslé uhorky bez cukru.",
+        "ja": "砂糖不使用のブレッド＆バターピクルスを刻みます。",
+        "primaryIngredient": "pickles"
+      },
+      {
+        "time": 3,
+        "en": "Add the chopped eggs, salt, pepper, chopped roasted red peppers, and chopped pickles to the dressing in the bowl.",
+        "sk": "Pridajte do misky s dresingom nasekané vajcia, soľ, korenie, nasekané pečené červené papriky a nasekané uhorky.",
+        "ja": "ボウルのドレッシングに刻んだ卵、塩、コショウ、刻んだローストパプリカ、刻んだピクルスを加えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料がよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 60,
+        "en": "Chill well before serving.",
+        "sk": "Pred podávaním dobre vychlaďte.",
+        "ja": "提供前によく冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Roasted Red Pepper Egg Salad is a flavorful, keto-friendly twist on traditional egg salad. It's high in protein from the eggs and provides healthy fats from the mayonnaise. The roasted red peppers add a sweet and smoky flavor, while the sugar-free pickles provide a tangy crunch. For the best keto results, ensure your mayonnaise and pickles are sugar-free. The use of Splenda keeps the sweetness without adding carbs. This salad is great for meal prep and can be stored in the refrigerator for 3-4 days. Serve it on a bed of lettuce, in low-carb wraps, or with keto-friendly vegetable sticks for dipping. For extra flavor, you could add some chopped fresh herbs like dill or chives. Remember not to freeze this salad as the texture of the eggs and mayonnaise will change upon thawing. If you prefer to roast your own peppers, you can do so by placing them under the broiler or on a grill until the skin is charred, then peeling and seeding them once cooled."
+  }

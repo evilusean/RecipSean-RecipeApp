@@ -1,0 +1,98 @@
+{
+    "id": "keto-salad_jalapeno_chicken_salad_001",
+    "name": "Jalapeño Chicken Salad",
+    "ingredients": [
+      "1/2 cup mayonnaise",
+      "1 teaspoon lime juice",
+      "2 cups diced cooked chicken, shredded",
+      "1 stalk celery, chopped fine",
+      "1/2 small red onion, chopped fine (2 ounces)",
+      "2 ounce jar pimiento, chopped",
+      "2 tablespoons cilantro, chopped",
+      "2 tablespoons pickled jalapeños, chopped fine",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "In a mixing bowl, combine mayonnaise and lime juice.",
+        "sk": "V miske zmiešajte majonézu a limetkovú šťavu.",
+        "ja": "ボウルにマヨネーズとライムジュースを入れて混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Shred or dice the cooked chicken and add it to the bowl.",
+        "sk": "Natrhajte alebo nakrájajte uvarené kura a pridajte ho do misky.",
+        "ja": "調理済みの鶏肉をほぐすか細かく切り、ボウルに加えます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Finely chop the celery and add it to the mixture.",
+        "sk": "Najemno nasekajte zeler a pridajte ho do zmesi.",
+        "ja": "セロリを細かく刻み、混ぜ物に加えます。",
+        "primaryIngredient": "celery"
+      },
+      {
+        "time": 2,
+        "en": "Finely chop the red onion and add it to the bowl.",
+        "sk": "Najemno nasekajte červenú cibuľu a pridajte ju do misky.",
+        "ja": "赤玉ねぎを細かく刻み、ボウルに加えます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Chop the pimiento and add it to the mixture.",
+        "sk": "Nasekajte pimiento a pridajte ho do zmesi.",
+        "ja": "ピミエントを刻み、混ぜ物に加えます。",
+        "primaryIngredient": "pimiento"
+      },
+      {
+        "time": 2,
+        "en": "Chop the cilantro and add it to the bowl.",
+        "sk": "Nasekajte koriander a pridajte ho do misky.",
+        "ja": "コリアンダーを刻み、ボウルに加えます。",
+        "primaryIngredient": "cilantro"
+      },
+      {
+        "time": 2,
+        "en": "Finely chop the pickled jalapeños and add them to the mixture.",
+        "sk": "Najemno nasekajte nakladané jalapeños a pridajte ich do zmesi.",
+        "ja": "ピクルスのハラペーニョを細かく刻み、混ぜ物に加えます。",
+        "primaryIngredient": "jalapenos"
+      },
+      {
+        "time": 3,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料がよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 60,
+        "en": "Chill well before serving.",
+        "sk": "Pred podávaním dobre vychlaďte.",
+        "ja": "提供前によく冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Jalapeño Chicken Salad is a flavorful, keto-friendly dish that's perfect for a quick meal or as a filling for lettuce wraps. It's high in protein from the chicken and provides healthy fats from the mayonnaise. The vegetables and herbs add flavor, nutrients, and a nice crunch while keeping the carb count low. For the best keto results, ensure your mayonnaise is sugar-free. Be mindful of the amount of onion and pimiento used, as they contain some carbs. You can adjust the heat level by increasing or decreasing the amount of jalapeños. This salad is great for meal prep and can be stored in the refrigerator for 3-4 days. For extra flavor, you could add some cumin or chili powder. If you prefer a creamier texture, you could add some sour cream or cream cheese to the mixture. Serve chilled on a bed of lettuce, in low-carb wraps, or with keto-friendly vegetable sticks for dipping."
+  }

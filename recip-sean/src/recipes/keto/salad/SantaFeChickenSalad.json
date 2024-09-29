@@ -1,0 +1,92 @@
+{
+    "id": "keto-salad_santa_fe_chicken_salad_001",
+    "name": "Santa Fe Chicken Salad",
+    "ingredients": [
+      "1/2 cup mayonnaise",
+      "Dash garlic powder",
+      "1 teaspoon chipotle chile powder",
+      "Dash pepper",
+      "Salt, to taste",
+      "1 tablespoon cilantro, chopped",
+      "2 cups diced cooked chicken",
+      "1 stalk celery, sliced very thin",
+      "1/2 green or red pepper, in 1-inch matchsticks (2 ounces)",
+      "1 green onion, sliced diagonally"
+    ],
+    "utensils": [
+      "Medium mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a medium bowl, mix mayonnaise, garlic powder, chipotle chile powder, pepper, and salt to make the dressing.",
+        "sk": "V stredne veľkej miske zmiešajte majonézu, cesnakový prášok, čili prášok z chipotle, korenie a soľ na prípravu dresingu.",
+        "ja": "中サイズのボウルにマヨネーズ、ガーリックパウダー、チポトレチリパウダー、コショウ、塩を入れて混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Chop the cilantro and add it to the dressing mixture.",
+        "sk": "Nasekajte koriander a pridajte ho do zmesi dresingu.",
+        "ja": "コリアンダーをみじん切りにし、ドレッシングの混合物に加えます。",
+        "primaryIngredient": "cilantro"
+      },
+      {
+        "time": 5,
+        "en": "Dice the cooked chicken if not already diced.",
+        "sk": "Nakrájajte uvarené kura na kocky, ak ešte nie je nakrájané.",
+        "ja": "調理済みの鶏肉がまだダイス状でない場合は、ダイス状に切ります。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Slice the celery very thin.",
+        "sk": "Nakrájajte zeler na veľmi tenké plátky.",
+        "ja": "セロリを非常に薄くスライスします。",
+        "primaryIngredient": "celery"
+      },
+      {
+        "time": 3,
+        "en": "Cut the green or red pepper into 1-inch matchsticks.",
+        "sk": "Nakrájajte zelenú alebo červenú papriku na 2,5 cm dlhé pásiky.",
+        "ja": "ピーマンまたは赤パプリカを1インチ（約2.5cm）の細切りにします。",
+        "primaryIngredient": "pepper"
+      },
+      {
+        "time": 1,
+        "en": "Slice the green onion diagonally.",
+        "sk": "Nakrájajte jarnú cibuľku diagonálne.",
+        "ja": "青ねぎを斜めにスライスします。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 3,
+        "en": "Add the diced chicken, sliced celery, pepper matchsticks, and sliced green onion to the dressing in the bowl.",
+        "sk": "Pridajte do misky s dresingom nakrájané kura, nakrájaný zeler, pásiky papriky a nakrájanú jarnú cibuľku.",
+        "ja": "ボウルのドレッシングにダイス状の鶏肉、スライスしたセロリ、細切りのパプリカ、スライスした青ねぎを加えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients well until evenly combined with the dressing.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja s dresingom.",
+        "ja": "全ての材料がドレッシングとよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 180,
+        "en": "Chill the salad for several hours before serving.",
+        "sk": "Pred podávaním nechajte šalát niekoľko hodín chladiť.",
+        "ja": "提供前に数時間冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Santa Fe Chicken Salad is a flavorful, keto-friendly dish that's perfect for a quick meal or as a filling for lettuce wraps. It's high in protein from the chicken and provides healthy fats from the mayonnaise. The vegetables add crunch and nutrients while keeping the carb count low. The chipotle chile powder gives it a smoky, spicy flavor that's characteristic of Santa Fe cuisine. For the best keto results, ensure your mayonnaise is sugar-free. Be mindful of the amount of pepper used, as it contains some carbs. You can adjust the heat level by increasing or decreasing the amount of chipotle chile powder. This salad is great for meal prep and can be stored in the refrigerator for 3-4 days. For extra flavor and texture, you could add some chopped avocado just before serving. Serve chilled on a bed of lettuce, in low-carb wraps, or with keto-friendly vegetable sticks for dipping. If you prefer a creamier texture, you could add some sour cream to the dressing."
+  }

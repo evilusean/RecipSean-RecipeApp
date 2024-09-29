@@ -1,0 +1,40 @@
+{
+    "id": "keto-salad_verde_blanco_y_rojo_salad_001",
+    "name": "Verde, Blanco y Rojo Salad (Mexican Flag Salad)",
+    "ingredients": [
+      "1 boneless chicken breast",
+      "1/2 teaspoon Seasoning for Tacos",
+      "1 cup lettuce, shredded (2 ounces)",
+      "2 tablespoons guacamole",
+      "1 tablespoon sour cream",
+      "1 tablespoon salsa"
+    ],
+    "utensils": [
+      "Grill or grill pan",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Dinner plate"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Sprinkle the chicken breast with the taco seasoning.",
+        "sk": "Posypte kuracie prsia korením na tacos.",
+        "ja": "チキンの胸肉にタコスシーズニングをふりかけます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the seasoned chicken breast until fully cooked.",
+        "sk": "Grilujte okoreněné kuracie prsia, kým nie sú úplne uvarené.",
+        "ja": "味付けしたチキンの胸肉を完全に火が通るまでグリルします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Shred the lettuce if not already shredded.",
+        "sk": "Ak šalát nie je nasekaný, nasekajte ho.",
+        "ja": "レタスがまだ千切りになっていない場合は、

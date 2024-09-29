@@ -1,0 +1,92 @@
+{
+    "id": "keto-salad_philly_cheesesteak_salad_001",
+    "name": "Philly Cheesesteak Salad",
+    "ingredients": [
+      "2 tablespoons butter or oil",
+      "1 green pepper, julienned",
+      "1 red pepper, julienned",
+      "8 ounces fresh mushrooms, sliced",
+      "12 ounce package Steak-Umms, sliced in strips",
+      "1/4 teaspoon garlic powder",
+      "Salt and pepper, to taste",
+      "4 ounces leaf lettuce, chopped (about 8-9 cups)",
+      "2 ounces Monterey jack cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "4 salad plates"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Julienne the green and red peppers, and slice the mushrooms.",
+        "sk": "Nakrájajte zelenú a červenú papriku na julienne a nakrájajte huby na plátky.",
+        "ja": "ピーマンと赤パプリカをジュリエンヌ切りにし、マッシュルームをスライスします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 7,
+        "en": "In a large skillet, sauté the peppers and mushrooms in butter or oil until crisp-tender.",
+        "sk": "Na veľkej panvici opečte papriky a huby na masle alebo oleji, kým nie sú chrumkavé a mäkké.",
+        "ja": "大きなフライパンでバターまたは油を使い、パプリカとマッシュルームをサクッとするまで炒めます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Cook the Steak-Umms as directed on the package, slicing them into strips.",
+        "sk": "Uvarte Steak-Umms podľa pokynov na obale a nakrájajte ich na prúžky.",
+        "ja": "パッケージの指示に従ってステーキアムを調理し、細切りにします。",
+        "primaryIngredient": "steak"
+      },
+      {
+        "time": 3,
+        "en": "Add the cooked Steak-Umms to the skillet with vegetables and cook briefly until heated through.",
+        "sk": "Pridajte uvarené Steak-Umms na panvicu so zeleninou a krátko povarte, kým sa neprehreje.",
+        "ja": "調理したステーキアムを野菜の入ったフライパンに加え、全体が温まるまで軽く炒めます。",
+        "primaryIngredient": "steak"
+      },
+      {
+        "time": 1,
+        "en": "Season the mixture with garlic powder, salt, and pepper to taste.",
+        "sk": "Ochuťte zmes cesnakovým práškom, soľou a korením podľa chuti.",
+        "ja": "ガーリックパウダー、塩、コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 3,
+        "en": "Chop the leaf lettuce and divide it among 4 salad plates.",
+        "sk": "Nasekajte listový šalát a rozdeľte ho na 4 šalátové taniere.",
+        "ja": "リーフレタスを刻み、4枚のサラダプレートに分けます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Top the lettuce with the hot steak and vegetable mixture.",
+        "sk": "Na šalát položte horúcu zmes steaku a zeleniny.",
+        "ja": "レタスの上に熱いステーキと野菜の混ぜ物をのせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle shredded Monterey jack cheese over each salad.",
+        "sk": "Posypte každý šalát strúhaným syrom Monterey jack.",
+        "ja": "各サラダの上にシュレッドしたモントレージャックチーズをふりかけます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately while the steak mixture is still hot.",
+        "sk": "Podávajte ihneď, kým je zmes steaku ešte horúca.",
+        "ja": "ステーキの混ぜ物が熱いうちにすぐに提供します。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Philly Cheesesteak Salad is a delicious, keto-friendly twist on the classic sandwich. It's high in protein from the Steak-Umms and cheese, and provides healthy fats from the butter or oil and cheese. The vegetables add fiber and nutrients while keeping the carb count low. For the best keto results, be mindful of the amount of peppers used, as they contain some carbs. You can adjust the portions to fit your specific macronutrient needs. This salad is best served immediately while the steak mixture is still hot, creating a nice contrast with the cool lettuce. For extra flavor, you could add some Worcestershire sauce or beef broth to the steak mixture while cooking. If you prefer a different cheese, provolone or Swiss would also work well in this recipe. For a spicier version, consider adding some sliced jalapeños or a dash of hot sauce."
+  }

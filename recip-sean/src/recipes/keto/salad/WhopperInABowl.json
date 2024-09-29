@@ -1,0 +1,94 @@
+{
+    "id": "keto-salad_whopper_in_a_bowl_001",
+    "name": "Whopper in a Bowl",
+    "ingredients": [
+      "1/2 pound ground beef",
+      "Dash liquid smoke",
+      "Salt and pepper, to taste",
+      "1 slice deluxe American cheese, broken up (optional)",
+      "2 ounces romaine lettuce, chopped (about 1 1/2 cups)",
+      "2 ounces tomato, chopped (about 1/3 cup)",
+      "2 tablespoons dill pickle relish",
+      "2 tablespoons chopped onion (1/2 ounce)",
+      "2 tablespoons mayonnaise",
+      "1 tablespoon low carb ketchup"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Large serving bowl",
+      "Small bowl for sauce"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Brown the ground beef in a large skillet with liquid smoke, salt, and pepper.",
+        "sk": "Na veľkej panvici opečte mleté mäso s tekutým dymom, soľou a korením.",
+        "ja": "大きなフライパンで挽肉をリキッドスモーク、塩、コショウと一緒に炒めて褐色になるまで調理します。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 1,
+        "en": "Drain off the fat from the beef if desired.",
+        "sk": "Ak chcete, zlejte tuk z mäsa.",
+        "ja": "必要に応じて、肉から脂を切ります。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "If using cheese, add it to the beef and cook until melted.",
+        "sk": "Ak používate syr, pridajte ho k mäsu a varte, kým sa neroztopí.",
+        "ja": "チーズを使用する場合は、肉に加えて溶けるまで調理します。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "Chop the romaine lettuce and place it in a large serving bowl.",
+        "sk": "Nasekajte rímsky šalát a vložte ho do veľkej servírovacej misy.",
+        "ja": "ロメインレタスを刻み、大きな器に入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Chop the tomato.",
+        "sk": "Nakrájajte paradajku.",
+        "ja": "トマトを刻みます。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 1,
+        "en": "Top the lettuce with the cooked beef and chopped tomatoes.",
+        "sk": "Na šalát položte uvarené mäso a nakrájané paradajky.",
+        "ja": "レタスの上に調理した肉と刻んだトマトをのせます。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 3,
+        "en": "In a small bowl, combine dill pickle relish, chopped onion, mayonnaise, and low carb ketchup to make the sauce.",
+        "sk": "V malej miske zmiešajte kôprový relish, nasekanú cibuľu, majonézu a nízkosacharidový kečup na prípravu omáčky.",
+        "ja": "小さなボウルにディルピクルスレリッシュ、刻んだ玉ねぎ、マヨネーズ、低炭水化物ケチャップを入れてソースを作ります。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Pour the sauce over the salad.",
+        "sk": "Nalejte omáčku na šalát.",
+        "ja": "サラダにソースをかけます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Toss the salad and serve immediately.",
+        "sk": "Šalát premiešajte a ihneď podávajte.",
+        "ja": "サラダを混ぜ合わせてすぐに提供します。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Whopper in a Bowl is a keto-friendly version of the classic burger, deconstructed into a salad form. It's high in protein from the ground beef and low in carbs by eliminating the bun. The cheese is optional but adds flavor and fat. For the best keto results, ensure your mayonnaise and ketchup are low in carbs. The liquid smoke gives the beef a grilled flavor without the need for a grill. Be mindful of the amount of onion and tomato used, as they contain some carbs. You can adjust the quantities to fit your specific macronutrient needs. This salad is best served immediately after preparation to maintain the crispness of the lettuce and the warmth of the beef. For extra flavor, you could add some bacon bits or a sprinkle of sesame seeds to mimic a sesame seed bun. If you're watching sodium intake, you might want to use less pickle relish or opt for a low-sodium version."
+  }

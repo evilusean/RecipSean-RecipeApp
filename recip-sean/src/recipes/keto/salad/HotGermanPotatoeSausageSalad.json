@@ -1,0 +1,104 @@
+{
+    "id": "keto-salad_hot_german_potato_salad_001",
+    "name": "Hot German \"Potato\" Salad",
+    "ingredients": [
+      "16 ounces frozen cauliflower",
+      "4 pieces bacon, chopped",
+      "1 small onion, chopped (2 1/2 ounces)",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda",
+      "1 teaspoon dry mustard",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1/2 teaspoon celery seed",
+      "1/4 teaspoon xanthan gum",
+      "1/4 cup water",
+      "1/4 cup vinegar",
+      "1 tablespoon fresh parsley, chopped",
+      "5 smoked sausages or Kosher hot dogs"
+    ],
+    "utensils": [
+      "4-quart Dutch oven",
+      "Colander",
+      "Small mixing bowl",
+      "Tongs",
+      "Serving bowl",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 60,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 4,
+        "en": "Cook the frozen cauliflower in a 4-quart Dutch oven as directed on the package for 4 minutes. Drain well in a colander and set aside.",
+        "sk": "Varte mrazenú karfiol v 4-litrovom hrnci podľa pokynov na obale 4 minúty. Dobre sceďte v cedníku a odložte bokom.",
+        "ja": "4クォートのダッチオーブンで、パッケージの指示通りに冷凍カリフラワーを4分間調理します。ザルでよく水気を切り、脇に置きます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 10,
+        "en": "In the same Dutch oven, fry the chopped bacon and onion until the bacon is completely cooked and the onion has started to brown. Do not drain the bacon grease.",
+        "sk": "V tom istom hrnci opečte nakrájanú slaninu a cibuľu, kým nie je slanina úplne uvarená a cibuľa nezačne hnednúť. Nevylievajte masť zo slaniny.",
+        "ja": "同じダッチオーブンで、ベーコンと玉ねぎを炒め、ベーコンが完全に調理され、玉ねぎが茶色くなり始めるまで調理します。ベーコンの脂は捨てないでください。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, mix all the dry ingredients: Splenda, dry mustard, salt, pepper, celery seed, and xanthan gum.",
+        "sk": "V malej miske zmiešajte všetky suché prísady: Splenda, suchú horčicu, soľ, korenie, zelerové semienka a xantánovú gumu.",
+        "ja": "小さなボウルに、スプレンダ、乾燥マスタード、塩、コショウ、セロリシード、キサンタンガムなどの乾燥材料を全て混ぜます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 3,
+        "en": "Stir the dry ingredients into the bacon and onion mixture, mixing well.",
+        "sk": "Vmiešajte suché prísady do zmesi slaniny a cibule a dobre premiešajte.",
+        "ja": "乾燥材料をベーコンと玉ねぎの混合物に加えてよく混ぜます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 5,
+        "en": "Add water and vinegar to the pot. Bring to a boil, cooking and stirring over medium-high heat until thickened, scraping up browned bits from the bottom of the pan.",
+        "sk": "Pridajte do hrnca vodu a ocot. Priveďte do varu, varte a miešajte na stredne vysokom ohni, kým nezhustne, pričom zoškrabujte pripečené kúsky zo dna panvice.",
+        "ja": "鍋に水と酢を加えます。中火で煮立て、とろみがつくまで調理し、鍋底の焦げ付いた部分をこそぎ落としながらかき混ぜます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 20,
+        "en": "Add the sausages or hot dogs to the pot. Cover and simmer on the lowest heat setting for 20 minutes.",
+        "sk": "Pridajte do hrnca klobásy alebo párky. Prikryte a varte na najnižšom stupni ohrevu 20 minút.",
+        "ja": "鍋にソーセージまたはホットドッグを加えます。蓋をして最低温度で20分間煮込みます。",
+        "primaryIngredient": "sausages"
+      },
+      {
+        "time": 2,
+        "en": "Remove the sausages from the pot with tongs and place them in a serving bowl temporarily.",
+        "sk": "Kliešťami vyberte klobásy z hrnca a dočasne ich vložte do servírovacej misy.",
+        "ja": "トングを使ってソーセージを鍋から取り出し、一時的に別の器に移します。",
+        "primaryIngredient": "sausages"
+      },
+      {
+        "time": 3,
+        "en": "Add the cauliflower to the sauce in the pot and stir until well coated.",
+        "sk": "Pridajte karfiol do omáčky v hrnci a miešajte, kým nie je dobre obalený.",
+        "ja": "カリフラワーを鍋のソースに加え、よく絡むまで混ぜます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add the chopped parsley and mix into the cauliflower.",
+        "sk": "Pridajte nasekanú petržlenovú vňať a vmiešajte do karfiolu.",
+        "ja": "刻んだパセリを加え、カリフラワーと混ぜ合わせます。",
+        "primaryIngredient": "parsley"
+      },
+      {
+        "time": 20,
+        "en": "Return the sausages to the pot. Cover and simmer for about 20 minutes or until the cauliflower is hot.",
+        "sk": "Vráťte klobásy do hrnca. Prikryte a varte asi 20 minút alebo kým nie je karfiol horúci.",
+        "ja": "ソーセージを鍋に戻します。蓋をして約20分間、またはカリフラワーが熱くなるまで煮込みます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Hot German \"Potato\" Salad is a clever keto-friendly twist on the traditional German potato salad, using cauliflower as a low-carb substitute for potatoes. It's rich in flavor from the bacon and sausages, while keeping the carb count low. The use of Splenda instead of sugar helps maintain the traditional sweet-sour taste without adding carbs. The xanthan gum helps thicken the sauce without using flour. This dish is best served warm and can be a great side dish or a main course. For a vegetarian version, you could omit the bacon and sausages and use vegetable broth for flavor. Be mindful of the carb content in the sausages or hot dogs you choose. This dish reheats well, making it great for meal prep. For added nutrition, you could include some chopped bell peppers or celery with the onions."
+  }
