@@ -1,93 +1,102 @@
 {
-    "id": "keto-salad_tuna_melt_salad_001",
-    "name": "Tuna Melt Salad",
-    "ingredients": [
-      "12 ounces canned tuna, drained",
-      "4 eggs, hard boiled and coarsely chopped",
-      "1/4 cup sugar free sweet pickle relish",
-      "1/4 cup mayonnaise",
-      "1 tablespoon chives, minced",
-      "Salt and pepper, to taste",
-      "1 large tomato, about 6 1/2 ounces before trimming",
-      "2 ounces cheddar or American cheese, shredded"
-    ],
-    "utensils": [
-      "Mixing bowl",
-      "Knife",
-      "Cutting board",
-      "Measuring cups and spoons",
-      "Baking sheet",
-      "Aluminum foil",
-      "Oven with broiler"
-    ],
-    "cookingTime": 10,
-    "prepTime": 20,
-    "instructions": [
-      {
-        "time": 10,
-        "en": "Hard boil the eggs, then cool and coarsely chop them.",
-        "sk": "Uvarte vajcia natvrdo, potom ich ochlaďte a nahrubo nasekajte.",
-        "ja": "卵を固ゆでにし、冷まして粗く刻みます。",
-        "primaryIngredient": "eggs"
-      },
-      {
-        "time": 2,
-        "en": "Drain the canned tuna.",
-        "sk": "Sceďte konzervovaný tuniak.",
-        "ja": "ツナ缶の水気を切ります。",
-        "primaryIngredient": "tuna"
-      },
-      {
-        "time": 5,
-        "en": "In a mixing bowl, combine the drained tuna, chopped eggs, sugar free sweet pickle relish, mayonnaise, and minced chives.",
-        "sk": "V miske zmiešajte scedený tuniak, nasekané vajcia, sladkú uhorkovú zmes bez cukru, majonézu a nasekanú pažítku.",
-        "ja": "ボウルに水気を切ったツナ、刻んだ卵、砂糖不使用のスイートピクルスレリッシュ、マヨネーズ、みじん切りのチャイブを入れて混ぜ合わせます。",
-        "primaryIngredient": "tuna salad"
-      },
-      {
-        "time": 1,
-        "en": "Season the tuna salad with salt and pepper to taste.",
-        "sk": "Ochuťte tuniakovú šalát soľou a korením podľa chuti.",
-        "ja": "ツナサラダに塩コショウで味を調えます。",
-        "primaryIngredient": "tuna salad"
-      },
-      {
-        "time": 3,
-        "en": "Slice the stem and bottom ends off the tomato, then cut it into 4 thick slices.",
-        "sk": "Odkrojte stonku a spodnú časť paradajky a potom ju nakrájajte na 4 hrubé plátky.",
-        "ja": "トマトのヘタと底を切り落とし、4枚の厚切りにスライスします。",
-        "primaryIngredient": "tomato"
-      },
-      {
-        "time": 2,
-        "en": "Line a baking sheet with aluminum foil and place the tomato slices on it.",
-        "sk": "Plech vyložte alobalom a položte naň plátky paradajok.",
-        "ja": "ベーキングシートにアルミホイルを敷き、トマトのスライスを並べます。",
-        "primaryIngredient": "tomato"
-      },
-      {
-        "time": 3,
-        "en": "Mound some of the prepared tuna salad on each tomato slice.",
-        "sk": "Na každý plátok paradajky navrstvite trochu pripraveného tuniakového šalátu.",
-        "ja": "各トマトスライスの上に準備したツナサラダを山盛りにします。",
-        "primaryIngredient": "tuna salad"
-      },
-      {
-        "time": 2,
-        "en": "Top each tuna-topped tomato slice with 1/4 of the shredded cheese.",
-        "sk": "Na každý plátok paradajky s tuniakom položte 1/4 strúhaného syra.",
-        "ja": "ツナをのせた各トマトスライスの上に、シュレッドチーズの1/4量をかけます。",
-        "primaryIngredient": "cheese"
-      },
-      {
-        "time": 5,
-        "en": "Broil until the cheese is melted and slightly golden.",
-        "sk": "Grilujte, kým sa syr neroztopí a mierne nezozlatne.",
-        "ja": "チーズが溶けて少し金色になるまでブロイルします。",
-        "primaryIngredient": "cheese"
-      }
-    ],
-    "favorite": false,
-    "recipeType": "keto-mains",
-    "notes": "This Tuna Melt Salad is a keto-friendly twist on the classic tuna melt sandwich. It's high in protein from the tuna and eggs, and low in carbs thanks to the use of tomato slices instead of bread. The sugar-free sweet pickle relish adds flavor without extra carbs. Be mindful of the tomato, as it contains some carbs. You can adjust the amount of mayonnaise to your liking for creaminess. For extra flavor, you could add some celery or red onion to the tuna salad mixture. This dish is best served immediately while the cheese is still melted and warm. If you prefer a cold version, you can skip the broiling step and serve the tuna salad on top of the tomato slices with shredded cheese as a garnish. For a spicier version, add a dash of hot sauce or some diced jalapeños to the tuna salad."
+  "id": "keto-salad_tuna_melt_salad_001",
+  "name": "Tuna Melt Salad",
+  "ingredients": [
+    "12 ounces canned tuna, drained",
+    "4 eggs, hard boiled and coarsely chopped",
+    "1/4 cup sugar free sweet pickle relish",
+    "1/4 cup mayonnaise",
+    "1 tablespoon chives, minced",
+    "Salt and pepper, to taste",
+    "1 large tomato, about 6 1/2 ounces before trimming",
+    "2 ounces cheddar or American cheese, shredded"
+  ],
+  "utensils": [
+    "Mixing bowl",
+    "Knife",
+    "Cutting board",
+    "Measuring cups and spoons",
+    "Baking sheet",
+    "Aluminum foil",
+    "Oven with broiler"
+  ],
+  "cookingTime": 10,
+  "prepTime": 20,
+  "instructions": [
+    {
+      "time": 10,
+      "en": "Hard boil the eggs, then cool and coarsely chop them.",
+      "sk": "Uvarte vajcia natvrdo, potom ich ochlaďte a nahrubo nasekajte.",
+      "ja": "卵を固ゆでにし、冷まして粗く刻みます。",
+      "primaryIngredient": "eggs"
+    },
+    {
+      "time": 2,
+      "en": "Drain the canned tuna.",
+      "sk": "Sceďte konzervovaný tuniak.",
+      "ja": "ツナ缶の水気を切ります。",
+      "primaryIngredient": "tuna"
+    },
+    {
+      "time": 5,
+      "en": "In a mixing bowl, combine the drained tuna, chopped eggs, sugar free sweet pickle relish, mayonnaise, and minced chives.",
+      "sk": "V miske zmiešajte scedený tuniak, nasekané vajcia, sladkú uhorkovú zmes bez cukru, majonézu a nasekanú pažítku.",
+      "ja": "ボウルに水気を切ったツナ、刻んだ卵、砂糖不使用のスイートピクルスレリッシュ、マヨネーズ、みじん切りのチャイブを入れて混ぜ合わせます。",
+      "primaryIngredient": "tuna salad"
+    },
+    {
+      "time": 1,
+      "en": "Season the tuna salad with salt and pepper to taste.",
+      "sk": "Ochuťte tuniakovú šalát soľou a korením podľa chuti.",
+      "ja": "ツナサラダに塩コショウで味を調えます。",
+      "primaryIngredient": "tuna salad"
+    },
+    {
+      "time": 3,
+      "en": "Slice the stem and bottom ends off the tomato, then cut it into 4 thick slices.",
+      "sk": "Odkrojte stonku a spodnú časť paradajky a potom ju nakrájajte na 4 hrubé plátky.",
+      "ja": "トマトのヘタと底を切り落とし、4枚の厚切りにスライスします。",
+      "primaryIngredient": "tomato"
+    },
+    {
+      "time": 2,
+      "en": "Line a baking sheet with aluminum foil and place the tomato slices on it.",
+      "sk": "Plech vyložte alobalom a položte naň plátky paradajok.",
+      "ja": "ベーキングシートにアルミホイルを敷き、トマトのスライスを並べます。",
+      "primaryIngredient": "tomato"
+    },
+    {
+      "time": 3,
+      "en": "Mound some of the prepared tuna salad on each tomato slice.",
+      "sk": "Na každý plátok paradajky navrstvite trochu pripraveného tuniakového šalátu.",
+      "ja": "各トマトスライスの上に準備したツナサラダを山盛りにします。",
+      "primaryIngredient": "tuna salad"
+    },
+    {
+      "time": 2,
+      "en": "Top each tuna-topped tomato slice with 1/4 of the shredded cheese.",
+      "sk": "Na každý plátok paradajky s tuniakom položte 1/4 strúhaného syra.",
+      "ja": "ツナをのせた各トマトスライスの上に、シュレッドチーズの1/4量をかけます。",
+      "primaryIngredient": "cheese"
+    },
+    {
+      "time": 5,
+      "en": "Broil until the cheese is melted and slightly golden.",
+      "sk": "Grilujte, kým sa syr neroztopí a mierne nezozlatne.",
+      "ja": "チーズが溶けて少し金色になるまでブロイルします。",
+      "primaryIngredient": "cheese"
+    }
+  ],
+  "favorite": false,
+  "recipeType": "keto-mains",
+  "notes": "This Tuna Melt Salad is a keto-friendly twist on the classic tuna melt sandwich. It's high in protein from the tuna and eggs, and low in carbs thanks to the use of tomato slices instead of bread. The sugar-free sweet pickle relish adds flavor without extra carbs. Be mindful of the tomato, as it contains some carbs. You can adjust the amount of mayonnaise to your liking for creaminess. For extra flavor, you could add some celery or red onion to the tuna salad mixture. This dish is best served immediately while the cheese is still melted and warm. If you prefer a cold version, you can skip the broiling step and serve the tuna salad on top of the tomato slices with shredded cheese as a garnish. For a spicier version, add a dash of hot sauce or some diced jalapeños to the tuna salad.",
+  "nutritionalInformation": {
+    "amount": "1 serving",
+    "calories": "313 kcal",
+    "protein": "27g",
+    "carbohydrates": "6g",
+    "fat": "21g",
+    "fiber": "1g",
+    "netCarbs": "5g"
   }
+}
