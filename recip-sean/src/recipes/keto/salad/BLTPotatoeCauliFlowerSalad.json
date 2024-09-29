@@ -1,0 +1,95 @@
+{
+    "id": "keto-side_cheesy_garlic_bread_001",
+    "name": "Cheesy Garlic Bread (Keto)",
+    "ingredients": [
+      "Almond flour (amount not specified)",
+      "Parmesan cheese (amount not specified)",
+      "Baking soda (amount not specified)",
+      "Garlic powder (amount not specified)",
+      "Mozzarella cheese (amount not specified)",
+      "Cream cheese (amount not specified)",
+      "1 egg",
+      "Butter (for brushing)",
+      "Fresh garlic cloves, minced (amount not specified)",
+      "Fresh parsley (amount not specified)"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Whisk",
+      "Microwave-safe bowl",
+      "Rubber spatula",
+      "Greased baking sheet",
+      "Oven",
+      "Pastry brush"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Whisk together almond flour, parmesan cheese, baking soda, and garlic powder in a bowl.",
+        "sk": "V miske vyšľahajte spolu mandľovú múku, parmezán, sódu bikarbónu a cesnakový prášok.",
+        "ja": "ボウルにアーモンドフラワー、パルメザンチーズ、ベーキングソーダ、ガーリックパウダーを入れて泡立て器で混ぜます。",
+        "primaryIngredient": "almond flour"
+      },
+      {
+        "time": 2,
+        "en": "Melt mozzarella and cream cheese in the microwave.",
+        "sk": "V mikrovlnnej rúre roztopte mozzarellu a krémový syr.",
+        "ja": "モッツァレラチーズとクリームチーズを電子レンジで溶かします。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Stir the almond flour mixture and an egg into the melted cheese.",
+        "sk": "Do roztopeného syra vmiešajte mandľovú zmes a vajce.",
+        "ja": "溶けたチーズにアーモンドフラワーの混合物と卵を加えて混ぜます。",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 5,
+        "en": "Quickly mix the dough with a rubber spatula, then knead it until uniform. If it cools and hardens, microwave for 10 seconds to soften.",
+        "sk": "Rýchlo premiešajte cesto gumenou stierkou a potom ho hneťte, kým nebude jednotné. Ak vychladne a stvrdne, dajte ho na 10 sekúnd do mikrovlnnej rúry, aby zmäklo.",
+        "ja": "ゴムヘラですばやく生地を混ぜ、均一になるまでこねます。冷めて固くなった場合は、10秒間電子レンジで温めて柔らかくします。",
+        "primaryIngredient": "dough"
+      },
+      {
+        "time": 3,
+        "en": "Press the dough into a greased baking sheet.",
+        "sk": "Cesto vtlačte do vymasteného plechu na pečenie.",
+        "ja": "生地を油を塗ったベーキングシートに押し付けます。",
+        "primaryIngredient": "dough"
+      },
+      {
+        "time": 20,
+        "en": "Bake in a preheated 350°F (175°C) oven until puffed and golden brown, about 20 minutes.",
+        "sk": "Pečte v predhriatej rúre na 175°C, kým nenakysne a nezhnedne, asi 20 minút.",
+        "ja": "予熱した350°F（175°C）のオーブンで、ふくらんできつね色になるまで約20分焼きます。",
+        "primaryIngredient": "dough"
+      },
+      {
+        "time": 2,
+        "en": "Mix melted butter with freshly minced garlic and parsley.",
+        "sk": "Zmiešajte rozpustené maslo s čerstvo nasekaným cesnakom a petržlenom.",
+        "ja": "溶かしたバターに新鮮なみじん切りのニンニクとパセリを混ぜます。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Brush the top of the hot bread with the butter mixture.",
+        "sk": "Povrch horúceho chleba potrite maslovou zmesou.",
+        "ja": "熱いパンの表面にバターミックスを塗ります。",
+        "primaryIngredient": "butter mixture"
+      },
+      {
+        "time": 5,
+        "en": "Cool for a few minutes before slicing.",
+        "sk": "Pred krájaním nechajte niekoľko minút vychladnúť.",
+        "ja": "スライスする前に数分間冷まします。",
+        "primaryIngredient": "bread"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This keto-friendly garlic bread uses almond flour and cheese to create a low-carb alternative. Work quickly when mixing and kneading the dough as it can harden when cool. Use only freshly minced garlic for the best flavor. The recipe can potentially be adapted to make a pizza crust. Baking at 350°F (175°C) is recommended to prevent over-browning on the bottom."
+  }

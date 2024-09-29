@@ -1,0 +1,73 @@
+{
+    "id": "keto-salad_egg_salad_001",
+    "name": "Egg Salad",
+    "ingredients": [
+      "4 hard boiled eggs, chopped",
+      "1/4 cup mayonnaise",
+      "1 ounce mild pickled pepper rings, chopped (optional)",
+      "Salt and pepper, to taste",
+      "Pinch celery seed"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Chop the hard boiled eggs and place them in a mixing bowl.",
+        "sk": "Nasekajte vajcia uvarené natvrdo a vložte ich do misy na miešanie.",
+        "ja": "ゆで卵を刻み、ボウルに入れます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Add 1/4 cup of mayonnaise to the bowl.",
+        "sk": "Pridajte 1/4 šálky majonézy do misy.",
+        "ja": "ボウルにマヨネーズ1/4カップを加えます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "If using, chop the mild pickled pepper rings and add them to the bowl.",
+        "sk": "Ak používate, nasekajte mierne nakladané krúžky papriky a pridajte ich do misy.",
+        "ja": "使用する場合は、マイルドなピクルスペッパーリングを刻んでボウルに加えます。",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 1,
+        "en": "Add salt and pepper to taste.",
+        "sk": "Pridajte soľ a korenie podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 1,
+        "en": "Add a pinch of celery seed to the mixture.",
+        "sk": "Pridajte štipku zelerového semienka do zmesi.",
+        "ja": "混ぜ物にセロリシードを少量加えます。",
+        "primaryIngredient": "celery seed"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料が均一になるまでよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately or chill before serving if desired.",
+        "sk": "Podávajte ihneď alebo pred podávaním vychlaďte, ak si to želáte.",
+        "ja": "すぐに提供するか、お好みで冷やしてから提供します。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This simple Egg Salad is a classic keto-friendly dish that's high in protein and healthy fats while being low in carbs. It's quick to prepare and versatile in its uses. The optional pickled pepper rings add a tangy flavor and slight crunch, but can be omitted if you prefer a milder taste. The celery seed provides a subtle celery flavor without the added carbs of fresh celery. This salad can be served immediately, but allowing it to chill for an hour or two can enhance the flavors. Serve it on its own, in lettuce wraps, or with keto-friendly vegetables for dipping. For a creamier texture, you can mash some of the egg yolks before mixing. This salad keeps well in the refrigerator for 3-4 days, making it great for meal prep."
+  }

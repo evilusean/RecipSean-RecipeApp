@@ -1,0 +1,77 @@
+{
+    "id": "keto-salad_spinach_salad_with_bacon_tomato_avocado_ranch_001",
+    "name": "Spinach Salad with Bacon, Tomato, Avocado & Ranch Dressing",
+    "ingredients": [
+      "9 ounces fresh baby spinach",
+      "5 ounces grape tomatoes, halved (about 16)",
+      "2 ounces red onion, sliced thin",
+      "2 hard boiled eggs, sliced",
+      "1/2 pound bacon, cooked until crisp and crumbled",
+      "2 tablespoons chopped peanuts, optional (1/2 ounce)",
+      "1/2 cup ranch dressing",
+      "2 small avocados, mashed"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Blender or food processor",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook the bacon until crisp, then crumble it.",
+        "sk": "Opečte slaninu do chrumkava a potom ju rozdrobte.",
+        "ja": "ベーコンをカリカリに焼き、細かく砕きます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Halve the grape tomatoes, thinly slice the red onion, and slice the hard boiled eggs.",
+        "sk": "Prekrojte hrozno paradajky, nakrájajte červenú cibuľu na tenké plátky a nakrájajte vajcia natvrdo.",
+        "ja": "ミニトマトを半分に切り、赤玉ねぎを薄切りにし、ゆで卵をスライスします。",
+        "primaryIngredient": "vegetables and eggs"
+      },
+      {
+        "time": 3,
+        "en": "Mash the avocados in a bowl.",
+        "sk": "Roztlačte avokádo v miske.",
+        "ja": "ボウルでアボカドをマッシュします。",
+        "primaryIngredient": "avocado"
+      },
+      {
+        "time": 2,
+        "en": "Blend the ranch dressing with the mashed avocado until smooth.",
+        "sk": "Zmiešajte dresing ranch s roztlačeným avokádom do hladka.",
+        "ja": "ランチドレッシングとマッシュしたアボカドを滑らかになるまでブレンドします。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl, combine the baby spinach, halved tomatoes, sliced onion, sliced eggs, crumbled bacon, and chopped peanuts (if using).",
+        "sk": "Vo veľkej miske zmiešajte baby špenát, prekrojené paradajky, nakrájanú cibuľu, nakrájané vajcia, rozdrvenú slaninu a nasekané arašidy (ak používate).",
+        "ja": "大きなボウルにベビーホウレンソウ、半分に切ったトマト、スライスした玉ねぎ、スライスした卵、砕いたベーコン、刻んだピーナッツ（使用する場合）を入れます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Add the avocado ranch dressing to the bowl and toss everything together until well combined.",
+        "sk": "Pridajte avokádový dresing ranch do misky a všetko spolu dobre premiešajte.",
+        "ja": "アボカドランチドレッシングをボウルに加え、全体をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Serve the salad immediately.",
+        "sk": "Šalát ihneď podávajte.",
+        "ja": "サラダをすぐに提供します。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Spinach Salad with Bacon, Tomato, Avocado & Ranch Dressing is a delicious and satisfying keto-friendly meal. The combination of fresh spinach, crispy bacon, and creamy avocado provides a perfect balance of textures and flavors. The avocado-ranch dressing adds extra creaminess and healthy fats. This salad is best served immediately after preparation to maintain the crispness of the vegetables and bacon. For a nut-free version, simply omit the chopped peanuts. Remember that while tomatoes do contain some carbs, they can be enjoyed in moderation on a keto diet due to their nutritional benefits. This salad is high in healthy fats and moderate in protein, making it an excellent choice for those following a ketogenic diet."
+  }

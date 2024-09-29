@@ -1,0 +1,99 @@
+{
+    "id": "keto-salad_blt_chicken_salad_001",
+    "name": "BLT Chicken Salad",
+    "ingredients": [
+      "1 boneless chicken breast",
+      "4 ounces leaf lettuce, chopped (about 2 cups)",
+      "1/2 small tomato",
+      "1/2 ounce Swiss cheese, julienned",
+      "1-2 crisp pieces bacon, crumbled",
+      "1/2 hard boiled egg, sliced in half",
+      "2 tablespoons Ranch dressing",
+      "Dash pepper",
+      "Pinch fresh parsley, chopped (optional)"
+    ],
+    "utensils": [
+      "Grill or grill pan",
+      "Large plate",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Grill the boneless chicken breast until fully cooked.",
+        "sk": "Grilujte kuracie prsia bez kosti, kým nie sú úplne uvarené.",
+        "ja": "骨なしの鶏胸肉を完全に火が通るまでグリルします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Once cooled slightly, slice the grilled chicken breast thinly.",
+        "sk": "Po miernom vychladnutí nakrájajte grilované kuracie prsia na tenké plátky.",
+        "ja": "少し冷めたら、グリルした鶏胸肉を薄くスライスします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Chop the leaf lettuce and arrange it on a large plate.",
+        "sk": "Nasekajte listový šalát a rozložte ho na veľký tanier.",
+        "ja": "リーフレタスを刻み、大きな皿に敷きます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Slice the half tomato.",
+        "sk": "Nakrájajte polovicu paradajky.",
+        "ja": "トマトの半分をスライスします。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 2,
+        "en": "Julienne the Swiss cheese.",
+        "sk": "Nakrájajte švajčiarsky syr na tenké pásiky.",
+        "ja": "スイスチーズを細切りにします。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Crumble the crisp bacon pieces.",
+        "sk": "Rozdrobte chrumkavé kúsky slaniny.",
+        "ja": "カリカリのベーコンを細かく砕きます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 1,
+        "en": "Slice the hard boiled egg half in half again.",
+        "sk": "Rozrežte polovicu vajca natvrdo ešte raz na polovicu.",
+        "ja": "ゆで卵の半分をさらに半分に切ります。",
+        "primaryIngredient": "egg"
+      },
+      {
+        "time": 5,
+        "en": "Arrange the sliced chicken, tomato, Swiss cheese, crumbled bacon, and egg on top of the lettuce.",
+        "sk": "Na šalát poukladajte nakrájané kura, paradajku, švajčiarsky syr, rozdrvenú slaninu a vajce.",
+        "ja": "レタスの上に、スライスした鶏肉、トマト、スイスチーズ、砕いたベーコン、卵を並べます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Drizzle Ranch dressing over the salad.",
+        "sk": "Pokvapkajte šalát dressingom Ranch.",
+        "ja": "サラダにランチドレッシングをかけます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 1,
+        "en": "Add a dash of pepper and a pinch of chopped fresh parsley (if using) on top.",
+        "sk": "Pridajte štipku korenia a štipku nasekanej čerstvej petržlenovej vňate (ak používate) na vrch.",
+        "ja": "上から少量のコショウと刻んだ新鮮なパセリ（使用する場合）を振りかけます。",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This BLT Chicken Salad is a keto-friendly twist on the classic BLT sandwich. It's high in protein from the chicken and bacon, and low in carbs due to the absence of bread. The lettuce provides a fresh, crunchy base, while the tomato adds a burst of flavor. The Swiss cheese and Ranch dressing contribute healthy fats, making this a well-balanced keto meal. You can adjust the amount of tomato to fit your specific carb goals, as tomatoes do contain some carbs. For a crunchier salad, you can grill the chicken and let it cool before slicing and adding to the salad. This recipe is for one serving, but can easily be multiplied for meal prep or family dinners. Remember to choose a keto-friendly Ranch dressing or make your own to keep the carb count low."
+  }

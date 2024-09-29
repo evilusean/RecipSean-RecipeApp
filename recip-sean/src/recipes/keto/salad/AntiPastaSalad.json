@@ -1,0 +1,91 @@
+{
+    "id": "keto-salad_antipasto_salad_001",
+    "name": "Antipasto Salad",
+    "ingredients": [
+      "Salad greens, torn",
+      "Ripe olives, whole or sliced",
+      "Cherry or grape tomatoes, halved",
+      "Pepperoncini salad peppers, sliced",
+      "Hard salami, diced or julienned",
+      "Ham, diced or julienned",
+      "Mozzarella or provolone cheese, cubed or in small sticks",
+      "Bottled Caesar or low carb Italian salad dressing",
+      "Freshly ground pepper"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Salad tongs or large spoons for tossing"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Tear the salad greens into bite-sized pieces and place them in a large bowl.",
+        "sk": "Natrhajte šalátové listy na kúsky veľkosti sústa a vložte ich do veľkej misy.",
+        "ja": "サラダの葉を一口大にちぎり、大きなボウルに入れます。",
+        "primaryIngredient": "salad greens"
+      },
+      {
+        "time": 3,
+        "en": "Add whole or sliced ripe olives to the bowl.",
+        "sk": "Pridajte do misy celé alebo nakrájané zrelé olivy.",
+        "ja": "ボウルに完熟オリーブを丸ごとまたはスライスして加えます。",
+        "primaryIngredient": "olives"
+      },
+      {
+        "time": 5,
+        "en": "Halve the cherry or grape tomatoes and add them to the salad.",
+        "sk": "Prekrojte cherry alebo hroznové paradajky na polovicu a pridajte ich do šalátu.",
+        "ja": "チェリートマトまたはグレープトマトを半分に切り、サラダに加えます。",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 3,
+        "en": "Slice the pepperoncini salad peppers and add them to the bowl.",
+        "sk": "Nakrájajte pepperoncini papričky na plátky a pridajte ich do misy.",
+        "ja": "ペペロンチーニをスライスし、ボウルに加えます。",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 5,
+        "en": "Dice or julienne the hard salami and ham, then add to the salad.",
+        "sk": "Nakrájajte na kocky alebo na tenké pásiky tvrdú salámu a šunku, potom pridajte do šalátu.",
+        "ja": "サラミとハムをさいの目切りまたは細切りにし、サラダに加えます。",
+        "primaryIngredient": "meats"
+      },
+      {
+        "time": 5,
+        "en": "Cube or cut into small sticks the mozzarella or provolone cheese and add to the bowl.",
+        "sk": "Nakrájajte na kocky alebo na malé tyčinky mozzarellu alebo provolone syr a pridajte do misy.",
+        "ja": "モッツァレラチーズまたはプロヴォローネチーズを角切りまたは小さな棒状に切り、ボウルに加えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Add Caesar or low carb Italian salad dressing to taste.",
+        "sk": "Pridajte cézar alebo nízkosacharidový taliansky dresing podľa chuti.",
+        "ja": "お好みでシーザードレッシングまたは低炭水化物のイタリアンドレッシングを加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "Toss all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Finish with freshly ground pepper to taste.",
+        "sk": "Dokončite čerstvo mletým korením podľa chuti.",
+        "ja": "お好みで挽きたての黒コショウをかけて仕上げます。",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Antipasto Salad is a versatile and customizable keto-friendly dish. The combination of fresh vegetables, cured meats, and cheeses provides a good balance of flavors and textures while keeping the carb count low. The exact nutritional content will vary based on the quantities and specific ingredients used, but it's estimated to contain about 8 net carbs per serving. To keep it keto-friendly, be sure to use a low-carb dressing and monitor the amount of tomatoes used, as they contain more carbs than the other ingredients. You can adjust the quantities of each ingredient based on your preferences and nutritional needs. This salad is perfect as a main dish for lunch or as a side for dinner. For best results, toss the salad just before serving to keep the greens crisp."
+  }

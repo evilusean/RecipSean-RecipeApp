@@ -1,0 +1,90 @@
+{
+    "id": "keto-salad_cablt_salad_001",
+    "name": "C.A.B.L.T. Salad (Chicken, Avocado, Bacon, Lettuce and Tomato)",
+    "ingredients": [
+      "2 ounces leaf lettuce",
+      "1 boneless chicken breast, grilled and sliced",
+      "1/2 small avocado, diced",
+      "1/2 cup Roma tomato, sliced",
+      "2 pieces bacon, fried until crisp",
+      "2 tablespoons Chipotle Ranch Dressing"
+    ],
+    "utensils": [
+      "Grill or grill pan",
+      "Frying pan",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Small mixing bowl for dressing"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Grill the boneless chicken breast until fully cooked, then slice it.",
+        "sk": "Grilujte kuracie prsia bez kosti, kým nie sú úplne uvarené, potom ich nakrájajte.",
+        "ja": "骨なしの鶏胸肉を完全に火が通るまでグリルし、その後スライスします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Fry the bacon pieces until crisp.",
+        "sk": "Opečte kúsky slaniny do chrumkava.",
+        "ja": "ベーコンをカリカリになるまで揚げます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 3,
+        "en": "Slice the Roma tomato.",
+        "sk": "Nakrájajte paradajky Roma.",
+        "ja": "ローマトマトをスライスします。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 2,
+        "en": "Dice the avocado.",
+        "sk": "Nakrájajte avokádo na kocky.",
+        "ja": "アボカドをさいの目切りにします。",
+        "primaryIngredient": "avocado"
+      },
+      {
+        "time": 5,
+        "en": "Prepare the Chipotle Ranch Dressing by mixing 1/4 cup ranch dressing, 1/2 teaspoon chipotle chile powder, and 1 tablespoon cilantro in a small bowl.",
+        "sk": "Pripravte dresing Chipotle Ranch zmiešaním 1/4 šálky dresingu ranch, 1/2 lyžičky mletého čili chipotle a 1 lyžice koriandra v malej miske.",
+        "ja": "小さなボウルに1/4カップのランチドレッシング、1/2茶さじのチポトレチリパウダー、大さじ1のコリアンダーを混ぜてチポトレランチドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "Arrange the leaf lettuce on a plate.",
+        "sk": "Rozložte listový šalát na tanier.",
+        "ja": "皿にリーフレタスを敷きます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 5,
+        "en": "Top the lettuce with sliced chicken, diced avocado, sliced tomato, and crispy bacon.",
+        "sk": "Na šalát položte nakrájané kura, nakrájané avokádo, nakrájané paradajky a chrumkavú slaninu.",
+        "ja": "レタスの上に、スライスした鶏肉、さいの目切りにしたアボカド、スライスしたトマト、カリカリのベーコンをのせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Drizzle the Chipotle Ranch Dressing over the salad.",
+        "sk": "Polejte šalát dresingom Chipotle Ranch.",
+        "ja": "サラダにチポトレランチドレッシングをかけます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately.",
+        "sk": "Ihneď podávajte.",
+        "ja": "すぐに提供します。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This C.A.B.L.T. Salad is a flavorful and filling keto-friendly meal. It's high in protein from the chicken and bacon, and rich in healthy fats from the avocado and dressing. The salad is quite spicy due to the Chipotle Ranch Dressing. If you prefer less heat, reduce the amount of chipotle chile powder or substitute with regular chili powder. This recipe makes a large salad that could potentially serve two people with smaller appetites. The nutritional information per serving is approximately 525 Calories, 37g Fat, 36g Protein, 13g Carbohydrate, 8g Dietary Fiber, resulting in 5g Net Carbs. Do not freeze this salad. For best results, prepare and serve immediately to maintain the crispness of the lettuce and bacon. The Chipotle Ranch Dressing can be made ahead and chilled before serving."
+  }

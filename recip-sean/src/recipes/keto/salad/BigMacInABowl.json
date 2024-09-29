@@ -1,0 +1,91 @@
+{
+    "id": "keto-salad_big_mac_in_a_bowl_001",
+    "name": "Big Mac in a Bowl",
+    "ingredients": [
+      "1/2 pound raw ground beef (about 5 1/2 ounces cooked weight or 153 grams cooked)",
+      "Salt and pepper, to taste",
+      "1 slice deluxe American cheese, broken up",
+      "1 teaspoon minced dry onions",
+      "46 grams dill pickle slices or 2 dill spears, chopped (about 1 5/8 ounces)",
+      "2 tablespoons Smoky Thousand Island Dressing",
+      "1 1/2 ounces iceberg lettuce, shredded"
+    ],
+    "utensils": [
+      "Skillet",
+      "Large salad bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Small bowl for rehydrating onions"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place minced dry onions in a small bowl with a little water to rehydrate them.",
+        "sk": "Vložte sušenú nasekanú cibuľu do malej misky s trochou vody, aby sa rehydrovala.",
+        "ja": "乾燥ミンチオニオンを小さなボウルに入れ、少量の水を加えて戻します。",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 8,
+        "en": "Brown the ground beef in a skillet, seasoning with salt and pepper to taste.",
+        "sk": "Opečte mleté mäso na panvici, ochuťte soľou a korením podľa chuti.",
+        "ja": "フライパンでひき肉を炒め、塩コショウで味を調えます。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 1,
+        "en": "Drain off the fat from the beef if desired.",
+        "sk": "Ak chcete, zlejte tuk z mäsa.",
+        "ja": "必要に応じて、ひき肉の脂を切ります。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "Break up the slice of American cheese and add it to the beef. Cook until melted.",
+        "sk": "Rozlámte plátok amerického syra a pridajte ho k mäsu. Varte, kým sa neroztopí.",
+        "ja": "アメリカンチーズをちぎってひき肉に加え、溶けるまで調理します。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "While the beef is cooking, shred the iceberg lettuce and chop the dill pickles.",
+        "sk": "Kým sa mäso varí, nakrájajte ľadový šalát a nasekajte kôprové uhorky.",
+        "ja": "ひき肉を調理している間に、アイスバーグレタスを千切りにし、ディルピクルスを刻みます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Transfer the cooked beef and cheese mixture to a large salad bowl.",
+        "sk": "Preložte uvarené mäso a syrovú zmes do veľkej šalátovej misy.",
+        "ja": "調理したひき肉とチーズの混ぜ物を大きなサラダボウルに移します。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 3,
+        "en": "Add the rehydrated onions, chopped pickles, Smoky Thousand Island Dressing, and shredded lettuce to the bowl.",
+        "sk": "Pridajte do misy rehydrovanú cibuľu, nasekané uhorky, údený dresing Thousand Island a nakrájaný šalát.",
+        "ja": "戻したオニオン、刻んだピクルス、スモーキーサウザンアイランドドレッシング、千切りにしたレタスをボウルに加えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Toss all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately and enjoy your Big Mac in a Bowl!",
+        "sk": "Ihneď podávajte a vychutnajte si váš Big Mac v miske!",
+        "ja": "すぐに提供し、ボウルに入ったビッグマックをお楽しみください！",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Big Mac in a Bowl is a keto-friendly version of the classic McDonald's burger. It captures all the flavors of a Big Mac while keeping the carb count low by eliminating the bun. The ground beef provides protein and fat, while the lettuce adds crunch and freshness. The Smoky Thousand Island Dressing mimics the special sauce found in a traditional Big Mac. For an even lower carb version, you can reduce the amount of onions and pickles. Remember that the nutritional content may vary based on the specific brands of ingredients used, especially the dressing and cheese. This dish is best served immediately after preparation to maintain the crisp texture of the lettuce. It's a satisfying meal that's perfect for lunch or dinner when you're craving fast food flavors on a keto diet."
+  }

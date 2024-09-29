@@ -1,0 +1,71 @@
+{
+    "id": "keto-salad_memphis_slaw_001",
+    "name": "Memphis Slaw",
+    "ingredients": [
+      "1/2 cup granular Splenda or equivalent liquid Splenda",
+      "1 teaspoon yellow mustard",
+      "1/4 cup white vinegar",
+      "2 tablespoons sugar free sweet pickle juice",
+      "1/4 teaspoon salt",
+      "1 small cabbage, shredded (about 25 ounces)",
+      "1 ounce sugar free sweet pickles, chopped (1/4 cup)"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Small mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Grater or food processor (for shredding cabbage)"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a small bowl, mix Splenda, yellow mustard, white vinegar, sugar free sweet pickle juice, and salt to make the dressing.",
+        "sk": "V malej miske zmiešajte Splendu, žltú horčicu, biely ocot, šťavu z cukru prostých sladkých uhoriek a soľ na prípravu dresingu.",
+        "ja": "小さなボウルにスプレンダ、イエローマスタード、白ワインビネガー、シュガーフリーのスイートピクルスジュース、塩を入れて混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 10,
+        "en": "Shred the small cabbage using a grater or food processor.",
+        "sk": "Nastrúhajte malú hlávku kapusty pomocou strúhadla alebo kuchynského robota.",
+        "ja": "小さなキャベツをおろし金またはフードプロセッサーを使って千切りにします。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 3,
+        "en": "Chop the sugar free sweet pickles.",
+        "sk": "Nakrájajte cukru prosté sladké uhorky.",
+        "ja": "シュガーフリーのスイートピクルスを刻みます。",
+        "primaryIngredient": "pickles"
+      },
+      {
+        "time": 2,
+        "en": "In a large bowl, combine the shredded cabbage and chopped pickles.",
+        "sk": "Vo veľkej miske zmiešajte nastrúhanú kapustu a nakrájané uhorky.",
+        "ja": "大きなボウルに千切りにしたキャベツと刻んだピクルスを入れます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 2,
+        "en": "Pour the dressing over the cabbage mixture and toss well to coat.",
+        "sk": "Prelejte dresing cez kapustovú zmes a dobre premiešajte, aby sa všetko obalilo.",
+        "ja": "キャベツの混ぜ物にドレッシングをかけ、全体にからむようによく混ぜます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 60,
+        "en": "Chill the slaw for at least 1 hour, stirring occasionally to ensure the slaw is evenly coated with the dressing.",
+        "sk": "Nechajte šalát chladiť aspoň 1 hodinu, občas premiešajte, aby sa dresing rovnomerne rozložil.",
+        "ja": "スローを少なくとも1時間冷やし、時々かき混ぜてドレッシングが均等にからむようにします。",
+        "primaryIngredient": "slaw"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "Memphis Slaw is a keto-friendly version of the classic coleslaw, using Splenda and sugar-free ingredients to keep the carb count low. The sweet and tangy dressing, combined with the crunch of fresh cabbage and the added flavor of sweet pickles, creates a delicious side dish that's perfect for barbecues or as an accompaniment to sandwiches. For best results, allow the slaw to chill for at least an hour before serving to let the flavors meld together. If you prefer a creamier slaw, you could add a small amount of mayonnaise to the dressing. Remember to choose sugar-free sweet pickles and pickle juice to keep this dish keto-friendly."
+  }

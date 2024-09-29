@@ -1,0 +1,74 @@
+{
+    "id": "keto-salad_crunchy_thai_salad_001",
+    "name": "Crunchy Thai Salad",
+    "ingredients": [
+      "Bean sprouts",
+      "Green or red peppers, julienned",
+      "Baby spinach, in thin strips",
+      "Hot chiles, sliced thin",
+      "Carrot, sliced thin",
+      "Green onions",
+      "Cucumber, in thin sticks",
+      "Napa cabbage, shredded",
+      "Bok Choy, chopped",
+      "Snow peas or sugar snap peas",
+      "1/4 cup lime juice (2 small limes)",
+      "3 tablespoons oil",
+      "1 tablespoon sesame oil",
+      "1 tablespoon soy sauce",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "Pinch ginger",
+      "1 small serrano chile, minced",
+      "Pinch cilantro, chopped"
+    ],
+    "utensils": [
+      "Small bowl for dressing",
+      "Whisk",
+      "Very large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Prepare all vegetables according to the list: julienne peppers, slice spinach, chiles, and carrots thinly, chop bok choy, shred cabbage, and cut cucumber into thin sticks.",
+        "sk": "Pripravte všetku zeleninu podľa zoznamu: nakrájajte papriky na julienne, nakrájajte špenát, čili a mrkvu na tenké plátky, nasekajte pak choi, nastrúhajte kapustu a nakrájajte uhorku na tenké tyčinky.",
+        "ja": "リストに従って全ての野菜を準備します：ピーマンを細切りに、ほうれん草、唐辛子、人参を薄切りに、チンゲン菜をみじん切りに、キャベツを千切りに、きゅうりを細い棒状に切ります。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "In a small bowl, whisk together lime juice, oil, sesame oil, soy sauce, Splenda, ginger, minced serrano chile, and chopped cilantro to make the dressing.",
+        "sk": "V malej miske vyšľahajte spolu limetkovú šťavu, olej, sezamový olej, sójovú omáčku, Splendu, zázvor, nasekaný serrano čili a nasekaný koriander na prípravu dresingu.",
+        "ja": "小さなボウルにライムジュース、油、ごま油、醤油、スプレンダ、生姜、みじん切りのセラーノチリ、刻んだコリアンダーを入れて泡立て器で混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "In a very large bowl, combine all prepared vegetables.",
+        "sk": "Vo veľmi veľkej miske zmiešajte všetku pripravenú zeleninu.",
+        "ja": "とても大きなボウルに、準備した全ての野菜を入れます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Pour the dressing over the vegetables and toss well to combine.",
+        "sk": "Prelejte dresing cez zeleninu a dobre premiešajte.",
+        "ja": "野菜の上にドレッシングをかけ、よく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 60,
+        "en": "Let the salad marinate in the refrigerator for about an hour before serving.",
+        "sk": "Nechajte šalát marinovať v chladničke asi hodinu pred podávaním.",
+        "ja": "提供前に約1時間冷蔵庫で味をなじませます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Crunchy Thai Salad is a versatile, low-carb dish that can be customized based on your vegetable preferences. The dressing provides a tangy, slightly sweet Thai flavor that complements the crunchy vegetables. While the recipe includes some higher-carb vegetables like carrots and snow peas, you can adjust the quantities or omit them to lower the carb count further. The estimated net carbs are 4-5 per serving, but this can vary based on your choice and quantity of vegetables. This salad is best when allowed to marinate for an hour before serving, allowing the flavors to meld together."
+  }

@@ -1,0 +1,82 @@
+{
+    "id": "keto-salad_spring_salad_001",
+    "name": "Spring Salad",
+    "ingredients": [
+      "1 English cucumber, diced (about 12 ounces)",
+      "1 large tomato, diced, or 6 1/2 ounces cherry tomatoes, halved",
+      "2 green onions, chopped",
+      "1/4 cup low carb Italian or Caesar dressing",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "Freshly ground pepper",
+      "Pinch fresh chopped parsley (optional)"
+    ],
+    "utensils": [
+      "Medium mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Dice the English cucumber.",
+        "sk": "Nakrájajte anglickú uhorku na kocky.",
+        "ja": "イングリッシュキュウリをさいの目切りにします。",
+        "primaryIngredient": "cucumber"
+      },
+      {
+        "time": 3,
+        "en": "Dice the large tomato or halve the cherry tomatoes.",
+        "sk": "Nakrájajte veľké paradajky na kocky alebo prekrojte cherry paradajky na polovicu.",
+        "ja": "大きなトマトをさいの目切りにするか、チェリートマトを半分に切ります。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 2,
+        "en": "Chop the green onions.",
+        "sk": "Nasekajte jarnú cibuľku.",
+        "ja": "青ねぎを刻みます。",
+        "primaryIngredient": "green onions"
+      },
+      {
+        "time": 3,
+        "en": "In a medium bowl, combine the diced cucumber, tomatoes, and chopped green onions.",
+        "sk": "V stredne veľkej miske zmiešajte nakrájanú uhorku, paradajky a nasekanú jarnú cibuľku.",
+        "ja": "中サイズのボウルに、さいの目切りにしたキュウリ、トマト、刻んだ青ねぎを入れます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Add the low carb Italian or Caesar dressing and Splenda to the bowl.",
+        "sk": "Pridajte do misky nízkosacharidový taliansky alebo cézar dresing a Splendu.",
+        "ja": "ボウルに低炭水化物のイタリアンドレッシングまたはシーザードレッシングとスプレンダを加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 1,
+        "en": "Add freshly ground pepper and optional chopped parsley.",
+        "sk": "Pridajte čerstvo mleté korenie a voliteľne nasekanú petržlenovú vňať.",
+        "ja": "挽きたての黒コショウと、お好みで刻んだパセリを加えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 120,
+        "en": "Chill the salad for at least 2 hours or overnight before serving.",
+        "sk": "Pred podávaním nechajte šalát chladiť aspoň 2 hodiny alebo cez noc.",
+        "ja": "提供前に少なくとも2時間、または一晩冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Spring Salad is a refreshing and light keto-friendly dish that's perfect for warmer weather. The combination of crisp cucumber, juicy tomatoes, and tangy dressing creates a delightful flavor profile. The use of Splenda adds a touch of sweetness without adding carbs. For best results, allow the salad to chill for at least 2 hours or overnight to let the flavors meld together. This salad is versatile and can be served as a side dish or as a light meal on its own. Remember to choose a low-carb dressing to keep this dish keto-friendly. You can also add some feta cheese or sliced avocado for extra flavor and healthy fats."
+  }

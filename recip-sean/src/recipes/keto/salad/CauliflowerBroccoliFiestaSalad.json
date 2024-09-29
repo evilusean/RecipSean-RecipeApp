@@ -1,0 +1,84 @@
+{
+    "id": "keto-salad_fast_fiesta_salad_001",
+    "name": "Fast Fiesta Salad",
+    "ingredients": [
+      "8 ounces frozen broccoli florets",
+      "8 ounces frozen cauliflower",
+      "1/2 cup prepared Ranch dressing",
+      "2 ounces cheddar cheese, shredded",
+      "2-3 pieces bacon",
+      "2 green onions",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Colander or strainer",
+      "Frying pan (for bacon)",
+      "Cheese grater",
+      "Knife and cutting board",
+      "Measuring cups"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 480,
+        "en": "Thaw the broccoli and cauliflower in the fridge overnight.",
+        "sk": "Nechajte brokolicu a karfiol rozmraziť cez noc v chladničke.",
+        "ja": "ブロッコリーとカリフラワーを一晩冷蔵庫で解凍します。",
+        "primaryIngredient": "broccoli and cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Drain the thawed vegetables well using a colander or strainer.",
+        "sk": "Rozmrazené zeleniny dobre sceďte pomocou cedidla.",
+        "ja": "解凍した野菜をざるやストレーナーでよく水切りします。",
+        "primaryIngredient": "broccoli and cauliflower"
+      },
+      {
+        "time": 8,
+        "en": "Fry the bacon until crisp, then crumble it.",
+        "sk": "Opečte slaninu do chrumkava a potom ju rozdrobte.",
+        "ja": "ベーコンをカリカリに焼き、細かく砕きます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "Slice the green onions.",
+        "sk": "Nakrájajte jarné cibuľky.",
+        "ja": "青ねぎを薄切りにします。",
+        "primaryIngredient": "green onions"
+      },
+      {
+        "time": 3,
+        "en": "In a large bowl, combine the drained vegetables, Ranch dressing, shredded cheddar cheese, crumbled bacon, and sliced green onions.",
+        "sk": "Vo veľkej miske zmiešajte scedené zeleniny, dresing Ranch, nastrúhaný čedar, rozdrvenú slaninu a nakrájané jarné cibuľky.",
+        "ja": "大きなボウルに、水切りした野菜、ランチドレッシング、シュレッドチェダーチーズ、砕いたベーコン、薄切りにした青ねぎを入れて混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste, and toss well to coat everything with the dressing.",
+        "sk": "Ochuťte soľou a korením podľa chuti a dobre premiešajte, aby sa všetko obalilo dresingom.",
+        "ja": "塩コショウで味を調え、全体にドレッシングがよくからむように混ぜ合わせます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 60,
+        "en": "Chill the salad for at least 1 hour before serving.",
+        "sk": "Pred podávaním nechajte šalát chladiť aspoň 1 hodinu.",
+        "ja": "提供前に少なくとも1時間冷やします。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Just before serving, stir the salad well to redistribute the dressing evenly.",
+        "sk": "Tesne pred podávaním šalát dobre premiešajte, aby sa dresing rovnomerne rozložil.",
+        "ja": "提供直前に、ドレッシングが均等に行き渡るようにサラダをよく混ぜます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Fast Fiesta Salad is a quick and easy keto-friendly dish that's perfect for meal prep. The combination of broccoli and cauliflower provides a good base of low-carb vegetables, while the bacon and cheddar cheese add flavor and healthy fats. The Ranch dressing ties everything together with a creamy, tangy flavor. Remember to thaw the vegetables overnight for the best texture. This salad can be made ahead and stored in the refrigerator, making it a convenient option for busy days. For a spicier version, you could add some diced jalapeños or a dash of hot sauce."
+  }

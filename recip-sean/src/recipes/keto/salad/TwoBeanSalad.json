@@ -1,0 +1,68 @@
+{
+    "id": "keto-salad_two_bean_salad_001",
+    "name": "Two-Bean Salad",
+    "ingredients": [
+      "14 ounce can cut green beans, drained",
+      "14 ounce can yellow wax beans, drained",
+      "14 ounce can kidney beans, drained (optional)",
+      "1/4 cup granulated Splenda or equivalent liquid Splenda",
+      "1/4 cup vinegar",
+      "1/4 cup oil"
+    ],
+    "utensils": [
+      "Medium mixing bowl",
+      "Measuring cups",
+      "Can opener",
+      "Colander or strainer",
+      "Mixing spoon"
+    ],
+    "cookingTime": 0,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Open the cans of green beans and yellow wax beans and drain them well.",
+        "sk": "Otvorte konzervy so zelenými fazuľkami a žltými voskovými fazuľkami a dobre ich sceďte.",
+        "ja": "グリーンビーンズとイエローワックスビーンズの缶を開け、よく水を切ります。",
+        "primaryIngredient": "beans"
+      },
+      {
+        "time": 2,
+        "en": "In a medium bowl, combine Splenda, vinegar, and oil to make the dressing.",
+        "sk": "V stredne veľkej miske zmiešajte Splendu, ocot a olej na prípravu dresingu.",
+        "ja": "中サイズのボウルにスプレンダ、酢、油を入れて混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Mix the dressing well until Splenda is fully dissolved.",
+        "sk": "Dresing dobre premiešajte, až kým sa Splenda úplne nerozpustí.",
+        "ja": "スプレンダが完全に溶けるまでドレッシングをよく混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "Add the drained green beans and yellow wax beans to the bowl with the dressing.",
+        "sk": "Pridajte scedené zelené fazuľky a žlté voskové fazuľky do misky s dresingom.",
+        "ja": "水を切ったグリーンビーンズとイエローワックスビーンズをドレッシングの入ったボウルに加えます。",
+        "primaryIngredient": "beans"
+      },
+      {
+        "time": 2,
+        "en": "Stir gently to coat the beans with the dressing.",
+        "sk": "Jemne premiešajte, aby sa fazuľky obalili dresingom.",
+        "ja": "豆にドレッシングがからむように優しく混ぜます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 180,
+        "en": "Cover the bowl and let the salad marinate in the refrigerator for several hours, stirring occasionally.",
+        "sk": "Misku prikryte a nechajte šalát marinovať v chladničke niekoľko hodín, občas premiešajte.",
+        "ja": "ボウルにカバーをして冷蔵庫で数時間マリネさせ、時々かき混ぜます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Two-Bean Salad is a keto-friendly version of the classic bean salad. By using Splenda instead of sugar, we keep the carb count low while maintaining a sweet and tangy flavor. Green beans and wax beans are relatively low in carbs compared to other beans, making them suitable for a keto diet in moderation. The oil in the dressing adds healthy fats, which are essential in a ketogenic diet. For best results, allow the salad to marinate for at least 3-4 hours or overnight to let the flavors meld together. This salad is perfect as a side dish for grilled meats or as a light lunch. You can add some sliced red onions or bell peppers for extra crunch and flavor if desired. Remember to count the carbs from the beans in your daily intake to ensure you stay within your keto macros."
+  }

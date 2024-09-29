@@ -1,0 +1,84 @@
+{
+    "id": "keto-salad_broccoli_crunch_salad_001",
+    "name": "Broccoli Crunch Salad",
+    "ingredients": [
+      "1 medium fresh broccoli, chopped (about 1 pound)",
+      "1/2 pound bacon",
+      "4 ounces cheddar cheese, shredded",
+      "1 cup mayonnaise",
+      "2 tablespoons vinegar",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Frying pan",
+      "Paper towels",
+      "Knife",
+      "Cutting board",
+      "Cheese grater",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Chop the broccoli into small, bite-sized pieces.",
+        "sk": "Nakrájajte brokolicu na malé kúsky veľkosti sústa.",
+        "ja": "ブロッコリーを小さな一口サイズに切ります。",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 2,
+        "en": "Chop the bacon into small pieces.",
+        "sk": "Nakrájajte slaninu na malé kúsky.",
+        "ja": "ベーコンを小さく切ります。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 8,
+        "en": "Fry the chopped bacon until crisp.",
+        "sk": "Opečte nakrájanú slaninu do chrumkava.",
+        "ja": "切ったベーコンをカリカリになるまで炒めます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 1,
+        "en": "Drain the fried bacon on paper towels.",
+        "sk": "Opečenú slaninu nechajte odkvapkať na papierových utierka.",
+        "ja": "揚げたベーコンをペーパータオルの上に置いて油を切ります。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 3,
+        "en": "Shred the cheddar cheese if not already shredded.",
+        "sk": "Nastrúhajte čedar, ak už nie je nastrúhaný.",
+        "ja": "チェダーチーズをすりおろします（まだすりおろしていない場合）。",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 2,
+        "en": "In a large bowl, blend the mayonnaise, vinegar, and Splenda.",
+        "sk": "Vo veľkej miske zmiešajte majonézu, ocot a Splendu.",
+        "ja": "大きなボウルにマヨネーズ、酢、スプレンダを入れて混ぜ合わせます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 3,
+        "en": "Add the chopped broccoli, crispy bacon, and shredded cheese to the mayonnaise mixture. Combine all ingredients well.",
+        "sk": "Pridajte nakrájanú brokolicu, chrumkavú slaninu a nastrúhaný syr do majonézovej zmesi. Všetky prísady dobre premiešajte.",
+        "ja": "マヨネーズの混合物に、刻んだブロッコリー、カリカリのベーコン、すりおろしたチーズを加えます。全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 60,
+        "en": "Chill the salad before serving.",
+        "sk": "Pred podávaním šalát vychlaďte.",
+        "ja": "提供前にサラダを冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Broccoli Crunch Salad is a keto-friendly dish that combines the crunchiness of fresh broccoli with the savory flavors of bacon and cheddar cheese. The dressing is made with mayonnaise and sweetened with Splenda to keep it low in carbs. This salad is best when chilled before serving, allowing the flavors to meld together. It's a great option for a low-carb side dish or a light main course. Remember that the exact carb count may vary depending on the specific brands of ingredients used."
+  }

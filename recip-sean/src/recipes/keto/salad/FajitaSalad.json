@@ -1,0 +1,95 @@
+{
+    "id": "keto-salad_fajita_salad_001",
+    "name": "Fajita Salad",
+    "ingredients": [
+      "Boneless chicken breasts (or beef)",
+      "Fajita marinade",
+      "Green, red, and/or yellow peppers, sliced or chopped",
+      "Onions, sliced or chopped",
+      "Iceberg lettuce, shredded or chopped",
+      "Cheese, shredded",
+      "Mexican hot sauce or salsa of your choice",
+      "Sour cream",
+      "Guacamole (optional)",
+      "Oil for sautéing",
+      "Salt to taste"
+    ],
+    "utensils": [
+      "Grill or grill pan",
+      "Skillet",
+      "Knife",
+      "Cutting board",
+      "Mixing bowl for marinade",
+      "Serving plates"
+    ],
+    "cookingTime": 20,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Marinate the chicken in fajita marinade for several hours or overnight.",
+        "sk": "Marinujte kuracie mäso vo fajita marináde niekoľko hodín alebo cez noc.",
+        "ja": "鶏肉をファヒータマリネードで数時間または一晩漬け込みます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Drain the marinade and grill the chicken just until done. Be careful not to overcook.",
+        "sk": "Zlejte marinádu a grilujte kura, kým nie je hotové. Dávajte pozor, aby ste ho neprevarili.",
+        "ja": "マリネ液を切り、鶏肉を火が通るまでグリルします。焼きすぎないように注意してください。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "While the chicken is cooking, sauté the sliced peppers and onions in oil until desired tenderness. Season with salt to taste.",
+        "sk": "Kým sa kura varí, opečte na oleji nakrájané papriky a cibuľu do požadovanej mäkkosti. Ochuťte soľou podľa chuti.",
+        "ja": "鶏肉を調理している間に、スライスしたピーマンと玉ねぎを油で好みの柔らかさまで炒めます。塩で味を調えます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Arrange a bed of shredded iceberg lettuce on each serving plate.",
+        "sk": "Na každý servírovací tanier rozložte vrstvu nasekaného ľadového šalátu.",
+        "ja": "各サービングプレートにちぎったアイスバーグレタスを敷きます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 5,
+        "en": "Thinly slice the grilled chicken breasts and divide among the plates.",
+        "sk": "Nakrájajte grilované kuracie prsia na tenké plátky a rozdeľte ich medzi taniere.",
+        "ja": "グリルした鶏胸肉を薄くスライスし、各プレートに分けます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Top the chicken with shredded cheese.",
+        "sk": "Na kura nasypte strúhaný syr.",
+        "ja": "鶏肉の上にシュレッドチーズをのせます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Add some of the sautéed peppers and onions on top.",
+        "sk": "Navrch pridajte trochu opečenej papriky a cibule.",
+        "ja": "炒めたピーマンと玉ねぎを上にのせます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 3,
+        "en": "Add salsa or hot sauce, sour cream, and guacamole (if using) to taste.",
+        "sk": "Pridajte salsu alebo pálivú omáčku, kyslú smotanu a guacamole (ak používate) podľa chuti.",
+        "ja": "サルサまたはホットソース、サワークリーム、グアカモレ（使用する場合）を好みで加えます。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 1,
+        "en": "Toss all ingredients together before serving.",
+        "sk": "Pred podávaním všetky prísady spolu premiešajte.",
+        "ja": "提供前に全ての材料を混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Fajita Salad is a delicious and satisfying keto-friendly meal. It's high in protein from the chicken (or beef) and cheese, and provides healthy fats from the oil, cheese, sour cream, and optional guacamole. The vegetables add fiber and nutrients while keeping the carb count low. For the best keto results, use a sugar-free fajita marinade and be mindful of the amount of onions used, as they contain more carbs than the other vegetables. You can adjust the portions of each ingredient to fit your specific macronutrient needs. This salad is versatile - you can use chicken or beef, and customize the toppings to your liking. For meal prep, you can grill the meat and sauté the vegetables in advance, then assemble the salad when ready to eat. Remember to check the carb content of your chosen salsa or hot sauce to ensure it fits within your keto goals."
+  }

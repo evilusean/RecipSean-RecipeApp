@@ -1,0 +1,73 @@
+{
+    "id": "keto-salad_an_even_greater_caesar_salad_001",
+    "name": "An Even Greater Caesar Salad",
+    "ingredients": [
+      "3 cloves garlic",
+      "3/4 cup mayonnaise",
+      "4 anchovies",
+      "2 1/2 ounces freshly grated parmesan cheese, divided",
+      "1 tablespoon lemon juice",
+      "1 teaspoon Worcestershire sauce",
+      "1 teaspoon Dijon mustard",
+      "1/4 cup olive oil",
+      "Large head romaine lettuce (24 ounces)",
+      "Grilled chicken (optional)",
+      "Salt and pepper to taste"
+    ],
+    "utensils": [
+      "Food processor",
+      "Large mixing bowl",
+      "Measuring cups and spoons",
+      "Cheese grater",
+      "Salad tongs or large spoons for tossing"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a food processor, blend garlic, mayonnaise, anchovies, 1/2 ounce parmesan cheese, lemon juice, Worcestershire sauce, Dijon mustard, and olive oil until smooth to make the dressing.",
+        "sk": "V kuchynskom robote zmiešajte cesnak, majonézu, ančovičky, 1/2 unce parmezánu, citrónovú šťavu, Worcesterskú omáčku, dijonskú horčicu a olivový olej, kým nevznikne hladký dresing.",
+        "ja": "フードプロセッサーにニンニク、マヨネーズ、アンチョビ、1/2オンスのパルメザンチーズ、レモン汁、ウスターソース、ディジョンマスタード、オリーブオイルを入れ、滑らかになるまで混ぜてドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Shred the romaine lettuce and place it in a large bowl.",
+        "sk": "Nakrájajte rímsky šalát a vložte ho do veľkej misy.",
+        "ja": "ロメインレタスを千切りにし、大きなボウルに入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Add half of the prepared dressing to the lettuce and toss well.",
+        "sk": "Pridajte polovicu pripraveného dresingu k šalátu a dobre premiešajte.",
+        "ja": "準備したドレッシングの半分をレタスに加え、よく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Add the remaining 2 ounces of grated parmesan cheese to the salad and toss again.",
+        "sk": "Pridajte zvyšné 2 unce nastrúhaného parmezánu do šalátu a znovu premiešajte.",
+        "ja": "残りの2オンスのすりおろしたパルメザンチーズをサラダに加え、再び混ぜ合わせます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "If using, add grilled chicken to the salad and toss gently.",
+        "sk": "Ak používate, pridajte do šalátu grilované kura a jemne premiešajte.",
+        "ja": "使用する場合は、グリルチキンをサラダに加えて軽く混ぜ合わせます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste, and add more dressing if desired.",
+        "sk": "Ochuťte soľou a korením podľa chuti a v prípade potreby pridajte viac dresingu.",
+        "ja": "塩コショウで味を調え、必要に応じて追加のドレッシングを加えます。",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This 'Even Greater Caesar Salad' is a keto-friendly version of the classic Caesar salad. The dressing is made from scratch, ensuring it's low in carbs while still being rich and flavorful. The use of anchovies and freshly grated parmesan cheese gives it an authentic Caesar taste. The optional grilled chicken adds protein, making it a complete meal. Remember to add the dressing gradually, as you may not need all of it. This salad is best served immediately after preparation to maintain the crispness of the lettuce."
+  }

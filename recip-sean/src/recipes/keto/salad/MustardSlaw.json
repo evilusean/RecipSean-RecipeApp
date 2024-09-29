@@ -1,0 +1,77 @@
+{
+    "id": "keto-salad_mustard_slaw_001",
+    "name": "Mustard Slaw",
+    "ingredients": [
+      "1/4 cup yellow mustard",
+      "2 tablespoons vinegar",
+      "3 tablespoons granular Splenda or equivalent liquid Splenda",
+      "3 tablespoons oil",
+      "16 ounces coleslaw mix",
+      "1 small red onion, thinly sliced (2 1/2 ounces)",
+      "1/2 cup sugar free sweet or dill pickles, coarsely chopped",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large salad bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "In a large salad bowl, combine yellow mustard, vinegar, Splenda, and oil to make the dressing.",
+        "sk": "Vo veľkej miske na šalát zmiešajte žltú horčicu, ocot, Splendu a olej na prípravu dresingu.",
+        "ja": "大きなサラダボウルに黄色いマスタード、酢、スプレンダ、油を入れて混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Thinly slice the small red onion.",
+        "sk": "Nakrájajte malú červenú cibuľu na tenké plátky.",
+        "ja": "小さな赤玉ねぎを薄切りにします。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 3,
+        "en": "Coarsely chop the sugar free sweet or dill pickles.",
+        "sk": "Nahrubo nasekajte cukru prosté sladké alebo kôprové uhorky.",
+        "ja": "シュガーフリーのスイートピクルスまたはディルピクルスを粗みじん切りにします。",
+        "primaryIngredient": "pickles"
+      },
+      {
+        "time": 2,
+        "en": "Add the coleslaw mix, sliced onion, and chopped pickles to the bowl with the dressing.",
+        "sk": "Pridajte zmes na coleslaw, nakrájanú cibuľu a nasekané uhorky do misky s dresingom.",
+        "ja": "ドレッシングの入ったボウルにコールスローミックス、スライスした玉ねぎ、刻んだピクルスを加えます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 2,
+        "en": "Toss all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 60,
+        "en": "Chill the slaw well before serving.",
+        "sk": "Pred podávaním šalát dobre vychlaďte.",
+        "ja": "提供前にスローをよく冷やします。",
+        "primaryIngredient": "slaw"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Mustard Slaw is a tangy, keto-friendly version of coleslaw that features a zesty mustard dressing. The use of Splenda instead of sugar keeps the carb count low while still providing a touch of sweetness to balance the acidity. Don't worry if it seems like there's not enough dressing at first - it will coat the cabbage mix perfectly as it chills. For best results, allow the slaw to chill for at least an hour before serving to let the flavors meld together. This slaw is perfect as a side dish for grilled meats or as a topping for keto-friendly sandwiches. Remember to use sugar-free pickles to keep this dish truly keto-friendly."
+  }

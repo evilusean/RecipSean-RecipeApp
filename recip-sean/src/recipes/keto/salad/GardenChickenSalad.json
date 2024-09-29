@@ -1,0 +1,98 @@
+{
+    "id": "keto-salad_garden_chicken_salad_001",
+    "name": "Garden Chicken Salad",
+    "ingredients": [
+      "2 cups diced cooked chicken",
+      "8 ounces grape or cherry tomatoes, halved",
+      "4 ounces cucumber, diced (about 1/2 medium)",
+      "1-2 green onions, sliced, or 2 tablespoons chopped chives",
+      "1/2 cup mayonnaise",
+      "1/4 teaspoon dill, or to taste",
+      "1/2 teaspoon pepper, or to taste",
+      "Salt, to taste",
+      "2 tablespoons fresh parsley, chopped (optional)"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the cooked chicken into bite-size pieces if not already diced.",
+        "sk": "Nakrájajte uvarené kura na kúsky veľkosti sústa, ak ešte nie je nakrájané.",
+        "ja": "調理済みの鶏肉がまだダイス状でない場合は、一口大に切ります。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Halve the grape or cherry tomatoes.",
+        "sk": "Prekrojte hrozno alebo cherry paradajky na polovice.",
+        "ja": "ブドウトマトまたはチェリートマトを半分に切ります。",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 3,
+        "en": "Dice the cucumber.",
+        "sk": "Nakrájajte uhorku na kocky.",
+        "ja": "キュウリをダイス状に切ります。",
+        "primaryIngredient": "cucumber"
+      },
+      {
+        "time": 2,
+        "en": "Slice the green onions or chop the chives.",
+        "sk": "Nakrájajte jarnú cibuľku alebo nasekajte pažítku.",
+        "ja": "青ねぎをスライスするか、チャイブをみじん切りにします。",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 1,
+        "en": "If using, chop the fresh parsley.",
+        "sk": "Ak používate, nasekajte čerstvú petržlenovú vňať.",
+        "ja": "使用する場合は、新鮮なパセリをみじん切りにします。",
+        "primaryIngredient": "parsley"
+      },
+      {
+        "time": 5,
+        "en": "In a large mixing bowl, combine the diced chicken, halved tomatoes, diced cucumber, and sliced green onions or chives.",
+        "sk": "Vo veľkej miske zmiešajte nakrájané kura, polovice paradajok, nakrájanú uhorku a nakrájanú jarnú cibuľku alebo pažítku.",
+        "ja": "大きなボウルに、ダイス状の鶏肉、半分に切ったトマト、ダイス状のキュウリ、スライスした青ねぎまたはチャイブを入れます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 3,
+        "en": "Add mayonnaise, dill, pepper, and salt to the bowl.",
+        "sk": "Pridajte do misy majonézu, kôpor, korenie a soľ.",
+        "ja": "ボウルにマヨネーズ、ディル、コショウ、塩を加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "If using, add the chopped parsley.",
+        "sk": "Ak používate, pridajte nasekanú petržlenovú vňať.",
+        "ja": "使用する場合は、刻んだパセリを加えます。",
+        "primaryIngredient": "parsley"
+      },
+      {
+        "time": 3,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料がよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 180,
+        "en": "Chill the salad for several hours before serving.",
+        "sk": "Pred podávaním nechajte šalát niekoľko hodín chladiť.",
+        "ja": "提供前に数時間冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Garden Chicken Salad is a refreshing and keto-friendly dish that's perfect for a light meal or as a side. It's high in protein from the chicken and provides healthy fats from the mayonnaise. The vegetables add fiber, nutrients, and a fresh crunch while keeping the carb count low. For the best keto results, ensure your mayonnaise is sugar-free. Be mindful of the amount of tomatoes used, as they contain some carbs. You can adjust the portions of each ingredient to fit your specific macronutrient needs. This salad is versatile - you can use leftover cooked chicken or rotisserie chicken for convenience. For meal prep, you can prepare all ingredients in advance and mix them just before serving to maintain the best texture. The salad tastes best when chilled for several hours, allowing the flavors to meld together. Feel free to adjust the seasonings to your taste preferences."
+  }

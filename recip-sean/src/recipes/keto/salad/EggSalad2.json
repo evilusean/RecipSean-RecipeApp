@@ -1,0 +1,92 @@
+{
+    "id": "keto-salad_egg_salad_ii_001",
+    "name": "Egg Salad II",
+    "ingredients": [
+      "8 hard boiled eggs, coarsely chopped",
+      "1/4 cup mayonnaise",
+      "3 ounces sugar free bread and butter pickles, coarsely chopped (18 chips)",
+      "2 teaspoons yellow mustard",
+      "1/2 teaspoon pepper",
+      "2 teaspoons chives",
+      "1/8 teaspoon celery salt",
+      "Dash paprika",
+      "Dash Spicy Seasoning Salt (optional)",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Coarsely chop the hard boiled eggs and place them in a mixing bowl.",
+        "sk": "Nahrubo nasekajte vajcia uvarené natvrdo a vložte ich do misy na miešanie.",
+        "ja": "ゆで卵を粗めに刻み、ボウルに入れます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Add 1/4 cup of mayonnaise to the bowl.",
+        "sk": "Pridajte 1/4 šálky majonézy do misy.",
+        "ja": "ボウルにマヨネーズ1/4カップを加えます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 3,
+        "en": "Coarsely chop the sugar free bread and butter pickles and add them to the bowl.",
+        "sk": "Nahrubo nasekajte sladkokyslé uhorky bez cukru a pridajte ich do misy.",
+        "ja": "砂糖不使用のブレッド＆バターピクルスを粗めに刻み、ボウルに加えます。",
+        "primaryIngredient": "pickles"
+      },
+      {
+        "time": 1,
+        "en": "Add yellow mustard to the mixture.",
+        "sk": "Pridajte žltú horčicu do zmesi.",
+        "ja": "黄色いマスタードを混ぜ物に加えます。",
+        "primaryIngredient": "mustard"
+      },
+      {
+        "time": 2,
+        "en": "Add pepper, chives, celery salt, and a dash of paprika to the bowl.",
+        "sk": "Pridajte do misy korenie, pažítku, zelerovú soľ a štipku papriky.",
+        "ja": "ボウルにコショウ、チャイブ、セロリソルト、パプリカを少量加えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 1,
+        "en": "If using, add a dash of Spicy Seasoning Salt.",
+        "sk": "Ak používate, pridajte štipku pikantnej koreninovej soli.",
+        "ja": "使用する場合は、スパイシーシーズニングソルトを少量加えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 3,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料が均一になるまでよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Taste and add salt if needed.",
+        "sk": "Ochutnajte a v prípade potreby pridajte soľ.",
+        "ja": "味見をし、必要に応じて塩を加えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately or chill before serving if desired.",
+        "sk": "Podávajte ihneď alebo pred podávaním vychlaďte, ak si to želáte.",
+        "ja": "すぐに提供するか、お好みで冷やしてから提供します。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Egg Salad II is a flavorful, keto-friendly dish that's perfect for a quick meal or snack. It's high in protein and healthy fats from the eggs and mayonnaise, while being low in carbs. The sugar-free bread and butter pickles add a sweet and tangy flavor without adding unnecessary carbs. The combination of spices gives this salad a unique and delicious taste. For best results, allow the salad to chill for at least an hour before serving to let the flavors meld together. This salad can be served on its own, in lettuce wraps, or with keto-friendly vegetables for dipping. It's great for meal prep and can be stored in the refrigerator for 3-4 days. Remember to use sugar-free pickles to keep the carb count low. You can adjust the seasonings to your taste preferences."
+  }

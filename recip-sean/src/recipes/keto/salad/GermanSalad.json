@@ -1,0 +1,75 @@
+{
+    "id": "keto-salad_german_salad_001",
+    "name": "German Salad",
+    "ingredients": [
+      "3 slices bacon, chopped",
+      "2 tablespoons bacon grease",
+      "2 tablespoons vinegar",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda",
+      "3 tablespoons mayonnaise",
+      "5 ounces romaine lettuce, chopped",
+      "2 hard boiled eggs, chopped",
+      "2 ounces cucumber (about 8 slices)",
+      "4 ounces grape tomatoes, halved (about 16)",
+      "1 large mushroom, sliced thin",
+      "1 1/2 ounces red onion, sliced thin (about 1/4 cup)"
+    ],
+    "utensils": [
+      "Frying pan",
+      "Paper towels",
+      "Whisk",
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons and cups"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Fry the chopped bacon until crisp. Drain on paper towels and reserve 2 tablespoons of the bacon grease.",
+        "sk": "Opečte nakrájanú slaninu do chrumkava. Nechajte odkvapkať na papierových utierka a odložte 2 lyžice slaniny.",
+        "ja": "刻んだベーコンをカリカリになるまで炒めます。キッチンペーパーで油を切り、ベーコンの脂2大さじを取っておきます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Let the reserved bacon grease cool for 5-10 minutes.",
+        "sk": "Nechajte odloženú slaninu vychladnúť 5-10 minút.",
+        "ja": "取っておいたベーコンの脂を5〜10分間冷まします。",
+        "primaryIngredient": "bacon grease"
+      },
+      {
+        "time": 3,
+        "en": "In a bowl, whisk together the cooled bacon grease, vinegar, Splenda, and mayonnaise to make the dressing.",
+        "sk": "V miske vyšľahajte vychladnutú slaninu, ocot, Splendu a majonézu na prípravu dresingu.",
+        "ja": "ボウルに冷めたベーコンの脂、酢、スプレンダ、マヨネーズを入れて泡立て器でよく混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 10,
+        "en": "Chop the romaine lettuce and hard boiled eggs. Slice the cucumber, halve the grape tomatoes, thinly slice the mushroom and red onion.",
+        "sk": "Nakrájajte rímsky šalát a vajcia natvrdo. Nakrájajte uhorku, prekrojte hrozno paradajky, nakrájajte huby a červenú cibuľu na tenké plátky.",
+        "ja": "ロメインレタスとゆで卵を刻みます。キュウリをスライスし、ミニトマトを半分に切り、マッシュルームと赤玉ねぎを薄切りにします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 3,
+        "en": "In a large bowl, combine the prepared vegetables, eggs, and crispy bacon.",
+        "sk": "Vo veľkej miske zmiešajte pripravenú zeleninu, vajcia a chrumkavú slaninu.",
+        "ja": "大きなボウルに準備した野菜、卵、カリカリのベーコンを入れます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Pour the dressing over the salad and toss well to coat everything evenly.",
+        "sk": "Prelejte dresing cez šalát a dobre premiešajte, aby sa všetko rovnomerne obalilo.",
+        "ja": "サラダにドレッシングをかけ、全体に均等にからむようによく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This German Salad is a keto-friendly twist on a traditional German potato salad, omitting the potatoes to keep it low-carb. The warm bacon dressing gives it a rich, savory flavor, while the Splenda adds a touch of sweetness without the carbs. The combination of crisp vegetables, hard-boiled eggs, and bacon makes for a satisfying and nutritious meal. For best flavor, serve this salad immediately while the dressing is still warm. If you prefer, you can substitute the Splenda with a different keto-friendly sweetener of your choice."
+  }

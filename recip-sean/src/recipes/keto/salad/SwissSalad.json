@@ -1,0 +1,88 @@
+{
+    "id": "keto-salad_chef_salad_001",
+    "name": "Chef Salad",
+    "ingredients": [
+      "2 cups iceberg or leaf lettuce (2 ounces)",
+      "4 small bits of tomato",
+      "1 slice smoked turkey, diced",
+      "1 ounce Swiss cheese, diced",
+      "1 hard-boiled egg, sliced",
+      "1 tablespoon salad dressing of your choice"
+    ],
+    "utensils": [
+      "Salad bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Wash and chop the iceberg or leaf lettuce and place in a salad bowl.",
+        "sk": "Umyte a nakrájajte ľadový alebo listový šalát a vložte do šalátovej misy.",
+        "ja": "アイスバーグレタスまたはリーフレタスを洗って刻み、サラダボウルに入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 1,
+        "en": "Cut the tomato into small bits.",
+        "sk": "Nakrájajte paradajku na malé kúsky.",
+        "ja": "トマトを小さく切ります。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 2,
+        "en": "Dice the slice of smoked turkey.",
+        "sk": "Nakrájajte plátok údenej morky na kocky.",
+        "ja": "スモークターキーのスライスをさいの目切りにします。",
+        "primaryIngredient": "turkey"
+      },
+      {
+        "time": 2,
+        "en": "Dice the Swiss cheese.",
+        "sk": "Nakrájajte švajčiarsky syr na kocky.",
+        "ja": "スイスチーズをさいの目切りにします。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Slice the hard-boiled egg.",
+        "sk": "Nakrájajte vajce natvrdo na plátky.",
+        "ja": "ゆで卵をスライスします。",
+        "primaryIngredient": "egg"
+      },
+      {
+        "time": 3,
+        "en": "Add the tomato bits, diced turkey, diced Swiss cheese, and sliced egg to the bowl with the lettuce.",
+        "sk": "Pridajte kúsky paradajok, nakrájanú morku, nakrájaný švajčiarsky syr a nakrájané vajce do misy so šalátom.",
+        "ja": "レタスの入ったボウルに、トマトの小片、さいの目切りにしたターキー、さいの目切りにしたスイスチーズ、スライスした卵を加えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Add 1 tablespoon of your chosen salad dressing.",
+        "sk": "Pridajte 1 lyžicu šalátového dresingu podľa vášho výberu.",
+        "ja": "お好みのサラダドレッシングを大さじ1加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 1,
+        "en": "Toss all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately and enjoy your Chef Salad!",
+        "sk": "Ihneď podávajte a vychutnajte si váš šéfkuchársky šalát!",
+        "ja": "すぐに提供し、シェフサラダをお楽しみください！",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Chef Salad is a simple and quick keto-friendly meal option. It's low in carbs and high in protein, making it an excellent choice for those following a ketogenic diet. The combination of lettuce, turkey, cheese, and egg provides a good balance of nutrients. You can customize this salad by choosing your favorite keto-friendly dressing. For a more filling meal, you can increase the amounts of turkey and cheese. Remember that tomatoes do contain some carbs, so use them sparingly if you're strictly counting carbs. This salad is best served immediately after preparation to maintain the crispness of the lettuce. If you're meal prepping, you can prepare all ingredients in advance and store them separately, then assemble and add dressing just before eating."
+  }

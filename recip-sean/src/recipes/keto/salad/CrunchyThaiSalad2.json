@@ -1,0 +1,77 @@
+{
+    "id": "keto-salad_crunchy_thai_salad_ii_001",
+    "name": "Crunchy Thai Salad II",
+    "ingredients": [
+      "8 ounces fresh bean sprouts",
+      "1 green or red pepper, julienned",
+      "1 small carrot, julienned (about 1 1/2 ounces)",
+      "4 green onions, sliced",
+      "1 pound napa cabbage, shredded",
+      "1/3 cup oil",
+      "3 tablespoons granular Splenda or equivalent liquid Splenda",
+      "1/4 cup rice vinegar",
+      "1 tablespoon lime juice (juice of 1 lime)",
+      "1 tablespoon cilantro, chopped",
+      "1/2 teaspoon salt",
+      "1 tablespoon sesame oil",
+      "1 tablespoon soy sauce",
+      "1 small serrano chile, minced"
+    ],
+    "utensils": [
+      "Small bowl for dressing",
+      "Whisk",
+      "Very large mixing bowl or soup kettle",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Prepare all vegetables: julienne the pepper and carrot, slice green onions, and shred the napa cabbage.",
+        "sk": "Pripravte všetku zeleninu: nakrájajte papriku a mrkvu na julienne, nakrájajte jarnú cibuľku a nastrúhajte čínsku kapustu.",
+        "ja": "全ての野菜を準備します：ピーマンと人参を細切りに、青ねぎを薄切りに、白菜を千切りにします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "In a small bowl, whisk together oil, Splenda, rice vinegar, lime juice, chopped cilantro, salt, sesame oil, soy sauce, and minced serrano chile to make the dressing.",
+        "sk": "V malej miske vyšľahajte spolu olej, Splendu, ryžový ocot, limetkovú šťavu, nasekaný koriander, soľ, sezamový olej, sójovú omáčku a nasekaný serrano čili na prípravu dresingu.",
+        "ja": "小さなボウルに油、スプレンダ、米酢、ライムジュース、刻んだコリアンダー、塩、ごま油、醤油、みじん切りのセラーノチリを入れて泡立て器で混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "In a very large bowl or soup kettle, combine all prepared vegetables and bean sprouts.",
+        "sk": "Vo veľmi veľkej miske alebo hrnci na polievku zmiešajte všetku pripravenú zeleninu a fazuľové klíčky.",
+        "ja": "とても大きなボウルまたはスープケトルに、準備した全ての野菜ともやしを入れます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Pour the dressing over the vegetables and toss well to combine.",
+        "sk": "Prelejte dresing cez zeleninu a dobre premiešajte.",
+        "ja": "野菜の上にドレッシングをかけ、よく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 60,
+        "en": "Let the salad marinate in the refrigerator for about an hour before serving.",
+        "sk": "Nechajte šalát marinovať v chladničke asi hodinu pred podávaním.",
+        "ja": "提供前に約1時間冷蔵庫で味をなじませます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Before serving, toss the salad again to mix in any dressing that has settled to the bottom of the bowl.",
+        "sk": "Pred podávaním šalát znovu premiešajte, aby sa premiešal všetok dresing, ktorý sa usadil na dne misky.",
+        "ja": "提供前に、ボウルの底に沈んでいるドレッシングを混ぜるために、もう一度サラダを軽く混ぜます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Crunchy Thai Salad II is a low-carb, keto-friendly dish with a vibrant mix of vegetables and a tangy Thai-inspired dressing. The use of Splenda instead of sugar keeps the carb count low. While the recipe includes some higher-carb vegetables like carrots, you can adjust the quantities to lower the carb count further if needed. The salad will shrink considerably once the dressing is added, so you can store it in a smaller container after mixing. For the best flavor, allow the salad to marinate for an hour before serving, and remember to toss it again just before serving to redistribute the dressing."
+  }

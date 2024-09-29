@@ -1,0 +1,69 @@
+{
+    "id": "keto-salad_my_favorite_coleslaw_001",
+    "name": "My Favorite Coleslaw",
+    "ingredients": [
+      "1/2 medium cabbage, finely shredded (about 1 pound)",
+      "1 ounce piece of carrot, shredded",
+      "1 cup mayonnaise",
+      "1/4 cup Splenda or equivalent liquid Splenda",
+      "2 tablespoons white vinegar",
+      "1/4 teaspoon celery seed",
+      "1/8 teaspoon pepper",
+      "1/2 teaspoon salt"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Grater or food processor",
+      "Measuring cups and spoons",
+      "Mixing spoon"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Finely shred the cabbage and carrot using a grater or food processor.",
+        "sk": "Jemne nastrúhajte kapustu a mrkvu pomocou strúhadla alebo kuchynského robota.",
+        "ja": "キャベツとニンジンをおろし金またはフードプロセッサーを使って細かく千切りにします。",
+        "primaryIngredient": "cabbage and carrot"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl, mix mayonnaise, Splenda, white vinegar, celery seed, pepper, and salt to make the dressing.",
+        "sk": "Vo veľkej miske zmiešajte majonézu, Splendu, biely ocot, zelerové semienka, korenie a soľ na prípravu dresingu.",
+        "ja": "大きなボウルにマヨネーズ、スプレンダ、白ワインビネガー、セロリシード、コショウ、塩を入れて混ぜ、ドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Add 1/3 of the shredded cabbage and carrot to the bowl with the dressing and mix well to coat.",
+        "sk": "Pridajte 1/3 nastrúhanej kapusty a mrkvy do misky s dresingom a dobre premiešajte, aby sa obalilo.",
+        "ja": "ドレッシングの入ったボウルに千切りにしたキャベツとニンジンの1/3を加え、よく混ぜ合わせます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 3,
+        "en": "Add another 1/3 of the cabbage and carrot mixture and mix well.",
+        "sk": "Pridajte ďalšiu 1/3 zmesi kapusty a mrkvy a dobre premiešajte.",
+        "ja": "さらにキャベツとニンジンの混ぜ物の1/3を加えてよく混ぜます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 3,
+        "en": "Add the remaining cabbage and carrot and mix until everything is well coated with the dressing.",
+        "sk": "Pridajte zvyšnú kapustu a mrkvu a miešajte, kým nebude všetko dobre obalené dresingom.",
+        "ja": "残りのキャベツとニンジンを加え、全体にドレッシングがよくからむまで混ぜます。",
+        "primaryIngredient": "slaw"
+      },
+      {
+        "time": 180,
+        "en": "Chill the coleslaw for several hours before serving.",
+        "sk": "Pred podávaním nechajte coleslaw chladiť niekoľko hodín.",
+        "ja": "提供前に数時間冷やします。",
+        "primaryIngredient": "slaw"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This 'My Favorite Coleslaw' recipe is a keto-friendly version of classic coleslaw. The use of Splenda instead of sugar keeps the carb count low while still providing a touch of sweetness to balance the tanginess of the vinegar. The tip about adding the cabbage in thirds helps ensure that the dressing is evenly distributed throughout the slaw. Don't worry if it seems like there's not enough dressing at first - it will coat the cabbage perfectly as it chills. For best results, allow the coleslaw to chill for at least a few hours before serving to let the flavors meld together. This coleslaw is perfect as a side dish for grilled meats or as a topping for keto-friendly sandwiches."
+  }

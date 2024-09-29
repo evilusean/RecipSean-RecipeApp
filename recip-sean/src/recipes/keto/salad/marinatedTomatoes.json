@@ -1,0 +1,71 @@
+{
+    "id": "keto-salad_paulas_marinated_tomatoes_001",
+    "name": "Paula's Marinated Tomatoes",
+    "ingredients": [
+      "1 tablespoon granular Splenda or equivalent liquid Splenda",
+      "1 1/2 teaspoons garlic salt",
+      "1 1/2 teaspoons Seasoning Salt",
+      "1/2 teaspoon pepper",
+      "3/4 cup oil",
+      "1/2 cup red wine vinegar",
+      "3 green onions, chopped",
+      "3 tablespoons fresh parsley, chopped",
+      "1 pound grape tomatoes, halved or quartered"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "In a large bowl, whisk together Splenda, garlic salt, Seasoning Salt, pepper, oil, and red wine vinegar.",
+        "sk": "Vo veľkej miske vyšľahajte spolu Splendu, cesnakovú soľ, koreniacu soľ, korenie, olej a červené vínne ocot.",
+        "ja": "大きなボウルにスプレンダ、ガーリックソルト、シーズニングソルト、コショウ、油、赤ワインビネガーを入れ、泡立て器でよく混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Chop the green onions and fresh parsley.",
+        "sk": "Nakrájajte jarnú cibuľku a čerstvú petržlenovú vňať.",
+        "ja": "青ねぎと新鮮なパセリをみじん切りにします。",
+        "primaryIngredient": "herbs"
+      },
+      {
+        "time": 5,
+        "en": "Halve or quarter the grape tomatoes, depending on their size.",
+        "sk": "Prekrojte alebo rozštvrťte hrozno paradajky, v závislosti od ich veľkosti.",
+        "ja": "ミニトマトを大きさに応じて半分または4等分に切ります。",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 2,
+        "en": "Add the chopped green onions, parsley, and prepared tomatoes to the bowl with the dressing.",
+        "sk": "Pridajte nakrájanú jarnú cibuľku, petržlenovú vňať a pripravené paradajky do misky s dresingom.",
+        "ja": "刻んだ青ねぎ、パセリ、準備したトマトをドレッシングの入ったボウルに加えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Toss all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 120,
+        "en": "Let the salad marinate at room temperature for up to 2 hours, stirring occasionally.",
+        "sk": "Nechajte šalát marinovať pri izbovej teplote až 2 hodiny, občas premiešajte.",
+        "ja": "サラダを室温で最大2時間マリネさせ、時々かき混ぜます。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "Paula's Marinated Tomatoes is a refreshing keto-friendly salad that's perfect for summer. The use of Splenda instead of sugar keeps the carb count low while still providing a touch of sweetness to balance the acidity of the vinegar. The marinating process allows the flavors to meld together, creating a delicious and tangy side dish. This salad is best served at room temperature and can be a great accompaniment to grilled meats or fish. For a variation, you could add some diced cucumber or sliced red onions. Remember that while tomatoes do contain some carbs, they can be enjoyed in moderation on a keto diet due to their nutritional benefits."
+  }

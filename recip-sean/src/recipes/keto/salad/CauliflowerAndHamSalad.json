@@ -1,0 +1,89 @@
+{
+    "id": "keto-salad_cauliflower_ham_salad_001",
+    "name": "Cauliflower & Ham Salad",
+    "ingredients": [
+      "1 medium cauliflower, cut into bite-size pieces (about 20 ounces)",
+      "1 cup mayonnaise",
+      "3 tablespoons sugar free sweet pickle relish",
+      "2 tablespoons Dijon mustard",
+      "1 tablespoon fresh parsley, chopped",
+      "3/4 teaspoon salt",
+      "3/4 teaspoon pepper",
+      "1 tablespoon granular Splenda or equivalent liquid Splenda",
+      "1 cup grape tomatoes, halved (about 5 ounces)",
+      "1/2 small red onion, minced (about 3 ounces)",
+      "8 ounce ham cubes",
+      "4 hard boiled eggs, chopped in large pieces"
+    ],
+    "utensils": [
+      "Large microwave-safe bowl or casserole",
+      "Microwave",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Mixing spoon"
+    ],
+    "cookingTime": 8,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the cauliflower into bite-size pieces and place in a large microwave-safe bowl or casserole.",
+        "sk": "Nakrájajte karfiol na kúsky veľkosti sústa a vložte do veľkej misky alebo zapekacej misy vhodnej do mikrovlnnej rúry.",
+        "ja": "カリフラワーを一口大に切り、電子レンジ対応の大きなボウルまたはキャセロール皿に入れます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 8,
+        "en": "Cover and microwave the cauliflower on HIGH for 6-8 minutes, stirring after 3 minutes, until slightly tender but not mushy.",
+        "sk": "Prikryte a varte karfiol v mikrovlnnej rúre na VYSOKOM výkone 6-8 minút, po 3 minútach premiešajte, kým nebude mierne mäkký, ale nie kašovitý.",
+        "ja": "カリフラワーにカバーをして、電子レンジの強火で6-8分加熱します。3分後にかき混ぜ、少し柔らかくなるまで（ただし、ふやけないように）加熱します。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Drain any excess water from the cauliflower and let it cool to room temperature.",
+        "sk": "Zlejte prebytočnú vodu z karfiolu a nechajte ho vychladnúť na izbovú teplotu.",
+        "ja": "カリフラワーの余分な水分を切り、室温まで冷まします。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a separate bowl, blend mayonnaise, sugar-free sweet pickle relish, Dijon mustard, chopped parsley, salt, pepper, and Splenda to make the dressing.",
+        "sk": "V samostatnej miske zmiešajte majonézu, sladkú uhorkovú zálievku bez cukru, dijonskú horčicu, nasekanú petržlenovú vňať, soľ, korenie a Splendu na prípravu dresingu.",
+        "ja": "別のボウルで、マヨネーズ、砂糖不使用のスイートピクルレリッシュ、ディジョンマスタード、刻んだパセリ、塩、コショウ、スプレンダを混ぜてドレッシングを作ります。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "Halve the grape tomatoes, mince the red onion, and chop the hard-boiled eggs into large pieces.",
+        "sk": "Prekrojte hrozno paradajky na polovicu, nasekajte červenú cibuľu nadrobno a nakrájajte vajcia natvrdo na veľké kúsky.",
+        "ja": "ブドウトマトを半分に切り、赤玉ねぎをみじん切りにし、ゆで卵を大きめに刻みます。",
+        "primaryIngredient": "vegetables and eggs"
+      },
+      {
+        "time": 3,
+        "en": "Once the cauliflower has cooled, add the dressing and gently toss to coat.",
+        "sk": "Keď karfiol vychladne, pridajte dresing a jemne premiešajte, aby sa obalil.",
+        "ja": "カリフラワーが冷めたら、ドレッシングを加えて優しく混ぜ、全体にからめます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 3,
+        "en": "Stir in the halved tomatoes, minced onion, ham cubes, and chopped eggs.",
+        "sk": "Vmiešajte polovice paradajok, nasekanú cibuľu, kocky šunky a nasekané vajcia.",
+        "ja": "半分に切ったトマト、みじん切りの玉ねぎ、ハムキューブ、刻んだ卵を加えて混ぜます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 180,
+        "en": "Cover the salad and chill for at least 3 hours before serving.",
+        "sk": "Šalát prikryte a pred podávaním chlaďte aspoň 3 hodiny.",
+        "ja": "サラダにカバーをして、提供前に少なくとも3時間冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Cauliflower & Ham Salad is a delicious and satisfying keto-friendly dish. The cauliflower serves as a low-carb base, while the ham and eggs provide protein. The dressing, made with sugar-free ingredients, adds flavor without adding unnecessary carbs. This salad is versatile and can be served as a main dish or a side. For best results, allow the salad to chill for at least 3 hours before serving to let the flavors meld together. You can adjust the sweetness by modifying the amount of Splenda used. Remember that while tomatoes do contain some carbs, they're used in moderation here and can fit into a keto diet. This salad is a great option for meal prep as it keeps well in the refrigerator for several days."
+  }

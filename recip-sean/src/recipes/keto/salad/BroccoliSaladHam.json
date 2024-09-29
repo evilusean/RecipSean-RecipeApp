@@ -1,0 +1,91 @@
+{
+    "id": "keto-salad_broccoli_salad_with_ham_001",
+    "name": "Broccoli Salad with Ham",
+    "ingredients": [
+      "1 bunch fresh broccoli (about 1 pound before trimming)",
+      "8 ounces diced ham",
+      "4 ounces cheddar cheese, shredded",
+      "1 cup mayonnaise",
+      "2 tablespoons cider vinegar",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda",
+      "Salt and pepper to taste (optional)"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Small mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Cheese grater"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Trim and peel the tough stalks of the broccoli, then finely chop the entire bunch.",
+        "sk": "Odrežte a olúpte tvrdé stonky brokolice, potom celý trs jemne nasekajte.",
+        "ja": "ブロッコリーの固い茎を取り除いて皮をむき、全体を細かく刻みます。",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 1,
+        "en": "Place the chopped broccoli in a large bowl.",
+        "sk": "Nasekanú brokolicu vložte do veľkej misy.",
+        "ja": "刻んだブロッコリーを大きなボウルに入れます。",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 2,
+        "en": "Add the diced ham to the bowl with the broccoli.",
+        "sk": "Pridajte nakrájanú šunku do misy s brokolicou.",
+        "ja": "ブロッコリーの入ったボウルにさいの目切りにしたハムを加えます。",
+        "primaryIngredient": "ham"
+      },
+      {
+        "time": 3,
+        "en": "Shred the cheddar cheese and add it to the bowl.",
+        "sk": "Nastrúhajte čedar a pridajte ho do misy.",
+        "ja": "チェダーチーズをすりおろし、ボウルに加えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "In a small bowl, blend the mayonnaise, cider vinegar, and Splenda.",
+        "sk": "V malej miske zmiešajte majonézu, jablčný ocot a Splendu.",
+        "ja": "小さなボウルにマヨネーズ、サイダービネガー、スプレンダを入れて混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Pour the dressing over the broccoli mixture.",
+        "sk": "Prelejte dresing cez brokolicovú zmes.",
+        "ja": "ドレッシングをブロッコリーの混ぜ物にかけます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 180,
+        "en": "Chill the salad for several hours before serving.",
+        "sk": "Pred podávaním nechajte šalát niekoľko hodín chladiť.",
+        "ja": "提供前に数時間冷やします。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "If desired, season with salt and pepper to taste before serving.",
+        "sk": "Ak chcete, pred podávaním ochuťte soľou a korením podľa chuti.",
+        "ja": "必要に応じて、提供前に塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Broccoli Salad with Ham is a delicious and satisfying keto-friendly dish. The combination of crisp broccoli, savory ham, and sharp cheddar cheese creates a perfect balance of flavors and textures. The dressing, made with mayonnaise, cider vinegar, and Splenda, adds a creamy and slightly tangy element without adding carbs. This salad is high in fiber from the broccoli and protein from the ham and cheese, making it a nutritious choice for those following a ketogenic diet. For best results, allow the salad to chill for several hours before serving to let the flavors meld together. While the recipe suggests that additional seasoning may not be necessary, feel free to add salt and pepper to taste if desired. This salad can be a great option for meal prep as it keeps well in the refrigerator for a few days."
+  }

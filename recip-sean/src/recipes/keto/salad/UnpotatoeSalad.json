@@ -1,0 +1,93 @@
+{
+    "id": "keto-salad_danas_unpotato_salad_001",
+    "name": "Dana's Unpotato Salad",
+    "ingredients": [
+      "Small-medium fresh cauliflower (about 21 ounces trimmed)",
+      "1 cup celery, chopped (about 2 large stalks or 5 1/4 ounces)",
+      "1 cup red onion, chopped (about 4 ounces or one small-medium onion)",
+      "1 cup mayonnaise",
+      "2 tablespoons cider vinegar",
+      "1 teaspoon salt",
+      "1 teaspoon granular Splenda, or to taste",
+      "1/4 teaspoon pepper",
+      "4 hard boiled eggs"
+    ],
+    "utensils": [
+      "Large casserole dish",
+      "Microwave",
+      "Knife",
+      "Cutting board",
+      "Small mixing bowl",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 7,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the cauliflower into bite-size pieces.",
+        "sk": "Nakrájajte karfiol na kúsky veľkosti sústa.",
+        "ja": "カリフラワーを一口大に切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 7,
+        "en": "Place cauliflower in a large casserole with 1 tablespoon water. Cover and microwave on HIGH for 6-7 minutes, stirring halfway through.",
+        "sk": "Vložte karfiol do veľkej zapekacej misy s 1 lyžicou vody. Prikryte a varte v mikrovlnnej rúre na VYSOKOM výkone 6-7 minút, v polovici času premiešajte.",
+        "ja": "カリフラワーを大きなキャセロール皿に入れ、大さじ1の水を加えます。蓋をして電子レンジの強火で6-7分加熱し、途中でかき混ぜます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Let the cauliflower stand, covered, for 5 minutes, then drain and return to the casserole. Chill until at least lukewarm.",
+        "sk": "Nechajte karfiol stáť prikrytý 5 minút, potom sceďte a vráťte do zapekacej misy. Ochlaďte aspoň na vlažnú teplotu.",
+        "ja": "カリフラワーを蓋をしたまま5分間置き、その後水を切ってキャセロール皿に戻します。少なくともぬるくなるまで冷やします。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 10,
+        "en": "Chop the celery and red onion, then stir into the cooled cauliflower.",
+        "sk": "Nasekajte zeler a červenú cibuľu, potom vmiešajte do vychladnutého karfiolu.",
+        "ja": "セロリと赤玉ねぎをみじん切りにし、冷めたカリフラワーに混ぜ入れます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "In a small bowl, mix mayonnaise, cider vinegar, salt, Splenda, and pepper.",
+        "sk": "V malej miske zmiešajte majonézu, jablčný ocot, soľ, Splendu a korenie.",
+        "ja": "小さなボウルにマヨネーズ、サイダービネガー、塩、スプレンダ、コショウを入れて混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Pour the dressing over the cauliflower mixture and mix well.",
+        "sk": "Prelejte dresing cez karfiolovú zmes a dobre premiešajte.",
+        "ja": "ドレッシングをカリフラワーの混ぜ物にかけ、よく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 5,
+        "en": "Peel and cut the hard boiled eggs into large chunks.",
+        "sk": "Olúpte a nakrájajte vajcia natvrdo na veľké kúsky.",
+        "ja": "ゆで卵の殻をむき、大きめに切り分けます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Gently stir the egg chunks into the salad, being careful not to break up the yolks too much.",
+        "sk": "Jemne vmiešajte kúsky vajec do šalátu, dávajte pozor, aby ste príliš nerozbili žĺtky.",
+        "ja": "卵の塊をサラダに優しく混ぜ入れ、黄身をあまり崩さないように注意します。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 120,
+        "en": "Chill the salad well before serving.",
+        "sk": "Pred podávaním šalát dobre vychlaďte.",
+        "ja": "提供前にサラダをよく冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "Dana's Unpotato Salad is a clever keto-friendly version of traditional potato salad, using cauliflower as a low-carb substitute for potatoes. The texture and flavor of the cauliflower, when prepared correctly, mimics that of potatoes quite well. The use of Splenda instead of sugar keeps the carb count low while maintaining a balanced flavor profile. For best results, make sure to chill the cauliflower before adding the other ingredients, and allow the finished salad to chill thoroughly before serving. This allows the flavors to meld together and improves the overall texture. This salad is perfect for summer barbecues, picnics, or as a side dish for any keto meal. You can adjust the amount of Splenda to your taste preference, or even omit it if you prefer a less sweet salad."
+  }

@@ -1,0 +1,75 @@
+{
+    "id": "keto-salad_chicken_salad_001",
+    "name": "Chicken Salad",
+    "ingredients": [
+      "2 cups cooked chicken, cut in bite-sized pieces",
+      "2 stalks celery, chopped",
+      "1/2 cup mayonnaise",
+      "Salt, to taste",
+      "1/8 teaspoon pepper",
+      "Chopped chives (optional)",
+      "1/4 cup sugar free bread and butter pickles, chopped (optional)"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the cooked chicken into bite-sized pieces if not already done.",
+        "sk": "Nakrájajte uvarené kura na kúsky veľkosti sústa, ak to ešte nie je urobené.",
+        "ja": "調理済みの鶏肉をまだ切っていない場合は、一口大に切ります。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Chop the celery stalks.",
+        "sk": "Nasekajte stonky zeleru.",
+        "ja": "セロリを刻みます。",
+        "primaryIngredient": "celery"
+      },
+      {
+        "time": 1,
+        "en": "If using, chop the sugar free bread and butter pickles.",
+        "sk": "Ak používate, nasekajte sladkokyslé uhorky bez cukru.",
+        "ja": "使用する場合は、砂糖不使用のブレッド＆バターピクルスを刻みます。",
+        "primaryIngredient": "pickles"
+      },
+      {
+        "time": 5,
+        "en": "In a large mixing bowl, combine the chicken, celery, mayonnaise, salt, and pepper.",
+        "sk": "Vo veľkej miske zmiešajte kura, zeler, majonézu, soľ a korenie.",
+        "ja": "大きなボウルに鶏肉、セロリ、マヨネーズ、塩、コショウを入れて混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "If using, add chopped chives and chopped pickles to the mixture.",
+        "sk": "Ak používate, pridajte do zmesi nasekané pažítku a nasekané uhorky.",
+        "ja": "使用する場合は、刻んだチャイブとピクルスを混ぜ物に加えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料が均一になるまでよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 120,
+        "en": "Chill the salad well before serving.",
+        "sk": "Pred podávaním šalát dobre vychlaďte.",
+        "ja": "提供前にサラダをよく冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Chicken Salad is a versatile and keto-friendly dish. It's high in protein and healthy fats, while being low in carbs. The recipe makes about 4-6 servings and should not be frozen. For variety, you can add optional ingredients like chopped hard boiled eggs, lemon juice, diced peppers, chopped dill pickles, green onions, pickled jalapeños, diced cucumber, chopped olives, or nuts like cashews. Remember to count the additional carbs if you include these extras. This salad is great for meal prep and can be served on its own, in lettuce wraps, or with keto-friendly crackers or vegetables for dipping. For best flavor, allow the salad to chill for at least an hour before serving to let the flavors meld together."
+  }

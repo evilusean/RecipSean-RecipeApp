@@ -1,0 +1,76 @@
+{
+    "id": "keto-salad_coleslaw_001",
+    "name": "Coleslaw",
+    "ingredients": [
+      "Small cabbage, shredded (25 ounces)",
+      "1/4 cup green pepper, minced (1 1/2 ounces)",
+      "1 cup mayonnaise",
+      "1/2 teaspoon dry minced onion",
+      "2 tablespoons rice wine vinegar",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon Worcestershire sauce",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/2 teaspoon celery seed",
+      "Pinch chives (optional)",
+      "1/8 teaspoon onion powder",
+      "Dash cayenne",
+      "1/4 teaspoon Old Bay seasoning",
+      "1 teaspoon horseradish"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 0,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Shred the cabbage if not already shredded.",
+        "sk": "Nastrúhajte kapustu, ak ešte nie je nastrúhaná.",
+        "ja": "キャベツをせん切りにします（まだしていない場合）。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 2,
+        "en": "Mince the green pepper.",
+        "sk": "Nasekajte zelené papriky nadrobno.",
+        "ja": "ピーマンをみじん切りにします。",
+        "primaryIngredient": "green pepper"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl, combine mayonnaise, dry minced onion, rice wine vinegar, Splenda, Worcestershire sauce, salt, pepper, celery seed, chives (if using), onion powder, cayenne, Old Bay seasoning, and horseradish.",
+        "sk": "Vo veľkej miske zmiešajte majonézu, sušenú nasekanú cibuľu, ryžový ocot, Splendu, Worcesterskú omáčku, soľ, korenie, zelerové semienka, pažítku (ak používate), cibuľový prášok, kajenské korenie, korenie Old Bay a chren.",
+        "ja": "大きなボウルにマヨネーズ、乾燥ミンチオニオン、米酢、スプレンダ、ウスターソース、塩、コショウ、セロリシード、チャイブ（使用する場合）、オニオンパウダー、カイエンペッパー、オールドベイシーズニング、西洋わさびを入れて混ぜ合わせます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 3,
+        "en": "Add the shredded cabbage and minced green pepper to the bowl with the dressing.",
+        "sk": "Pridajte nastrúhanú kapustu a nasekanú zelenú papriku do misky s dressingom.",
+        "ja": "せん切りにしたキャベツとみじん切りにしたピーマンをドレッシングの入ったボウルに加えます。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients thoroughly.",
+        "sk": "Všetky prísady dôkladne premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "coleslaw"
+      },
+      {
+        "time": 60,
+        "en": "Chill well before serving.",
+        "sk": "Pred podávaním dobre vychlaďte.",
+        "ja": "提供前によく冷やします。",
+        "primaryIngredient": "coleslaw"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Coleslaw recipe is a keto-friendly version of the classic side dish. It uses Splenda instead of sugar to keep the carb count low. The combination of spices and seasonings gives it a complex flavor profile. For best results, allow the coleslaw to chill for at least an hour before serving to let the flavors meld together. This dish is great as a side for grilled meats or as a topping for keto sandwiches. Remember that the exact carb count may vary depending on the specific brands of ingredients used."
+  }

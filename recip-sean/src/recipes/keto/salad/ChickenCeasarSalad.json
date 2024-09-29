@@ -1,0 +1,74 @@
+{
+    "id": "keto-salad_chicken_caesar_salad_001",
+    "name": "Chicken Caesar Salad",
+    "ingredients": [
+      "1 boneless chicken breast, grilled and sliced",
+      "2 cups romaine, chopped (about 4 ounces)",
+      "2 tablespoons Caesar salad dressing",
+      "1/2 ounce freshly grated parmesan cheese"
+    ],
+    "utensils": [
+      "Grill or grill pan",
+      "Salad bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Cheese grater"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Grill the boneless chicken breast until fully cooked, then slice it.",
+        "sk": "Grilujte kuracie prsia bez kosti, kým nie sú úplne uvarené, potom ich nakrájajte.",
+        "ja": "骨なしの鶏胸肉を完全に火が通るまでグリルし、その後スライスします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Chop the romaine lettuce and place it in a salad bowl.",
+        "sk": "Nasekajte rímsky šalát a vložte ho do šalátovej misy.",
+        "ja": "ロメインレタスを刻み、サラダボウルに入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Add the sliced grilled chicken to the bowl with the romaine.",
+        "sk": "Pridajte nakrájané grilované kura do misy s rímskym šalátom.",
+        "ja": "スライスしたグリルチキンをロメインレタスの入ったボウルに加えます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Add 2 tablespoons of Caesar salad dressing to the bowl.",
+        "sk": "Pridajte 2 lyžice dresingu na Caesar šalát do misy.",
+        "ja": "ボウルにシーザーサラダドレッシングを大さじ2加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Grate 1/2 ounce of fresh parmesan cheese and add it to the bowl.",
+        "sk": "Nastrúhajte 1/2 unce čerstvého parmezánu a pridajte ho do misy.",
+        "ja": "新鮮なパルメザンチーズを1/2オンスすりおろし、ボウルに加えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Toss all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately and enjoy your Chicken Caesar Salad!",
+        "sk": "Ihneď podávajte a vychutnajte si váš Caesar šalát s kuracím mäsom!",
+        "ja": "すぐに提供し、チキンシーザーサラダをお楽しみください！",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Chicken Caesar Salad is a classic keto-friendly meal option. It's high in protein from the chicken and cheese, and low in carbs, making it an excellent choice for those following a ketogenic diet. The romaine lettuce provides a crisp base and is a good source of vitamins and minerals. For the best flavor, use freshly grated parmesan cheese rather than pre-grated. When choosing Caesar dressing, opt for a keto-friendly version to keep the carb count low. You can adjust the amount of chicken or cheese based on your protein needs. For added flavor and nutrients, you could also include some keto-friendly additions like sliced hard-boiled eggs or bacon bits. This salad is best served immediately after preparation to maintain the crispness of the lettuce."
+  }

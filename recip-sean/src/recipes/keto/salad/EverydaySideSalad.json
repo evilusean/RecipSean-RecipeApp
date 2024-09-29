@@ -1,0 +1,83 @@
+{
+    "id": "keto-salad_everyday_side_salad_001",
+    "name": "Everyday Side Salad",
+    "ingredients": [
+      "2 ounces leaf lettuce or fresh baby spinach, roughly torn (about 2 cups)",
+      "1 ounce tomato, chopped (about 1/4 cup)",
+      "1/2 ounce cucumber, sliced (about 2-3 slices)",
+      "1 tablespoon dressing of your choice",
+      "Freshly ground black pepper",
+      "Chives, chopped",
+      "1 teaspoon sunflower kernels"
+    ],
+    "utensils": [
+      "Salad bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Salad tongs or large spoons for tossing"
+    ],
+    "cookingTime": 0,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Roughly tear the leaf lettuce or baby spinach and place in a salad bowl.",
+        "sk": "Zľahka natrhajte listový šalát alebo baby špenát a vložte do misy na šalát.",
+        "ja": "リーフレタスまたはベビーホウレンソウを大まかに手でちぎり、サラダボウルに入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Chop the tomato and add to the bowl.",
+        "sk": "Nakrájajte paradajku a pridajte do misy.",
+        "ja": "トマトを刻んでボウルに加えます。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 1,
+        "en": "Slice the cucumber and add to the bowl.",
+        "sk": "Nakrájajte uhorku na plátky a pridajte do misy.",
+        "ja": "キュウリをスライスしてボウルに加えます。",
+        "primaryIngredient": "cucumber"
+      },
+      {
+        "time": 1,
+        "en": "Add your chosen dressing to the vegetables.",
+        "sk": "Pridajte k zelenine váš vybraný dresing.",
+        "ja": "野菜に選んだドレッシングを加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Toss all the vegetables and dressing together until well combined.",
+        "sk": "Všetku zeleninu a dresing spolu dobre premiešajte.",
+        "ja": "全ての野菜とドレッシングをよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Top the salad with freshly ground black pepper.",
+        "sk": "Posypte šalát čerstvo mletým čiernym korením.",
+        "ja": "サラダの上に挽きたての黒コショウをふりかけます。",
+        "primaryIngredient": "pepper"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle chopped chives over the salad.",
+        "sk": "Posypte šalát nasekanými pažítkami.",
+        "ja": "刻んだチャイブをサラダの上にふりかけます。",
+        "primaryIngredient": "chives"
+      },
+      {
+        "time": 1,
+        "en": "Finally, add the sunflower kernels on top of the salad.",
+        "sk": "Nakoniec pridajte na vrch šalátu slnečnicové semienka.",
+        "ja": "最後に、サラダの上にヒマワリの種をトッピングします。",
+        "primaryIngredient": "sunflower kernels"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Everyday Side Salad is a simple, versatile, and keto-friendly dish that can accompany a wide variety of main courses. It's quick to prepare and can be easily customized based on personal preferences or what's available in your kitchen. The sunflower kernels add a nice crunch and healthy fats, while the choice of dressing allows you to vary the flavor profile. For a more substantial keto meal, you could add some grilled chicken, hard-boiled eggs, or avocado. Remember to choose a low-carb dressing to keep the salad keto-friendly."
+  }

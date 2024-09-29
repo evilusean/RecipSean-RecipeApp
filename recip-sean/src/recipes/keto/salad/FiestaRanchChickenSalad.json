@@ -1,0 +1,106 @@
+{
+    "id": "keto-salad_fiesta_ranch_chicken_salad_001",
+    "name": "Fiesta Ranch Chicken Salad",
+    "ingredients": [
+      "1 boneless chicken breast",
+      "1/2 teaspoon Seasoning for Tacos",
+      "4 ounces lettuce, torn up",
+      "Few thin slices cucumber",
+      "1 ounce Monterey jack cheese, shredded",
+      "1/4 cup salsa",
+      "1/4 cup ranch dressing",
+      "Chopped cilantro for garnish (optional)"
+    ],
+    "utensils": [
+      "Grill or grill pan",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Salad bowl",
+      "Cheese grater"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Sprinkle the chicken breast with taco seasoning on both sides.",
+        "sk": "Posypte kuracie prsia korením na tacos z oboch strán.",
+        "ja": "鶏の胸肉の両面にタコシーズニングをふりかけます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the seasoned chicken breast until just done. Be careful not to overcook.",
+        "sk": "Grilujte okoreněné kuracie prsia, kým nie sú hotové. Dávajte pozor, aby ste ich neprevarili.",
+        "ja": "味付けした鶏胸肉を火が通るまでグリルします。焼きすぎないように注意してください。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Once cooked, cut the chicken into thin slices.",
+        "sk": "Po uvarení nakrájajte kura na tenké plátky.",
+        "ja": "調理後、鶏肉を薄くスライスします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Tear up the lettuce and place it in a salad bowl.",
+        "sk": "Natrhajte šalát a vložte ho do šalátovej misy.",
+        "ja": "レタスを手でちぎり、サラダボウルに入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Add thin slices of cucumber to the bowl.",
+        "sk": "Pridajte do misy tenké plátky uhorky.",
+        "ja": "ボウルにキュウリの薄切りを加えます。",
+        "primaryIngredient": "cucumber"
+      },
+      {
+        "time": 2,
+        "en": "Shred the Monterey jack cheese and add it to the bowl.",
+        "sk": "Nastrúhajte syr Monterey jack a pridajte ho do misy.",
+        "ja": "モントレージャックチーズをすりおろし、ボウルに加えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Add the salsa to the bowl.",
+        "sk": "Pridajte do misy salsu.",
+        "ja": "ボウルにサルサを加えます。",
+        "primaryIngredient": "salsa"
+      },
+      {
+        "time": 1,
+        "en": "Add the ranch dressing to the bowl.",
+        "sk": "Pridajte do misy dresing ranch.",
+        "ja": "ボウルにランチドレッシングを加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Add the sliced chicken to the bowl.",
+        "sk": "Pridajte do misy nakrájané kura.",
+        "ja": "スライスした鶏肉をボウルに加えます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Toss all ingredients together until well mixed.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料がよく混ざるまで和えます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "If desired, garnish with chopped cilantro before serving.",
+        "sk": "Ak chcete, pred podávaním ozdobte nasekaným koriandrom.",
+        "ja": "お好みで、提供前に刻んだコリアンダーを飾ります。",
+        "primaryIngredient": "garnish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Fiesta Ranch Chicken Salad is a flavorful and satisfying keto-friendly meal. It's high in protein from the chicken and cheese, and provides healthy fats from the cheese and ranch dressing. The vegetables add fiber and nutrients while keeping the carb count low. For the best keto results, ensure your taco seasoning and ranch dressing are low in carbs or sugar-free. Be mindful of the amount of salsa used, as it can contain some carbs from tomatoes. You can adjust the portions of each ingredient to fit your specific macronutrient needs. This salad is quick to prepare and can be customized to your taste preferences. For a spicier version, you could add some diced jalapeños or use pepper jack cheese instead of Monterey jack. If you're meal prepping, you can grill the chicken in advance and assemble the salad when ready to eat."
+  }

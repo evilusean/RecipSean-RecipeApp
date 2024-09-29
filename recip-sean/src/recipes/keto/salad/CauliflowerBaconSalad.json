@@ -1,0 +1,83 @@
+{
+    "id": "keto-salad_bacon_and_country_cauliflower_salad_001",
+    "name": "Bacon and Country Cauliflower Salad",
+    "ingredients": [
+      "4-5 slices bacon, chopped",
+      "1 pound fresh cauliflower, chopped",
+      "1 green onion, chopped",
+      "1 hard boiled egg, chopped",
+      "1/2 cup mayonnaise",
+      "2 teaspoons Dijon mustard",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Frying pan",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Chop the bacon into small pieces.",
+        "sk": "Nakrájajte slaninu na malé kúsky.",
+        "ja": "ベーコンを小さく切ります。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 8,
+        "en": "Fry the chopped bacon in a pan until crisp. Drain the fat.",
+        "sk": "Opečte nakrájanú slaninu na panvici do chrumkava. Odlejte prebytočný tuk.",
+        "ja": "フライパンで切ったベーコンをカリカリになるまで炒めます。脂を切ります。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Chop the cauliflower into small, bite-sized pieces.",
+        "sk": "Nakrájajte karfiol na malé kúsky veľkosti sústa.",
+        "ja": "カリフラワーを小さな一口サイズに切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Chop the green onion and hard boiled egg.",
+        "sk": "Nasekajte zelenú cibuľku a uvarené vajce natvrdo.",
+        "ja": "青ねぎとゆで卵を刻みます。",
+        "primaryIngredient": "green onion"
+      },
+      {
+        "time": 3,
+        "en": "In a large bowl, mix mayonnaise and Dijon mustard.",
+        "sk": "Vo veľkej miske zmiešajte majonézu a dijonskú horčicu.",
+        "ja": "大きなボウルにマヨネーズとディジョンマスタードを入れて混ぜます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 5,
+        "en": "Add the crispy bacon, chopped cauliflower, green onion, and hard boiled egg to the bowl. Mix well.",
+        "sk": "Pridajte do misky chrumkavú slaninu, nasekaný karfiol, zelenú cibuľku a uvarené vajce. Dobre premiešajte.",
+        "ja": "ボウルにカリカリのベーコン、刻んだカリフラワー、青ねぎ、ゆで卵を加えてよく混ぜます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "salt and pepper"
+      },
+      {
+        "time": 60,
+        "en": "Chill well before serving.",
+        "sk": "Pred podávaním dobre vychlaďte.",
+        "ja": "提供前によく冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Bacon and Country Cauliflower Salad is a keto-friendly dish that combines the crunchiness of fresh cauliflower with the savory flavors of bacon. It's a low-carb alternative to traditional potato salad. The mayonnaise and Dijon mustard create a creamy dressing that coats the vegetables nicely. For best results, allow the salad to chill for at least an hour before serving to let the flavors meld together. This dish is great as a side for grilled meats or as a standalone light meal. Remember that the exact carb count may vary depending on the specific brands of ingredients used."
+  }

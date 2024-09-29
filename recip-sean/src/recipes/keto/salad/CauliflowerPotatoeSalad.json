@@ -1,0 +1,88 @@
+{
+    "id": "keto-salad_helens_potato_salad_001",
+    "name": "Helen's \"Potato\" Salad",
+    "ingredients": [
+      "16 ounce bag frozen cauliflower",
+      "4 hard boiled eggs, chopped",
+      "2 stalks celery, chopped",
+      "3 green onions",
+      "3 tablespoons yellow mustard",
+      "1/2 cup mayonnaise",
+      "2 tablespoons dill pickle relish (optional)",
+      "1/8 teaspoon celery seed (optional)",
+      "1/4 teaspoon pepper, or to taste",
+      "1/2 teaspoon salt, or to taste",
+      "Pinch dill (optional)"
+    ],
+    "utensils": [
+      "Large pot for cooking cauliflower",
+      "Colander",
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 12,
+        "en": "Cook the frozen cauliflower until soft, but not mushy.",
+        "sk": "Varte mrazenú karfiolovú ružičku, kým nebude mäkká, ale nie kašovitá.",
+        "ja": "冷凍カリフラワーを柔らかくなるまで茹でますが、ふやけないように注意してください。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Drain the cooked cauliflower well and let it cool.",
+        "sk": "Uvarenú karfiolovú ružičku dobre sceďte a nechajte vychladnúť.",
+        "ja": "茹でたカリフラワーをよく水切りし、冷まします。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Once cooled, cut the cauliflower into small pieces.",
+        "sk": "Po vychladnutí nakrájajte karfiolovú ružičku na malé kúsky.",
+        "ja": "冷めたら、カリフラワーを小さく切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Chop the hard boiled eggs and celery. Slice the green onions.",
+        "sk": "Nakrájajte vajcia natvrdo a zeler. Nakrájajte jarnú cibuľku.",
+        "ja": "ゆで卵とセロリを刻みます。青ねぎを薄切りにします。",
+        "primaryIngredient": "eggs and vegetables"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, mix the yellow mustard with the mayonnaise.",
+        "sk": "V malej miske zmiešajte žltú horčicu s majonézou.",
+        "ja": "小さなボウルに黄色いマスタードとマヨネーズを入れて混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl, combine the cauliflower pieces, chopped eggs, celery, green onions, mustard-mayonnaise mixture, and optional dill pickle relish.",
+        "sk": "Vo veľkej miske zmiešajte kúsky karfiolovej ružičky, nakrájané vajcia, zeler, jarnú cibuľku, zmes horčice a majonézy a voliteľne relish z nakladaných uhoriek.",
+        "ja": "大きなボウルに、カリフラワーの小片、刻んだ卵、セロリ、青ねぎ、マスタードとマヨネーズの混合物、オプションのディルピクルスレリッシュを入れて混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "Add celery seed (if using), pepper, salt, and dill (if using). Mix well.",
+        "sk": "Pridajte zelerové semienka (ak používate), korenie, soľ a kôpor (ak používate). Dobre premiešajte.",
+        "ja": "セロリシード（使用する場合）、コショウ、塩、ディル（使用する場合）を加えてよく混ぜます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 120,
+        "en": "Chill the salad for at least 2 hours before serving.",
+        "sk": "Pred podávaním nechajte šalát chladiť aspoň 2 hodiny.",
+        "ja": "提供前に少なくとも2時間冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "Helen's \"Potato\" Salad is a keto-friendly version of traditional potato salad, using cauliflower as a low-carb substitute for potatoes. This salad captures the classic flavors and textures of potato salad while keeping the carb count low. The cauliflower should be cooked until soft but not mushy to mimic the texture of potatoes. The optional ingredients (dill pickle relish, celery seed, and dill) can be added or omitted based on personal preference. For best results, allow the salad to chill for at least 2 hours before serving to let the flavors meld together. This salad is perfect for summer barbecues, picnics, or as a side dish for any keto meal."
+  }

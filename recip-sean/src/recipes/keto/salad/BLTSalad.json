@@ -1,0 +1,90 @@
+{
+    "id": "keto-salad_blt_salad_001",
+    "name": "B.L.T. Salad",
+    "ingredients": [
+      "2 ounces iceberg lettuce, chopped",
+      "1/4 cup tomato, diced (about 1 1/2 ounces)",
+      "1 teaspoon green onion, sliced",
+      "1 ounce cheddar cheese, shredded",
+      "1 piece bacon, crisp and crumbled",
+      "2 tablespoons ranch dressing or mayonnaise",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Cheese grater"
+    ],
+    "cookingTime": 5,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Chop the iceberg lettuce and place it in a mixing bowl.",
+        "sk": "Nasekajte ľadový šalát a vložte ho do misky na miešanie.",
+        "ja": "アイスバーグレタスを刻み、ボウルに入れます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 2,
+        "en": "Dice the tomato and add it to the bowl.",
+        "sk": "Nakrájajte paradajku na kocky a pridajte ju do misky.",
+        "ja": "トマトをさいの目切りにし、ボウルに加えます。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 1,
+        "en": "Slice the green onion and add it to the mixture.",
+        "sk": "Nakrájajte zelenú cibuľku a pridajte ju do zmesi.",
+        "ja": "青ねぎをスライスし、混ぜ物に加えます。",
+        "primaryIngredient": "green onion"
+      },
+      {
+        "time": 2,
+        "en": "Shred the cheddar cheese and add it to the bowl.",
+        "sk": "Nastrúhajte čedar a pridajte ho do misky.",
+        "ja": "チェダーチーズをすりおろし、ボウルに加えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "Cook the bacon until crisp, then crumble it and add to the salad.",
+        "sk": "Opečte slaninu do chrumkava, potom ju rozdrobte a pridajte do šalátu.",
+        "ja": "ベーコンをカリカリに焼き、砕いてサラダに加えます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 1,
+        "en": "Add the ranch dressing or mayonnaise to the bowl.",
+        "sk": "Pridajte do misky dresing ranch alebo majonézu.",
+        "ja": "ランチドレッシングまたはマヨネーズをボウルに加えます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 2,
+        "en": "Mix all ingredients together until well combined.",
+        "sk": "Všetky prísady spolu dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately and enjoy your B.L.T. Salad!",
+        "sk": "Ihneď podávajte a vychutnajte si váš B.L.T. šalát!",
+        "ja": "すぐに提供し、B.L.T.サラダをお楽しみください！",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This B.L.T. Salad is a keto-friendly version of the classic B.L.T. sandwich. It captures all the flavors of a B.L.T. while keeping the carb count low by eliminating the bread. The iceberg lettuce provides a crunchy base, while the bacon adds a savory, crispy element. The tomatoes contribute a fresh, tangy flavor, but remember they do contain some carbs, so adjust the amount to fit your specific carb goals if needed. The cheddar cheese adds extra flavor and healthy fats, making this a satisfying keto meal. You can use either ranch dressing or mayonnaise based on your preference, but make sure to choose a keto-friendly ranch if you go that route. This salad is best served immediately after preparation to maintain the crispness of the lettuce and bacon. It's a quick and easy meal that's perfect for lunch or a light dinner on a keto diet."
+  }

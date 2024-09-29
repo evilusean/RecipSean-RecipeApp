@@ -1,0 +1,94 @@
+{
+    "id": "keto-salad_egg_and_tuna_salad_001",
+    "name": "Egg & Tuna Salad",
+    "ingredients": [
+      "8 hard boiled eggs, peeled and coarsely chopped",
+      "2 6-ounce cans tuna, drained",
+      "1/2 cup sugar free sweet pickles, chopped",
+      "3/4 cup mayonnaise",
+      "1 stalk celery, chopped",
+      "2 teaspoons mustard",
+      "1 tablespoon chives, minced",
+      "1/4 teaspoon celery salt",
+      "1/2 teaspoon pepper",
+      "1/2 teaspoon Spicy Seasoning Salt",
+      "1 tablespoon sweet pickle juice (optional)"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Can opener"
+    ],
+    "cookingTime": 0,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Peel and coarsely chop the hard boiled eggs.",
+        "sk": "Olúpte a nahrubo nasekajte vajcia uvarené natvrdo.",
+        "ja": "ゆで卵の殻をむき、粗めに刻みます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Drain the cans of tuna.",
+        "sk": "Sceďte konzervy s tuniakom.",
+        "ja": "ツナ缶の水気を切ります。",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 3,
+        "en": "Chop the sugar free sweet pickles.",
+        "sk": "Nasekajte sladké uhorky bez cukru.",
+        "ja": "砂糖不使用のスイートピクルスを刻みます。",
+        "primaryIngredient": "pickles"
+      },
+      {
+        "time": 2,
+        "en": "Chop the celery stalk.",
+        "sk": "Nasekajte stonku zeleru.",
+        "ja": "セロリを刻みます。",
+        "primaryIngredient": "celery"
+      },
+      {
+        "time": 1,
+        "en": "Mince the chives.",
+        "sk": "Nasekajte pažítku nadrobno.",
+        "ja": "チャイブをみじん切りにします。",
+        "primaryIngredient": "chives"
+      },
+      {
+        "time": 5,
+        "en": "In a large mixing bowl, combine the chopped eggs, drained tuna, chopped pickles, mayonnaise, chopped celery, mustard, minced chives, celery salt, pepper, and Spicy Seasoning Salt.",
+        "sk": "Vo veľkej miske zmiešajte nasekané vajcia, scedený tuniak, nasekané uhorky, majonézu, nasekaný zeler, horčicu, nasekanú pažítku, zelerovú soľ, korenie a koreniacu soľ.",
+        "ja": "大きなボウルに刻んだ卵、水気を切ったツナ、刻んだピクルス、マヨネーズ、刻んだセロリ、マスタード、みじん切りのチャイブ、セロリソルト、コショウ、スパイシーシーズニングソルトを入れて混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 2,
+        "en": "If using, add the sweet pickle juice to the mixture.",
+        "sk": "Ak používate, pridajte do zmesi šťavu zo sladkých uhoriek.",
+        "ja": "使用する場合は、スイートピクルスの汁を混ぜ物に加えます。",
+        "primaryIngredient": "pickle juice"
+      },
+      {
+        "time": 3,
+        "en": "Mix all ingredients well until evenly combined.",
+        "sk": "Všetky prísady dobre premiešajte, až kým sa rovnomerne nespoja.",
+        "ja": "全ての材料が均一になるまでよく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 180,
+        "en": "Chill the salad for several hours before serving.",
+        "sk": "Pred podávaním nechajte šalát niekoľko hodín chladiť.",
+        "ja": "提供前に数時間冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Egg & Tuna Salad is a protein-rich, keto-friendly dish that's perfect for a quick meal or snack. It's high in healthy fats from the eggs, tuna, and mayonnaise, while being low in carbs. The sugar-free sweet pickles add flavor without adding unnecessary carbs. For best results, allow the salad to chill for several hours before serving to let the flavors meld together. This salad can be served on its own, in lettuce wraps, or with keto-friendly vegetables for dipping. It's great for meal prep and can be stored in the refrigerator for 3-4 days. Remember to use sugar-free pickles to keep the carb count low. The optional pickle juice adds extra flavor, but you can omit it if you prefer a thicker consistency."
+  }

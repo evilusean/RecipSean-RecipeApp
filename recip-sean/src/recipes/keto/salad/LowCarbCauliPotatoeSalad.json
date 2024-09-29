@@ -1,0 +1,80 @@
+{
+    "id": "keto-salad_low_carb_potato_salad_001",
+    "name": "Low Carb \"Potato\" Salad",
+    "ingredients": [
+      "16 ounce package frozen cauliflower",
+      "1/2 cup mayonnaise",
+      "4 ounce jar diced pimientos, drained well",
+      "1/4 cup dill pickle relish, drained well",
+      "1 tablespoon chopped onion (optional)",
+      "1 tablespoon white vinegar",
+      "1 tablespoon Splenda or equivalent liquid Splenda",
+      "1 tablespoon yellow mustard",
+      "1/2 teaspoon pepper",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large pot for cooking cauliflower",
+      "Colander",
+      "Medium mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Cook the frozen cauliflower until tender, but not mushy, about 8 minutes.",
+        "sk": "Varte mrazenú karfiolovú ružičku, kým nebude mäkká, ale nie kašovitá, približne 8 minút.",
+        "ja": "冷凍カリフラワーを柔らかくなるまで約8分茹でますが、ふやけないように注意してください。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Drain the cooked cauliflower very well using a colander.",
+        "sk": "Uvarenú karfiolovú ružičku veľmi dobre sceďte pomocou cedidla.",
+        "ja": "茹でたカリフラワーをざるでよく水切りします。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Chop the drained cauliflower into bite-sized pieces.",
+        "sk": "Nakrájajte scedenú karfiolovú ružičku na kúsky veľkosti sústa.",
+        "ja": "水切りしたカリフラワーを一口大に切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, combine mayonnaise, well-drained diced pimientos, well-drained dill pickle relish, chopped onion (if using), white vinegar, Splenda, yellow mustard, and pepper.",
+        "sk": "V stredne veľkej miske zmiešajte majonézu, dobre scedené nakrájané pimientos, dobre scedený relish z nakladaných uhoriek, nasekanú cibuľu (ak používate), biely ocot, Splendu, žltú horčicu a korenie.",
+        "ja": "中サイズのボウルにマヨネーズ、よく水切りしたみじん切りのピミエント、よく水切りしたディルピクルスレリッシュ、みじん切りの玉ねぎ（使用する場合）、白ワインビネガー、スプレンダ、イエローマスタード、コショウを入れて混ぜ合わせます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 3,
+        "en": "Add the chopped cauliflower to the bowl with the dressing mixture and stir well to combine.",
+        "sk": "Pridajte nakrájanú karfiolovú ružičku do misky so zmesou dresingu a dobre premiešajte.",
+        "ja": "刻んだカリフラワーをドレッシングの混ぜたボウルに加え、よく混ぜ合わせます。",
+        "primaryIngredient": "salad"
+      },
+      {
+        "time": 1,
+        "en": "Add salt to taste and mix well.",
+        "sk": "Pridajte soľ podľa chuti a dobre premiešajte.",
+        "ja": "塩で味を調え、よく混ぜます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 180,
+        "en": "Chill the salad for several hours before serving.",
+        "sk": "Pred podávaním nechajte šalát chladiť niekoľko hodín.",
+        "ja": "提供前に数時間冷やします。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Low Carb \"Potato\" Salad is a keto-friendly version of traditional potato salad, using cauliflower as a low-carb substitute for potatoes. The addition of pimientos and dill pickle relish gives it a unique flavor profile. Be sure to drain the cauliflower, pimientos, and relish well to prevent the salad from becoming watery. The Splenda adds a touch of sweetness without the carbs, but you can adjust or omit it based on your preference. For best results, allow the salad to chill for several hours before serving to let the flavors meld together. This salad is perfect for summer barbecues, picnics, or as a side dish for any keto meal."
+  }

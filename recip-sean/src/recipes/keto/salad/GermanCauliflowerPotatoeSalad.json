@@ -1,0 +1,87 @@
+{
+    "id": "keto-salad_grandmas_german_potato_salad_001",
+    "name": "Grandma's German \"Potato\" Salad",
+    "ingredients": [
+      "16 ounces frozen cauliflower",
+      "4 slices bacon, chopped",
+      "1/4 cup sour cream",
+      "1/4 cup mayonnaise",
+      "2 green onions, finely sliced",
+      "2 tablespoons fresh parsley",
+      "1 tablespoon dill pickle juice (from Clausen deli dills)",
+      "Salt and Pepper, to taste"
+    ],
+    "utensils": [
+      "Medium pot for cooking cauliflower",
+      "Colander",
+      "Frying pan for bacon",
+      "Medium mixing bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Microwave (optional for reheating)"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 12,
+        "en": "Cook the frozen cauliflower until very tender, then drain.",
+        "sk": "Varte mrazenú karfiolovú ružičku, kým nebude veľmi mäkká, potom sceďte.",
+        "ja": "冷凍カリフラワーを非常に柔らかくなるまで茹で、水を切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 3,
+        "en": "Chop the cooked cauliflower into bite-size pieces.",
+        "sk": "Nakrájajte uvarenú karfiolovú ružičku na kúsky veľkosti sústa.",
+        "ja": "茹でたカリフラワーを一口大に切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 8,
+        "en": "Chop the bacon and cook until crisp.",
+        "sk": "Nakrájajte slaninu a opečte do chrumkava.",
+        "ja": "ベーコンを刻み、カリカリになるまで炒めます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, mix sour cream, mayonnaise, finely sliced green onions, fresh parsley, and dill pickle juice.",
+        "sk": "V stredne veľkej miske zmiešajte kyslú smotanu, majonézu, najemno nakrájanú jarnú cibuľku, čerstvú petržlenovú vňať a šťavu z nakladaných uhoriek.",
+        "ja": "中サイズのボウルにサワークリーム、マヨネーズ、細かく刻んだ青ねぎ、新鮮なパセリ、ディルピクルスの汁を入れて混ぜます。",
+        "primaryIngredient": "dressing"
+      },
+      {
+        "time": 2,
+        "en": "Add salt and pepper to the dressing mixture to taste.",
+        "sk": "Pridajte soľ a korenie do dresingu podľa chuti.",
+        "ja": "ドレッシングの混合物に塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 2,
+        "en": "Stir the chopped cauliflower into the dressing mixture until well coated.",
+        "sk": "Vmiešajte nakrájanú karfiolovú ružičku do dresingu, až kým nebude dobre obalená.",
+        "ja": "刻んだカリフラワーをドレッシングの混合物に加え、よくからむまで混ぜます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Add the crispy bacon to the salad and mix well.",
+        "sk": "Pridajte chrumkavú slaninu do šalátu a dobre premiešajte.",
+        "ja": "カリカリのベーコンをサラダに加えてよく混ぜます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 1,
+        "en": "Serve warm or cold. To serve warm, heat on a low power setting in the microwave, but don't let it boil.",
+        "sk": "Podávajte teplé alebo studené. Ak chcete podávať teplé, ohrejte na nízkom výkone v mikrovlnnej rúre, ale nenechajte variť.",
+        "ja": "温かいまま、または冷やして提供します。温かく提供する場合は、電子レンジの低出力で温めますが、沸騰させないように注意してください。",
+        "primaryIngredient": "salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Grandma's German \"Potato\" Salad is a keto-friendly version of the classic German potato salad, using cauliflower instead of potatoes to keep it low-carb. The combination of sour cream, mayonnaise, and pickle juice creates a tangy dressing that mimics the traditional flavor profile. The bacon adds a savory crunch, while the green onions and parsley provide freshness. This salad can be served warm or cold, making it versatile for different occasions. Remember that when reheating, use a low power setting to avoid overcooking the cauliflower or curdling the dressing."
+  }
