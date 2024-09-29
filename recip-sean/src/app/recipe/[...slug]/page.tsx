@@ -3,6 +3,8 @@
 import { useState, useEffect } from 'react'
 import { useRouter } from 'next/navigation'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
+import { Button } from "@/components/ui/button"
+import { Shuffle } from 'lucide-react'
 import { Recipe } from '@/utils/recipeUtils'
 
 export default function RecipePage({ params }: { params: { slug: string[] } }) {
@@ -37,6 +39,19 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
 
     fetchRecipe()
   }, [params.slug])
+
+  const handleRandomRecipe = async () => {
+    try {
+      const response = await fetch('/api/recipe/random')
+      if (!response.ok) {
+        throw new Error('Failed to fetch random recipe')
+      }
+      const randomRecipe = await response.json()
+      router.push(`/recipe/${randomRecipe.folder}/${randomRecipe.id}`)
+    } catch (error) {
+      console.error('Error fetching random recipe:', error)
+    }
+  }
 
   if (loading) {
     return <div className="container mx-auto px-4 py-6 sm:py-8 bg-tokyo-bg text-tokyo-fg">Loading...</div>
@@ -161,12 +176,21 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
           ))}
         </div>
         
-        <button 
-          className="mt-6 sm:mt-8 px-4 py-2 bg-tokyo-red text-tokyo-bg rounded hover:bg-tokyo-red/80 w-full sm:w-auto"
-          onClick={() => router.push('/')}
-        >
-          Back to Home
-        </button>
+        <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-6 sm:mt-8">
+  <Button 
+    onClick={() => router.push('/')}
+    className="bg-tokyo-red hover:bg-tokyo-red/80 text-tokyo-bg w-full sm:w-auto"
+  >
+    Back to Home
+  </Button>
+  <Button
+    onClick={handleRandomRecipe}
+    className="bg-tokyo-green hover:bg-tokyo-green/80 text-tokyo-bg w-full sm:w-auto"
+  >
+    <Shuffle className="mr-2 h-4 w-4" />
+    Random Recipe
+  </Button>
+</div>
       </div>
     </div>
   )
