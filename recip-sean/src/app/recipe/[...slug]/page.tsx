@@ -177,18 +177,18 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
         </div>
         
         <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4 mt-6 sm:mt-8">
-          <Button 
-            onClick={() => router.push('/')}
-            className="bg-tokyo-red hover:bg-tokyo-red/80 text-tokyo-bg w-full sm:w-auto"
-          >
-            Back to Home
-          </Button>
           <Button
             onClick={handleRandomRecipe}
             className="bg-tokyo-green hover:bg-tokyo-green/80 text-tokyo-bg w-full sm:w-auto"
           >
             <Shuffle className="mr-2 h-4 w-4" />
             Random RecipSean
+          </Button>
+          <Button 
+            onClick={() => router.push('/')}
+            className="bg-tokyo-red hover:bg-tokyo-red/80 text-tokyo-bg w-full sm:w-auto"
+          >
+            Back to Home
           </Button>
         </div>
       </div>
