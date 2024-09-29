@@ -1,0 +1,77 @@
+{
+    "id": "keto-side_zucchini_gratin_001",
+    "name": "Zucchini Gratin",
+    "ingredients": [
+      "2 pounds zucchini (about 4 medium), sliced in 1/4-inch thick rounds",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "1/2 cup freshly grated parmesan cheese (2 ounces)",
+      "2 tablespoons butter, melted",
+      "Additional butter for greasing the pan"
+    ],
+    "utensils": [
+      "10-inch pie plate or quiche pan",
+      "Medium pot",
+      "Knife",
+      "Cutting board",
+      "Grater for Parmesan cheese",
+      "Colander",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 42,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 400°F (200°C). Butter a 10-inch pie plate or quiche pan.",
+        "sk": "Predhrejte rúru na 200°C. Vymastite maslom 25 cm okrúhlu formu na koláč alebo quiche.",
+        "ja": "オーブンを400°F（200°C）に予熱します。10インチ（約25cm）のパイ皿またはキッシュ皿にバターを塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "Slice the zucchini into 1/4-inch thick rounds.",
+        "sk": "Nakrájajte cuketu na 0,6 cm hrubé kolieska.",
+        "ja": "ズッキーニを1/4インチ（約6mm）の厚さの輪切りにします。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Place the sliced zucchini in a medium pot and cover with water. Bring to a boil and cook for 2 minutes. Drain and rinse with cold water to stop the cooking.",
+        "sk": "Vložte nakrájanú cuketu do stredne veľkého hrnca a zalejte vodou. Priveďte do varu a varte 2 minúty. Sceďte a opláchnite studenou vodou, aby ste zastavili varenie.",
+        "ja": "スライスしたズッキーニを中サイズの鍋に入れ、水で覆います。沸騰させて2分間茹でます。ざるにあけ、冷水で洗い、調理を止めます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Arrange the zucchini in the prepared pie plate in an overlapping circular pattern. Season with salt and pepper between the layers.",
+        "sk": "Uložte cuketu do pripravenej formy v prekrývajúcom sa kruhovom vzore. Medzi vrstvami ochuťte soľou a korením.",
+        "ja": "準備した皿にズッキーニを重ねて円を描くように並べます。層の間に塩コショウをふります。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Top with the freshly grated parmesan cheese and drizzle with the melted butter.",
+        "sk": "Posypte čerstvo nastrúhaným parmezánom a pokvapkajte roztopeným maslom.",
+        "ja": "freshly grated パルメザンチーズをかけ、溶かしバターをかけます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 400°F (200°C) for 30 minutes.",
+        "sk": "Pečte pri teplote 200°C 30 minút.",
+        "ja": "400°F（200°C）で30分間焼きます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Increase the oven temperature to 475°F (245°C) and bake for another 10 minutes until golden brown.",
+        "sk": "Zvýšte teplotu rúry na 245°C a pečte ďalších 10 minút, kým nezhnedne.",
+        "ja": "オーブンの温度を475°F（245°C）に上げ、さらに10分間、きつね色になるまで焼きます。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This recipe involves a two-step baking process at different temperatures to achieve the desired golden brown finish. Be careful not to overcook the zucchini in the initial boiling step."
+  }

@@ -1,0 +1,82 @@
+{
+    "id": "keto-side_zucchini_sour_cream_jack_cheese_bake_001",
+    "name": "Zucchini, Sour Cream and Jack Cheese Bake",
+    "ingredients": [
+      "4 tablespoons butter, divided",
+      "1 cup onion, finely chopped (4 ounces or 1 medium onion)",
+      "1 clove garlic, minced",
+      "1 1/4 pounds zucchini, sliced 1/8\" thick",
+      "4 ounces Monterey Jack cheese, shredded (1 cup)",
+      "1 egg",
+      "1/2 cup sour cream",
+      "1 teaspoon salt, or to taste",
+      "1/2 teaspoon pepper",
+      "1 ounce freshly grated parmesan cheese, optional"
+    ],
+    "utensils": [
+      "6x8\" baking dish or 6-cup casserole dish",
+      "Large skillet",
+      "Food processor",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Small bowl",
+      "Grater"
+    ],
+    "cookingTime": 30,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 350°F (175°C). Butter or spray a 6x8\" baking dish or a 6-cup casserole dish.",
+        "sk": "Predhrejte rúru na 175°C. Vymastite maslom alebo vystriekajte 15x20 cm zapekaciu misu alebo 1,4 l zapekaciu nádobu.",
+        "ja": "オーブンを350°F（175°C）に予熱します。6x8インチ（約15x20cm）のベーキング皿または6カップ（約1.4リットル）のキャセロール皿にバターを塗るか、スプレーをします。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "Melt 1 tablespoon of butter in a large skillet over medium-low heat. Add the finely chopped onion and minced garlic; sauté until the onion is soft and translucent. Transfer to a small bowl.",
+        "sk": "Rozpustite 1 lyžicu masla vo veľkej panvici na stredne nízkom ohni. Pridajte najemno nasekanú cibuľu a pretlačený cesnak; opekajte, kým cibuľa nezmäkne a nezpriehľadnie. Preložte do malej misky.",
+        "ja": "大きなフライパンで中火〜弱火で大さじ1杯のバターを溶かします。みじん切りにした玉ねぎとニンニクを加え、玉ねぎが柔らかく透明になるまで炒めます。小さなボウルに移します。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 10,
+        "en": "In the same skillet, melt the remaining butter over medium-low heat. Add the sliced zucchini and cook, stirring frequently until tender. Increase heat to high briefly; cook and stir constantly until most of the liquid has evaporated.",
+        "sk": "V tej istej panvici rozpustite zvyšné maslo na stredne nízkom ohni. Pridajte nakrájanú cuketu a varte za častého miešania, kým nezmäkne. Krátko zvýšte teplotu na vysokú; varte a neustále miešajte, kým sa neodparí väčšina tekutiny.",
+        "ja": "同じフライパンで残りのバターを中火〜弱火で溶かします。スライスしたズッキーニを加え、頻繁に混ぜながら柔らかくなるまで調理します。短時間火を強めて、ほとんどの水分が蒸発するまで絶えずかき混ぜながら調理します。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Transfer the cooked zucchini to a food processor and pulse until smooth. Add all remaining ingredients except the onions and parmesan cheese and pulse to combine.",
+        "sk": "Preložte uvarenú cuketu do kuchynského robota a pulzujte, kým nevznikne hladká zmes. Pridajte všetky zvyšné ingrediencie okrem cibule a parmezánu a pulzujte, aby sa spojili.",
+        "ja": "調理したズッキーニをフードプロセッサーに移し、滑らかになるまでパルス処理します。玉ねぎとパルメザンチーズ以外の残りの材料をすべて加え、混ざるまでパルス処理します。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Add the sautéed onions to the food processor and pulse just to combine. Pour the mixture into the prepared baking dish.",
+        "sk": "Pridajte opečenú cibuľu do kuchynského robota a krátko pulzujte, aby sa spojila. Nalejte zmes do pripravenej zapekacej misy.",
+        "ja": "炒めた玉ねぎをフードプロセッサーに加え、軽くパルス処理して混ぜ合わせます。混ぜ合わせたものを準備したベーキング皿に注ぎます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "If using, sprinkle the freshly grated parmesan cheese over the top.",
+        "sk": "Ak používate, posypte vrch čerstvo nastrúhaným parmezánom.",
+        "ja": "使用する場合は、freshly grated パルメザンチーズを上にふりかけます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F (175°C) for 30 minutes or until golden brown on top and set in the middle.",
+        "sk": "Pečte pri teplote 175°C 30 minút alebo kým vrch nezhnedne a stred sa neustáli.",
+        "ja": "350°F（175°C）で30分間、または上部がきつね色になり、中央が固まるまで焼きます。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This dish combines the creamy texture of zucchini with the richness of sour cream and cheese. Be sure to cook out most of the liquid from the zucchini to avoid a watery casserole. The optional parmesan cheese adds a nice golden crust to the top."
+  }

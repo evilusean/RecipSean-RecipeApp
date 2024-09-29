@@ -1,0 +1,57 @@
+{
+    "id": "keto-side_zucchini_mushroom_zoodles_001",
+    "name": "Zucchini and Mushroom Zoodles",
+    "ingredients": [
+      "1 3/4 pounds zucchini (about 3 medium)",
+      "8 ounces fresh mushrooms, sliced",
+      "1 1/2 tablespoons butter",
+      "1/3 cup heavy cream",
+      "1/2 cup parmesan cheese (2 ounces)",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "1/4 teaspoon garlic powder, optional"
+    ],
+    "utensils": [
+      "Vegetable peeler",
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Wooden spoon or spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "Prepare the zucchini: Cut off the blossom end. Using a vegetable peeler, create 'ribbons' by running the peeler down the length of the zucchini. Continue until you reach the seed core, then rotate and repeat. Discard the inner seed core.",
+        "sk": "Pripravte cuketu: Odrežte kvetný koniec. Pomocou škrabky na zeleninu vytvorte 'stuhy' ťahaním škrabky po dĺžke cukety. Pokračujte, kým nedosiahnete jadro so semenami, potom otočte a opakujte. Vnútorné jadro so semenami zahoďte.",
+        "ja": "ズッキーニの準備：花の端を切り落とします。野菜ピーラーを使い、ズッキーニの長さに沿って'リボン'を作ります。種の芯に達するまで続け、回転させて繰り返します。内側の種の芯は捨てます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Heat the butter in a large skillet over medium-high heat. Add the sliced mushrooms and cook until all of the liquid has evaporated.",
+        "sk": "Rozohrejte maslo na veľkej panvici na stredne vysokom ohni. Pridajte nakrájané huby a varte, kým sa všetka tekutina neodparí.",
+        "ja": "大きなフライパンで中火〜強火でバターを溶かします。スライスしたマッシュルームを加え、すべての液体が蒸発するまで調理します。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add the heavy cream and parmesan cheese to the skillet. Simmer until the sauce has thickened.",
+        "sk": "Pridajte do panvice smotanu na šľahanie a parmezán. Varte na miernom ohni, kým omáčka nezhustne.",
+        "ja": "フライパンに生クリームとパルメザンチーズを加えます。ソースが濃くなるまで煮詰めます。",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 5,
+        "en": "Stir in the zucchini ribbons and cook just until tender. Season with salt, pepper, and garlic powder (if using).",
+        "sk": "Vmiešajte cuketu a varte, kým nezmäkne. Ochuťte soľou, korením a cesnakovým práškom (ak ho používate).",
+        "ja": "ズッキーニのリボンを加えて、柔らかくなるまで調理します。塩、コショウ、ニンニクパウダー（使用する場合）で味を調えます。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "The method of creating zucchini ribbons with a vegetable peeler produces pretty 'noodles'. Different size strips are acceptable. The sauce can be adjusted to personal preference."
+  }

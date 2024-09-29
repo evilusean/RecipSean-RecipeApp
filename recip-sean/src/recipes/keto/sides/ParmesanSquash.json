@@ -1,0 +1,60 @@
+{
+    "id": "keto-side_cindys_parmesan_squash_001",
+    "name": "Cindy's Parmesan Squash",
+    "ingredients": [
+      "3 tablespoons butter",
+      "2 pounds zucchini and yellow squash (6 medium)",
+      "1 medium onion (4 ounces)",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "1 ounce parmesan cheese (1/4 cup)"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Spatula or wooden spoon"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut the zucchini and yellow squash in half lengthwise, then into half moons. Slice the onion into slivers.",
+        "sk": "Rozrežte cuketu a žltú tekvicu pozdĺžne na polovicu, potom na polmesiace. Nakrájajte cibuľu na tenké plátky.",
+        "ja": "ズッキーニと黄色いカボチャを縦半分に切り、さらに半月切りにします。玉ねぎを細切りにします。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 10,
+        "en": "In a large skillet, melt the butter over high heat. Add the sliced squash and onion. Sauté, stirring frequently, until most of the liquid evaporates and the squash starts to brown slightly.",
+        "sk": "Na veľkej panvici rozpustite maslo na vysokom ohni. Pridajte nakrájanú tekvicu a cibuľu. Opekajte za častého miešania, kým sa neodparí väčšina tekutiny a tekvica nezačne mierne hnednúť.",
+        "ja": "大きなフライパンで高温でバターを溶かします。スライスしたカボチャと玉ねぎを加えます。液体のほとんどが蒸発し、カボチャが少し焦げ目がつくまで、頻繁に混ぜながら炒めます。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 5,
+        "en": "Reduce heat to medium-high and continue cooking until the vegetables are tender, stirring often.",
+        "sk": "Znížte teplotu na stredne vysokú a pokračujte vo varení, kým zelenina nezmäkne, pričom často miešajte.",
+        "ja": "中火〜強火に下げ、野菜が柔らかくなるまで、頻繁に混ぜながら調理を続けます。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 2,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 3,
+        "en": "Sprinkle the parmesan cheese over the squash. Cover the pan for a couple of minutes to melt the cheese.",
+        "sk": "Posypte tekvicu parmezánom. Prikryte panvicu na pár minút, aby sa syr roztopil.",
+        "ja": "カボチャの上にパルメザンチーズをふりかけます。フタをして2〜3分置き、チーズを溶かします。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

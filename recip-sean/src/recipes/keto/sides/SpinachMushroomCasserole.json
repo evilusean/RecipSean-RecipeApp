@@ -1,0 +1,67 @@
+{
+    "id": "keto-side_spinach_mushroom_casserole_001",
+    "name": "Spinach-Mushroom Casserole",
+    "ingredients": [
+      "8 ounces fresh mushrooms, chopped",
+      "1 medium onion, chopped (4 ounces)",
+      "2 tablespoons butter",
+      "16 ounces frozen chopped spinach, thawed and drained",
+      "2 eggs, slightly beaten",
+      "1/2 cup sour cream",
+      "Pinch ground nutmeg",
+      "1 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/4 cup freshly grated Parmesan cheese"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "1-1/2 quart casserole dish",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Mixing bowl",
+      "Grater for Parmesan cheese",
+      "Spatula or wooden spoon"
+    ],
+    "cookingTime": 55,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Sauté the chopped mushrooms and onion in butter in a medium skillet until tender and slightly browned.",
+        "sk": "Na strednej panvici opečte na masle nakrájané huby a cibuľu, kým nezmäknú a mierne nezhnednú.",
+        "ja": "中サイズのフライパンで、刻んだマッシュルームと玉ねぎをバターで柔らかくなり少し焦げ目がつくまで炒めます。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add the thawed and drained spinach to the skillet.",
+        "sk": "Pridajte do panvice rozmrazený a scedený špenát.",
+        "ja": "解凍して水気を切ったほうれん草をフライパンに加えます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 5,
+        "en": "Stir in the slightly beaten eggs, sour cream, nutmeg, salt, and pepper.",
+        "sk": "Vmiešajte mierne rozšľahané vajcia, kyslú smotanu, muškátový oriešok, soľ a korenie.",
+        "ja": "軽く溶いた卵、サワークリーム、ナツメグ、塩、コショウを加えて混ぜます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "Spoon the spinach mixture into a greased 1-1/2 quart casserole dish; sprinkle with the freshly grated Parmesan cheese.",
+        "sk": "Nalejte špenátovú zmes do vymastenej 1,5 litrovej zapekacej misky; posypte čerstvo nastrúhaným parmezánom.",
+        "ja": "ほうれん草の混ぜ物を油を塗った1.5クォートのキャセロール皿に移し、freshly grated パルメザンチーズをふりかけます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 45,
+        "en": "Bake, uncovered, at 350°F (175°C) until bubbly and the cheese is golden brown, about 45 minutes.",
+        "sk": "Pečte nezakryté pri teplote 175°C, kým nezačne bublať a syr nezhnedne, asi 45 minút.",
+        "ja": "350°F（175°C）のオーブンで、蓋をせずに約45分間、泡立ちチーズが金色になるまで焼きます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,63 @@
+{
+    "id": "keto-side_sausage_mushroom_dressing_001",
+    "name": "Sausage-Mushroom \"Dressing\"",
+    "ingredients": [
+      "1 pound pork sausage",
+      "1 medium onion, coarsely chopped (about 4 ounces)",
+      "2 stalks celery, coarsely chopped",
+      "16 ounces fresh mushrooms, quartered",
+      "8 ounces Monterey jack cheese, shredded",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Casserole dish",
+      "Knife",
+      "Cutting board",
+      "Measuring cups",
+      "Spatula or wooden spoon",
+      "Grater (if cheese isn't pre-shredded)"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "In a large skillet, brown the pork sausage along with the coarsely chopped onion and celery. Cook until the celery is tender.",
+        "sk": "Na veľkej panvici opečte bravčovú klobásu spolu s nahrubo nasekanou cibuľou a zelerom. Varte, kým zeler nezmäkne.",
+        "ja": "大きなフライパンで、粗みじん切りにした玉ねぎとセロリと一緒にポークソーセージを炒めます。セロリが柔らかくなるまで調理します。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 2,
+        "en": "Drain the grease from the skillet.",
+        "sk": "Zlejte masť z panvice.",
+        "ja": "フライパンから脂を取り除きます。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 8,
+        "en": "Add the quartered mushrooms to the skillet and cook until they are tender.",
+        "sk": "Pridajte na štvrtiny nakrájané huby do panvice a varte, kým nezmäknú.",
+        "ja": "4等分したマッシュルームをフライパンに加え、柔らかくなるまで調理します。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Transfer the sausage mixture to a casserole dish and stir in the shredded Monterey jack cheese. Season with salt and pepper to taste.",
+        "sk": "Preložte zmes s klobásou do zapekacej misky a vmiešajte strúhaný syr Monterey jack. Ochuťte soľou a korením podľa chuti.",
+        "ja": "ソーセージの混ぜ物をキャセロール皿に移し、シュレッドしたモントレージャックチーズを混ぜ合わせます。塩コショウで味を調えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Either microwave to melt the cheese and heat through, or bake at 350°F (175°C) for 30 minutes until browned on top.",
+        "sk": "Buď ohrejte v mikrovlnnej rúre, aby sa syr roztopil a jedlo sa prehrialo, alebo pečte pri teplote 175°C 30 minút, kým vrch nezhnedne.",
+        "ja": "電子レンジでチーズを溶かして温めるか、350°F（175°C）のオーブンで30分間、上部が茶色くなるまで焼きます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

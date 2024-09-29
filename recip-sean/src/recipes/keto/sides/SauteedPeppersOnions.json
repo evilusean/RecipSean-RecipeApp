@@ -1,0 +1,45 @@
+{
+    "id": "keto-side_sauteed_peppers_onions_001",
+    "name": "Sautéed Peppers and Onions",
+    "ingredients": [
+      "2 tablespoons oil",
+      "4 medium green peppers, chopped or sliced",
+      "10 ounces onion, chopped or sliced (1 jumbo onion)",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Other desired seasonings, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Heat the oil in a large skillet on medium to high heat.",
+        "sk": "Rozohrejte olej na veľkej panvici na strednom až vysokom ohni.",
+        "ja": "大きなフライパンで中火から強火で油を熱します。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 15,
+        "en": "Sauté the peppers and onion until just tender and slightly browned.",
+        "sk": "Opečte papriky a cibuľu, kým nezmäknú a mierne nezhnednú.",
+        "ja": "ピーマンと玉ねぎを柔らかくなり、少し焦げ目がつくまで炒めます。",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 2,
+        "en": "Season with salt, pepper, and other desired seasonings to taste.",
+        "sk": "Ochuťte soľou, korením a ďalšími želanými koreninami podľa chuti.",
+        "ja": "塩、コショウ、その他お好みの調味料で味を調えます。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

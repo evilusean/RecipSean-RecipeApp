@@ -1,0 +1,63 @@
+{
+    "id": "keto-side_braised_bok_choy_garlic_001",
+    "name": "Braised Bok Choy with Garlic",
+    "ingredients": [
+      "2 pound head bok choy",
+      "2 tablespoons oil",
+      "4 cloves garlic, minced",
+      "3/4 cup chicken broth",
+      "1 teaspoon rice vinegar",
+      "1 teaspoon granular Splenda",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Large nonstick skillet or wok",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Clean bath towel (for drying bok choy)",
+      "Lid for skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Prepare the bok choy: Chop off 1-2 inches from the bottom to remove the stem end. Wash and dry the leaves and stalks. Separate stalks from leaves. Slice stalks into bite-size pieces. Cut leaves in half lengthwise, then slice into 1/2-inch strips.",
+        "sk": "Pripravte pak choi: Odrežte 2-5 cm zo spodku, aby ste odstránili koniec stonky. Umyte a osušte listy a stonky. Oddeľte stonky od listov. Nakrájajte stonky na kúsky veľkosti sústa. Rozrežte listy pozdĺžne na polovicu, potom nakrájajte na 1 cm široké pásiky.",
+        "ja": "チンゲン菜の準備：根元から2〜5cm切り落とします。葉と茎を洗って乾かします。茎と葉を分けます。茎を一口大に切ります。葉を縦半分に切り、さらに1cm幅に切ります。",
+        "primaryIngredient": "bok choy"
+      },
+      {
+        "time": 5,
+        "en": "Heat oil in a large nonstick skillet or wok over medium-high heat. Add bok choy stalks and stir-fry for 4-5 minutes until slightly browned. Add minced garlic and stir-fry for about 20 seconds.",
+        "sk": "Rozohrejte olej vo veľkej nelepivej panvici alebo woku na stredne vysokom ohni. Pridajte stonky pak choi a opekajte za stáleho miešania 4-5 minút, kým mierne nezhnednú. Pridajte nasekaný cesnak a opekajte asi 20 sekúnd.",
+        "ja": "大きな非粘着性フライパンまたはワックで中火〜強火で油を熱します。チンゲン菜の茎を加え、4〜5分間炒めて少し焦げ目をつけます。みじん切りにしたニンニクを加え、20秒ほど炒めます。",
+        "primaryIngredient": "bok choy"
+      },
+      {
+        "time": 7,
+        "en": "Quickly add the leafy greens and chicken broth. Bring to a simmer, cover, and cook over medium-low heat for 6-7 minutes or until very tender, stirring twice during cooking.",
+        "sk": "Rýchlo pridajte zelené listy a kurací vývar. Priveďte do varu, prikryte a varte na stredne nízkom ohni 6-7 minút alebo kým nezmäknú, pričom dvakrát premiešajte.",
+        "ja": "素早く葉と鶏がらスープを加えます。沸騰したら蓋をして弱火〜中火で6〜7分間、または非常に柔らかくなるまで煮込みます。その間に2回かき混ぜてください。",
+        "primaryIngredient": "bok choy"
+      },
+      {
+        "time": 3,
+        "en": "Uncover and cook over high heat for 3 minutes to evaporate most of the liquid.",
+        "sk": "Odkryte a varte na vysokom ohni 3 minúty, aby sa odparila väčšina tekutiny.",
+        "ja": "蓋を取り、強火で3分間煮て、液体のほとんどを蒸発させます。",
+        "primaryIngredient": "broth"
+      },
+      {
+        "time": 1,
+        "en": "Stir in rice vinegar and Splenda. Adjust seasoning with salt and pepper to taste. Serve immediately.",
+        "sk": "Vmiešajte ryžový ocot a Splendu. Dochuťte soľou a korením podľa chuti. Ihneď podávajte.",
+        "ja": "米酢とスプレンダを加えて混ぜます。塩コショウで味を調えます。すぐに提供してください。",
+        "primaryIngredient": "vinegar"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

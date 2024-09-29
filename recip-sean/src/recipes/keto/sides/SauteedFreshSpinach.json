@@ -1,0 +1,43 @@
+{
+    "id": "keto-side_sauteed_fresh_spinach_001",
+    "name": "Sautéed Fresh Spinach",
+    "ingredients": [
+      "2 tablespoons butter",
+      "9 ounce package fresh baby spinach, large stems removed",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Dash garlic powder or Spicy Seasoning Salt, to taste"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "Measuring spoons",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 5,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Melt the butter in a medium skillet over medium heat.",
+        "sk": "Rozpustite maslo na strednej panvici na strednom ohni.",
+        "ja": "中火で中サイズのフライパンにバターを溶かします。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 3,
+        "en": "Add the spinach to the skillet. Cook and stir on medium-high heat just until the spinach starts to wilt.",
+        "sk": "Pridajte špenát na panvicu. Varte a miešajte na stredne vysokom ohni, kým špenát nezačne vädnúť.",
+        "ja": "フライパンにほうれん草を加えます。中高温で、ほうれん草がしんなりし始めるまで炒めます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt, pepper, and a dash of garlic powder or Spicy Seasoning Salt to taste. Serve immediately.",
+        "sk": "Ochuťte soľou, korením a štipkou cesnakového prášku alebo pikantnej koreninovej soli podľa chuti. Ihneď podávajte.",
+        "ja": "塩、コショウ、ガーリックパウダーまたはスパイシーシーズニングソルトを少々加えて味を調えます。すぐに提供してください。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

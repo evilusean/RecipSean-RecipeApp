@@ -1,0 +1,85 @@
+{
+    "id": "keto-side_improved_revolution_rolls_001",
+    "name": "Improved Revolution Rolls",
+    "ingredients": [
+      "4 egg whites",
+      "1/8 teaspoon cream of tartar",
+      "3 egg yolks",
+      "1 teaspoon granular Splenda or equivalent liquid Splenda",
+      "Pinch salt",
+      "3 ounces cream cheese, softened",
+      "Cooking spray"
+    ],
+    "utensils": [
+      "Two mixing bowls",
+      "Electric mixer",
+      "Baking sheet or muffin top pan",
+      "Cooling rack",
+      "Measuring spoons",
+      "Spatula",
+      "Airtight bag for storage"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Preheat the oven to 300°F (150°C). Spray a baking sheet or muffin top pan with cooking spray.",
+        "sk": "Predhrejte rúru na 150°C. Postriekajte plech na pečenie alebo formu na muffiny sprejom na varenie.",
+        "ja": "オーブンを300°F（150°C）に予熱します。ベーキングシートまたはマフィントップパンに調理用スプレーをします。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "In a mixing bowl, beat the egg whites and cream of tartar until stiff peaks form.",
+        "sk": "V miske vyšľahajte vaječné bielky a vínny kameň do tuhých špičiek.",
+        "ja": "ボウルに卵白とクリームオブタルタルを入れ、固いピークができるまで泡立てます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 5,
+        "en": "In another bowl, beat the egg yolks, Splenda, salt, and softened cream cheese with a mixer until smooth.",
+        "sk": "V druhej miske vyšľahajte vaječné žĺtky, Splendu, soľ a zmäknutý krémový syr mixérom do hladka.",
+        "ja": "別のボウルに卵黄、スプレンダ、塩、柔らかくしたクリームチーズを入れ、滑らかになるまでミキサーで混ぜます。",
+        "primaryIngredient": "egg yolks"
+      },
+      {
+        "time": 3,
+        "en": "Gradually fold the yolk mixture into the egg whites, being careful not to deflate the whites.",
+        "sk": "Postupne vmiešajte žĺtkovú zmes do vaječných bielkov, dávajte pozor, aby ste bielky nesplaskli.",
+        "ja": "卵白をつぶさないように注意しながら、卵黄の混合物を少しずつ卵白に折り込みます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 2,
+        "en": "Divide the mixture into 6 mounds on the prepared baking sheet or muffin top pan, then flatten them slightly.",
+        "sk": "Rozdeľte zmes na 6 kopčekov na pripravenom plechu na pečenie alebo forme na muffiny, potom ich mierne sploštite.",
+        "ja": "準備したベーキングシートまたはマフィントップパンに生地を6等分に分け、軽く平らにします。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 30,
+        "en": "Bake for 30 minutes or until lightly browned on top but soft and not dry or crisp.",
+        "sk": "Pečte 30 minút alebo kým nebudú na vrchu mierne hnedé, ale mäkké a nie suché alebo chrumkavé.",
+        "ja": "30分間、または上部が薄茶色になり、柔らかく、乾燥やカリカリしていない状態になるまで焼きます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 10,
+        "en": "Cool on the baking sheet for a few minutes, then transfer to a rack to cool completely.",
+        "sk": "Nechajte vychladnúť na plechu na pečenie niekoľko minút, potom preneste na mriežku, aby úplne vychladli.",
+        "ja": "ベーキングシートの上で数分間冷まし、その後ラックに移して完全に冷まします。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 1,
+        "en": "Store in an airtight bag in the refrigerator.",
+        "sk": "Skladujte vo vzduchotesnom vrecku v chladničke.",
+        "ja": "密閉袋に入れて冷蔵庫で保存します。",
+        "primaryIngredient": "none"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Improved Revolution Rolls are a low-carb alternative to traditional bread rolls. They're light and airy due to the whipped egg whites. Be gentle when folding the yolk mixture into the whites to maintain their volume. These rolls are best consumed within a few days and should be stored in the refrigerator."
+  }

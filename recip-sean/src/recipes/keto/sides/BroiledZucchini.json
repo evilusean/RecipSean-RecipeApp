@@ -1,0 +1,59 @@
+{
+    "id": "keto-side_broiled_zucchini_001",
+    "name": "Broiled Zucchini",
+    "ingredients": [
+      "3 medium or 6 small zucchini (about 1 pound before trimming)",
+      "3 tablespoons butter, melted",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Baking sheet",
+      "Pastry brush",
+      "Measuring spoons",
+      "Small bowl for melting butter"
+    ],
+    "cookingTime": 12,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "If using medium zucchini, cut each in half lengthwise and then again crosswise. For small zucchini, just cut them once lengthwise.",
+        "sk": "Ak používate stredne veľké cukety, rozrežte každú pozdĺžne na polovicu a potom ešte raz priečne. Pri malých cuketách ich stačí rozrezať raz pozdĺžne.",
+        "ja": "中サイズのズッキーニを使用する場合は、縦半分に切ってから横半分に切ります。小さいズッキーニの場合は、縦半分に切るだけで良いです。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Place the cut zucchini on a baking sheet.",
+        "sk": "Položte nakrájanú cuketu na plech na pečenie.",
+        "ja": "切ったズッキーニをベーキングシートに並べます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Melt the butter and brush it over the cut sides of the zucchini.",
+        "sk": "Rozpustite maslo a potrite ním rezné strany cukety.",
+        "ja": "バターを溶かし、ズッキーニの切り口に塗ります。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 2,
+        "en": "Season the zucchini lightly with salt and pepper.",
+        "sk": "Jemne ochuťte cuketu soľou a korením.",
+        "ja": "ズッキーニに軽く塩コショウをふります。",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 12,
+        "en": "Broil 5-6 inches from the heat for 10-12 minutes until tender.",
+        "sk": "Grilujte 12-15 cm od zdroja tepla 10-12 minút, kým nezmäknú.",
+        "ja": "熱源から12〜15cm離して10〜12分間、柔らかくなるまでグリルします。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

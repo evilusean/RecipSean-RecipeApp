@@ -1,0 +1,46 @@
+{
+    "id": "keto-side_cheesy_spinach_caramelized_onions_001",
+    "name": "Cheesy Spinach with Caramelized Onions",
+    "ingredients": [
+      "2 medium onions, slivered (about 4 ounces each)",
+      "2 tablespoons butter",
+      "9 ounces fresh baby spinach, coarsely chopped",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "6 ounces shredded Italian blend cheese"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Baking dish",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 20,
+        "en": "Caramelize the slivered onions in butter over medium-low heat until golden brown, about 20 minutes.",
+        "sk": "Karamelizujte nakrájané cibuľky na masle na stredne nízkom ohni, kým nezhnednú, asi 20 minút.",
+        "ja": "中火から弱火で、スライスした玉ねぎをバターで20分ほど、きつね色になるまでキャラメリゼします。",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 5,
+        "en": "Add the chopped spinach to the caramelized onions and cook just until wilted. Season with salt and pepper to taste.",
+        "sk": "Pridajte nasekaný špenát ku karamelizovanej cibuli a varte, kým špenát nezvädne. Ochuťte soľou a korením podľa chuti.",
+        "ja": "キャラメリゼした玉ねぎにカットしたほうれん草を加え、しんなりするまで炒めます。塩コショウで味を調えます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 20,
+        "en": "Mix in the shredded Italian cheese blend. Transfer to a baking dish and bake at 350°F (175°C) for about 20 minutes, or until the cheese is melted and lightly browned.",
+        "sk": "Vmiešajte strúhaný taliansky syr. Preložte do zapekacej misky a pečte pri teplote 175°C asi 20 minút, alebo kým sa syr neroztopí a mierne nezhnedne.",
+        "ja": "イタリアンチーズブレンドを混ぜ合わせます。ベーキング皿に移し、350°F（175°C）のオーブンで約20分、またはチーズが溶けて軽く焦げ目がつくまで焼きます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

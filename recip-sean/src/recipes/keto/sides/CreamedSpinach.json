@@ -1,0 +1,50 @@
+{
+    "id": "keto-side_creamed_spinach_001",
+    "name": "Creamed Spinach",
+    "ingredients": [
+      "1/4 cup butter",
+      "2 tablespoons onion, minced",
+      "20 ounces frozen chopped spinach, thawed",
+      "1/2 teaspoon salt, or to taste",
+      "1/8 teaspoon pepper",
+      "1/4 teaspoon nutmeg",
+      "Dash cayenne",
+      "6 ounces cream cheese, softened",
+      "1/2 cup heavy cream"
+    ],
+    "utensils": [
+      "Skillet",
+      "1 1/2 quart shallow casserole dish",
+      "Mixing bowl",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Sauté the minced onion in the butter until lightly browned.",
+        "sk": "Opečte nasekanú cibuľu na masle, kým mierne nezhnedne.",
+        "ja": "みじん切りにした玉ねぎをバターで軽く茶色くなるまで炒めます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Squeeze the thawed spinach very well to remove any liquid. Mix all of the ingredients except the cream in a shallow 1 1/2 quart casserole.",
+        "sk": "Rozmrazený špenát dobre vyžmýkajte, aby ste odstránili všetku tekutinu. Zmiešajte všetky ingrediencie okrem smotany v plytkej 1,5 litrovej nádobe na nákyp.",
+        "ja": "解凍したほうれん草をよく絞って水分を取り除きます。クリーム以外のすべての材料を1.5クォートの浅いキャセロール皿で混ぜ合わせます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 15,
+        "en": "Pour the cream over the top and lightly mix in. Heat, uncovered, in microwave on 50% power for 10-15 minutes until hot.",
+        "sk": "Nalejte smotanu na vrch a zľahka premiešajte. Ohrejte nezakryté v mikrovlnnej rúre na 50% výkone 10-15 minút, kým nebude horúce.",
+        "ja": "上からクリームを注ぎ、軽く混ぜ合わせます。蓋をせずに電子レンジで50％の出力で10〜15分、熱くなるまで加熱します。",
+        "primaryIngredient": "cream"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,67 @@
+{
+    "id": "keto-side_oven_roasted_zucchini_parmesan_001",
+    "name": "Oven-Roasted Zucchini with Parmesan",
+    "ingredients": [
+      "Small zucchini",
+      "Oil",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Freshly grated parmesan cheese"
+    ],
+    "utensils": [
+      "Rimmed baking sheet",
+      "Heavy foil",
+      "Knife",
+      "Cutting board",
+      "Grater for Parmesan cheese"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Preheat the oven to 500°F (260°C). Trim the ends off the zucchini and cut them in half lengthwise.",
+        "sk": "Predhrejte rúru na 260°C. Odrežte konce cukety a rozrežte ich pozdĺžne na polovicu.",
+        "ja": "オーブンを500°F（260°C）に予熱します。ズッキーニの両端を切り落とし、縦半分に切ります。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Line a rimmed baking sheet with heavy foil and pour a tablespoon or two of oil on the foil. Roll each piece of zucchini in the oil to coat, then place cut side down.",
+        "sk": "Vyložte plech na pečenie s okrajmi ťažkou fóliou a nalejte naň jednu alebo dve lyžice oleja. Obaľte každý kúsok cukety v oleji a položte reznou stranou nadol.",
+        "ja": "縁のあるベーキングシートに厚手のアルミホイルを敷き、大さじ1〜2杯の油を注ぎます。ズッキーニの各切れを油にまぶし、切り口を下にして置きます。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle the skin side of the zucchini with salt and pepper.",
+        "sk": "Posypte kožu cukety soľou a korením.",
+        "ja": "ズッキーニの皮側に塩コショウをふります。",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 15,
+        "en": "Bake for 15 minutes.",
+        "sk": "Pečte 15 minút.",
+        "ja": "15分間焼きます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Turn the zucchini over and sprinkle with more salt and pepper. Sprinkle with a little parmesan cheese.",
+        "sk": "Otočte cuketu a posypte ďalšou soľou a korením. Posypte trochou parmezánu.",
+        "ja": "ズッキーニをひっくり返し、さらに塩コショウをふります。パルメザンチーズを少量ふりかけます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 7,
+        "en": "Bake for another 5-10 minutes or until browned.",
+        "sk": "Pečte ďalších 5-10 minút alebo kým nezhnedne.",
+        "ja": "さらに5〜10分、または焦げ目がつくまで焼きます。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "From Fran McCullough's \"The Low-Carb Cookbook\". The zucchini may end up a little mushy when baked for the full time. Watch carefully in the last 10 minutes as the cheese can brown too quickly. Consider salting and patting the zucchini dry before roasting to reduce liquid content."
+  }

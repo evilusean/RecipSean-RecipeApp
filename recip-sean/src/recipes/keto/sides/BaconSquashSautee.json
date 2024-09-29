@@ -1,0 +1,54 @@
+{
+    "id": "keto-side_bacon_squash_saute_001",
+    "name": "Bacon Squash Sauté",
+    "ingredients": [
+      "6 pieces bacon, chopped",
+      "1 3/4 pounds zucchini, cut on the bias (about 8 small)",
+      "1 small onion, slivered (2 1/2 ounces)",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Paper towels",
+      "Plate",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a large skillet, cook the chopped bacon until crisp.",
+        "sk": "Na veľkej panvici opečte nakrájanú slaninu do chrumkava.",
+        "ja": "大きなフライパンで、刻んだベーコンをカリカリになるまで調理します。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "Drain the bacon fat, reserving 2 tablespoons. Remove the bacon to a paper towel-lined plate.",
+        "sk": "Zlejte masť zo slaniny, pričom si ponechajte 2 polievkové lyžice. Slaninu preložte na tanier vystlaný papierovou utierkou.",
+        "ja": "ベーコンの脂を排出し、大さじ2杯分を残します。ベーコンをペーパータオルを敷いた皿に移します。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 8,
+        "en": "Sauté the zucchini and slivered onion in the reserved bacon drippings until tender.",
+        "sk": "Na odloženej slanine opečte cuketu a nakrájanú cibuľu, kým nezmäknú.",
+        "ja": "残しておいたベーコンの脂で、ズッキーニと薄切りにした玉ねぎを柔らかくなるまで炒めます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste. Sprinkle with the cooked bacon before serving.",
+        "sk": "Ochuťte soľou a korením podľa chuti. Pred podávaním posypte opečenou slaninou.",
+        "ja": "塩コショウで味を調えます。提供前に調理したベーコンをかけます。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

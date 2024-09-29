@@ -1,0 +1,60 @@
+{
+    "id": "keto-side_creamy_squash_casserole_001",
+    "name": "Creamy Squash Casserole",
+    "ingredients": [
+      "4 medium yellow squash, cut into half moons (about 1 1/2 pounds before trimming)",
+      "1 small onion, slivered (2 1/2 ounces)",
+      "2 stalks celery, finely chopped",
+      "2 tablespoons butter",
+      "1 teaspoon chicken bouillon granules",
+      "1/4 cup mayonnaise",
+      "1/4 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/8 teaspoon garlic powder",
+      "4-8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "1 1/2 quart casserole or 6x8 inch baking dish",
+      "Pot for boiling (or microwave)",
+      "Colander",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Mixing bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 20,
+        "en": "Sauté the slivered onion and finely chopped celery in butter along with the chicken bouillon granules until very soft and a little browned, about 20 minutes.",
+        "sk": "Opečte na masle nakrájanú cibuľu a najemno nasekaný zeler spolu s kuracím bujónom, kým nezmäknú a mierne nezhnednú, asi 20 minút.",
+        "ja": "薄切りにした玉ねぎと細かく刻んだセロリを、チキンブイヨン顆粒と一緒にバターで20分ほど柔らかくなり少し色づくまで炒めます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 10,
+        "en": "Meanwhile, cook the squash in boiling water (or microwave) until tender; drain very well and pat as dry as possible.",
+        "sk": "Medzitým uvarte cuketu vo vriacej vode (alebo v mikrovlnnej rúre) do mäkka; dobre sceďte a osušte čo najviac.",
+        "ja": "その間、ズッキーニを沸騰した水で（または電子レンジで）柔らかくなるまで調理します。よく水気を切り、できるだけ乾かします。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 5,
+        "en": "Combine all of the ingredients in a greased 1 1/2 quart casserole or 6x8 inch baking dish.",
+        "sk": "Zmiešajte všetky ingrediencie vo vymastenej 1,5 litrovej nádobe na nákyp alebo v zapekacej miske 15x20 cm.",
+        "ja": "すべての材料を油を塗った1.5クォートのキャセロール皿または6x8インチのベーキング皿に混ぜ合わせます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F (175°C), uncovered, for 30 minutes or until nicely browned and bubbly.",
+        "sk": "Pečte nezakryté pri teplote 175°C 30 minút alebo kým pekne nezhnedne a nezačne bublať.",
+        "ja": "350°F（175°C）のオーブンで、蓋をせずに30分、またはきれいに焼き色がつき泡立つまで焼きます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

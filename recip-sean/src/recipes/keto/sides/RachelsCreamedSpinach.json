@@ -1,0 +1,52 @@
+{
+    "id": "keto-side_rachaels_creamed_spinach_001",
+    "name": "Rachael's Creamed Spinach",
+    "ingredients": [
+      "20 ounces frozen chopped spinach, thawed and drained well",
+      "2 tablespoons butter",
+      "1/2 cup heavy cream",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "Measuring cups and spoons",
+      "Wooden spoon or spatula",
+      "Colander or strainer (for draining spinach)"
+    ],
+    "cookingTime": 5,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Thaw the frozen chopped spinach and drain it well, squeezing out excess water.",
+        "sk": "Rozmrazte mrazenú nasekanú špenát a dobre ju odkvapkajte, vytlačte prebytočnú vodu.",
+        "ja": "冷凍ほうれん草を解凍し、よく水気を切り、余分な水分を絞り出します。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 2,
+        "en": "In a medium skillet, heat the butter and heavy cream over medium heat until bubbly.",
+        "sk": "V stredne veľkej panvici zohrejte maslo a smotanu na strednom ohni, kým nezačnú bublať.",
+        "ja": "中サイズのフライパンで、中火でバターと生クリームを泡立つまで加熱します。",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 3,
+        "en": "Add the well-drained spinach to the skillet. Season with salt and pepper to taste.",
+        "sk": "Pridajte do panvice dobre odkvapkanú špenát. Ochuťte soľou a korením podľa chuti.",
+        "ja": "水気をよく切ったほうれん草をフライパンに加えます。塩コショウで味を調えます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 3,
+        "en": "Cook over medium heat, stirring occasionally, until the spinach is heated through, about 3 minutes.",
+        "sk": "Varte na strednom ohni, občas premiešajte, kým sa špenát neprehreje, asi 3 minúty.",
+        "ja": "中火で時々かき混ぜながら、ほうれん草が温まるまで約3分間調理します。",
+        "primaryIngredient": "spinach"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "Ensure the spinach is well-drained to avoid a watery dish. You can adjust the amount of cream to achieve your desired consistency. This creamed spinach is a quick and easy keto-friendly side dish."
+  }

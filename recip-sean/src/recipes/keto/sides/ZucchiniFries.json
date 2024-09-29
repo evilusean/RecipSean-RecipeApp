@@ -1,0 +1,74 @@
+{
+    "id": "keto-side_zucchini_fries_001",
+    "name": "Zucchini Fries",
+    "ingredients": [
+      "1 pound zucchini, small to medium",
+      "2 tablespoons oil, approximately",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Bowl",
+      "Baking pan",
+      "Aluminum foil",
+      "Measuring spoons",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Preheat the oven to 400°F (200°C). Line a baking pan with aluminum foil.",
+        "sk": "Predhrejte rúru na 200°C. Vyložte plech na pečenie hliníkovou fóliou.",
+        "ja": "オーブンを400°F（200°C）に予熱します。ベーキング用の天板にアルミホイルを敷きます。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "Cut each zucchini in half crosswise, then into quarters lengthwise.",
+        "sk": "Rozrežte každú cuketu priečne na polovicu a potom pozdĺžne na štvrtiny.",
+        "ja": "各ズッキーニを横半分に切り、さらに縦4等分にします。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Place the zucchini pieces in a bowl and toss with the oil to coat evenly.",
+        "sk": "Vložte kúsky cukety do misky a premiešajte s olejom, aby sa rovnomerne obalili.",
+        "ja": "ズッキーニの切り身をボウルに入れ、油を加えてまんべんなく絡めます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle the zucchini with salt and pepper to taste.",
+        "sk": "Posypte cuketu soľou a korením podľa chuti.",
+        "ja": "ズッキーニに塩コショウを好みの量でふりかけます。",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 2,
+        "en": "Arrange the seasoned zucchini pieces in a single layer on the prepared baking pan.",
+        "sk": "Rozložte ochutené kúsky cukety v jednej vrstve na pripravený plech na pečenie.",
+        "ja": "味付けしたズッキーニを準備した天板に一層に並べます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 15,
+        "en": "Roast in the preheated oven for 15 minutes.",
+        "sk": "Pečte v predhriatej rúre 15 minút.",
+        "ja": "予熱したオーブンで15分間焼きます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Flip the zucchini pieces and roast for another 10 minutes or until past the soft stage and crispy.",
+        "sk": "Otočte kúsky cukety a pečte ďalších 10 minút alebo kým nebudú za mäkkým štádiom a chrumkavé.",
+        "ja": "ズッキーニをひっくり返し、さらに10分間、または柔らかい段階を過ぎてカリカリになるまで焼きます。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

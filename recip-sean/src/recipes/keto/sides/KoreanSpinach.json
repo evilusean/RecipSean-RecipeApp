@@ -1,0 +1,48 @@
+{
+    "id": "keto-side_korean_spinach_001",
+    "name": "Korean Spinach",
+    "ingredients": [
+      "1 tablespoon oil",
+      "9 ounce bag fresh baby spinach",
+      "1/2 clove garlic, minced",
+      "1 teaspoon soy sauce",
+      "1 teaspoon sesame oil",
+      "Dash pepper",
+      "1 green onion, chopped",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Measuring spoons",
+      "Knife",
+      "Cutting board",
+      "Tongs or spatula"
+    ],
+    "cookingTime": 5,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Heat the oil in a large skillet.",
+        "sk": "Rozohrejte olej na veľkej panvici.",
+        "ja": "大きなフライパンで油を熱します。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 3,
+        "en": "Sauté the spinach and minced garlic just until the spinach is wilted.",
+        "sk": "Opečte špenát a nasekaný cesnak, kým špenát nezvädne.",
+        "ja": "ほうれん草とみじん切りにしたニンニクを、ほうれん草がしんなりするまで炒めます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 2,
+        "en": "Add the remaining ingredients (soy sauce, sesame oil, pepper, chopped green onion, and salt) and toss with the spinach to coat. Adjust the seasonings to taste.",
+        "sk": "Pridajte zvyšné ingrediencie (sójovú omáčku, sezamový olej, korenie, nasekanú jarnú cibuľku a soľ) a premiešajte so špenátom. Dochuťte podľa chuti.",
+        "ja": "残りの材料（醤油、ごま油、コショウ、刻んだ青ねぎ、塩）を加え、ほうれん草と絡めます。味を調整してください。",
+        "primaryIngredient": "soy sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

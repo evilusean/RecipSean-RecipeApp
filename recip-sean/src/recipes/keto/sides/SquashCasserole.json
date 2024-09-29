@@ -1,0 +1,59 @@
+{
+    "id": "keto-side_squash_casserole_001",
+    "name": "Squash Casserole",
+    "ingredients": [
+      "1 1/2 pounds yellow summer squash, sliced",
+      "1 small onion, chopped (2 1/2 ounces)",
+      "4 ounces sharp cheddar cheese, shredded",
+      "1 egg, beaten",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon granular Splenda",
+      "1/2 teaspoon salt, or to taste",
+      "Butter for sautéing onion (amount not specified)"
+    ],
+    "utensils": [
+      "Large pot",
+      "Small skillet",
+      "1 1/2 quart baking dish",
+      "Colander",
+      "Paper towels",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Mixing bowl"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "In a large pot, cook the sliced squash in boiling salted water to cover just until tender, about 8-10 minutes. Drain well and press between paper towels to remove excess moisture.",
+        "sk": "Vo veľkom hrnci varte nakrájanú cuketu v osolenej vode, kým nezmäkne, asi 8-10 minút. Dobre sceďte a vytlačte medzi papierovými utierkami, aby ste odstránili prebytočnú vlhkosť.",
+        "ja": "大きな鍋で、スライスしたズッキーニを塩水で8〜10分ほど柔らかくなるまで茹でます。よく水気を切り、ペーパータオルで挟んで余分な水分を取り除きます。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 5,
+        "en": "In a small skillet, sauté the chopped onion in butter until tender.",
+        "sk": "Na malej panvici opečte nakrájanú cibuľu na masle do mäkka.",
+        "ja": "小さなフライパンで、刻んだ玉ねぎをバターで柔らかくなるまで炒めます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Remove the skillet from heat and stir in all ingredients except the squash. Then combine everything, including the squash, in a greased 1 1/2 quart baking dish.",
+        "sk": "Panvicu odstavte z ohňa a vmiešajte všetky ingrediencie okrem cukety. Potom všetko vrátane cukety zmiešajte vo vymastenej 1,5 litrovej zapekacej miske.",
+        "ja": "フライパンを火から外し、ズッキーニ以外のすべての材料を混ぜ合わせます。その後、ズッキーニを含むすべての材料を油を塗った1.5クォートのベーキング皿に入れて混ぜ合わせます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for 30-40 minutes or until set and the top is bubbly and starting to brown.",
+        "sk": "Pečte pri teplote 175°C 30-40 minút alebo kým sa nezapečie a vrch nezačne bublať a hnednúť.",
+        "ja": "350°F（175°C）のオーブンで30〜40分、または固まり、表面が泡立ち始め、焼き色がつき始めるまで焼きます。",
+        "primaryIngredient": "squash"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

@@ -1,0 +1,66 @@
+{
+    "id": "keto-side_fried_zucchini_strings_001",
+    "name": "Fried Zucchini Strings",
+    "ingredients": [
+      "1 medium zucchini (about 5 1/4 ounces after trimming)",
+      "Oil for deep frying",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Julienne peeler",
+      "Deep fryer or deep pot",
+      "Slotted spoon or spider strainer",
+      "Paper towels",
+      "Cutting board",
+      "Thermometer (for oil temperature)"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Using a julienne peeler, cut the zucchini into very thin pasta-like strips. Discard the center core with the seeds.",
+        "sk": "Pomocou julienne škrabky nakrájajte cuketu na veľmi tenké prúžky podobné cestovinám. Vyhoďte stredovú časť so semenami.",
+        "ja": "千切り器を使用して、ズッキーニを非常に細いパスタ状の細切りにします。種のある中心部分は捨てます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Blot the zucchini strips with paper towels to remove as much moisture as possible.",
+        "sk": "Osušte cuketové prúžky papierovými utierkami, aby ste odstránili čo najviac vlhkosti.",
+        "ja": "ペーパータオルでズッキーニの細切りを押さえ、できるだけ水分を取り除きます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Heat 3 inches of oil in a deep fryer or deep pot to 375°F (190°C).",
+        "sk": "Zohrejte 7,5 cm oleja v hlbokej fritéze alebo hlbokom hrnci na 190°C.",
+        "ja": "ディープフライヤーまたは深い鍋に3インチ（約7.5cm）の油を入れ、375°F（190°C）まで熱します。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 5,
+        "en": "Carefully add the zucchini strands to the hot oil without crowding the pan. Fry until golden brown, then turn to brown the other side.",
+        "sk": "Opatrne pridajte cuketové prúžky do horúceho oleja bez preplnenia panvice. Smažte do zlatohneda, potom otočte, aby zhnedla aj druhá strana.",
+        "ja": "鍋が混み合わないように注意しながら、ズッキーニの細切りを熱した油に加えます。きつね色になるまで揚げ、裏返してもう片面も揚げます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Remove the fried zucchini strings and drain on paper towels.",
+        "sk": "Vyberte vyprážané cuketové prúžky a nechajte odkvapkať na papierových utierkach.",
+        "ja": "揚げたズッキーニの細切りを取り出し、ペーパータオルの上で油を切ります。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with salt and serve immediately.",
+        "sk": "Posoľte a ihneď podávajte.",
+        "ja": "塩をふりかけ、すぐに提供します。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "Be careful when working with hot oil. The oil temperature is crucial for achieving crispy zucchini strings - too low and they'll be greasy, too high and they'll burn. Serve immediately for best texture and flavor."
+  }

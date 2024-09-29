@@ -1,0 +1,60 @@
+{
+    "id": "keto-side_spinach_gratin_001",
+    "name": "Spinach Gratin",
+    "ingredients": [
+      "50 ounces frozen, chopped spinach, thawed",
+      "4 tablespoons butter",
+      "2 small onions, chopped (5 ounces)",
+      "8 ounces cream cheese, softened",
+      "3/4 cup heavy cream",
+      "4 ounces freshly grated parmesan cheese, divided",
+      "3/4 teaspoon pepper, divided",
+      "1/2 teaspoon garlic powder",
+      "Pinch nutmeg",
+      "1 teaspoon salt",
+      "1 teaspoon Spicy Seasoning Salt",
+      "2 ounces Swiss cheese, shredded (1/2 cup)"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "11x7 inch baking pan",
+      "Measuring cups and spoons",
+      "Grater",
+      "Mixing bowls",
+      "Forks for mixing"
+    ],
+    "cookingTime": 30,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "In a medium skillet, sauté the chopped onion in butter for 15 minutes.",
+        "sk": "Na strednej panvici opečte nakrájanú cibuľu na masle 15 minút.",
+        "ja": "中サイズのフライパンで、みじん切りにした玉ねぎをバターで15分炒めます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Blend in the cream cheese on medium-low heat. Gradually blend in the cream until smooth. Stir in 1/2 cup parmesan, 1/4 teaspoon pepper, garlic powder, and nutmeg.",
+        "sk": "Na stredne nízkom ohni vmiešajte krémový syr. Postupne vmiešajte smotanu, kým nevznikne hladká zmes. Primiešajte 1/2 šálky parmezánu, 1/4 lyžičky korenia, cesnakový prášok a muškátový oriešok.",
+        "ja": "中火〜弱火でクリームチーズを混ぜ込みます。クリームを少しずつ加えて滑らかになるまで混ぜます。パルメザンチーズ1/2カップ、コショウ1/4茶さじ、ガーリックパウダー、ナツメグを加えて混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 10,
+        "en": "Squeeze all liquid from the spinach and place in a greased 11x7 inch baking pan. Pour in the sauce mixture and mix well using two forks. Mix in the salt, seasoning salt, and 1/2 teaspoon pepper. Spread evenly in the pan.",
+        "sk": "Vytlačte všetku tekutinu zo špenátu a vložte ho do vymastenej zapekacej misy 28x18 cm. Nalejte naň omáčku a dobre premiešajte pomocou dvoch vidličiek. Vmiešajte soľ, koreniacu soľ a 1/2 lyžičky korenia. Rovnomerne rozotrite v mise.",
+        "ja": "ほうれん草の水気をよく絞り、油を塗った11x7インチのベーキング皿に入れます。ソースを注ぎ、フォーク2本を使ってよく混ぜます。塩、シーズニングソルト、コショウ1/2茶さじを加えて混ぜます。皿に均等に広げます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 30,
+        "en": "Top with the Swiss cheese and remaining 1/2 cup parmesan. Bake at 425°F (220°C) for 20-30 minutes until hot and bubbly.",
+        "sk": "Navrch nasypte švajčiarsky syr a zvyšný 1/2 šálky parmezánu. Pečte pri teplote 220°C 20-30 minút, kým nebude horúce a bublajúce.",
+        "ja": "上にスイスチーズと残りの1/2カップのパルメザンチーズをかけます。425°F（220°C）のオーブンで20〜30分、熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

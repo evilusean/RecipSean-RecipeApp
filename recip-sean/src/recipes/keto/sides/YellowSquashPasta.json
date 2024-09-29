@@ -1,0 +1,53 @@
+{
+    "id": "keto-side_yellow_squash_pasta_001",
+    "name": "Yellow Squash \"Pasta\"",
+    "ingredients": [
+      "2 pounds yellow squash (about 6 medium)",
+      "1 tablespoon butter or oil",
+      "Salt, to taste",
+      "Other seasonings, to taste (optional)"
+    ],
+    "utensils": [
+      "Julienne peeler",
+      "Cutting board",
+      "Knife",
+      "Large skillet",
+      "Wooden spoon or spatula",
+      "Measuring spoons"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Prepare the squash: Cut off the blossom end. Using a julienne peeler, create 'pasta' strands by running the peeler from one end to the other, pressing firmly. Rotate the squash and repeat until you reach the seeded core. Discard the core.",
+        "sk": "Pripravte tekvicu: Odrežte kvetný koniec. Pomocou julienne škrabky vytvorte 'cestoviny' ťahaním škrabky od jedného konca k druhému, pritom pevne tlačte. Otáčajte tekvicu a opakujte, kým nedosiahnete jadro so semenami. Jadro zahoďte.",
+        "ja": "スクワッシュの準備：花の端を切り落とします。千切り器を使い、端から端まで強く押しながら'パスタ'の細切りを作ります。スクワッシュを回転させ、種のある芯に達するまで繰り返します。芯は捨てます。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 5,
+        "en": "Heat the butter or oil in a large skillet over medium-high heat. Add the squash 'pasta' and sauté until it starts to become pliable.",
+        "sk": "Rozohrejte maslo alebo olej na veľkej panvici na stredne vysokom ohni. Pridajte 'cestoviny' z tekvice a opekajte, kým nezačnú byť ohybné.",
+        "ja": "大きなフライパンで中火〜強火でバターまたは油を熱します。スクワッシュの'パスタ'を加え、柔らかくなり始めるまで炒めます。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 5,
+        "en": "When liquid starts to pool at the bottom of the pan, increase heat to high. Cook, stirring constantly, until most of the liquid has evaporated. Be careful not to overcook.",
+        "sk": "Keď sa na dne panvice začne zhromažďovať tekutina, zvýšte teplotu na vysokú. Varte za stáleho miešania, kým sa väčšina tekutiny neodparí. Dávajte pozor, aby ste tekvicu neprevarili.",
+        "ja": "鍋底に液体が溜まり始めたら、強火にします。ほとんどの液体が蒸発するまで、絶えずかき混ぜながら調理します。煮すぎないよう注意してください。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and any other desired seasonings to taste.",
+        "sk": "Ochuťte soľou a ďalšími želanými koreninami podľa chuti.",
+        "ja": "塩と好みの他の調味料で味を調えます。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "A julienne peeler or similar tool is necessary for this recipe. The cooking process requires careful attention to avoid overcooking the squash 'pasta'."
+  }

@@ -1,0 +1,55 @@
+{
+    "id": "keto-side_sauteed_spinach_mushrooms_onions_001",
+    "name": "Sauteed Spinach with Mushrooms and Onions",
+    "ingredients": [
+      "1-2 tablespoons olive oil",
+      "1 teaspoon garlic, minced (1 clove)",
+      "1/4 cup onion, chopped or slivered (1 1/4 ounces)",
+      "4 fresh mushrooms, sliced (about 2 1/2 ounces)",
+      "1/2 pound fresh spinach",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Measuring spoons",
+      "Measuring cups",
+      "Knife",
+      "Cutting board",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Heat the olive oil in a large skillet over medium heat.",
+        "sk": "Rozohrejte olivový olej na veľkej panvici na strednom ohni.",
+        "ja": "大きなフライパンで中火でオリーブオイルを熱します。",
+        "primaryIngredient": "olive oil"
+      },
+      {
+        "time": 5,
+        "en": "Add the minced garlic, chopped onion, and sliced mushrooms. Cook until tender.",
+        "sk": "Pridajte nasekaný cesnak, nakrájanú cibuľu a nakrájané huby. Varte, kým nezmäknú.",
+        "ja": "みじん切りにしたニンニク、刻んだ玉ねぎ、スライスしたマッシュルームを加えます。柔らかくなるまで炒めます。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 3,
+        "en": "Add the fresh spinach to the pan (it will be very full, but will cook down quickly). Toss and cook just until wilted.",
+        "sk": "Pridajte do panvice čerstvý špenát (panvica bude veľmi plná, ale špenát sa rýchlo zmenší). Premiešajte a varte, kým špenát nezvädne.",
+        "ja": "フレッシュほうれん草を鍋に加えます（鍋はいっぱいになりますが、すぐに縮みます）。しんなりするまで炒めます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste. Serve immediately.",
+        "sk": "Ochuťte soľou a korením podľa chuti. Ihneď podávajte.",
+        "ja": "塩コショウで味を調えます。すぐに提供してください。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

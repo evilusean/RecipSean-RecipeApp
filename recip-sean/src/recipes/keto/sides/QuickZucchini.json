@@ -1,0 +1,53 @@
+{
+    "id": "keto-side_quick_zucchini_001",
+    "name": "Quick Zucchini",
+    "ingredients": [
+      "21 ounces zucchini, shredded (3 medium)",
+      "1 small onion, slivered (2 1/2 ounces)",
+      "1 tablespoon butter",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "Grater or food processor for shredding",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Spatula or wooden spoon"
+    ],
+    "cookingTime": 5,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Heat the butter in a medium skillet.",
+        "sk": "Rozohrejte maslo na strednej panvici.",
+        "ja": "中サイズのフライパンでバターを熱します。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 3,
+        "en": "Add the shredded zucchini and slivered onion. Cook on medium-high heat for about 2-3 minutes.",
+        "sk": "Pridajte nastrúhanú cuketu a nakrájanú cibuľu. Varte na stredne vysokom ohni asi 2-3 minúty.",
+        "ja": "千切りにしたズッキーニと薄切りにした玉ねぎを加えます。中火〜強火で2〜3分ほど炒めます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Turn the heat to high and cook just long enough to evaporate most of the liquid. Do not leave the stove and stir frequently.",
+        "sk": "Zvýšte teplotu na vysokú a varte len tak dlho, aby sa odparila väčšina tekutiny. Neopúšťajte sporák a často miešajte.",
+        "ja": "火を強火にし、水分のほとんどが蒸発するまで調理します。コンロから離れず、頻繁にかき混ぜてください。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }

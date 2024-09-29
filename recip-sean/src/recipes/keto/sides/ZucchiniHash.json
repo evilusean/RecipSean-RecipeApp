@@ -1,0 +1,56 @@
+{
+    "id": "keto-side_zucchini_hash_001",
+    "name": "Zucchini Hash",
+    "ingredients": [
+      "4 tablespoons butter",
+      "1 cup ham, diced (5 ounces)",
+      "16 ounces zucchini, peeled and chopped (3 medium)",
+      "4 ounces onion, chopped (1 medium)",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Paprika, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Wooden spoon or spatula",
+      "Vegetable peeler"
+    ],
+    "cookingTime": 13,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Peel and chop the zucchini. Chop the onion. Dice the ham if not already diced.",
+        "sk": "Ošúpte a nakrájajte cuketu. Nakrájajte cibuľu. Nakrájajte šunku na kocky, ak už nie je nakrájaná.",
+        "ja": "ズッキーニの皮をむいて刻みます。玉ねぎをみじん切りにします。ハムがまだサイコロ状でない場合は、サイコロ状に切ります。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Heat 1 tablespoon of butter in a large skillet over medium-low heat. Add the diced ham and brown for 2-3 minutes.",
+        "sk": "Rozohrejte 1 lyžicu masla na veľkej panvici na stredne nízkom ohni. Pridajte nakrájanú šunku a opekajte 2-3 minúty.",
+        "ja": "大きなフライパンで中火〜弱火で大さじ1杯のバターを溶かします。サイコロ状のハムを加え、2〜3分間焼き色がつくまで炒めます。",
+        "primaryIngredient": "ham"
+      },
+      {
+        "time": 10,
+        "en": "Add the chopped zucchini, chopped onion, and the remaining 3 tablespoons of butter to the skillet. Increase heat to medium-high and cook for 8-10 minutes or until well browned, stirring occasionally.",
+        "sk": "Pridajte na panvicu nakrájanú cuketu, nakrájanú cibuľu a zvyšné 3 lyžice masla. Zvýšte teplotu na stredne vysokú a varte 8-10 minút alebo kým dobre nezhnedne, občas premiešajte.",
+        "ja": "刻んだズッキーニ、みじん切りにした玉ねぎ、残りの大さじ3杯のバターをフライパンに加えます。中火〜強火に上げ、時々かき混ぜながら8〜10分間、または十分に焼き色がつくまで調理します。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Season with salt, pepper, and paprika to taste. Serve hot.",
+        "sk": "Ochuťte soľou, korením a paprikou podľa chuti. Podávajte horúce.",
+        "ja": "塩、コショウ、パプリカで味を調えます。熱いうちに提供します。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This recipe creates a savory hash using zucchini as a low-carb alternative to potatoes. Adjust the cooking time as needed to achieve your desired level of browning."
+  }

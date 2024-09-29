@@ -1,0 +1,64 @@
+{
+    "id": "keto-side_zucchini_chile_cheddar_mash_001",
+    "name": "Zucchini Chile-Cheddar Mash",
+    "ingredients": [
+      "1 tablespoon oil or bacon grease",
+      "1 1/4 pounds zucchini (4 average size)",
+      "1 medium onion, chopped (5 ounces)",
+      "4 ounce can chopped green chiles",
+      "4 ounces cheddar cheese, shredded",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Food processor",
+      "Large skillet",
+      "1 to 1 1/2 quart casserole dish",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Wooden spoon or spatula"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim the ends off the zucchini and shred it in a food processor. Chop the onion.",
+        "sk": "Odrežte konce cukety a nastrúhajte ju v kuchynskom robote. Nakrájajte cibuľu.",
+        "ja": "ズッキーニの両端を切り落とし、フードプロセッサーで細かく刻みます。玉ねぎをみじん切りにします。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 20,
+        "en": "In a large skillet over medium heat, sauté the shredded zucchini and chopped onion in oil or bacon grease until very soft, about 20 minutes. You may need to reduce the heat after about 10 minutes to avoid over-browning.",
+        "sk": "Na veľkej panvici na strednom ohni opekajte nastrúhanú cuketu a nakrájanú cibuľu na oleji alebo slanine, kým veľmi nezmäknú, asi 20 minút. Po asi 10 minútach možno budete musieť znížiť teplotu, aby ste zabránili prílišnému zhnednutiu.",
+        "ja": "大きなフライパンで中火で、油またはベーコンの脂を使い、細かく刻んだズッキーニとみじん切りにした玉ねぎを非常に柔らかくなるまで約20分炒めます。10分ほど経ったら、焦げすぎないように火を弱める必要があるかもしれません。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Stir in the chopped green chiles and shredded cheddar cheese. Season with salt and pepper to taste.",
+        "sk": "Vmiešajte nakrájané zelené čili papričky a nastrúhaný čedar. Ochuťte soľou a korením podľa chuti.",
+        "ja": "刻んだグリーンチリとシュレッドチェダーチーズを加えて混ぜます。塩コショウで味を調えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Transfer the mixture to a 1 to 1 1/2 quart casserole dish.",
+        "sk": "Preložte zmes do zapekacej misky s objemom 1 až 1,5 litra.",
+        "ja": "混ぜ合わせたものを1〜1.5クォートのキャセロール皿に移します。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 350°F (175°C) for 10 minutes.",
+        "sk": "Pečte pri teplote 175°C 10 minút.",
+        "ja": "350°F（175°C）のオーブンで10分間焼きます。",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This recipe uses a food processor to shred the zucchini, which saves time in preparation. The cooking process requires attention to avoid over-browning the vegetables."
+  }

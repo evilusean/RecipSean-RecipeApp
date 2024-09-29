@@ -1,0 +1,67 @@
+{
+    "id": "keto-side_zucchini_noodles_001",
+    "name": "Zucchini \"Noodles\"",
+    "ingredients": [
+      "Zucchini",
+      "Butter",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Spicy Seasoning Salt (optional)"
+    ],
+    "utensils": [
+      "Mandolin with wide julienne blade or sharp knife",
+      "Cutting board",
+      "Non-stick skillet",
+      "Vegetable peeler (alternative method)",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 5,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Trim the ends off the zucchini.",
+        "sk": "Odrežte konce cukety.",
+        "ja": "ズッキーニの両端を切り落とします。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Using a mandolin with a wide julienne blade, shred the zucchini lengthwise into noodle-like strips. Alternatively, use a sharp knife to cut very thin slabs lengthwise, then cut each slab into thin strips. Or use a vegetable peeler to create long strips, rotating the zucchini as you go.",
+        "sk": "Pomocou mandolíny so širokým julienne nožom nastrúhajte cuketu pozdĺžne na prúžky podobné rezancom. Alternatívne použite ostrý nôž na narezanie veľmi tenkých plátkov pozdĺžne, potom každý plátok nakrájajte na tenké prúžky. Alebo použite škrabku na zeleninu na vytvorenie dlhých prúžkov, pričom cuketu otáčajte.",
+        "ja": "幅広のジュリエンヌ刃付きマンドリンを使用し、ズッキーニを縦方向に麺状の細切りにします。または、鋭いナイフを使用して非常に薄い板を縦に切り、各板を細い帯状に切ります。あるいは、野菜ピーラーを使用して長い帯状に切り、ズッキーニを回転させながら作業します。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Cut strips to desired length if necessary.",
+        "sk": "V prípade potreby nakrájajte prúžky na požadovanú dĺžku.",
+        "ja": "必要に応じて、細切りを好みの長さに切ります。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "In a non-stick skillet, melt a small amount of butter over medium-high heat.",
+        "sk": "V nepriľnavej panvici rozpustite malé množstvo masla na stredne vysokom ohni.",
+        "ja": "ノンスティックフライパンで中火〜強火で少量のバターを溶かします。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 3,
+        "en": "Sauté the zucchini noodles until slightly limp, but not mushy, about 1-2 minutes.",
+        "sk": "Opekajte cuketové rezance, kým nebudú mierne mäkké, ale nie kašovité, asi 1-2 minúty.",
+        "ja": "ズッキーニの麺を少し柔らかくなるまで炒めますが、べとべとにならないよう注意し、約1〜2分間調理します。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt, pepper, and Spicy Seasoning Salt if desired.",
+        "sk": "Ochuťte soľou, korením a pikantnou koreninovou soľou, ak chcete.",
+        "ja": "塩、コショウ、お好みでスパイシーシーズニングソルトで味付けします。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These zucchini noodles can be served as a side dish or topped with various sauces. They have a texture similar to thick egg noodles. Be careful not to overcook as they can become mushy. This method can be used to create a low-carb alternative to spaghetti for dishes like 'spaghetti and meatballs'."
+  }

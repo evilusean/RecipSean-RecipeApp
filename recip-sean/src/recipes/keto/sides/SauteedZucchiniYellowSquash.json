@@ -1,0 +1,53 @@
+{
+    "id": "keto-side_sauteed_zucchini_yellow_squash_001",
+    "name": "Sautéed Zucchini and Yellow Squash",
+    "ingredients": [
+      "2 medium zucchini (7 ounces)",
+      "2 medium yellow summer squash (7 ounces)",
+      "2 tablespoons olive oil or butter (or a combination)",
+      "1 clove garlic",
+      "Salt, to taste",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Cut the zucchini and yellow squash in half lengthwise, then cut into half moons.",
+        "sk": "Rozrežte cuketu a žltú tekvicu pozdĺžne na polovicu, potom nakrájajte na polmesiace.",
+        "ja": "ズッキーニと黄色いカボチャを縦半分に切り、さらに半月切りにします。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Heat the olive oil or butter (or a combination) in a large skillet over medium-high heat.",
+        "sk": "Rozohrejte olivový olej alebo maslo (alebo kombináciu oboch) na veľkej panvici na stredne vysokom ohni.",
+        "ja": "大きなフライパンで中火〜強火でオリーブオイルまたはバター（または両方の組み合わせ）を熱します。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 5,
+        "en": "Add the sliced squash and minced garlic to the skillet. Sauté until done to your liking, usually about 5-7 minutes.",
+        "sk": "Pridajte nakrájanú tekvicu a nasekaný cesnak na panvicu. Opekajte, kým nie sú hotové podľa vašej chuti, zvyčajne asi 5-7 minút.",
+        "ja": "スライスしたカボチャとみじん切りにしたニンニクをフライパンに加えます。お好みの柔らかさになるまで炒めます（通常5〜7分程度）。",
+        "primaryIngredient": "squash"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste as it cooks.",
+        "sk": "Počas varenia ochuťte soľou a korením podľa chuti.",
+        "ja": "調理中に塩コショウで味を調えます。",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side"
+  }
