@@ -77,7 +77,7 @@ export default function Home() {
               className="bg-tokyo-green hover:bg-tokyo-green/80 text-tokyo-bg w-full sm:w-auto mb-4 sm:mb-0"
             >
               <Shuffle className="mr-2 h-4 w-4" />
-              Random Recipe
+              Random RecipSean
             </Button>
             <div className="w-full">
               <SearchComponent onSearch={handleSearch} />
