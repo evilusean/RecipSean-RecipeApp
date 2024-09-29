@@ -70,18 +70,18 @@ export default function Home() {
     <div className="min-h-screen bg-tokyo-bg text-tokyo-fg">
       <div className="container mx-auto px-4 py-6 sm:py-8">
         <h1 className="text-3xl sm:text-4xl font-bold mb-6 sm:mb-8 text-tokyo-red text-center">RecipSean</h1>
-        <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-4 mb-6">
-          <div className="w-full sm:w-auto">
+        <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 mb-6">
+          <div className="w-full sm:w-1/2 flex flex-col sm:flex-row sm:space-x-4">
             <Button
               onClick={handleRandomRecipe}
-              className="bg-tokyo-green hover:bg-tokyo-green/80 text-tokyo-bg w-full sm:w-auto"
+              className="bg-tokyo-green hover:bg-tokyo-green/80 text-tokyo-bg w-full sm:w-auto mb-4 sm:mb-0"
             >
               <Shuffle className="mr-2 h-4 w-4" />
               Random Recipe
             </Button>
-          </div>
-          <div className="w-full sm:flex-grow">
-            <SearchComponent onSearch={handleSearch} />
+            <div className="w-full">
+              <SearchComponent onSearch={handleSearch} />
+            </div>
           </div>
         </div>
         {loading && <p className="mt-6 sm:mt-8">Loading recipes...</p>}
