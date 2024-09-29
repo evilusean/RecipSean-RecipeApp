@@ -1,0 +1,78 @@
+{
+    "id": "keto-side_flax_garlic_onion_flatbread_001",
+    "name": "Flax Garlic Onion Flatbread",
+    "ingredients": [
+      "3 tablespoons flax meal (golden if possible)",
+      "1/4 teaspoon baking powder",
+      "Pinch onion powder",
+      "Pinch garlic powder",
+      "Pinch salt",
+      "1 tablespoon butter",
+      "1 large egg",
+      "1 tablespoon water",
+      "Cooking spray or additional butter for greasing"
+    ],
+    "utensils": [
+      "2 small bowls",
+      "Fork",
+      "Measuring spoons",
+      "9 or 10 inch glass pie plate",
+      "Microwave"
+    ],
+    "cookingTime": 3,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "In a small bowl, combine the flax meal, baking powder, onion powder, garlic powder, and a pinch of salt.",
+        "sk": "V malej miske zmiešajte ľanové semienka, prášok do pečiva, cibuľový prášok, cesnakový prášok a štipku soli.",
+        "ja": "小さなボウルにフラックスミール、ベーキングパウダー、オニオンパウダー、ガーリックパウダー、少量の塩を入れて混ぜます。",
+        "primaryIngredient": "flax meal"
+      },
+      {
+        "time": 1,
+        "en": "In another small microwave-safe bowl, melt the butter in the microwave.",
+        "sk": "V druhej malej miske vhodnej do mikrovlnnej rúry roztopte maslo.",
+        "ja": "別の電子レンジ対応の小さなボウルにバターを入れ、電子レンジで溶かします。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Add the egg and water to the melted butter; beat with a fork until well blended.",
+        "sk": "K roztopenému maslu pridajte vajce a vodu; vyšľahajte vidličkou, kým sa dobre nespoja.",
+        "ja": "溶かしたバターに卵と水を加え、フォークでよく混ぜます。",
+        "primaryIngredient": "egg"
+      },
+      {
+        "time": 1,
+        "en": "Add the dry ingredients to the wet ingredients and beat well with the fork.",
+        "sk": "Pridajte suché prísady k mokrým a dobre vyšľahajte vidličkou.",
+        "ja": "乾燥材料を湿った材料に加え、フォークでよく混ぜます。",
+        "primaryIngredient": "flax meal"
+      },
+      {
+        "time": 1,
+        "en": "Grease a 9 or 10 inch glass pie plate. Pour the batter into the plate and spread to cover the bottom.",
+        "sk": "Vymastite 23-25 cm sklenenú formu na koláč. Nalejte do nej cesto a rozotrite ho tak, aby pokrylo dno.",
+        "ja": "9〜10インチ（約23〜25cm）のガラスパイ皿に油を塗ります。生地を注ぎ、底面全体に広げます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 3,
+        "en": "Microwave on HIGH for 1 1/2 to 3 minutes, until cooked through but still pliable.",
+        "sk": "Varte v mikrovlnnej rúre na vysokom výkone 1,5 až 3 minúty, kým nie je prepečené, ale stále ohybné.",
+        "ja": "電子レンジの高温で1分30秒から3分間、中まで火が通るまで加熱しますが、まだ柔軟性がある状態にします。",
+        "primaryIngredient": "flatbread"
+      },
+      {
+        "time": 1,
+        "en": "Use like a pita, wrap or tortilla. Reheat briefly in the microwave if it becomes too stiff.",
+        "sk": "Použite ako pita chlieb, wrap alebo tortillu. Ak stuhne, krátko ohrejte v mikrovlnnej rúre.",
+        "ja": "ピタパン、ラップ、またはトルティーヤのように使用します。固くなりすぎた場合は、電子レンジで短時間再加熱してください。",
+        "primaryIngredient": "flatbread"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This Flax Garlic Onion Flatbread is a quick, microwave-friendly keto alternative to traditional flatbreads. It's high in fiber from the flax meal and low in carbs, making it suitable for a ketogenic diet. The flatbread is versatile and can be used as a wrap, tortilla, or pita substitute. For best results, use golden flax meal if available, as it has a milder flavor than brown flax meal."
+  }

@@ -1,0 +1,77 @@
+{
+    "id": "keto-side_flax_pancake_001",
+    "name": "Flax Pancake",
+    "ingredients": [
+      "3 tablespoons golden flax meal",
+      "1 teaspoon granular Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon baking powder",
+      "1 dash salt",
+      "1 large egg",
+      "1 tablespoon butter, melted",
+      "1 tablespoon water",
+      "Cooking spray or additional butter for greasing"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Fork",
+      "8-9 inch glass pie plate",
+      "Microwave",
+      "Measuring spoons"
+    ],
+    "cookingTime": 3,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "In a small bowl, combine the flax meal, Splenda, baking powder, and salt.",
+        "sk": "V malej miske zmiešajte ľanové semienka, Splendu, prášok do pečiva a soľ.",
+        "ja": "小さなボウルにフラックスミール、スプレンダ、ベーキングパウダー、塩を入れて混ぜます。",
+        "primaryIngredient": "flax meal"
+      },
+      {
+        "time": 2,
+        "en": "Add the egg, melted butter, and water to the dry ingredients. Mix well with a fork.",
+        "sk": "K suchým prísadám pridajte vajce, rozpustené maslo a vodu. Dobre premiešajte vidličkou.",
+        "ja": "乾燥材料に卵、溶かしたバター、水を加えます。フォークでよく混ぜます。",
+        "primaryIngredient": "egg"
+      },
+      {
+        "time": 1,
+        "en": "Grease an 8-9 inch glass pie plate.",
+        "sk": "Vymastite 20-23 cm sklenenú formu na koláč.",
+        "ja": "8〜9インチ（約20〜23cm）のガラス製パイ皿に油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 1,
+        "en": "Pour the batter into the greased pie plate and spread to cover the bottom of the pan.",
+        "sk": "Nalejte cesto do vymastenej formy a rozotrite ho tak, aby pokrylo dno formy.",
+        "ja": "生地を油を塗ったパイ皿に注ぎ、底面全体に広げます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 2,
+        "en": "Microwave on HIGH for 1 1/2 to 3 minutes, until cooked through but still soft.",
+        "sk": "Varte v mikrovlnnej rúre na vysokom výkone 1,5 až 3 minúty, kým nie je prepečené, ale stále mäkké.",
+        "ja": "電子レンジの高温で1分30秒から3分間、中まで火が通るまで加熱しますが、まだ柔らかい状態にします。",
+        "primaryIngredient": "pancake"
+      },
+      {
+        "time": 1,
+        "en": "Optional: Flip the pancake over and microwave for an additional 20 seconds to set the underside.",
+        "sk": "Voliteľné: Otočte palacinka a varte v mikrovlnnej rúre ďalších 20 sekúnd, aby sa spodná strana lepšie prepiekla.",
+        "ja": "オプション：パンケーキをひっくり返し、さらに20秒電子レンジで加熱して裏面を固めます。",
+        "primaryIngredient": "pancake"
+      },
+      {
+        "time": 1,
+        "en": "Serve with low carb syrup if desired.",
+        "sk": "Podávajte s nízkosacharidovým sirupom, ak chcete.",
+        "ja": "お好みで低糖シロップを添えて提供します。",
+        "primaryIngredient": "pancake"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This Flax Pancake is a quick, microwave-friendly keto alternative to traditional pancakes. It's high in fiber from the flax meal and low in carbs, making it suitable for a ketogenic diet. The pancake is cooked in a pie plate, resulting in a large, single pancake that can be cut into portions. For best results, adjust the cooking time based on your microwave's power. The optional step of flipping and microwaving for an additional 20 seconds can help achieve a better texture if the underside seems undercooked."
+  }

@@ -1,0 +1,80 @@
+{
+    "id": "keto-side_carbquik_cheddar_buns_001",
+    "name": "Carbquik Cheddar Buns",
+    "ingredients": [
+      "3 ounces cream cheese, softened",
+      "2 eggs",
+      "2 tablespoons parmesan cheese (the kind in a can)",
+      "2 teaspoons granular Splenda",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon onion powder",
+      "3/4 cup Carbquik",
+      "1/2 teaspoon baking powder",
+      "2 ounces cheddar cheese, shredded (1/2 cup)",
+      "Cooking spray or butter for greasing"
+    ],
+    "utensils": [
+      "Medium mixing bowl",
+      "Whisk",
+      "Spoon",
+      "Measuring cups and spoons",
+      "Muffin top pan",
+      "Cooling rack"
+    ],
+    "cookingTime": 17,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 350°F (175°C). Grease 6 cups of a muffin top pan.",
+        "sk": "Predhrejte rúru na 175°C. Vymastite 6 jamiek formy na muffiny.",
+        "ja": "オーブンを350°F（175°C）に予熱します。マフィントップパンの6つのカップに油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "In a medium bowl, whisk together the softened cream cheese and eggs until smooth.",
+        "sk": "V stredne veľkej miske vyšľahajte zmäknutý krémový syr a vajcia do hladka.",
+        "ja": "中サイズのボウルで、柔らかくしたクリームチーズと卵をなめらかになるまで泡立て器で混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 3,
+        "en": "Whisk in the parmesan cheese, Splenda, garlic powder, onion powder, Carbquik, and baking powder until a smooth batter forms.",
+        "sk": "Vmiešajte parmezán, Splendu, cesnakový prášok, cibuľový prášok, Carbquik a prášok do pečiva, kým nevznikne hladké cesto.",
+        "ja": "パルメザンチーズ、スプレンダ、ガーリックパウダー、オニオンパウダー、Carbquik、ベーキングパウダーを加え、滑らかな生地になるまで泡立て器で混ぜます。",
+        "primaryIngredient": "Carbquik"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the shredded cheddar cheese with a spoon.",
+        "sk": "Lyžicou vmiešajte nastrúhaný čedar.",
+        "ja": "シュレッドしたチェダーチーズをスプーンで混ぜ込みます。",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 3,
+        "en": "Spoon the batter into the 6 greased muffin top pan cups.",
+        "sk": "Nalejte cesto do 6 vymastených jamiek formy na muffiny.",
+        "ja": "生地を6つの油を塗ったマフィントップパンのカップに注ぎます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 17,
+        "en": "Bake for 15-17 minutes, or until golden brown and not too dark on the bottoms.",
+        "sk": "Pečte 15-17 minút, alebo kým nezhnednú a nie sú príliš tmavé na spodku.",
+        "ja": "15〜17分間、または上面がきつね色になり、底面が濃すぎない程度に焼きます。",
+        "primaryIngredient": "buns"
+      },
+      {
+        "time": 5,
+        "en": "Remove from the pan and cool completely on a rack.",
+        "sk": "Vyberte z formy a nechajte úplne vychladnúť na mriežke.",
+        "ja": "パンから取り出し、ラックの上で完全に冷まします。",
+        "primaryIngredient": "buns"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Carbquik Cheddar Buns are a low-carb alternative to traditional cheese buns. They're best made in a muffin top pan for the ideal shape and texture. Carbquik is a low-carb baking mix that helps keep these buns keto-friendly. The combination of cheddar and parmesan cheeses gives these buns a rich, savory flavor."
+  }

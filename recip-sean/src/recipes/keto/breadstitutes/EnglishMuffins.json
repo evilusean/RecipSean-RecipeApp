@@ -1,0 +1,96 @@
+{
+    "id": "keto-side_low_carb_english_muffins_001",
+    "name": "Low Carb English Muffins",
+    "ingredients": [
+      "1 egg",
+      "2 tablespoons water",
+      "1 tablespoon oil",
+      "1/3 cup Carbquik",
+      "2 tablespoons golden flax meal",
+      "1 teaspoon granular Splenda (optional)",
+      "3/4 teaspoon baking powder",
+      "Pinch salt",
+      "Cooking spray or additional oil for greasing"
+    ],
+    "utensils": [
+      "2 small bowls",
+      "Fork",
+      "Whisk",
+      "Measuring cups and spoons",
+      "2 microwaveable dishes (about 4 1/2\" in diameter with straight sides)",
+      "Microwave",
+      "Plate",
+      "Knife for slicing",
+      "Toaster oven"
+    ],
+    "cookingTime": 2,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "In a small bowl, beat the egg, water, and oil with a fork until well blended.",
+        "sk": "V malej miske vyšľahajte vidličkou vajce, vodu a olej, kým sa dobre nespoja.",
+        "ja": "小さなボウルに卵、水、油を入れ、フォークでよく混ぜます。",
+        "primaryIngredient": "egg"
+      },
+      {
+        "time": 1,
+        "en": "In another small bowl, mix the Carbquik, golden flax meal, Splenda (if using), baking powder, and salt.",
+        "sk": "V druhej malej miske zmiešajte Carbquik, zlaté ľanové semienka, Splendu (ak používate), prášok do pečiva a soľ.",
+        "ja": "別の小さなボウルにCarbquik、ゴールデンフラックスミール、スプレンダ（使用する場合）、ベーキングパウダー、塩を入れて混ぜます。",
+        "primaryIngredient": "Carbquik"
+      },
+      {
+        "time": 1,
+        "en": "Whisk the dry ingredients into the wet ingredients until well combined.",
+        "sk": "Vyšľahajte suché prísady do mokrých prísad, kým sa dobre nespoja.",
+        "ja": "乾燥材料を湿った材料に加え、よく混ざるまで泡立て器で混ぜます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 1,
+        "en": "Grease two microwaveable dishes (about 4 1/2\" in diameter with straight sides).",
+        "sk": "Vymastite dve nádoby vhodné do mikrovlnnej rúry (s priemerom asi 11,5 cm a rovnými stenami).",
+        "ja": "電子レンジ対応の直径約4.5インチ（約11.5cm）の真っ直ぐな側面を持つ器2つに油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 1,
+        "en": "Pour the batter evenly into the two greased dishes.",
+        "sk": "Cesto rovnomerne nalejte do dvoch vymastených nádob.",
+        "ja": "生地を2つの油を塗った器に均等に注ぎます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 2,
+        "en": "Microwave on HIGH for 2 minutes, or until the muffins spring back when touched lightly.",
+        "sk": "Varte v mikrovlnnej rúre na vysokom výkone 2 minúty alebo kým sa muffiny po ľahkom dotyku nevrátia späť.",
+        "ja": "電子レンジの高温で2分間、またはマフィンを軽く触って跳ね返るまで加熱します。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 2,
+        "en": "Turn out onto a plate and let cool until they can be handled.",
+        "sk": "Vyklopte na tanier a nechajte vychladnúť, kým sa s nimi nebude dať manipulovať.",
+        "ja": "皿に取り出し、扱えるくらいまで冷まします。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 1,
+        "en": "Slice each muffin in half horizontally. They will be very thin.",
+        "sk": "Každý muffin vodorovne prekrojte na polovicu. Budú veľmi tenké.",
+        "ja": "各マフィンを水平に半分に切ります。非常に薄くなります。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 3,
+        "en": "Toast in a toaster oven until very brown and crispy.",
+        "sk": "Opečte v toastovacej rúre, kým nebudú veľmi hnedé a chrumkavé.",
+        "ja": "トースターオーブンで、こんがりとして香ばしくなるまで焼きます。",
+        "primaryIngredient": "muffins"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Low Carb English Muffins are a quick and easy keto-friendly alternative to traditional English muffins. They're made with Carbquik and flax meal, which keeps the carb count low while providing fiber. The recipe yields 2 muffins, which are then split to make 4 thin halves. For best results, toast them well to achieve a crispy texture similar to traditional English muffins. These can be used as a base for breakfast sandwiches or served with butter and low-carb jam."
+  }

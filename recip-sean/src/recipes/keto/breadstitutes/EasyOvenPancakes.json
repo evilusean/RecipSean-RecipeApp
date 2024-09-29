@@ -1,0 +1,73 @@
+{
+    "id": "keto-side_easy_oven_pancakes_001",
+    "name": "Easy Oven Pancakes",
+    "ingredients": [
+      "2 ounces cream cheese, softened",
+      "3 eggs",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "Cooking spray"
+    ],
+    "utensils": [
+      "Small mixing bowl",
+      "Electric mixer",
+      "Muffin top pan",
+      "Measuring spoons",
+      "Spatula for flipping"
+    ],
+    "cookingTime": 25,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 300°F (150°C).",
+        "sk": "Predhrejte rúru na 150°C.",
+        "ja": "オーブンを300°F（150°C）に予熱します。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 2,
+        "en": "In a small mixing bowl, beat the softened cream cheese with an electric mixer until creamy.",
+        "sk": "V malej miske vyšľahajte zmäknutý krémový syr elektrickým mixérom do krémova.",
+        "ja": "小さなボウルに柔らかくしたクリームチーズを入れ、電動ミキサーでクリーム状になるまで混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Add the eggs and Splenda to the cream cheese; beat until there are no bits of white cream cheese left.",
+        "sk": "Pridajte k syru vajcia a Splendu; šľahajte, kým nezmiznú všetky kúsky bieleho krémového syra.",
+        "ja": "クリームチーズに卵とスプレンダを加え、白いクリームチーズの粒が残らなくなるまで混ぜます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Spray the muffin top pan well with cooking spray.",
+        "sk": "Dobre postriekajte formu na muffiny kuchynským sprejom.",
+        "ja": "マフィントップパンにクッキングスプレーをたっぷりとスプレーします。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 1,
+        "en": "Divide the batter evenly between the 6 muffin cups.",
+        "sk": "Rozdeľte cesto rovnomerne medzi 6 formičiek na muffiny.",
+        "ja": "生地を6つのマフィンカップに均等に分けます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 300°F (150°C) for 20 minutes.",
+        "sk": "Pečte pri teplote 150°C 20 minút.",
+        "ja": "300°F（150°C）で20分間焼きます。",
+        "primaryIngredient": "pancakes"
+      },
+      {
+        "time": 5,
+        "en": "Flip the pancakes over and bake for another 2-5 minutes to brown the tops.",
+        "sk": "Otočte lievance a pečte ďalších 2-5 minút, aby sa vrch zhnedol.",
+        "ja": "パンケーキをひっくり返し、上面を茶色くするためにさらに2〜5分焼きます。",
+        "primaryIngredient": "pancakes"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Easy Oven Pancakes are a low-carb alternative to traditional pancakes. They're baked in a muffin top pan, which gives them a unique shape and texture. The recipe uses cream cheese as a base, making them high in fat and low in carbohydrates, suitable for a ketogenic diet. The Splenda can be adjusted to taste or replaced with another low-carb sweetener. For best results, ensure your cream cheese is fully softened before mixing."
+  }

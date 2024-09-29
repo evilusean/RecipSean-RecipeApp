@@ -1,0 +1,76 @@
+{
+    "id": "keto-side_thin_and_crispy_pizza_crust_001",
+    "name": "Thin and Crispy Pizza Crust",
+    "ingredients": [
+      "8 ounces mozzarella cheese, shredded",
+      "4 ounces cheddar cheese, shredded",
+      "3 eggs",
+      "1 teaspoon garlic powder",
+      "1 teaspoon basil, optional",
+      "Toppings of your choice"
+    ],
+    "utensils": [
+      "16-inch pizza pan",
+      "Parchment paper or nonstick foil",
+      "Mixing bowl",
+      "Measuring spoons",
+      "Spatula",
+      "Oven with broiler function"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 450°F (230°C). Line a 16-inch pizza pan with parchment paper or nonstick foil.",
+        "sk": "Predhrejte rúru na 230°C. Vyložte 40 cm pizzovú formu papierom na pečenie alebo nepriľnavou fóliou.",
+        "ja": "オーブンを450°F（230°C）に予熱します。16インチ（約40cm）のピザ用の天板にパーチメント紙またはノンスティックホイルを敷きます。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "In a mixing bowl, combine shredded mozzarella, cheddar cheese, eggs, garlic powder, and basil (if using). Mix well.",
+        "sk": "V miske zmiešajte strúhanú mozzarellu, čedar, vajcia, cesnakový prášok a bazalku (ak používate). Dobre premiešajte.",
+        "ja": "ボウルにシュレッドしたモッツァレラチーズ、チェダーチーズ、卵、ガーリックパウダー、バジル（使用する場合）を入れてよく混ぜます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "Spread the cheese mixture evenly on the prepared pizza pan, almost to the edge, making it as thin as possible.",
+        "sk": "Syrovou zmesou rovnomerne potrite pripravenú pizzovú formu, takmer až po okraj, čo najtenšie.",
+        "ja": "チーズの混合物を準備したピザ用の天板に、端までできるだけ薄く均一に広げます。",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake for 15-20 minutes until golden brown. Check after 10 minutes; if edges are darkening too quickly, reduce temperature to 400°F (200°C) and continue baking until brown all over.",
+        "sk": "Pečte 15-20 minút, kým nezhnedne. Po 10 minútach skontrolujte; ak okraje príliš rýchlo tmavnú, znížte teplotu na 200°C a pečte ďalej, kým nebude celé hnedé.",
+        "ja": "15〜20分間、きつね色になるまで焼きます。10分後に確認し、端が早く焦げすぎる場合は温度を400°F（200°C）に下げ、全体が茶色くなるまで焼き続けます。",
+        "primaryIngredient": "cheese crust"
+      },
+      {
+        "time": 1,
+        "en": "Remove from oven and pat off any excess grease.",
+        "sk": "Vyberte z rúry a osušte prebytočný tuk.",
+        "ja": "オーブンから取り出し、余分な油を拭き取ります。",
+        "primaryIngredient": "cheese crust"
+      },
+      {
+        "time": 3,
+        "en": "Add your choice of toppings. It's recommended to pre-cook vegetables and meats before adding them to the pizza.",
+        "sk": "Pridajte toppingy podľa vášho výberu. Odporúča sa zeleninu a mäso pred pridaním na pizzu predvariť.",
+        "ja": "お好みのトッピングを追加します。野菜や肉は事前に調理してからピザに乗せることをお勧めします。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 5,
+        "en": "Place the pizza under the broiler (with the oven rack in the center position) for 4-5 minutes, until toppings are hot and any added cheese is melted and bubbly.",
+        "sk": "Vložte pizzu pod gril (s roštom rúry v strednej polohe) na 4-5 minút, kým nebudú toppingy horúce a pridaný syr sa neroztopí a nebude bublať.",
+        "ja": "ピザをオーブンの中央の棚に置き、グリル（ブロイラー）で4〜5分間、トッピングが熱くなり、追加したチーズが溶けて泡立つまで焼きます。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This Thin and Crispy Pizza Crust is a low-carb alternative to traditional pizza crust. It's made primarily of cheese, making it high in protein and very low in carbohydrates. The recipe makes 8 servings and can be frozen for later use. For best results, pre-cook your toppings before adding them to the pizza, as the final broiling time is brief. This crust can be used as a base for any of your favorite pizza toppings, making it a versatile option for keto dieters."
+  }

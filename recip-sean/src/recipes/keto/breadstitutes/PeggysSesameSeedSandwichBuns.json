@@ -1,0 +1,100 @@
+{
+    "id": "keto-side_peggys_sesame_seed_sandwich_buns_001",
+    "name": "Peggy's Sesame Seed Sandwich Buns",
+    "ingredients": [
+      "4 eggs, separated",
+      "1/8 teaspoon cream of tartar",
+      "3 ounces cream cheese, softened",
+      "1/2 teaspoon granular Splenda",
+      "1/4 cup golden flax meal",
+      "1 tablespoon unflavored, unsweetened whey protein powder",
+      "1 teaspoon sesame seeds",
+      "Cooking spray or oil for greasing"
+    ],
+    "utensils": [
+      "Medium non-plastic bowl",
+      "Large bowl",
+      "Electric mixer",
+      "Large rubber spatula",
+      "Muffin top pan with 6 holes",
+      "Wire cooling rack",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 300°F (150°C). Grease a 6-hole muffin top pan well.",
+        "sk": "Predhrejte rúru na 150°C. Dobre vymastite formu na muffiny s 6 jamkami.",
+        "ja": "オーブンを300°F（150°C）に予熱します。6穴のマフィントップパンに油をよく塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "In a medium, non-plastic bowl, beat the egg whites and cream of tartar with an electric mixer until stiff peaks form.",
+        "sk": "V stredne veľkej nemastnej miske vyšľahajte bielka a vínny kameň elektrickým mixérom, kým nevzniknú tuhé špičky.",
+        "ja": "中サイズのプラスチックではないボウルに卵白とクリームオブタルタルを入れ、電動ミキサーで固いピークができるまで泡立てます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 2,
+        "en": "In a large bowl, beat the softened cream cheese until smooth.",
+        "sk": "Vo veľkej miske vyšľahajte zmäknutý krémový syr dohladka.",
+        "ja": "大きなボウルに柔らかくしたクリームチーズを入れ、滑らかになるまで混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Add Splenda and egg yolks to the cream cheese and beat until smooth.",
+        "sk": "Pridajte Splendu a vaječné žĺtky ku krémovému syru a vyšľahajte dohladka.",
+        "ja": "クリームチーズにスプレンダと卵黄を加え、滑らかになるまで混ぜます。",
+        "primaryIngredient": "egg yolks"
+      },
+      {
+        "time": 2,
+        "en": "Add flax meal and whey protein powder to the cream cheese mixture; beat until blended.",
+        "sk": "Pridajte ľanové semienka a srvátkovú bielkovinu do syrovej zmesi; vyšľahajte, kým sa nespoja.",
+        "ja": "クリームチーズの混合物にフラックスミールとホエイプロテインパウダーを加え、よく混ざるまで混ぜます。",
+        "primaryIngredient": "flax meal"
+      },
+      {
+        "time": 3,
+        "en": "Gently fold the stiff egg whites into the yolk mixture using a large rubber spatula, until no large spots of white remain. Be careful not to deflate the egg whites.",
+        "sk": "Jemne vmiešajte tuhé bielka do žĺtkovej zmesi pomocou veľkej gumenej stierky, kým nezmiznú všetky veľké biele škvrny. Dávajte pozor, aby ste bielka nesplaskli.",
+        "ja": "大きなゴムヘラを使って、卵白を卵黄の混合物に優しく折り込みます。大きな白い部分が残らないようにしますが、卵白をつぶさないよう注意してください。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 2,
+        "en": "Spoon the batter into the greased muffin top pan, dividing it evenly among the 6 holes.",
+        "sk": "Nalejte cesto do vymastenej formy na muffiny, rozdeľte ho rovnomerne medzi 6 jamiek.",
+        "ja": "生地を油を塗ったマフィントップパンに注ぎ、6つの穴に均等に分けます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle the tops with sesame seeds.",
+        "sk": "Posypte vrch sezamovými semienkami.",
+        "ja": "表面にゴマをふりかけます。",
+        "primaryIngredient": "sesame seeds"
+      },
+      {
+        "time": 35,
+        "en": "Bake for 35 minutes until nice and brown.",
+        "sk": "Pečte 35 minút, kým nezhnednú.",
+        "ja": "35分間、きれいな茶色になるまで焼きます。",
+        "primaryIngredient": "buns"
+      },
+      {
+        "time": 1,
+        "en": "Remove from the pan and let cool on a wire rack. Store in the refrigerator.",
+        "sk": "Vyberte z formy a nechajte vychladnúť na drôtenom rošte. Skladujte v chladničke.",
+        "ja": "パンから取り出し、ワイヤーラックの上で冷まします。冷蔵庫で保存してください。",
+        "primaryIngredient": "buns"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Sesame Seed Sandwich Buns are a low-carb alternative to traditional bread buns. They use a combination of eggs, cream cheese, flax meal, and whey protein powder instead of flour, making them suitable for a ketogenic diet. The technique of folding in beaten egg whites helps create a lighter texture. These buns can be used for sandwiches or as a side for meals. Remember to store them in the refrigerator due to their high egg content."
+  }

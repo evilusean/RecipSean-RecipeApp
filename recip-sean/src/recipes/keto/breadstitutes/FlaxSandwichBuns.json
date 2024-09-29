@@ -1,0 +1,81 @@
+{
+    "id": "keto-side_flax_sandwich_buns_001",
+    "name": "Flax Sandwich Buns",
+    "ingredients": [
+      "1/2 cup plus 1 tablespoon flax meal",
+      "1/4 cup plus 2 tablespoons parmesan cheese",
+      "1 1/2 teaspoons onion powder",
+      "3/4 teaspoon baking powder",
+      "1 1/2 teaspoon granular Splenda",
+      "1/2-1 teaspoon caraway seeds (optional)",
+      "1 1/2 teaspoons dry minced onion",
+      "3 eggs",
+      "1 1/2 tablespoons water",
+      "1 1/2 tablespoons oil",
+      "Additional water for soaking onions",
+      "Cooking spray or additional oil for greasing"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Mixing bowl",
+      "Measuring cups and spoons",
+      "Muffin top pan",
+      "Long, thin knife for splitting buns"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 325°F (165°C). Grease 6 cups of a muffin top pan.",
+        "sk": "Predhrejte rúru na 165°C. Vymastite 6 jamiek formy na muffiny.",
+        "ja": "オーブンを325°F（165°C）に予熱します。マフィントップパンの6つのカップに油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, add just enough water to the dry minced onion to moisten. Let stand until softened.",
+        "sk": "V malej miske pridajte k sušenej cibuľke len toľko vody, aby sa navlhčila. Nechajte postáť, kým nezmäkne.",
+        "ja": "小さなボウルに乾燥ミンチオニオンを入れ、湿る程度の水を加えます。柔らかくなるまで置いておきます。",
+        "primaryIngredient": "dry minced onion"
+      },
+      {
+        "time": 3,
+        "en": "In a mixing bowl, combine flax meal, parmesan cheese, onion powder, baking powder, Splenda, and caraway seeds (if using).",
+        "sk": "V miske zmiešajte ľanové semienka, parmezán, cibuľový prášok, prášok do pečiva, Splendu a rascu (ak používate).",
+        "ja": "ボウルにフラックスミール、パルメザンチーズ、オニオンパウダー、ベーキングパウダー、スプレンダ、キャラウェイシード（使用する場合）を入れて混ぜます。",
+        "primaryIngredient": "flax meal"
+      },
+      {
+        "time": 2,
+        "en": "Add the softened minced onions, eggs, water, and oil to the dry ingredients. Mix well to form a batter.",
+        "sk": "K suchým prísadám pridajte zmäknutú cibuľku, vajcia, vodu a olej. Dobre premiešajte, aby vzniklo cesto.",
+        "ja": "柔らかくなったミンチオニオン、卵、水、油を乾燥材料に加えます。よく混ぜて生地を作ります。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Pour the batter evenly into the 6 greased muffin top pan cups.",
+        "sk": "Cesto rovnomerne nalejte do 6 vymastených jamiek formy na muffiny.",
+        "ja": "生地を6つの油を塗ったマフィントップパンのカップに均等に注ぎます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 20,
+        "en": "Bake for 15-20 minutes at 325°F (165°C).",
+        "sk": "Pečte 15-20 minút pri teplote 165°C.",
+        "ja": "325°F（165°C）で15〜20分間焼きます。",
+        "primaryIngredient": "buns"
+      },
+      {
+        "time": 5,
+        "en": "Allow to cool. To serve, split the buns horizontally to make two halves using a long, thin knife.",
+        "sk": "Nechajte vychladnúť. Pri podávaní rozdeľte žemle vodorovne na dve polovice pomocou dlhého tenkého noža.",
+        "ja": "冷ましてから、長く薄いナイフを使って水平に半分に切り分けて提供します。",
+        "primaryIngredient": "buns"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Flax Sandwich Buns are a low-carb, high-fiber alternative to traditional bread buns. They're rich in omega-3 fatty acids from the flax meal and have a savory flavor from the parmesan cheese and onion. The optional caraway seeds can add a rye-like flavor. These buns are sturdy enough for sandwiches but can also be used as a side for soups or salads. For best results, store in an airtight container in the refrigerator."
+  }

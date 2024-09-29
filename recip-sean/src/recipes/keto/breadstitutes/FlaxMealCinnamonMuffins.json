@@ -1,0 +1,102 @@
+{
+    "id": "keto-side_flaxmeal_cinnamon_muffins_001",
+    "name": "Flaxmeal Cinnamon Muffins",
+    "ingredients": [
+      "3 eggs",
+      "1/4 cup plus 2 tablespoons oil",
+      "1/4 cup sugar free syrup (such as Da Vinci or Torani)",
+      "2 tablespoons water",
+      "1 tablespoon vanilla",
+      "1 cup flax meal",
+      "1/2 teaspoon baking soda",
+      "1/2 teaspoon baking powder",
+      "2 tablespoons cinnamon",
+      "Additional oil or cooking spray for greasing muffin cups"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "Small bowl",
+      "Fork",
+      "Spoon",
+      "12-cup muffin tin",
+      "Cooling rack",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 350°F (175°C). Grease a 12-cup muffin tin well, without using paper liners.",
+        "sk": "Predhrejte rúru na 175°C. Dobre vymastite 12-jamkovú formu na muffiny bez použitia papierových košíčkov.",
+        "ja": "オーブンを350°F（175°C）に予熱します。12個のマフィン型に紙カップを使わずに油をよく塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 2,
+        "en": "In a medium bowl, beat the eggs with a fork.",
+        "sk": "V stredne veľkej miske vyšľahajte vajcia vidličkou.",
+        "ja": "中サイズのボウルに卵を入れ、フォークでよく混ぜます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Add oil, sugar-free syrup, water, and vanilla to the eggs. Mix well with a fork or spoon.",
+        "sk": "K vajciam pridajte olej, sirup bez cukru, vodu a vanilku. Dobre premiešajte vidličkou alebo lyžicou.",
+        "ja": "卵に油、シュガーフリーシロップ、水、バニラを加え、フォークまたはスプーンでよく混ぜます。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, combine flax meal, baking soda, baking powder, and cinnamon.",
+        "sk": "V malej miske zmiešajte ľanové semienka, sódu bikarbónu, prášok do pečiva a škoricu.",
+        "ja": "小さなボウルにフラックスミール、重曹、ベーキングパウダー、シナモンを入れて混ぜます。",
+        "primaryIngredient": "flax meal"
+      },
+      {
+        "time": 1,
+        "en": "Stir the dry ingredients into the egg mixture.",
+        "sk": "Vmiešajte suché prísady do vaječnej zmesi.",
+        "ja": "乾燥材料を卵の混合物に加えてかき混ぜます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 5,
+        "en": "Let the batter stand for 5 minutes.",
+        "sk": "Nechajte cesto odstáť 5 minút.",
+        "ja": "生地を5分間置いておきます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 2,
+        "en": "Spoon the batter into the greased muffin cups.",
+        "sk": "Nalejte cesto do vymastených formičiek na muffiny.",
+        "ja": "生地を油を塗ったマフィン型に注ぎ入れます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 15,
+        "en": "Bake for 12-15 minutes, or until lightly browned and set to the touch.",
+        "sk": "Pečte 12-15 minút, alebo kým nezhnednú a nebudú na dotyk pevné.",
+        "ja": "12〜15分間、または軽く茶色くなり、触って固くなるまで焼きます。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 1,
+        "en": "Remove muffins from the tin immediately and place on a cooling rack.",
+        "sk": "Muffiny ihneď vyberte z formy a položte na mriežku na chladenie.",
+        "ja": "マフィンを型から直ちに取り出し、冷却ラックに置きます。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 1,
+        "en": "Once cooled, store in the refrigerator.",
+        "sk": "Po vychladnutí skladujte v chladničke.",
+        "ja": "冷めたら冷蔵庫で保存します。",
+        "primaryIngredient": "muffins"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Flaxmeal Cinnamon Muffins are a low-carb alternative to traditional muffins, using flax meal instead of flour. They're high in fiber and omega-3 fatty acids from the flax, making them a nutritious option for those following a ketogenic or low-carb diet. The recipe uses a significant amount of cinnamon, which gives the muffins a strong flavor and potential health benefits. Be sure to use sugar-free syrup to keep the carb count low. These muffins should be stored in the refrigerator due to their high moisture content."
+  }

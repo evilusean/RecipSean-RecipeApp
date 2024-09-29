@@ -1,0 +1,82 @@
+{
+    "id": "keto-side_oregonrenes_pancakes_001",
+    "name": "OregonRene's \"Pancakes\"",
+    "ingredients": [
+      "2 egg yolks",
+      "2 egg whites",
+      "4 ounces cream cheese, softened",
+      "Oil for cooking",
+      "Butter for cooking"
+    ],
+    "utensils": [
+      "2 small bowls",
+      "Electric mixer or whisk",
+      "Rubber spatula",
+      "Nonstick skillet",
+      "Gravy ladle",
+      "Spatula for flipping"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "In a small bowl, beat the egg whites until soft peaks form.",
+        "sk": "V malej miske vyšľahajte bielka, kým nevzniknú mäkké špičky.",
+        "ja": "小さなボウルに卵白を入れ、柔らかいピークができるまで泡立てます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 2,
+        "en": "In another small bowl, beat the softened cream cheese and egg yolks until well blended.",
+        "sk": "V druhej malej miske vyšľahajte zmäknutý krémový syr a žĺtky, kým sa dobre nespoja.",
+        "ja": "別の小さなボウルに柔らかくしたクリームチーズと卵黄を入れ、よく混ざるまで混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Gently fold the beaten egg whites into the cream cheese mixture a little at a time, using a rubber spatula.",
+        "sk": "Jemne vmiešajte vyšľahané bielka do syrovej zmesi, postupne po malých dávkach, pomocou gumenej stierky.",
+        "ja": "ゴムヘラを使って、泡立てた卵白を少しずつクリームチーズの混合物に優しく折り込みます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 2,
+        "en": "Heat a little oil and butter in a nonstick skillet over medium-low heat. Don't let the butter get too dark.",
+        "sk": "Na nepriľnavej panvici rozohrejte trochu oleja a masla na stredne nízkom ohni. Nenechajte maslo príliš stmavnúť.",
+        "ja": "ノンスティックフライパンに少量の油とバターを入れ、中低温で熱します。バターが濃い色にならないよう注意してください。",
+        "primaryIngredient": "oil and butter"
+      },
+      {
+        "time": 2,
+        "en": "Ladle the batter into the hot oil, using about one gravy ladle full for each pancake.",
+        "sk": "Naberačkou nalejte cesto do horúceho oleja, použite približne jednu naberačku na omáčku na každú palacinku.",
+        "ja": "グレービーレードル1杯分の生地を熱した油に注ぎ入れます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 3,
+        "en": "When well browned on the bottom, very carefully flip and cook the other side. Watch closely as they brown quite fast.",
+        "sk": "Keď je spodná strana dobre opečená, veľmi opatrne otočte a opečte druhú stranu. Pozorne sledujte, pretože sa opekajú pomerne rýchlo.",
+        "ja": "底面がきつね色になったら、慎重にひっくり返してもう片面を焼きます。色づきが早いので注意深く見てください。",
+        "primaryIngredient": "pancake"
+      },
+      {
+        "time": 1,
+        "en": "Remove to a plate and keep warm. The pancakes will flatten as they cool.",
+        "sk": "Preložte na tanier a udržujte v teple. Palacinky sa pri chladnutí splošťujú.",
+        "ja": "皿に移して温かく保ちます。パンケーキは冷めると平らになります。",
+        "primaryIngredient": "pancake"
+      },
+      {
+        "time": 1,
+        "en": "Add more oil/butter to the pan for each batch, if necessary.",
+        "sk": "V prípade potreby pridajte do panvice viac oleja/masla pre každú dávku.",
+        "ja": "必要に応じて、各バッチごとにフライパンに油やバターを追加します。",
+        "primaryIngredient": "oil and butter"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These 'pancakes' are a low-carb alternative to traditional pancakes, using cream cheese as a base instead of flour. They're high in fat and protein, making them suitable for a ketogenic diet. The pancakes will be very puffy when first cooked but will flatten as they cool. Be careful when flipping as they can be delicate. Adjust the heat as needed to prevent burning, as these pancakes can brown quickly."
+  }

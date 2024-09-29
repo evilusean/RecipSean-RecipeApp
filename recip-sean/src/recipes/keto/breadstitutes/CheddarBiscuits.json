@@ -1,0 +1,79 @@
+{
+    "id": "keto-side_cheddar_biscuits_001",
+    "name": "Cheddar Biscuits",
+    "ingredients": [
+      "4 eggs",
+      "1/4 cup butter, melted",
+      "1/4 teaspoon salt",
+      "1/2 teaspoon garlic powder",
+      "1/3 cup coconut flour, sifted (1 1/4 ounces)",
+      "1/4 teaspoon baking powder",
+      "4 ounces sharp cheddar cheese, shredded",
+      "Cooking spray or additional butter for greasing"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Rimmed baking sheet or muffin top pan",
+      "Spoon",
+      "Sifter",
+      "Grater (if cheese isn't pre-shredded)"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 400°F (200°C). Grease a rimmed baking sheet or muffin top pan.",
+        "sk": "Predhrejte rúru na 200°C. Vymastite plech na pečenie s okrajmi alebo formu na muffiny.",
+        "ja": "オーブンを400°F（200°C）に予熱します。縁付きベーキングシートまたはマフィントップパンに油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "In a mixing bowl, whisk together the eggs, melted butter, salt, and garlic powder.",
+        "sk": "V miske vyšľahajte vajcia, rozpustené maslo, soľ a cesnakový prášok.",
+        "ja": "ボウルに卵、溶かしバター、塩、ニンニクパウダーを入れ、泡立て器でよく混ぜます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Sift the coconut flour and combine it with the baking powder.",
+        "sk": "Preosejte kokosovú múku a zmiešajte ju s práškom do pečiva.",
+        "ja": "ココナッツフラワーをふるい、ベーキングパウダーと混ぜ合わせます。",
+        "primaryIngredient": "coconut flour"
+      },
+      {
+        "time": 3,
+        "en": "Whisk the flour mixture into the egg mixture until there are no lumps.",
+        "sk": "Vmiešajte múčnu zmes do vaječnej zmesi, kým nebudú žiadne hrudky.",
+        "ja": "粉類の混合物を卵の混合物に加え、ダマがなくなるまで泡立て器で混ぜます。",
+        "primaryIngredient": "coconut flour"
+      },
+      {
+        "time": 2,
+        "en": "Fold in the shredded cheddar cheese.",
+        "sk": "Vmiešajte nastrúhaný čedar.",
+        "ja": "シュレッドしたチェダーチーズを折り込みます。",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 5,
+        "en": "Drop the batter by spoonfuls onto the prepared baking sheet or muffin top pan, keeping the batter as mounded as possible.",
+        "sk": "Lyžicou nakvapkajte cesto na pripravený plech alebo do formy na muffiny, snažte sa, aby cesto zostalo čo najviac nakopené.",
+        "ja": "準備したベーキングシートまたはマフィントップパンに生地をスプーンで落とし、できるだけ山形になるようにします。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 15,
+        "en": "Bake for 15 minutes at 400°F (200°C) until as browned as possible without burning.",
+        "sk": "Pečte 15 minút pri teplote 200°C, kým nezhnednú čo najviac bez spálenia.",
+        "ja": "400°F（200°C）で15分間、焦げないように注意しながらできるだけ褐色になるまで焼きます。",
+        "primaryIngredient": "biscuits"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These keto-friendly cheddar biscuits are best made in a muffin top pan to maintain their shape, but a regular baking sheet will work too. Keep the batter mounded when dropping onto the pan to prevent excessive spreading during baking. The coconut flour gives these biscuits a unique texture and flavor while keeping them low-carb."
+  }

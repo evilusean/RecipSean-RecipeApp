@@ -1,0 +1,76 @@
+{
+    "id": "keto-side_spinach_bread_001",
+    "name": "Spinach \"Bread\"",
+    "ingredients": [
+      "10 ounce package frozen chopped spinach, thawed and squeezed well",
+      "4 eggs, beaten",
+      "1/4 teaspoon garlic powder",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "1 ounce parmesan cheese (1/4 cup, the kind in a can)",
+      "Butter for greasing the pan"
+    ],
+    "utensils": [
+      "8x8 inch glass baking pan",
+      "Small mixing bowl",
+      "Measuring spoons",
+      "Knife for cutting",
+      "Spatula"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 400°F (200°C). Butter an 8x8 inch glass baking pan.",
+        "sk": "Predhrejte rúru na 200°C. Vymastite maslom 20x20 cm sklenenú zapekaciu misu.",
+        "ja": "オーブンを400°F（200°C）に予熱します。8x8インチ（約20x20cm）のガラス製ベーキング皿にバターを塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "In a small bowl, mix well the thawed and squeezed spinach, beaten eggs, garlic powder, salt, pepper, and parmesan cheese.",
+        "sk": "V malej miske dobre zmiešajte rozmrazený a vyžmýkaný špenát, rozšľahané vajcia, cesnakový prášok, soľ, korenie a parmezán.",
+        "ja": "小さなボウルに解凍してよく絞ったほうれん草、溶き卵、ガーリックパウダー、塩、コショウ、パルメザンチーズを入れてよく混ぜます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 1,
+        "en": "Pour the mixture into the prepared baking pan, spreading it evenly.",
+        "sk": "Zmes nalejte do pripravenej zapekacej misy a rovnomerne ju rozotrite.",
+        "ja": "混ぜた材料を準備したベーキング皿に注ぎ、均等に広げます。",
+        "primaryIngredient": "spinach mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake for 15-20 minutes at 400°F (200°C) until set and slightly browned.",
+        "sk": "Pečte 15-20 minút pri teplote 200°C, kým sa neustáli a mierne nezhnedne.",
+        "ja": "400°F（200°C）で15〜20分間、固まり、少し焼き色がつくまで焼きます。",
+        "primaryIngredient": "spinach mixture"
+      },
+      {
+        "time": 5,
+        "en": "Cool for a few minutes in the pan.",
+        "sk": "Nechajte niekoľko minút vychladnúť v miske.",
+        "ja": "皿に入れたまま数分間冷まします。",
+        "primaryIngredient": "spinach bread"
+      },
+      {
+        "time": 2,
+        "en": "Cut into serving pieces.",
+        "sk": "Nakrájajte na porcie.",
+        "ja": "食べやすい大きさに切り分けます。",
+        "primaryIngredient": "spinach bread"
+      },
+      {
+        "time": 1,
+        "en": "Store in refrigerator or freeze for later use.",
+        "sk": "Skladujte v chladničke alebo zmrazte na neskoršie použitie.",
+        "ja": "冷蔵庫で保存するか、後で使用するために冷凍します。",
+        "primaryIngredient": "spinach bread"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This Spinach \"Bread\" is a low-carb, high-nutrient alternative to traditional bread. It's rich in vitamins and minerals from the spinach, and protein from the eggs and cheese. This versatile dish can be used as a side, a base for sandwiches, or even as a pizza crust. For best results, make sure to squeeze as much water as possible from the thawed spinach to prevent the 'bread' from becoming too soggy."
+  }

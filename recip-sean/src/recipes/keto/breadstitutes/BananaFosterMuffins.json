@@ -1,0 +1,91 @@
+{
+    "id": "keto-side_bananas_foster_muffins_001",
+    "name": "Bananas Foster Muffins",
+    "ingredients": [
+      "4 ounces almond flour (1 cup)",
+      "1/2 cup golden flax meal (2 ounces)",
+      "1 teaspoon baking powder",
+      "1/8-1/4 teaspoon cinnamon",
+      "1/8 teaspoon salt",
+      "1 cup granular Splenda or equivalent liquid Splenda",
+      "2 tablespoons butter",
+      "1 teaspoon banana extract",
+      "1 teaspoon vanilla",
+      "1/2 teaspoon blackstrap molasses",
+      "2 tablespoons heavy cream",
+      "2 tablespoons water",
+      "2 eggs",
+      "6 paper muffin liners"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Medium microwave-safe bowl",
+      "Wooden spoon",
+      "6-cup muffin tin",
+      "Measuring cups and spoons",
+      "Microwave"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 350°F (175°C). Line a 6-cup muffin tin with paper liners.",
+        "sk": "Predhrejte rúru na 175°C. Vyložte 6-jamkovú formu na muffiny papierovými košíčkami.",
+        "ja": "オーブンを350°F（175°C）に予熱します。6個のマフィン型に紙カップを敷きます。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 2,
+        "en": "In a small bowl, stir together almond flour, flax meal, baking powder, cinnamon, salt, and granular Splenda (if using).",
+        "sk": "V malej miske zmiešajte mandľovú múku, ľanové semienka, prášok do pečiva, škoricu, soľ a granulovanú Splendu (ak používate).",
+        "ja": "小さなボウルにアーモンドフラワー、フラックスミール、ベーキングパウダー、シナモン、塩、粒状のスプレンダ（使用する場合）を入れて混ぜます。",
+        "primaryIngredient": "almond flour"
+      },
+      {
+        "time": 1,
+        "en": "In a medium microwave-safe bowl, melt the butter in the microwave.",
+        "sk": "V stredne veľkej miske vhodnej do mikrovlnnej rúry roztopte maslo.",
+        "ja": "電子レンジ対応の中サイズのボウルにバターを入れ、電子レンジで溶かします。",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 2,
+        "en": "Stir liquid Splenda (if using), banana extract, vanilla, molasses, cream, and water into the melted butter.",
+        "sk": "Do roztopeného masla vmiešajte tekutú Splendu (ak používate), banánový extrakt, vanilku, melasu, smotanu a vodu.",
+        "ja": "溶かしたバターに液体スプレンダ（使用する場合）、バナナエキス、バニラ、モラセス、クリーム、水を加えて混ぜます。",
+        "primaryIngredient": "butter mixture"
+      },
+      {
+        "time": 2,
+        "en": "Add the dry ingredients and eggs to the butter mixture; stir with a wooden spoon until well blended.",
+        "sk": "Pridajte suché prísady a vajcia do maslovej zmesi; miešajte drevenou lyžicou, kým sa dobre nespoja.",
+        "ja": "バターの混合物に乾燥材料と卵を加え、木のスプーンでよく混ぜ合わせます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 2,
+        "en": "Fill the 6 paper-lined muffin cups evenly with the batter.",
+        "sk": "Naplňte 6 papierových košíčkov na muffiny rovnomerne cestom.",
+        "ja": "6個の紙カップに生地を均等に分け入れます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 15,
+        "en": "Bake for 15 minutes, until the tops are golden brown.",
+        "sk": "Pečte 15 minút, kým vrch nezhnedne do zlatista.",
+        "ja": "15分間、または表面がきつね色になるまで焼きます。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 1,
+        "en": "Serve warm or at room temperature. Store in the refrigerator.",
+        "sk": "Podávajte teplé alebo pri izbovej teplote. Skladujte v chladničke.",
+        "ja": "温かいうちに、または室温で提供します。冷蔵庫で保存してください。",
+        "primaryIngredient": "muffins"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Bananas Foster Muffins are a low-carb version of the classic dessert flavor. They use almond flour and flax meal instead of wheat flour, making them suitable for a ketogenic diet. The banana flavor comes from extract rather than actual bananas, keeping the carb count low. The blackstrap molasses adds depth of flavor and a hint of sweetness. These muffins can be served warm or at room temperature, but should be stored in the refrigerator for longer shelf life."
+  }

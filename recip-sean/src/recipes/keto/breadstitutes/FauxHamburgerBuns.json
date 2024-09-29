@@ -1,0 +1,88 @@
+{
+    "id": "keto-side_ultimate_faux_junk_wheat_bread_buns_001",
+    "name": "Ultimate Faux Junk Wheat Bread Buns",
+    "ingredients": [
+      "3 eggs, separated",
+      "Dash cream of tartar",
+      "3 ounces cream cheese, softened",
+      "1/4 cup unflavored whey protein",
+      "1 tablespoon golden flax meal",
+      "1/4 teaspoon xanthan gum",
+      "2 pinches granular Splenda",
+      "Pinch salt",
+      "1 tablespoon sesame seeds, optional",
+      "Cooking spray or butter for greasing (if using muffin top pan)"
+    ],
+    "utensils": [
+      "Medium metal or glass bowl",
+      "Large mixing bowl",
+      "Electric mixer",
+      "Rubber spatula",
+      "Baking sheet or muffin top pan",
+      "Parchment paper (if using baking sheet)",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 35,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 300°F (150°C). Line a baking sheet with parchment paper or grease a muffin top pan.",
+        "sk": "Predhrejte rúru na 150°C. Vyložte plech na pečenie papierom na pečenie alebo vymastite formu na muffiny.",
+        "ja": "オーブンを300°F（150°C）に予熱します。ベーキングシートにパーチメント紙を敷くか、マフィントップパンに油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "In a medium metal or glass bowl, beat the egg whites and cream of tartar until stiff peaks form. Set aside.",
+        "sk": "V stredne veľkej kovovej alebo sklenenej miske vyšľahajte bielka a vínny kameň do tuhých špičiek. Odložte bokom.",
+        "ja": "中サイズの金属またはガラスのボウルで、卵白とクリームオブタルタルを固いピークができるまで泡立てます。脇に置いておきます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl with an electric mixer, beat the egg yolks, cream cheese, whey protein, flax meal, xanthan gum, Splenda, and salt until smooth.",
+        "sk": "Vo veľkej miske elektrickým mixérom vyšľahajte žĺtky, krémový syr, srvátkovú bielkovinu, ľanové semienka, xantánovú gumu, Splendu a soľ do hladka.",
+        "ja": "大きなボウルに卵黄、クリームチーズ、ホエイプロテイン、フラックスミール、キサンタンガム、スプレンダ、塩を入れ、電動ミキサーで滑らかになるまで混ぜます。",
+        "primaryIngredient": "egg yolks"
+      },
+      {
+        "time": 2,
+        "en": "Add about 1/2 cup of the beaten egg whites to the yolk mixture and stir in until well blended.",
+        "sk": "Pridajte asi 1/2 šálky vyšľahaných bielkov do žĺtkovej zmesi a dobre premiešajte.",
+        "ja": "泡立てた卵白の約1/2カップを卵黄の混合物に加え、よく混ざるまで混ぜます。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 3,
+        "en": "Gently fold in the remaining egg whites until somewhat combined, being careful not to deflate the batter. It's fine if there are some bits of egg white showing.",
+        "sk": "Jemne vmiešajte zvyšok bielkov, kým sa trochu nespoja, dávajte pozor, aby ste cesto nesplaskli. Nevadí, ak sú viditeľné kúsky bielka.",
+        "ja": "残りの卵白を生地がしぼまないように注意しながら、軽く折り込みます。卵白の一部が見えていても問題ありません。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 5,
+        "en": "Gently spoon the batter onto the prepared baking sheet or muffin top pan, making six buns. If desired, sprinkle the tops with sesame seeds.",
+        "sk": "Jemne nalejte cesto na pripravený plech alebo do formy na muffiny, vytvorte šesť žemlí. Ak chcete, posypte vrch sezamovými semienkami.",
+        "ja": "準備したベーキングシートまたはマフィントップパンに生地を6個のバンズになるようにそっと注ぎます。お好みで上にゴマをふりかけます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 35,
+        "en": "Bake for 35 minutes until well browned, but don't let them burn on the bottoms.",
+        "sk": "Pečte 35 minút, kým dobre nezhnednú, ale dávajte pozor, aby sa nespálili na spodku.",
+        "ja": "35分間、よく焼き色がつくまで焼きますが、底が焦げないように注意してください。",
+        "primaryIngredient": "buns"
+      },
+      {
+        "time": 10,
+        "en": "Cool on the pan. Use at once or store in the refrigerator.",
+        "sk": "Nechajte vychladnúť na plechu. Použite ihneď alebo skladujte v chladničke.",
+        "ja": "パンの上で冷まします。すぐに使用するか、冷蔵庫で保存してください。",
+        "primaryIngredient": "buns"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "These Ultimate Faux Junk Wheat Bread Buns are a low-carb alternative to traditional wheat buns. The use of whey protein, flax meal, and xanthan gum helps to mimic the texture of wheat bread while keeping the carb count low. The egg white folding technique gives these buns a light and airy texture. They can be made on a baking sheet or in a muffin top pan for a more uniform shape."
+  }

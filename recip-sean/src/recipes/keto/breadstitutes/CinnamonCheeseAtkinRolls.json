@@ -1,0 +1,100 @@
+{
+    "id": "keto-side_carolyns_cinnamon_cheese_danish_atkins_rolls_001",
+    "name": "Carolyn's Cinnamon Cheese Danish Atkins Rolls",
+    "ingredients": [
+      "4 large eggs",
+      "1/4 teaspoon cream of tartar",
+      "3 tablespoons whole milk ricotta cheese or sour cream",
+      "1/4 cup granular Splenda or equivalent liquid Splenda",
+      "1 teaspoon cinnamon",
+      "Cooking spray or butter for greasing"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Small mixing bowl",
+      "Electric mixer",
+      "Fork",
+      "Large rubber spatula",
+      "Muffin top pan",
+      "Small spoon",
+      "Metal spatula",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 35,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Preheat the oven to 300°F (150°C). Grease a muffin top pan.",
+        "sk": "Predhrejte rúru na 150°C. Vymastite formu na muffiny.",
+        "ja": "オーブンを300°F（150°C）に予熱します。マフィントップパンに油を塗ります。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 5,
+        "en": "Separate the eggs. Put egg whites in a large mixing bowl and yolks in a small mixing bowl. Lightly beat the yolks with a fork and set aside 1 1/2 teaspoons of yolk for the filling.",
+        "sk": "Oddeľte vajcia. Bielky dajte do veľkej misky a žĺtky do malej misky. Žĺtky zľahka rozšľahajte vidličkou a odložte 1 1/2 lyžičky žĺtka na plnku.",
+        "ja": "卵を分離します。卵白を大きなボウルに、卵黄を小さなボウルに入れます。卵黄をフォークで軽く溶いて、1.5茶さじを別に取り分けておきます（フィリング用）。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "Beat the egg whites and cream of tartar with an electric mixer until very stiff, but not dry.",
+        "sk": "Vyšľahajte bielky a vínny kameň elektrickým mixérom, kým nebudú veľmi tuhé, ale nie suché.",
+        "ja": "卵白とクリームオブタルタルを電動ミキサーで、固くなるまで泡立てます（ただし、乾燥させすぎないように注意）。",
+        "primaryIngredient": "egg whites"
+      },
+      {
+        "time": 3,
+        "en": "To the remaining egg yolks, add ricotta cheese (or sour cream), Splenda, and cinnamon. Beat until smooth.",
+        "sk": "K zvyšným žĺtkom pridajte ricottu (alebo kyslú smotanu), Splendu a škoricu. Vyšľahajte do hladka.",
+        "ja": "残りの卵黄にリコッタチーズ（またはサワークリーム）、スプレンダ、シナモンを加え、滑らかになるまで混ぜます。",
+        "primaryIngredient": "egg yolks"
+      },
+      {
+        "time": 3,
+        "en": "Gently fold the yolk mixture into the egg whites using a large rubber spatula, being careful not to deflate the egg whites.",
+        "sk": "Opatrne vmiešajte žĺtkovú zmes do bielkov pomocou veľkej gumenej stierky, dávajte pozor, aby ste bielky nesplaskli.",
+        "ja": "大きなゴムヘラを使って、卵黄の混合物を卵白に静かに折り込みます。卵白をつぶさないよう注意してください。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 5,
+        "en": "Prepare the filling: Beat 4 ounces softened cream cheese, 1 1/2 teaspoons reserved egg yolk, 1/4 cup Splenda, and 1/2 teaspoon vanilla (or 1/4 teaspoon each of vanilla and another flavoring) until smooth and fluffy.",
+        "sk": "Pripravte plnku: Vyšľahajte 113 g zmäknutého krémového syra, 1 1/2 lyžičky odloženého vaječného žĺtka, 1/4 šálky Splendy a 1/2 lyžičky vanilky (alebo 1/4 lyžičky vanilky a 1/4 lyžičky inej príchute) do hladka a nadýchana.",
+        "ja": "フィリングを準備します：柔らかくしたクリームチーズ113g、取り分けておいた卵黄1.5茶さじ、スプレンダ1/4カップ、バニラエッセンス1/2茶さじ（またはバニラ1/4茶さじと他のフレーバー1/4茶さじ）を滑らかでふわふわになるまで混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Spoon the egg mixture into 6 greased muffin top pan cups, keeping it as mounded as possible. Make a small indentation in the center of each with a spoon.",
+        "sk": "Nalejte vaječnú zmes do 6 vymastených foriem na muffiny, snažte sa, aby zmes zostala čo najviac nakopená. Lyžicou urobte malú priehlbinu v strede každého kopčeka.",
+        "ja": "卵の混合物を6つのグリースを塗ったマフィントップパンに盛り付けます。できるだけ山形に盛ります。スプーンで各々の中央に小さなくぼみを作ります。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Drop a spoonful of filling into each indentation, dividing evenly.",
+        "sk": "Do každej priehlbiny vložte lyžicu plnky, rozdeľte ju rovnomerne.",
+        "ja": "各くぼみにフィリングを小さじ1杯ずつ均等に入れます。",
+        "primaryIngredient": "filling"
+      },
+      {
+        "time": 35,
+        "en": "Bake for 25-35 minutes until golden brown.",
+        "sk": "Pečte 25-35 minút, kým nezhnednú.",
+        "ja": "25〜35分間、きつね色になるまで焼きます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 5,
+        "en": "Gently remove from pan, using a metal spatula if needed to loosen. Cool before serving.",
+        "sk": "Opatrne vyberte z formy, v prípade potreby použite kovovú stierku na uvoľnenie. Pred podávaním nechajte vychladnúť.",
+        "ja": "パンから優しく取り出します。必要に応じて金属ヘラを使って底をはがします。提供前に冷まします。",
+        "primaryIngredient": "egg mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This recipe creates a low-carb version of cinnamon cheese danish rolls. The texture is light and airy due to the whipped egg whites. Be gentle when folding and handling the mixture to maintain its volume. Makes 6 pastries. Can be frozen. For the filling, you can experiment with different flavorings such as lemon, almond, orange, or raspberry extracts."
+  }

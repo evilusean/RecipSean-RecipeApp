@@ -1,0 +1,93 @@
+{
+    "id": "keto-side_carbquik_artisan_flatbread_or_buns_001",
+    "name": "Carbquik Artisan Flatbread or Buns",
+    "ingredients": [
+      "8 ounces cream cheese, softened",
+      "4 eggs",
+      "1 1/2 cups Carbquik",
+      "1/4 cup parmesan cheese",
+      "1 teaspoon baking powder",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon onion powder",
+      "Dash pepper",
+      "1 teaspoon freeze-dried green onions or chives, optional",
+      "1 clove garlic, minced",
+      "4 teaspoons granular Splenda or equivalent liquid Splenda",
+      "4 ounces mozzarella cheese, shredded",
+      "1 tablespoon olive oil"
+    ],
+    "utensils": [
+      "11x17 inch sheet pan or muffin top pan",
+      "Parchment paper",
+      "Medium mixing bowl",
+      "Whisk",
+      "Spoon",
+      "Measuring cups and spoons",
+      "Cooling rack",
+      "Knife or pizza cutter",
+      "Pastry brush"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat the oven to 350°F (175°C). Line an 11x17 inch sheet pan with parchment paper.",
+        "sk": "Predhrejte rúru na 175°C. Vyložte 28x43 cm plech na pečenie papierom na pečenie.",
+        "ja": "オーブンを350°F（175°C）に予熱します。11x17インチ（約28x43cm）のシートパンにパーチメント紙を敷きます。",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 3,
+        "en": "In a medium bowl, whisk together the softened cream cheese and eggs until smooth.",
+        "sk": "V stredne veľkej miske vyšľahajte zmäknutý krémový syr a vajcia do hladka.",
+        "ja": "中サイズのボウルで、柔らかくしたクリームチーズと卵をなめらかになるまで泡立て器で混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Whisk in the Carbquik, parmesan cheese, baking powder, garlic powder, onion powder, pepper, freeze-dried green onions (if using), minced garlic, and Splenda until a smooth batter forms.",
+        "sk": "Vmiešajte Carbquik, parmezán, prášok do pečiva, cesnakový prášok, cibuľový prášok, korenie, sušenú jarnú cibuľku (ak používate), nasekaný cesnak a Splendu, kým nevznikne hladké cesto.",
+        "ja": "Carbquik、パルメザンチーズ、ベーキングパウダー、ガーリックパウダー、オニオンパウダー、コショウ、フリーズドライのグリーンオニオン（使用する場合）、みじん切りにしたニンニク、スプレンダを加え、滑らかな生地になるまで泡立て器で混ぜます。",
+        "primaryIngredient": "Carbquik"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the shredded mozzarella cheese with a spoon.",
+        "sk": "Lyžicou vmiešajte nastrúhanú mozzarellu.",
+        "ja": "シュレッドしたモッツァレラチーズをスプーンで混ぜ込みます。",
+        "primaryIngredient": "mozzarella cheese"
+      },
+      {
+        "time": 3,
+        "en": "Spoon the batter into the prepared pan and spread evenly.",
+        "sk": "Nalejte cesto na pripravený plech a rovnomerne ho rozotrite.",
+        "ja": "生地を準備したパンに注ぎ、均等に広げます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 30,
+        "en": "Bake for 20-30 minutes until golden brown.",
+        "sk": "Pečte 20-30 minút, kým nezhnedne.",
+        "ja": "20〜30分間、きつね色になるまで焼きます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 2,
+        "en": "Remove from the oven and brush with olive oil.",
+        "sk": "Vyberte z rúry a potrite olivovým olejom.",
+        "ja": "オーブンから取り出し、オリーブオイルを塗ります。",
+        "primaryIngredient": "olive oil"
+      },
+      {
+        "time": 10,
+        "en": "Remove from the pan and cool on a rack. Cut into 12-16 pieces.",
+        "sk": "Vyberte z plechu a nechajte vychladnúť na mriežke. Nakrájajte na 12-16 kúskov.",
+        "ja": "パンから取り出し、ラックの上で冷まします。12〜16個に切り分けます。",
+        "primaryIngredient": "flatbread"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This versatile recipe can be used to make flatbread or buns. For buns, use the batter to fill 12 muffin top pan cups and bake at 350°F (175°C) for about 17 minutes. Carbquik is a low-carb baking mix that helps keep this recipe keto-friendly. The addition of cheese and herbs gives these flatbreads or buns a rich, savory flavor."
+  }

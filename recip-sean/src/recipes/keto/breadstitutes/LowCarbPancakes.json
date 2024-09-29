@@ -1,0 +1,76 @@
+{
+    "id": "keto-side_jennys_better_than_boxed_low_carb_pancakes_001",
+    "name": "Jenny's Better Than Boxed Low Carb Pancakes",
+    "ingredients": [
+      "2 1/2 tablespoons vanilla whey protein powder",
+      "1/2 teaspoon baking powder",
+      "Pinch salt",
+      "1 egg",
+      "1 teaspoon oil",
+      "2 teaspoons water (optional)",
+      "Oil or cooking spray for the pan"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Whisk",
+      "Small nonstick skillet",
+      "Spatula",
+      "Measuring spoons"
+    ],
+    "cookingTime": 5,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "In a small bowl, whisk together the vanilla whey protein powder, baking powder, salt, egg, and 1 teaspoon oil until smooth.",
+        "sk": "V malej miske vyšľahajte vanilkový srvátkovú bielkovinu, prášok do pečiva, soľ, vajce a 1 lyžičku oleja, kým nevznikne hladká zmes.",
+        "ja": "小さなボウルにバニラホエイプロテインパウダー、ベーキングパウダー、塩、卵、油小さじ1を入れ、滑らかになるまで泡立て器で混ぜます。",
+        "primaryIngredient": "whey protein powder"
+      },
+      {
+        "time": 1,
+        "en": "If desired, add up to 1 tablespoon of water for a thinner batter.",
+        "sk": "Ak chcete redšie cesto, pridajte až 1 polievkovú lyžicu vody.",
+        "ja": "必要に応じて、生地を薄くするために大さじ1までの水を加えます。",
+        "primaryIngredient": "water"
+      },
+      {
+        "time": 1,
+        "en": "Lightly grease a small nonstick skillet with oil or cooking spray and heat on medium.",
+        "sk": "Ľahko vymastite malú nepriľnavú panvicu olejom alebo sprejom na varenie a zahrejte na strednom ohni.",
+        "ja": "小さな非粘着性のフライパンに油またはクッキングスプレーを軽く塗り、中火で熱します。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Pour the batter into the skillet and tilt the pan to spread the batter evenly.",
+        "sk": "Nalejte cesto na panvicu a nakloňte ju, aby sa cesto rovnomerne rozlialo.",
+        "ja": "フライパンに生地を注ぎ、パンを傾けて生地を均等に広げます。",
+        "primaryIngredient": "batter"
+      },
+      {
+        "time": 2,
+        "en": "When bubbles appear all over the pancake and the top starts to set, carefully flip the pancake with a spatula.",
+        "sk": "Keď sa na celej palacinka objavia bublinky a vrch začne tuhnúť, opatrne ju obráťte pomocou stierky.",
+        "ja": "パンケーキ全体に泡が現れ、上面が固まり始めたら、へらを使って慎重にパンケーキをひっくり返します。",
+        "primaryIngredient": "pancake"
+      },
+      {
+        "time": 2,
+        "en": "Cook until the second side is lightly browned, being careful not to overcook.",
+        "sk": "Smažte, kým druhá strana nezhnedne, dávajte pozor, aby ste ju neprepiekli.",
+        "ja": "裏面が軽く茶色くなるまで調理しますが、焼きすぎないように注意してください。",
+        "primaryIngredient": "pancake"
+      },
+      {
+        "time": 1,
+        "en": "Serve with butter and low carb syrup if desired (not included in nutritional counts).",
+        "sk": "Podávajte s maslom a nízkosacharidovým sirupom, ak chcete (nie je zahrnuté v nutričných hodnotách).",
+        "ja": "お好みでバターと低糖シロップを添えて提供します（栄養価計算には含まれていません）。",
+        "primaryIngredient": "pancake"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "This low-carb pancake recipe uses whey protein powder as a base, making it a high-protein, low-carb alternative to traditional pancakes. The batter can be adjusted to your preferred thickness by adding water. Be careful not to overcook the pancakes as they may become bitter. This recipe is suitable for those following a ketogenic or low-carb diet."
+  }
