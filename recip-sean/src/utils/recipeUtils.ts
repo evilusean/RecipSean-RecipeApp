@@ -13,9 +13,7 @@ export interface Recipe {
   cookingTime: number;
   instructions: Instruction[];
   notes?: string;
-  nutritionalInformation?: {
-    [key: string]: string;
-  };
+  nutritionalInformation?: NutritionalInformation;
 }
 
 interface Instruction {
@@ -24,6 +22,11 @@ interface Instruction {
   sk: string;
   ja: string;
   primaryIngredient: string;
+}
+
+interface NutritionalInformation {
+  amount?: string;
+  [key: string]: string | undefined;
 }
 
 export function getAllRecipes(): Recipe[] {

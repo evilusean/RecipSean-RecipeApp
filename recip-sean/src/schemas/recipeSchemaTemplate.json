@@ -1,151 +1,107 @@
 {
-
-    "$schema": "http://json-schema.org/draft-07/schema#",
-    
-    "type": "object",
-    
-    "properties": {
-    
-    "id": {
-    
-    "type": "string",
-    
-    "description": "Unique identifier for the recipe"
-    
-    },
-    
-    "name": {
-    
-    "type": "string",
-    
-    "description": "Name of the recipe"
-    
-    },
-    
-    "ingredients": {
-    
-    "type": "array",
-    
-    "items": {
-    
-    "type": "string"
-    
-    },
-    
-    "description": "List of ingredients"
-    
-    },
-    
-    "utensils": {
-    
-    "type": "array",
-    
-    "items": {
-    
-    "type": "string"
-    
-    },
-    
-    "description": "List of required utensils"
-    
-    },
-    
-    "cookingTime": {
-    
-    "type": "integer",
-    
-    "description": "Total cooking time in minutes"
-    
-    },
-    
-    "prepTime": {
-    
-    "type": "integer",
-    
-    "description": "Preparation time in minutes"
-    
-    },
-    
-    "instructions": {
-    
-    "type": "array",
-    
-    "items": {
-    
-    "type": "object",
-    
-    "properties": {
-    
-    "time": {
-    
-    "type": "integer",
-    
-    "description": "Time for this step in minutes"
-    
-    },
-    
-    "en": {
-    
-    "type": "string",
-    
-    "description": "Instruction step in English"
-    
-    },
-    
-    "sk": {
-    
-    "type": "string",
-    
-    "description": "Instruction step in Slovak"
-    
-    },
-    
-    "ja": {
-    
-    "type": "string",
-    
-    "description": "Instruction step in Japanese"
-    
-    },
-    
-    "primaryIngredient": {
-    
-    "type": "string",
-    
-    "description": "Primary ingredient for this step"
-    
-    }
-    
-    },
-    
-    "required": ["time", "en"]
-    
-    },
-    
-    "description": "List of instruction steps with translations"
-    
-    },
-    
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "id": {
+                "type": "string",
+                "description": "Unique identifier for the recipe"
+            },
+            "name": {
+                "type": "string",
+                "description": "Name of the recipe"
+            },
+            "ingredients": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of ingredients"
+            },
+            "utensils": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                },
+                "description": "List of required utensils"
+            },
+            "cookingTime": {
+                "type": "integer",
+                "description": "Total cooking time in minutes"
+            },
+            "prepTime": {
+                "type": "integer",
+                "description": "Preparation time in minutes"
+            },
+            "instructions": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "time": {
+                            "type": "integer",
+                            "description": "Time for this step in minutes"
+                        },
+                        "en": {
+                            "type": "string",
+                            "description": "Instruction step in English"
+                        },
+                        "sk": {
+                            "type": "string",
+                            "description": "Instruction step in Slovak"
+                        },
+                        "ja": {
+                            "type": "string",
+                            "description": "Instruction step in Japanese"
+                        },
+                        "primaryIngredient": {
+                            "type": "string",
+                            "description": "Primary ingredient for this step"
+                        }
+                    },
+                    "required": ["time", "en"]
+                },
+                "description": "List of instruction steps with translations"
+            },
             "favorite": {
-            
-            "type": "boolean",
-            
-            "default": false,
-            
-            "description": "Whether this recipe is a favorite"
-    
-    },
-    
-    "recipeType": {
-    
-    "type": "string",
-    
-    "description": "The type or category of the recipe"
-    
-    }
-    
-    },
-    
-    "required": ["id", "name", "ingredients", "instructions", "recipeType"]
-    
+                "type": "boolean",
+                "default": false,
+                "description": "Whether this recipe is a favorite"
+            },
+            "recipeType": {
+                "type": "string",
+                "description": "The type or category of the recipe"
+            },
+            "notes": {
+                "type": "string",
+                "description": "Optional notes about the recipe"
+            },
+            "nutritionalInformation": {
+                "type": "object",
+                "properties": {
+                    "amount": {
+                        "type": "string",
+                        "description": "Serving size or amount"
+                    },
+                    "calories": {
+                        "type": "string",
+                        "description": "Calorie content"
+                    },
+                    "protein": {
+                        "type": "string",
+                        "description": "Protein content"
+                    },
+                    "carbohydrates": {
+                        "type": "string",
+                        "description": "Carbohydrate content"
+                    },
+                    "fat": {
+                        "type": "string",
+                        "description": "Fat content"
+                    }
+                },
+                "required": ["amount", "calories", "protein", "carbohydrates", "fat"],
+                "description": "Nutritional information for the recipe"
+            }
+        },
+        "required": ["id", "name", "ingredients", "instructions", "recipeType"]
     }

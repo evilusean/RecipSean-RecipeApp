@@ -116,12 +116,22 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
         {recipe.nutritionalInformation && (
           <div className="mb-6">
             <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Nutritional Information</h2>
+            {recipe.nutritionalInformation.amount && (
+              <p className="text-sm sm:text-base mb-2">
+                <strong>Amount:</strong> {recipe.nutritionalInformation.amount}
+              </p>
+            )}
             <ul className="list-disc list-inside">
-              {Object.entries(recipe.nutritionalInformation).map(([key, value], index) => (
-                <li key={index} className="text-sm sm:text-base">
-                  <strong>{capitalizeFirstLetter(key)}:</strong> {value}
-                </li>
-              ))}
+              {Object.entries(recipe.nutritionalInformation).map(([key, value], index) => {
+                if (key !== 'amount' && value !== undefined) {
+                  return (
+                    <li key={index} className="text-sm sm:text-base">
+                      <strong>{capitalizeFirstLetter(key)}:</strong> {value}
+                    </li>
+                  );
+                }
+                return null;
+              })}
             </ul>
           </div>
         )}
