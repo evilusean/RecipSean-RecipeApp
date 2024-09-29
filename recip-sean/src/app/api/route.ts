@@ -7,10 +7,14 @@ export async function GET(request: NextRequest) {
 
   try {
     const allRecipes = getAllRecipes()
+    console.log('Total recipes fetched:', allRecipes.length) // Add this log
+
     const filteredRecipes = allRecipes.filter((recipe: Recipe) => {
       const searchString = `${recipe.name} ${recipe.recipeType} ${recipe.ingredients.join(' ')}`.toLowerCase()
       return searchString.includes(query.toLowerCase())
     })
+
+    console.log('Filtered recipes:', filteredRecipes.length) // Add this log
 
     return NextResponse.json(filteredRecipes)
   } catch (error) {

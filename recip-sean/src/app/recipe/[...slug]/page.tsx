@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation'
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { Recipe } from '@/utils/recipeUtils'
 
-eexport default function RecipePage({ params }: { params: { slug: string[] } }) {
+export default function RecipePage({ params }: { params: { slug: string[] } }) {
   const [recipe, setRecipe] = useState<Recipe | null>(null)
   const [language, setLanguage] = useState<'en' | 'sk' | 'ja'>('en')
   const [loading, setLoading] = useState(true)
@@ -18,7 +18,7 @@ eexport default function RecipePage({ params }: { params: { slug: string[] } }) 
       setError(null)
       try {
         const recipeSlug = params.slug.join('/')
-        const response = await fetch(`/api/recipes/${recipeSlug}`)
+        const response = await fetch(`/api/recipe/${recipeSlug}`)
         if (!response.ok) {
           if (response.status === 404) {
             throw new Error('Recipe not found')

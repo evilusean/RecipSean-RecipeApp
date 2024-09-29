@@ -1,5 +1,5 @@
-import fs from 'fs'
-import path from 'path'
+import fs from 'fs';
+import path from 'path';
 
 export interface Recipe {
   id: string;
@@ -23,34 +23,51 @@ interface Instruction {
 }
 
 export function getAllRecipes(): Recipe[] {
-  const recipesDir = path.join(process.cwd(), 'src', 'recipes')
-  return readRecipesInDir(recipesDir)
+  const recipesDir = path.join(process.cwd(), 'src/recipes');
+  return getRecipesFromDir(recipesDir);
 }
 
+function getRecipesFromDir(dir: string, baseDir: string = dir): Recipe[] {
+  let recipes: Recipe[] = [];
+  let items: string[];
 
-function readRecipesInDir(dir: string): Recipe[] {
-  const recipes: Recipe[] = [];
-  const files = fs.readdirSync(dir);
-  
-  for (const file of files) {
-    const filePath = path.join(dir, file);
-    const stat = fs.statSync(filePath);
-    
+  try {
+    items = fs.readdirSync(dir);
+  } catch (error) {
+    console.error(`Error reading directory ${dir}:`, error);
+    return recipes;
+  }
+
+  for (const item of items) {
+    const fullPath = path.join(dir, item);
+    let stat: fs.Stats;
+
+    try {
+      stat = fs.statSync(fullPath);
+    } catch (error) {
+      console.error(`Error getting file stats for ${fullPath}:`, error);
+      continue;
+    }
+
     if (stat.isDirectory()) {
-      recipes.push(...readRecipesInDir(filePath));
-    } else if (path.extname(file) === '.json') {
+      recipes = recipes.concat(getRecipesFromDir(fullPath, baseDir));
+    } else if (path.extname(item) === '.json') {
       try {
-        const content = fs.readFileSync(filePath, 'utf-8');
-        const recipe = JSON.parse(content) as Recipe;
-        recipe.folder = path.relative(path.join(process.cwd(), 'src', 'recipes'), path.dirname(filePath)).replace(/\\/g, '/');
+        const fileContent = fs.readFileSync(fullPath, 'utf-8');
+        const recipe: Recipe = JSON.parse(fileContent);
+        recipe.folder = path.relative(baseDir, dir);
+        recipe.id = path.basename(item, '.json');
         recipes.push(recipe);
       } catch (error) {
-        console.error(`Error reading or parsing file ${filePath}:`, error);
+        console.error(`Error parsing JSON file ${fullPath}:`, error);
       }
     }
   }
-  
+
   return recipes;
 }
 
-export const recipes = getAllRecipes();
+export const recipes: Recipe[] = getAllRecipes();
+
+// Log the number of recipes loaded
+console.log(`Loaded ${recipes.length} recipes`);
