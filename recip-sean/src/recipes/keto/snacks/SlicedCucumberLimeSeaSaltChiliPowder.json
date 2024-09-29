@@ -1,0 +1,58 @@
+{
+    "id": "keto-seasoning_spicy_lime_cucumber_001",
+    "name": "Spicy Lime Cucumber",
+    "ingredients": [
+      "1 medium cucumber",
+      "1 lime",
+      "1/4 teaspoon sea salt, or to taste",
+      "1/4 teaspoon chili powder, or to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Small bowl",
+      "Serving plate"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Wash and thinly slice the cucumber.",
+        "sk": "Umyte a nakrájajte uhorku na tenké plátky.",
+        "ja": "キュウリを洗い、薄くスライスします。",
+        "primaryIngredient": "cucumber"
+      },
+      {
+        "time": 1,
+        "en": "Arrange cucumber slices on a serving plate.",
+        "sk": "Rozložte plátky uhorky na servírovací tanier.",
+        "ja": "キュウリのスライスを皿に並べます。",
+        "primaryIngredient": "cucumber"
+      },
+      {
+        "time": 1,
+        "en": "Cut the lime in half and squeeze juice over the cucumber slices.",
+        "sk": "Rozkrojte limetku na polovicu a vytlačte šťavu na plátky uhorky.",
+        "ja": "ライムを半分に切り、キュウリのスライスの上に絞ります。",
+        "primaryIngredient": "lime"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle sea salt over the cucumber slices.",
+        "sk": "Posypte plátky uhorky morskou soľou.",
+        "ja": "キュウリのスライスに海塩をふりかけます。",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 1,
+        "en": "Dust the cucumber slices with chili powder.",
+        "sk": "Poprášte plátky uhorky čili práškom.",
+        "ja": "キュウリのスライスにチリパウダーをふりかけます。",
+        "primaryIngredient": "chili powder"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-snack",
+    "notes": "This Spicy Lime Cucumber is a refreshing and keto-friendly snack or side dish. It's naturally low in carbs and calories, making it perfect for a ketogenic diet. The combination of cool cucumber, tangy lime, sea salt, and spicy chili powder creates a delightful flavor profile that's both refreshing and zesty. You can adjust the amount of lime juice, salt, and chili powder to suit your taste preferences. For a milder version, you can use paprika instead of chili powder. This dish is best served immediately to maintain the cucumber's crispness. If you prefer, you can peel the cucumber before slicing for a more tender texture. For added variety, you can sprinkle some fresh herbs like cilantro or mint over the top. Remember that while cucumbers are very low in carbs, they do contain a small amount, so count them if you're strictly monitoring your carb intake. This versatile dish can be served as a light snack, a side dish for grilled meats, or as part of a keto-friendly salad."
+  }

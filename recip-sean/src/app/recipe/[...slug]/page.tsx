@@ -106,6 +106,26 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
           </div>
         </div>
         
+        {recipe.notes && (
+          <div className="mb-6">
+            <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Notes</h2>
+            <p className="text-sm sm:text-base">{recipe.notes}</p>
+          </div>
+        )}
+
+        {recipe.nutritionalInformation && (
+          <div className="mb-6">
+            <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Nutritional Information</h2>
+            <ul className="list-disc list-inside">
+              {Object.entries(recipe.nutritionalInformation).map(([key, value], index) => (
+                <li key={index} className="text-sm sm:text-base">
+                  <strong>{capitalizeFirstLetter(key)}:</strong> {value}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        
         <div>
           <h2 className="text-xl sm:text-2xl font-semibold mb-2 text-tokyo-cyan">Instructions</h2>
           <Select onValueChange={(value: 'en' | 'sk' | 'ja') => setLanguage(value)}>

@@ -12,6 +12,10 @@ export interface Recipe {
   prepTime: number;
   cookingTime: number;
   instructions: Instruction[];
+  notes?: string;
+  nutritionalInformation?: {
+    [key: string]: string;
+  };
 }
 
 interface Instruction {
