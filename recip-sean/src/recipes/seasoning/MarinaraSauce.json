@@ -1,0 +1,52 @@
+{
+    "id": "keto-seasoning_amys_marinara_sauce_001",
+    "name": "Amy's Marinara Sauce",
+    "ingredients": [
+      "8 ounce can tomato sauce",
+      "1/2 cup water",
+      "2 tablespoons tomato paste",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon garlic powder",
+      "1/2 teaspoon Italian seasoning, or to taste"
+    ],
+    "utensils": [
+      "Small saucepan with lid",
+      "Measuring cups and spoons",
+      "Wooden spoon or whisk for stirring"
+    ],
+    "cookingTime": 60,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Combine all ingredients in a small saucepan: tomato sauce, water, tomato paste, Splenda, garlic powder, and Italian seasoning.",
+        "sk": "V malom hrnci zmiešajte všetky prísady: paradajkovú omáčku, vodu, paradajkový pretlak, Splendu, cesnakový prášok a talianske korenie.",
+        "ja": "小さな鍋に全ての材料を入れます：トマトソース、水、トマトペースト、スプレンダ、ニンニクパウダー、イタリアンシーズニング。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 5,
+        "en": "Bring the mixture to a boil over medium-high heat, stirring occasionally.",
+        "sk": "Priveďte zmes do varu na stredne vysokom ohni, občas premiešajte.",
+        "ja": "中火から強火で時々かき混ぜながら沸騰させます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Reduce heat to low and partially cover the pot with a lid.",
+        "sk": "Znížte teplotu na nízku a čiastočne prikryte hrniec pokrievkou.",
+        "ja": "弱火にし、鍋に蓋を少しずらしてかぶせます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 60,
+        "en": "Simmer the sauce for 1 hour, stirring occasionally.",
+        "sk": "Varte omáčku na miernom ohni 1 hodinu, občas premiešajte.",
+        "ja": "1時間煮込み、時々かき混ぜます。",
+        "primaryIngredient": "sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "Amy's Marinara Sauce is a keto-friendly alternative to traditional marinara sauce. It's low in carbs thanks to the use of Splenda instead of sugar, making it suitable for a ketogenic diet. The combination of tomato sauce and paste provides a rich tomato flavor, while the garlic powder and Italian seasoning add depth and authenticity. For the best keto results, ensure you're using tomato sauce and paste without added sugars. This sauce can be stored in an airtight container in the refrigerator for up to a week, or frozen for longer storage. You can adjust the thickness of the sauce by simmering it for a longer or shorter time. The Italian seasoning can be adjusted to taste, or you can use individual herbs like basil, oregano, and thyme for a more customized flavor. Remember that while this sauce is low in carbs, tomatoes do contain some carbs, so use it in moderation if you're strictly counting carbs. This versatile sauce can be used with zucchini noodles for a keto-friendly pasta dish, as a pizza sauce on a cauliflower crust, or as a dipping sauce for keto-friendly mozzarella sticks."
+  }

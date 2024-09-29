@@ -1,0 +1,52 @@
+{
+    "id": "keto-seasoning_nancys_tartar_sauce_001",
+    "name": "Nancy's Tartar Sauce",
+    "ingredients": [
+      "1/4 cup mayonnaise",
+      "2 tablespoons sugar free sweet pickle relish",
+      "1/4 teaspoon yellow mustard",
+      "1/8 teaspoon onion powder",
+      "1/8-1/4 teaspoon granular Splenda (optional)"
+    ],
+    "utensils": [
+      "Small mixing bowl",
+      "Measuring cups and spoons",
+      "Whisk or fork for mixing",
+      "Storage container"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Measure all ingredients into a small mixing bowl.",
+        "sk": "Odmerajte všetky prísady do malej misky na miešanie.",
+        "ja": "すべての材料を小さなボウルに計量して入れます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "Blend all ingredients together using a whisk or fork until well combined.",
+        "sk": "Zmiešajte všetky prísady pomocou metličky alebo vidličky, až kým sa dobre nespoja.",
+        "ja": "泡立て器やフォークを使って、すべての材料がよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Transfer the sauce to a storage container.",
+        "sk": "Prelejte omáčku do nádoby na skladovanie.",
+        "ja": "ソースを保存容器に移します。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 60,
+        "en": "Chill the sauce well before serving.",
+        "sk": "Pred podávaním omáčku dobre vychlaďte.",
+        "ja": "提供前にソースをよく冷やします。",
+        "primaryIngredient": "sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "Nancy's Tartar Sauce is a keto-friendly condiment that's perfect for serving with fish or as a dipping sauce for keto-friendly vegetables. It's low in carbs thanks to the use of sugar-free sweet pickle relish and optional Splenda for sweetness. The mayonnaise base provides healthy fats, making it an excellent addition to a ketogenic diet. For the best keto results, ensure your mayonnaise is sugar-free and made with keto-friendly oils. This sauce can be stored in an airtight container in the refrigerator for up to a week. The optional Splenda can be adjusted to taste or omitted entirely if you prefer a less sweet tartar sauce. For variety, you could add a small amount of finely chopped fresh herbs like dill or parsley. Remember that while this sauce is low in carbs, it is high in calories due to the mayonnaise, so use it in moderation if you're watching your calorie intake. This versatile sauce can also be used as a spread for keto sandwiches or wraps."
+  }

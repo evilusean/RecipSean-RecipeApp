@@ -1,0 +1,52 @@
+{
+    "id": "keto-seasoning_nancys_cheddar_cheese_sauce_001",
+    "name": "Nancy's Cheddar Cheese Sauce",
+    "ingredients": [
+      "1/2 cup heavy cream",
+      "2 ounces cream cheese, diced",
+      "4 ounces cheddar cheese, shredded",
+      "1/4 teaspoon dry mustard",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "Saucepan",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Cheese grater"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Heat the heavy cream over medium-low heat until warm.",
+        "sk": "Ohrejte smotanu na stredne nízkom ohni, kým nie je teplá.",
+        "ja": "中火から弱火で生クリームを温めます。",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 3,
+        "en": "Add the diced cream cheese and whisk until melted.",
+        "sk": "Pridajte nakrájaný krémový syr a šľahajte, kým sa neroztopí.",
+        "ja": "角切りのクリームチーズを加え、溶けるまで泡立て器で混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 7,
+        "en": "Add the shredded cheddar cheese about 1 tablespoon at a time, letting it melt before whisking in more.",
+        "sk": "Pridávajte strúhaný čedar asi po 1 polievkovej lyžici, nechajte ho roztopiť pred pridaním ďalšieho.",
+        "ja": "シュレッドチェダーチーズを大さじ1杯ずつ加え、溶けてから次を加えます。",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the dry mustard and pepper to taste.",
+        "sk": "Vmiešajte suchú horčicu a korenie podľa chuti.",
+        "ja": "粉マスタードとコショウを好みで加えて混ぜます。",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "Nancy's Cheddar Cheese Sauce is a rich, creamy, and keto-friendly sauce that's perfect for drizzling over vegetables, meat, or using as a dip. It's high in fat and very low in carbs, making it an excellent addition to a ketogenic diet. The combination of heavy cream, cream cheese, and cheddar cheese creates a smooth and flavorful sauce, while the dry mustard adds a subtle tang. For the best keto results, use full-fat cream cheese and a good quality cheddar cheese. This sauce is best served immediately while warm and creamy. If you need to reheat it, do so gently over low heat, stirring constantly to prevent separation. You can customize this sauce by using different types of cheese or adding spices like paprika or garlic powder. Remember that while this sauce is keto-friendly, it is high in calories, so use it in moderation. This versatile sauce can be used as a base for keto-friendly mac and cheese, as a topping for broccoli or cauliflower, or as a dipping sauce for keto-friendly vegetables or pork rinds."
+  }

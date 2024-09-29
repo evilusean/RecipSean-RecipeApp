@@ -1,0 +1,45 @@
+{
+    "id": "keto-seasoning_pumpkin_pie_spice_001",
+    "name": "Pumpkin Pie Spice",
+    "ingredients": [
+      "1 teaspoon cinnamon",
+      "1/2 teaspoon ground ginger",
+      "1/4 teaspoon cloves",
+      "1/4 teaspoon nutmeg",
+      "1/4 teaspoon allspice"
+    ],
+    "utensils": [
+      "Measuring spoons",
+      "Small mixing bowl",
+      "Whisk or fork for mixing",
+      "Airtight jar for storage"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Measure out all the spices into a small mixing bowl.",
+        "sk": "Odmerajte všetky koreniny do malej misky na miešanie.",
+        "ja": "すべてのスパイスを小さなボウルに計量して入れます。",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 1,
+        "en": "Blend all of the ingredients together using a whisk or fork until well combined.",
+        "sk": "Zmiešajte všetky prísady pomocou metličky alebo vidličky, až kým sa dobre nespoja.",
+        "ja": "泡立て器やフォークを使って、すべての材料がよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Transfer the spice blend to an airtight jar for storage.",
+        "sk": "Preložte zmes korenia do vzduchotesnej nádoby na skladovanie.",
+        "ja": "調合したスパイスを密閉容器に移して保存します。",
+        "primaryIngredient": "mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Pumpkin Pie Spice is a versatile, keto-friendly spice blend that adds warm, autumnal flavors to your dishes without adding carbs. It's perfect for seasoning keto-friendly pumpkin desserts, adding to coffee or tea, or sprinkling over roasted vegetables for a fall twist. The blend of cinnamon, ginger, cloves, nutmeg, and allspice provides a complex flavor profile that's sweet, warm, and slightly spicy. This seasoning is ideal for those following a ketogenic diet as it contains no added sugars or carbs. For the best results, use fresh, high-quality spices. This seasoning mix can be stored in an airtight jar in a cool, dry place for up to 6 months. To use, simply add to your recipes as called for, or experiment with adding it to various keto-friendly dishes for a touch of autumn flavor. You can customize this blend by adjusting the ratios of spices to suit your taste preferences. Remember that while this blend is often used in sweet dishes, it can also add depth to savory keto recipes like butternut squash soup or roasted pork."
+  }

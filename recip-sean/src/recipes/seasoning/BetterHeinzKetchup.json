@@ -1,0 +1,65 @@
+{
+    "id": "keto-seasoning_even_better_heinz_ketchup_001",
+    "name": "Even Better \"Heinz\" Ketchup",
+    "ingredients": [
+      "6 ounce can tomato paste",
+      "8 ounce can tomato sauce",
+      "1/4 cup plus 3 tablespoons white vinegar",
+      "1/4 cup water, or enough to get the right consistency",
+      "1/4 cup granular Splenda or equivalent liquid Splenda",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon onion powder",
+      "1/8 teaspoon allspice",
+      "1/8 teaspoon ground cloves",
+      "1/8 teaspoon cinnamon",
+      "1/8 teaspoon garlic powder"
+    ],
+    "utensils": [
+      "Medium saucepan with lid",
+      "Measuring cups and spoons",
+      "Whisk or spoon for mixing",
+      "Storage container"
+    ],
+    "cookingTime": 60,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a medium saucepan, combine all ingredients and mix well.",
+        "sk": "V stredne veľkom hrnci zmiešajte všetky prísady.",
+        "ja": "中サイズの鍋に全ての材料を入れてよく混ぜます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Cover the saucepan with a lid.",
+        "sk": "Prikryte hrniec pokrievkou.",
+        "ja": "鍋に蓋をします。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 60,
+        "en": "Simmer the mixture for 1 hour.",
+        "sk": "Varte zmes na miernom ohni 1 hodinu.",
+        "ja": "混合物を1時間煮込みます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 30,
+        "en": "Remove from heat and let the ketchup cool to room temperature.",
+        "sk": "Odstráňte z ohňa a nechajte kečup vychladnúť na izbovú teplotu.",
+        "ja": "火を止めて、ケチャップを室温まで冷まします。",
+        "primaryIngredient": "ketchup"
+      },
+      {
+        "time": 120,
+        "en": "Chill the ketchup in the refrigerator before serving.",
+        "sk": "Pred podávaním kečup vychlaďte v chladničke.",
+        "ja": "提供前に冷蔵庫で冷やします。",
+        "primaryIngredient": "ketchup"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Even Better \"Heinz\" Ketchup is a keto-friendly alternative to store-bought ketchup. It's low in carbs thanks to the use of Splenda instead of sugar, making it suitable for a ketogenic diet. The combination of tomato paste and sauce provides a rich tomato flavor, while the blend of spices mimics the classic Heinz taste. For the best keto results, ensure you're using tomato paste and sauce without added sugars. The vinegar adds tanginess and acts as a natural preservative. This ketchup can be stored in an airtight container in the refrigerator for up to two weeks. You can adjust the consistency by adding more or less water, and tweak the sweetness by adjusting the amount of Splenda. Remember that while this ketchup is low in carbs, tomatoes do contain some carbs, so use it in moderation if you're strictly counting carbs. This versatile condiment can be used just like regular ketchup - great with bunless burgers, as a dipping sauce for keto-friendly fries, or as an ingredient in other keto recipes."
+  }

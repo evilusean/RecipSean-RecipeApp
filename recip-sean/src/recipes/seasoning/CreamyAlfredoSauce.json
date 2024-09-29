@@ -1,0 +1,63 @@
+{
+    "id": "keto-seasoning_creamy_alfredo_sauce_001",
+    "name": "Creamy Alfredo Sauce",
+    "ingredients": [
+      "8 ounces cream cheese, softened",
+      "3/4 cup heavy cream",
+      "2 ounces freshly grated parmesan cheese (1/2 cup)",
+      "1/4 teaspoon pepper",
+      "Pinch nutmeg",
+      "1/2 teaspoon garlic powder",
+      "Salt, to taste",
+      "Pinch fresh parsley, minced (optional)",
+      "Water (as needed for thinning)"
+    ],
+    "utensils": [
+      "Medium saucepan or nonstick skillet",
+      "Whisk or wooden spoon",
+      "Measuring cups and spoons",
+      "Cheese grater"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a medium saucepan or nonstick skillet, heat the cream cheese on medium-low heat, stirring until melted and smooth.",
+        "sk": "V stredne veľkom hrnci alebo nepriľnavej panvici zahrejte krémový syr na stredne nízkom ohni, miešajte, kým sa neroztopí a nebude hladký.",
+        "ja": "中火から弱火で、中サイズのソースパンまたはノンスティックフライパンでクリームチーズを溶かし、滑らかになるまで混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 3,
+        "en": "Gradually blend in the heavy cream until smooth.",
+        "sk": "Postupne vmiešajte smotanu, až kým zmes nebude hladká.",
+        "ja": "生クリームを少しずつ加えて、滑らかになるまで混ぜます。",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the grated parmesan cheese, pepper, nutmeg, garlic powder, and salt.",
+        "sk": "Vmiešajte nastrúhaný parmezán, čierne korenie, muškátový oriešok, cesnakový prášok a soľ.",
+        "ja": "すりおろしたパルメザンチーズ、コショウ、ナツメグ、ニンニクパウダー、塩を加えて混ぜます。",
+        "primaryIngredient": "cheese and seasonings"
+      },
+      {
+        "time": 5,
+        "en": "Cook and stir over low heat until smooth and creamy, thinning with water until thick but pourable.",
+        "sk": "Varte a miešajte na nízkom ohni, kým zmes nebude hladká a krémová. Zrieďte vodou, až kým nebude hustá, ale ľahko liateľná.",
+        "ja": "弱火で滑らかでクリーミーになるまで調理し、水で適度な濃さに調整します。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "If using, stir in the minced fresh parsley.",
+        "sk": "Ak používate, vmiešajte nasekanú čerstvú petržlenovú vňať.",
+        "ja": "使用する場合は、みじん切りの新鮮なパセリを加えて混ぜます。",
+        "primaryIngredient": "parsley"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Creamy Alfredo Sauce is a rich, indulgent, and keto-friendly sauce that's perfect for topping low-carb pasta alternatives, vegetables, or meat dishes. It's high in fat and very low in carbs, making it an excellent addition to a ketogenic diet. The combination of cream cheese, heavy cream, and parmesan cheese creates a smooth and flavorful sauce, while the garlic powder and nutmeg add depth to the flavor profile. For the best keto results, use full-fat cream cheese and freshly grated parmesan cheese. This sauce is best served immediately while warm and creamy. If you need to reheat it, do so gently over low heat, stirring constantly to prevent separation. You can customize this sauce by adjusting the seasonings to your taste or adding herbs like basil or oregano. Remember that while this sauce is keto-friendly, it is high in calories, so use it in moderation. This versatile sauce can be used as a base for keto-friendly dishes like chicken alfredo with zucchini noodles, as a topping for steamed broccoli or cauliflower, or as a dipping sauce for keto-friendly vegetables or meat."
+  }

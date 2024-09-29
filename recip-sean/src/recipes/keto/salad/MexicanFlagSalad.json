@@ -37,4 +37,39 @@
         "time": 2,
         "en": "Shred the lettuce if not already shredded.",
         "sk": "Ak šalát nie je nasekaný, nasekajte ho.",
-        "ja": "レタスがまだ千切りになっていない場合は、
+        "ja": "レタスがまだ千切りになっていない場合は、千切りにします。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 1,
+        "en": "Arrange the shredded lettuce on a dinner plate.",
+        "sk": "Rozložte nasekaný šalát na tanier.",
+        "ja": "ディナープレートに千切りにしたレタスを敷きます。",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 3,
+        "en": "Slice the grilled chicken breast.",
+        "sk": "Nakrájajte grilované kuracie prsia.",
+        "ja": "グリルしたチキンの胸肉をスライスします。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Arrange the sliced chicken over the lettuce.",
+        "sk": "Rozložte nakrájané kura na šalát.",
+        "ja": "スライスしたチキンをレタスの上に並べます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Top the chicken with guacamole, sour cream, and salsa in 3 separate stripes to represent the Mexican flag.",
+        "sk": "Na kura položte guacamole, kyslú smotanu a salsu v 3 samostatných pruhoch, ktoré predstavujú mexickú vlajku.",
+        "ja": "チキンの上にグアカモレ、サワークリーム、サルサを3つの別々の縞模様で乗せ、メキシコの国旗を表現します。",
+        "primaryIngredient": "toppings"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-salad",
+    "notes": "This Verde, Blanco y Rojo Salad, also known as Mexican Flag Salad, is a colorful and keto-friendly dish that's both visually appealing and delicious. It's high in protein from the chicken breast and provides healthy fats from the guacamole and sour cream. The lettuce base keeps the carb count low. For the best keto results, ensure your taco seasoning and salsa are low in carbs or make your own to control the ingredients. The guacamole adds beneficial fats and nutrients, while the sour cream provides richness. Be mindful of the portion size of salsa, as it can contain some carbs from tomatoes. You can adjust the amounts of guacamole, sour cream, and salsa to fit your specific macronutrient needs. For extra flavor and nutrients, you could add some diced avocado or a sprinkle of cheese. This salad is best assembled just before eating to maintain the crispness of the lettuce and the temperature contrast between the warm chicken and cool toppings."
+  }

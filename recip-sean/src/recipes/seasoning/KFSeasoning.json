@@ -1,0 +1,44 @@
+{
+    "id": "seasoning_kentucky_fried_chicken_001",
+    "name": "Kentucky Fried Chicken Seasoning",
+    "ingredients": [
+      "1 tablespoon paprika",
+      "1 1/2 teaspoons salt",
+      "1 teaspoon onion powder",
+      "1/2 teaspoon celery salt",
+      "1/2 teaspoon sage",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon allspice",
+      "1/2 teaspoon oregano",
+      "1/2 teaspoon chili powder",
+      "1/2 teaspoon pepper",
+      "1/2 teaspoon basil",
+      "1/2 teaspoon marjoram"
+    ],
+    "utensils": [
+      "Measuring spoons",
+      "Small mixing bowl",
+      "Whisk or fork for mixing"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Measure out all the spices and herbs into a small mixing bowl.",
+        "sk": "Odmerajte všetky koreniny a bylinky do malej misky na miešanie.",
+        "ja": "すべてのスパイスとハーブを小さなボウルに計量して入れます。",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 2,
+        "en": "Whisk or stir all ingredients together until well combined.",
+        "sk": "Vyšľahajte alebo premiešajte všetky prísady, až kým sa dobre nespoja.",
+        "ja": "全ての材料がよく混ざるまで泡立て器や箸でかき混ぜます。",
+        "primaryIngredient": "mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Kentucky Fried Chicken Seasoning is a homemade version of the famous KFC spice blend. It's versatile and can be used not only for fried chicken but also for roasted or grilled chicken, as well as other meats or even vegetables. The mix of herbs and spices provides a complex flavor profile that's savory, slightly spicy, and aromatic. For the best results, use fresh, high-quality spices. This seasoning mix can be stored in an airtight container in a cool, dry place for up to 3 months. To use, simply sprinkle or rub onto chicken before cooking. For a more intense flavor, you can mix this seasoning with flour to create a coating for fried chicken. Remember that this recipe is salt-free except for the celery salt, so you may need to add more salt depending on your taste preferences and the dish you're preparing. This seasoning is keto-friendly as it contains no added sugars or carbs."
+  }

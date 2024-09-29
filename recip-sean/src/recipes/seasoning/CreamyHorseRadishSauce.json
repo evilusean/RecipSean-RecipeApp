@@ -1,0 +1,64 @@
+{
+    "id": "keto-seasoning_creamy_horseradish_sauce_001",
+    "name": "Creamy Horseradish Sauce",
+    "ingredients": [
+      "1 cup mayonnaise",
+      "8 teaspoons prepared horseradish",
+      "1 tablespoon white vinegar",
+      "4 teaspoons granulated Splenda or equivalent liquid Splenda",
+      "1/8 teaspoon salt",
+      "1 clove garlic, minced",
+      "1 teaspoon fresh parsley, minced",
+      "1 teaspoon Worcestershire sauce"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Garlic press (optional)",
+      "Knife for mincing",
+      "Storage container"
+    ],
+    "cookingTime": 0,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Mince the garlic clove and fresh parsley.",
+        "sk": "Nasekajte strúčik cesnaku a čerstvú petržlenovú vňať.",
+        "ja": "ニンニクと新鮮なパセリをみじん切りにします。",
+        "primaryIngredient": "garlic and parsley"
+      },
+      {
+        "time": 5,
+        "en": "In a mixing bowl, combine all ingredients: mayonnaise, horseradish, white vinegar, Splenda, salt, minced garlic, minced parsley, and Worcestershire sauce.",
+        "sk": "V miske zmiešajte všetky prísady: majonézu, chren, biely ocot, Splendu, soľ, nasekaný cesnak, nasekanú petržlenovú vňať a Worcesterskú omáčku.",
+        "ja": "ボウルに全ての材料を入れます：マヨネーズ、西洋わさび、白酢、スプレンダ、塩、みじん切りのニンニク、みじん切りのパセリ、ウスターソース。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 3,
+        "en": "Whisk all ingredients together until well combined.",
+        "sk": "Všetky prísady vyšľahajte, až kým sa dobre nespoja.",
+        "ja": "全ての材料がよく混ざるまで泡立て器で混ぜます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Transfer the sauce to a storage container.",
+        "sk": "Prelejte omáčku do nádoby na skladovanie.",
+        "ja": "ソースを保存容器に移します。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 60,
+        "en": "Chill the sauce in the refrigerator to blend flavors before serving.",
+        "sk": "Pred podávaním omáčku vychlaďte v chladničke, aby sa chute spojili.",
+        "ja": "提供前に冷蔵庫で冷やし、味を馴染ませます。",
+        "primaryIngredient": "sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Creamy Horseradish Sauce is a keto-friendly condiment that pairs wonderfully with beef, particularly roast beef or prime rib. It's low in carbs thanks to the use of Splenda instead of sugar, making it suitable for a ketogenic diet. The mayonnaise base provides healthy fats, while the horseradish gives it a spicy kick. For the best keto results, ensure you're using a sugar-free mayonnaise and check that your prepared horseradish doesn't contain added sugars. This sauce can be stored in an airtight container in the refrigerator for up to a week. The flavor will intensify over time, so you might want to make it a day ahead for the best taste. You can adjust the heat level by increasing or decreasing the amount of horseradish. Remember that while this sauce is low in carbs, it is high in calories due to the mayonnaise, so use it in moderation if you're watching your calorie intake. This versatile sauce can also be used as a spread for keto sandwiches or wraps, or as a dip for keto-friendly vegetables."
+  }

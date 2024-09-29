@@ -1,0 +1,53 @@
+{
+    "id": "keto-seasoning_cajun_seasoning_001",
+    "name": "Cajun Seasoning",
+    "ingredients": [
+      "2 tablespoons basil",
+      "2 tablespoons oregano",
+      "2 tablespoons paprika",
+      "3 teaspoons thyme",
+      "2 teaspoons cayenne",
+      "2 teaspoons garlic powder",
+      "2 bay leaves"
+    ],
+    "utensils": [
+      "Measuring spoons",
+      "Food processor",
+      "Airtight container for storage"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Measure out all the spices and herbs.",
+        "sk": "Odmerajte všetky koreniny a bylinky.",
+        "ja": "すべてのスパイスとハーブを計量します。",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 2,
+        "en": "Add all ingredients to a food processor.",
+        "sk": "Pridajte všetky prísady do kuchynského robota.",
+        "ja": "すべての材料をフードプロセッサーに入れます。",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 1,
+        "en": "Grind the spices in the food processor until well combined and finely ground.",
+        "sk": "Pomelte koreniny v kuchynskom robote, až kým sa dobre nespoja a nebudú jemne pomleté.",
+        "ja": "スパイスをよく混ざり、細かく挽かれるまでフードプロセッサーで粉砕します。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Transfer the seasoning blend to an airtight container for storage.",
+        "sk": "Preložte zmes korenia do vzduchotesnej nádoby na skladovanie.",
+        "ja": "調合したシーズニングを密閉容器に移して保存します。",
+        "primaryIngredient": "mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Cajun Seasoning is a flavorful, keto-friendly spice blend that adds a spicy kick to your dishes without adding carbs. It's perfect for seasoning meats, seafood, vegetables, and other keto-friendly foods, bringing the bold flavors of Cajun cuisine to your ketogenic diet. The blend of herbs and spices provides a complex flavor profile that's spicy, aromatic, and slightly earthy. This seasoning is ideal for those following a ketogenic diet as it contains no added sugars or carbs. For the best results, use fresh, high-quality spices. This seasoning mix can be stored in an airtight container in a cool, dry place for up to 3 months. To use, simply sprinkle over your food before or during cooking. The cayenne pepper adds heat to this blend, so adjust the amount used based on your spice preference. You can customize this blend by adjusting the ratios of spices to suit your taste. Remember that while this blend doesn't contain salt, many Cajun dishes are traditionally salty, so you may want to add salt separately when cooking."
+  }

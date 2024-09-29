@@ -1,0 +1,76 @@
+{
+    "id": "keto-seasoning_not_quite_taco_bell_mild_taco_sauce_001",
+    "name": "Not Quite Taco Bell Mild Taco Sauce",
+    "ingredients": [
+      "1 cup water",
+      "2 ounces tomato paste (2 tablespoons plus 1 teaspoon)",
+      "1 tablespoon white vinegar",
+      "1 1/4 teaspoons chili powder",
+      "1/2 teaspoon cumin",
+      "1/2 teaspoon salt",
+      "1/8 teaspoon cayenne",
+      "1/8 teaspoon xanthan gum"
+    ],
+    "utensils": [
+      "Medium saucepan",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Storage container"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "In a medium saucepan, whisk together water, tomato paste, white vinegar, chili powder, cumin, salt, and cayenne.",
+        "sk": "V stredne veľkom hrnci vyšľahajte vodu, paradajkový pretlak, biely ocot, čili prášok, rascu, soľ a kajenské korenie.",
+        "ja": "中サイズの鍋に水、トマトペースト、白酢、チリパウダー、クミン、塩、カイエンペッパーを入れて泡立て器で混ぜます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 2,
+        "en": "Very gradually sprinkle the xanthan gum over the sauce while whisking briskly.",
+        "sk": "Veľmi postupne posypte xantánovú gumu na omáčku za rýchleho šľahania.",
+        "ja": "ソースの上にキサンタンガムを少しずつ振りかけながら、素早く泡立て器で混ぜます。",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 2,
+        "en": "Bring the mixture to a boil over medium-high heat.",
+        "sk": "Priveďte zmes do varu na stredne vysokom ohni.",
+        "ja": "中高温で混合物を沸騰させます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 5,
+        "en": "Reduce heat and simmer for 5 minutes, stirring occasionally.",
+        "sk": "Znížte teplotu a varte 5 minút za občasného miešania.",
+        "ja": "火を弱めて5分間煮込み、時々かき混ぜます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Turn off the heat and cover the saucepan.",
+        "sk": "Vypnite oheň a prikryte hrniec.",
+        "ja": "火を止めて鍋に蓋をします。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 30,
+        "en": "Let the sauce cool to room temperature.",
+        "sk": "Nechajte omáčku vychladnúť na izbovú teplotu.",
+        "ja": "ソースを室温まで冷まします。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Transfer the cooled sauce to a storage container and refrigerate.",
+        "sk": "Prelejte vychladenú omáčku do nádoby na skladovanie a vložte do chladničky.",
+        "ja": "冷めたソースを保存容器に移し、冷蔵庫に入れます。",
+        "primaryIngredient": "sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Not Quite Taco Bell Mild Taco Sauce is a keto-friendly version of the popular fast-food sauce. It's low in carbs thanks to the use of tomato paste instead of ketchup or tomato sauce, and the xanthan gum helps thicken the sauce without adding carbs. This sauce is perfect for adding flavor to your keto tacos, burritos, or as a dipping sauce for keto-friendly chips or vegetables. The blend of spices provides a mild, tangy flavor with just a hint of heat. For the best results, use fresh spices and high-quality tomato paste. This sauce can be stored in an airtight container in the refrigerator for up to 2 weeks. Remember that while this sauce is low in carbs, it still contains some carbs from the tomato paste, so use it in moderation if you're strictly counting carbs. You can adjust the spiciness by increasing or decreasing the amount of cayenne pepper. For a smoother sauce, you can blend it in a food processor or blender after cooling."
+  }

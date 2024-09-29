@@ -1,0 +1,45 @@
+{
+    "id": "keto-seasoning_tartar_sauce_001",
+    "name": "Tartar Sauce",
+    "ingredients": [
+      "1/4 cup mayonnaise",
+      "2 tablespoons dill pickle relish",
+      "1/8 teaspoon celery seed",
+      "Dash pepper",
+      "1/8 teaspoon dill"
+    ],
+    "utensils": [
+      "Small mixing bowl",
+      "Measuring cups and spoons",
+      "Whisk or fork for mixing",
+      "Storage container"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Measure all ingredients into a small mixing bowl.",
+        "sk": "Odmerajte všetky prísady do malej misky na miešanie.",
+        "ja": "すべての材料を小さなボウルに計量して入れます。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "Blend all ingredients together using a whisk or fork until well combined.",
+        "sk": "Zmiešajte všetky prísady pomocou metličky alebo vidličky, až kým sa dobre nespoja.",
+        "ja": "泡立て器やフォークを使って、すべての材料がよく混ざるまで混ぜ合わせます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 1,
+        "en": "Transfer the sauce to a storage container.",
+        "sk": "Prelejte omáčku do nádoby na skladovanie.",
+        "ja": "ソースを保存容器に移します。",
+        "primaryIngredient": "sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-seasoning",
+    "notes": "This Tartar Sauce is a classic keto-friendly condiment that's perfect for serving with fish or as a dipping sauce for keto-friendly vegetables. It's naturally low in carbs, with the mayonnaise providing healthy fats that are ideal for a ketogenic diet. The dill pickle relish adds a tangy crunch, while the celery seed and dill contribute depth of flavor. For the best keto results, ensure your mayonnaise is sugar-free and made with keto-friendly oils. Also, check that your dill pickle relish doesn't contain added sugars. This sauce can be stored in an airtight container in the refrigerator for up to a week. For a smoother texture, you can finely chop the pickle relish before adding it to the mixture. You can adjust the amount of dill to suit your taste preferences. Remember that while this sauce is low in carbs, it is high in calories due to the mayonnaise, so use it in moderation if you're watching your calorie intake. This versatile sauce can also be used as a spread for keto sandwiches or wraps, or as a dressing for keto-friendly coleslaw."
+  }

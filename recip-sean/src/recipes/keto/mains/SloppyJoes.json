@@ -1,0 +1,88 @@
+{
+    "id": "keto-salad_my_favorite_sloppy_joes_001",
+    "name": "My Favorite Sloppy Joes",
+    "ingredients": [
+      "1 pound ground chuck",
+      "1 small onion, chopped (2 1/2 ounces)",
+      "1 clove garlic, minced",
+      "8 ounce can tomato sauce",
+      "1/4 cup granular Splenda or equivalent liquid Splenda",
+      "1/2 teaspoon blackstrap molasses (optional)",
+      "2 tablespoons vinegar",
+      "1 teaspoon mustard",
+      "1 tablespoon Worcestershire sauce",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1/4 teaspoon xanthan gum (optional)"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Can opener"
+    ],
+    "cookingTime": 40,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Chop the onion and mince the garlic.",
+        "sk": "Nasekajte cibuľu a prelisujte cesnak.",
+        "ja": "玉ねぎをみじん切りにし、ニンニクをすりおろします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 10,
+        "en": "In a large skillet, brown the ground chuck along with the chopped onion and minced garlic.",
+        "sk": "Na veľkej panvici opečte mleté mäso spolu s nasekanou cibuľou a prelisovaným cesnakom.",
+        "ja": "大きなフライパンで、挽肉、みじん切りの玉ねぎ、すりおろしたニンニクを一緒に炒めて褐色になるまで調理します。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "Drain the fat from the meat mixture.",
+        "sk": "Zlejte tuk z mäsovej zmesi.",
+        "ja": "肉の混ぜ物から脂を切ります。",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 5,
+        "en": "Add tomato sauce, Splenda, molasses (if using), vinegar, mustard, Worcestershire sauce, salt, and pepper to the skillet.",
+        "sk": "Pridajte do panvice paradajkovú omáčku, Splendu, melasu (ak používate), ocot, horčicu, Worcesterskú omáčku, soľ a korenie.",
+        "ja": "フライパンにトマトソース、スプレンダ、モラセス（使用する場合）、酢、マスタード、ウスターソース、塩、コショウを加えます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Mix all ingredients well.",
+        "sk": "Všetky prísady dobre premiešajte.",
+        "ja": "全ての材料をよく混ぜ合わせます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 30,
+        "en": "Cover the skillet and simmer the mixture for 30 minutes.",
+        "sk": "Prikryte panvicu a varte zmes 30 minút na miernom ohni.",
+        "ja": "フライパンに蓋をして30分間煮込みます。",
+        "primaryIngredient": "mixture"
+      },
+      {
+        "time": 2,
+        "en": "If the sauce is too thin, add xanthan gum to thicken it.",
+        "sk": "Ak je omáčka príliš riedka, pridajte xantánovú gumu na zahustenie.",
+        "ja": "ソースが薄すぎる場合は、キサンタンガムを加えてとろみをつけます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Serve on low carb buns or over chopped lettuce.",
+        "sk": "Podávajte na nízkosacharidových žemliach alebo na nasekanom šaláte.",
+        "ja": "低炭水化物のパンの上か、刻んだレタスの上に盛り付けて提供します。",
+        "primaryIngredient": "mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-mains",
+    "notes": "This keto-friendly version of Sloppy Joes is a delicious and satisfying meal. It's high in protein from the ground chuck and low in carbs thanks to the use of Splenda instead of sugar. The xanthan gum helps thicken the sauce without adding carbs. For the best keto results, serve over chopped lettuce instead of buns. Be mindful of the tomato sauce and onion, as they contain some carbs. The optional blackstrap molasses adds depth of flavor but also a small amount of carbs, so use sparingly if including. This dish reheats well, making it great for meal prep. You can store it in the refrigerator for 3-4 days or freeze for longer storage. For extra nutrition, you could add some finely chopped bell peppers or zucchini to the meat mixture. If you prefer a spicier version, add some red pepper flakes or hot sauce to taste."
+  }
