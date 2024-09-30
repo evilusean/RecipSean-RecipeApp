@@ -2,6 +2,17 @@ import { NextResponse } from 'next/server'
 import { recipes } from '@/utils/recipeUtils'
 import seedrandom from 'seedrandom'
 
+let requestCounter = 0;
+
+function generateSeed(): string {
+  const timestamp = Date.now();
+  const counter = requestCounter++;
+  const randomValue = Math.random();
+  
+  // Combine multiple sources of entropy
+  return `${timestamp}-${counter}-${randomValue}`;
+}
+
 function shuffleArray<T>(array: T[], rng: () => number): T[] {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
@@ -16,8 +27,8 @@ export async function GET() {
     return new NextResponse('No recipes found', { status: 404 })
   }
 
-  // Seed the RNG with the current timestamp
-  const seed = Date.now().toString();
+  // Generate a robust seed
+  const seed = generateSeed();
   const rng = seedrandom(seed);
 
   // Shuffle the entire recipes array
