@@ -1,0 +1,71 @@
+{
+    "id": "stir-fried-basil-chicken",
+    "name": "Stir-Fried Basil Chicken",
+    "ingredients": [
+      "1/4 cup water",
+      "1/4 cup soy sauce",
+      "2 teaspoons green Thai curry paste",
+      "2 teaspoons granular Splenda",
+      "1 3/4 pounds boneless chicken breasts, cut into strips, 3 large breasts",
+      "2 tablespoons oil",
+      "3 green onions, roughly chopped",
+      "3 garlic, minced",
+      "1/4 teaspoon crushed red pepper",
+      "6 cups bok choy, chopped, about 16 ounces or one bunch",
+      "1/2 teaspoon xanthan gum",
+      "1/2 cup loosely packed fresh basil leaves, sliced thin, 1/3 ounce container"
+    ],
+    "utensils": [
+      "Zipper bag",
+      "Wok"
+    ],
+    "cookingTime": 15,
+    "prepTime": 40,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix water, soy sauce, curry paste, and Splenda in a zipper bag; add chicken and marinate 30 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Heat oil in a wok on high heat.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Stir-fry onions, garlic and red pepper about 30 seconds.",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 4,
+        "en": "Add chicken and marinade to the wok and stir-fry 4 minutes or until chicken is not quite cooked through.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 4,
+        "en": "Add bok choy and cook until crisp-tender, about 4 minutes.",
+        "primaryIngredient": "bok choy"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle xanthan gum over the surface, mix in well and cook until sauce has thickened.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 2,
+        "en": "Stir in basil and heat through.",
+        "primaryIngredient": "basil"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "314",
+      "protein": "49g",
+      "carbohydrates": "7g",
+      "fat": "10g"
+    }
+  }

@@ -1,0 +1,99 @@
+{
+    "id": "chandrans-chicken-curry",
+    "name": "Chandran's Chicken Curry",
+    "ingredients": [
+      "2 tablespoons oil",
+      "1 large onion, sliced thin, 5 1/4 ounces",
+      "2 teaspoons garlic, minced",
+      "2 teaspoons fresh ginger, grated",
+      "1 medium tomato, diced, 4 1/2 ounces",
+      "1/2 cup water",
+      "2 pounds boneless chicken thighs, cut in 1\" cubes",
+      "1/2 cup coconut milk",
+      "2 tablespoons fresh cilantro, chopped",
+      "4 teaspoons ground coriander",
+      "1 teaspoon cumin",
+      "1/8 teaspoon turmeric",
+      "1/8-1/4 teaspoon cayenne",
+      "1/8 teaspoon pepper",
+      "1/8 teaspoon cinnamon",
+      "1/8 teaspoon cloves",
+      "1 teaspoon salt",
+      "1/4 teaspoon xanthan gum"
+    ],
+    "utensils": [
+      "Dutch oven or wok",
+      "Small bowl",
+      "Measuring spoons and cups"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Combine spice mixture in a small bowl; set aside.",
+        "sk": "Zmiešajte zmes korenia v malej miske; odložte bokom.",
+        "ja": "小さなボウルにスパイスミックスを入れて混ぜ、脇に置いておきます。",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 7,
+        "en": "Heat oil in Dutch oven or wok. Cook onion over medium heat until browned around edges, about 7 minutes.",
+        "sk": "Rozohrejte olej v liatinovom hrnci alebo woku. Smažte cibuľu na strednom ohni, kým nezhnedne okolo okrajov, asi 7 minút.",
+        "ja": "ダッチオーブンまたは中華鍋で油を熱します。中火で玉ねぎを7分ほど、縁が茶色くなるまで炒めます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Add garlic and ginger; cook 1 minute.",
+        "sk": "Pridajte cesnak a zázvor; varte 1 minútu.",
+        "ja": "ニンニクと生姜を加え、1分間炒めます。",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 1,
+        "en": "Add spice mixture. Cook and stir 1 minute.",
+        "sk": "Pridajte zmes korenia. Varte a miešajte 1 minútu.",
+        "ja": "スパイスミックスを加えます。1分間炒めて混ぜます。",
+        "primaryIngredient": "spice mixture"
+      },
+      {
+        "time": 2,
+        "en": "Add tomato and water. Cook over medium-low heat, stirring constantly, until tomato has softened, about 2 minutes.",
+        "sk": "Pridajte paradajku a vodu. Varte na stredne nízkom ohni, neustále miešajte, kým paradajka nezmäkne, asi 2 minúty.",
+        "ja": "トマトと水を加えます。中低温で絶えずかき混ぜながら、トマトが柔らかくなるまで約2分間調理します。",
+        "primaryIngredient": "tomato"
+      },
+      {
+        "time": 15,
+        "en": "Add chicken and simmer, uncovered, 15 minutes, stirring occasionally.",
+        "sk": "Pridajte kura a varte nezakryté 15 minút, občas premiešajte.",
+        "ja": "鶏肉を加え、蓋をせずに15分間時々かき混ぜながら煮込みます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 15,
+        "en": "Add coconut milk and simmer 15 minutes or until sauce thickens and chicken is done.",
+        "sk": "Pridajte kokosové mlieko a varte 15 minút alebo kým sa omáčka nezahustí a kura nie je hotové.",
+        "ja": "ココナッツミルクを加え、ソースが濃くなり鶏肉が完全に火が通るまで15分間煮込みます。",
+        "primaryIngredient": "coconut milk"
+      },
+      {
+        "time": 1,
+        "en": "Stir in cilantro.",
+        "sk": "Vmiešajte koriander.",
+        "ja": "コリアンダーを加えて混ぜます。",
+        "primaryIngredient": "cilantro"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Do not freeze. Serve over chopped iceberg lettuce or other vegetables, if desired.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "263",
+      "protein": "16g",
+      "carbohydrates": "7g",
+      "fat": "19g"
+    }
+  }

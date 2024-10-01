@@ -1,0 +1,65 @@
+{
+    "id": "fajita-burgers",
+    "name": "Fajita Burgers",
+    "ingredients": [
+      "1 tablespoon oil",
+      "1 each red, yellow and green pepper, cut into 1-inch strips",
+      "1 medium red onion, sliced, 4 ounces",
+      "1 1/2 pounds ground turkey",
+      "2 tablespoons Seasoning for Tacos",
+      "4 slices pepper-jack cheese, about 1/2 ounce each"
+    ],
+    "utensils": [
+      "Wok or large skillet",
+      "Grill or frying pan"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Heat oil in a wok or large skillet over medium-high heat. Sauté peppers and onions until tender-crisp and a little browned on the edges. Season with salt and pepper to taste.",
+        "sk": "Rozohrejte olej vo woku alebo veľkej panvici na stredne vysokom ohni. Opečte papriky a cibuľu, kým nie sú chrumkavé a mierne zhnednuté na okrajoch. Ochuťte soľou a korením podľa chuti.",
+        "ja": "中高温でワックまたは大きなフライパンに油を熱し、ピーマンと玉ねぎを端が少し茶色くなるまでサッと炒めます。塩コショウで味を調えます。",
+        "primaryIngredient": "peppers and onions"
+      },
+      {
+        "time": 5,
+        "en": "Mix taco seasoning into ground turkey then shape the meat into four large patties.",
+        "sk": "Zmiešajte taco korenie s mletým morčacím mäsom a potom vytvarujte mäso do štyroch veľkých fašírok.",
+        "ja": "タコシーズニングを七面鳥のひき肉に混ぜ、4つの大きなパティに成形します。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 10,
+        "en": "Grill or pan-fry patties until done to your liking.",
+        "sk": "Grilujte alebo smažte fašírky, kým nie sú hotové podľa vašej chuti.",
+        "ja": "パティをグリルまたはフライパンで好みの焼き加減になるまで調理します。",
+        "primaryIngredient": "turkey patties"
+      },
+      {
+        "time": 2,
+        "en": "Turn off heat, top each patty with a slice of cheese and let stand a couple minutes until cheese starts to melt.",
+        "sk": "Vypnite oheň, na každú fašírku položte plátok syra a nechajte stáť pár minút, kým sa syr nezačne topiť.",
+        "ja": "火を止め、各パティにチーズを1枚のせ、チーズが溶け始めるまで2〜3分置きます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Spoon peppers and onions over each serving then add toppings of your choice.",
+        "sk": "Naložte papriky a cibuľu na každú porciu a potom pridajte oblohu podľa vášho výberu.",
+        "ja": "各サービングにピーマンと玉ねぎをのせ、お好みのトッピングを加えます。",
+        "primaryIngredient": "peppers and onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. The burgers can be frozen but not the toppings. Optional toppings include salsa, Cilantro Pepita Sauce, guacamole, pickled jalapeños, sour cream, and shredded lettuce. These are not included in the nutritional information.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "458",
+      "protein": "33g",
+      "carbohydrates": "9g",
+      "fat": "32g"
+    }
+  }

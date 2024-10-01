@@ -1,0 +1,77 @@
+{
+    "id": "chicken-parmesan-bake",
+    "name": "Chicken Parmesan Bake",
+    "ingredients": [
+      "1 1/4 pounds chicken tenders, cut into bite-size pieces",
+      "1 egg white",
+      "1 cup pork rind crumbs (about 2 1/2 ounces)",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon garlic powder",
+      "1 teaspoon seasoning salt",
+      "Salt and pepper, to taste",
+      "Oil for frying",
+      "1 batch Amy's Marinara Sauce",
+      "8 ounces whole milk mozzarella cheese, shredded or crumbled",
+      "1/2 cup parmesan cheese (about 1 3/4 ounces)"
+    ],
+    "utensils": [
+      "2 pie plates",
+      "Large skillet",
+      "9x7\" baking dish or similar size pan",
+      "Fork"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Beat egg white in a pie plate until frothy.",
+        "primaryIngredient": "egg white"
+      },
+      {
+        "time": 2,
+        "en": "Mix pork rind crumbs and seasonings in another pie plate.",
+        "primaryIngredient": "pork rind crumbs"
+      },
+      {
+        "time": 5,
+        "en": "Coat chicken pieces in egg white, then in pork rind mixture.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 8,
+        "en": "Fry coated chicken pieces in hot oil until golden brown, about 2 minutes per side.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Arrange fried chicken in a single layer in baking dish.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Pour marinara sauce evenly over chicken.",
+        "primaryIngredient": "marinara sauce"
+      },
+      {
+        "time": 2,
+        "en": "Top with mozzarella cheese, then sprinkle parmesan cheese over everything.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350º for 20-30 minutes until cheese is melted and sauce is bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Amy's Marinara Sauce is assumed to be a separate recipe.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "497",
+      "protein": "62g",
+      "carbohydrates": "7g",
+      "fat": "23g"
+    }
+  }

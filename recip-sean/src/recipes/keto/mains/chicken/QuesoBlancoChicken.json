@@ -1,0 +1,57 @@
+{
+    "id": "queso-blanco-chicken",
+    "name": "Queso Blanco Chicken",
+    "ingredients": [
+      "2 large chicken breasts, cubed (about 1 pound)",
+      "1/2 cup mayonnaise",
+      "3/4 cup parmesan cheese",
+      "8 ounces Monterey jack cheese, shredded, divided",
+      "4 ounce can chopped green chiles",
+      "1/8 teaspoon cumin",
+      "1/8 teaspoon chili powder",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "8x8\" baking dish",
+      "Small bowl"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Arrange chicken cubes in a greased 8x8\" baking dish. Season with salt and pepper.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Combine mayonnaise, parmesan cheese, 2 ounces Monterey jack cheese, green chiles, cumin, and chili powder in a small bowl.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "Spread mixture over the chicken.",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350º for about 30-35 minutes until bubbly, a little browned and the chicken is fully cooked.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 5,
+        "en": "Top with the remaining cheese and bake another 5 minutes until melted.",
+        "primaryIngredient": "Monterey jack cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "608",
+      "protein": "47g",
+      "carbohydrates": "3g",
+      "fat": "45g"
+    }
+  }

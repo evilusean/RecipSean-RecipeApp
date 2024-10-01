@@ -1,0 +1,73 @@
+{
+    "id": "one-pot-chicken-dish",
+    "name": "One Pot Chicken Dish",
+    "ingredients": [
+      "6 slices bacon, roughly chopped",
+      "3 tablespoons bacon grease",
+      "1 pound chicken tenders or boneless breasts cut into strips",
+      "1 teaspoon Spicy Seasoning Salt",
+      "1 cup onion, finely chopped, 4 ounces",
+      "1/4 teaspoon pepper",
+      "2 teaspoons garlic, minced",
+      "8 ounces fresh mushrooms, sliced thin",
+      "1 cup chicken broth",
+      "4-5 green onions, minced, 1/4 cup",
+      "1/2 teaspoon xanthan gum, optional",
+      "Salt, to taste if needed",
+      "2 tablespoons fresh parsley, chopped, optional"
+    ],
+    "utensils": [
+      "Very large skillet",
+      "Slotted spoon",
+      "Paper towels"
+    ],
+    "cookingTime": 25,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Fry bacon until crisp. Remove bacon, keep 3 tablespoons grease in skillet.",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Season chicken with seasoning salt. Cook in skillet until barely done. Remove and keep warm.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Cook onions and pepper in skillet for about 3 minutes until soft.",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 4,
+        "en": "Add garlic and mushrooms. Cook 3-4 minutes until mushrooms are tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 3,
+        "en": "Add broth and bring to a boil.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 3,
+        "en": "Return chicken to pan and heat through. Thicken sauce with xanthan gum if desired.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Add bacon and green onions. Season with salt if necessary. Garnish with parsley if using.",
+        "primaryIngredient": "bacon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze. Prep all ingredients before starting to cook. You can use any seasoning salt you like instead of Spicy Seasoning Salt.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "309",
+      "protein": "33g",
+      "carbohydrates": "6g",
+      "fat": "17g"
+    }
+  }

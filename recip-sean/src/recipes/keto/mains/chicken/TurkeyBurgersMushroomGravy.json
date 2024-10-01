@@ -1,0 +1,79 @@
+{
+    "id": "turkey-burgers-with-mushroom-gravy",
+    "name": "Turkey Burgers with Mushroom Gravy",
+    "ingredients": [
+      "2 tablespoons butter, divided",
+      "1/2 cup celery, finely chopped",
+      "1/2 cup onion, finely chopped (2 ounces)",
+      "19.2 ounces ground turkey, 85/15",
+      "1 egg",
+      "2 tablespoons fresh parsley, chopped, divided",
+      "1/4-1/2 teaspoon poultry seasoning",
+      "Salt and pepper, to taste",
+      "1 tablespoon oil, for frying",
+      "8 ounces fresh mushrooms, sliced",
+      "1/2 teaspoon xanthan gum",
+      "1 1/2 cups chicken broth",
+      "1 tablespoon heavy cream"
+    ],
+    "utensils": [
+      "Large non-stick skillet",
+      "Whisk"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Sauté celery and onion in 1 tablespoon butter until very tender, about 10 minutes.",
+        "sk": "Opečte zeler a cibuľu na 1 lyžici masla, kým nezmäknú, asi 10 minút.",
+        "ja": "セロリと玉ねぎを大さじ1のバターで10分ほど柔らかくなるまで炒めます。",
+        "primaryIngredient": "celery and onion"
+      },
+      {
+        "time": 5,
+        "en": "Combine all burger ingredients except oil and shape into 4 large balls, 5 3/4 ounces each.",
+        "sk": "Zmiešajte všetky ingrediencie na hamburgery okrem oleja a vytvarujte 4 veľké guľky, každá po 163 gramov.",
+        "ja": "油以外のすべてのバーガーの材料を混ぜ、4つの大きな球（各163グラム）に成形します。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 10,
+        "en": "Heat oil in skillet, flatten turkey balls into patties, and fry about 5 minutes per side.",
+        "sk": "Rozohrejte olej na panvici, sploštite morčacie guľky na fašírky a smažte asi 5 minút z každej strany.",
+        "ja": "フライパンで油を熱し、七面鳥の球を平らにしてパティにし、両面5分ずつ焼きます。",
+        "primaryIngredient": "turkey patties"
+      },
+      {
+        "time": 5,
+        "en": "Remove burgers from pan and keep warm. Add 1 tablespoon butter to pan and sauté mushrooms until tender.",
+        "sk": "Vyberte hamburgery z panvice a udržujte ich teplé. Pridajte 1 lyžicu masla do panvice a opečte huby, kým nezmäknú.",
+        "ja": "バーガーを取り出して温めておきます。フライパンに大さじ1のバターを加え、マッシュルームを柔らかくなるまで炒めます。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add broth and cream to mushrooms, bring to simmer. Sprinkle xanthan gum over gravy and whisk well.",
+        "sk": "Pridajte vývar a smotanu k hubám, priveďte do varu. Posypte xantánovou gumou a dobre vyšľahajte.",
+        "ja": "マッシュルームにブロスとクリームを加えて沸騰させます。キサンタンガムをふりかけてよく混ぜます。",
+        "primaryIngredient": "broth and cream"
+      },
+      {
+        "time": 5,
+        "en": "Simmer until gravy thickens. Add parsley and adjust seasoning. Serve gravy over burgers, briefly reheating burgers in gravy.",
+        "sk": "Varte, kým omáčka nezhustne. Pridajte petržlen a upravte korenie. Podávajte omáčku na hamburgeroch, krátko ich prehrejte v omáčke.",
+        "ja": "グレービーが濃くなるまで煮込みます。パセリを加えて味を調整します。バーガーにグレービーをかけ、グレービーで軽く温め直して提供します。",
+        "primaryIngredient": "gravy"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Uses 85/15 ground turkey rather than extra lean.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Serving",
+      "calories": "406",
+      "protein": "25g",
+      "carbohydrates": "4g",
+      "fat": "33g"
+    }
+  }

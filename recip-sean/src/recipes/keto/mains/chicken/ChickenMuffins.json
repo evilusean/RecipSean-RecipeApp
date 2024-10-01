@@ -1,0 +1,47 @@
+{
+    "id": "tasty-chicken-muffins",
+    "name": "Tasty Chicken Muffins",
+    "ingredients": [
+      "12 ounce can chicken, drained and flaked",
+      "2 eggs",
+      "1/4 cup celery, minced, 1 small stalk",
+      "1 teaspoon dry minced onion",
+      "1/4 teaspoon pepper",
+      "1/2 teaspoon chicken seasoning",
+      "2 tablespoons pimiento, minced, optional",
+      "2 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "6-cup muffin tin"
+    ],
+    "cookingTime": 35,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix all ingredients well in a medium bowl.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Spoon mixture into 6 well-greased muffin cups.",
+        "primaryIngredient": "chicken mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350º for 30-35 minutes, until set and lightly browned.",
+        "primaryIngredient": "muffins"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 muffins. Can be frozen. Chicken seasoning can be substituted with 1/4 teaspoon poultry seasoning and 1/4 teaspoon salt.",
+    "nutritionalInformation": {
+      "amount": "Per Muffin",
+      "calories": "160",
+      "protein": "17g",
+      "carbohydrates": "1g",
+      "fat": "9g"
+    }
+  }

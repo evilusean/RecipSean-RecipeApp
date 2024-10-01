@@ -1,0 +1,52 @@
+{
+    "id": "cajun-chicken-stir-fry",
+    "name": "Cajun Chicken Stir-Fry",
+    "ingredients": [
+      "2 boneless chicken breasts, cut into strips",
+      "1 teaspoon Spicy Seasoning Salt",
+      "1 large red bell pepper, cut into strips, 6 ounces",
+      "1 small onion, slivered, 2 1/2 ounces",
+      "1 clove garlic, minced",
+      "Oil",
+      "Butter",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Large skillet"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Put raw chicken in a small bowl and toss with seasoning to coat.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Heat oil and butter in a large skillet on medium-high.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 10,
+        "en": "Sauté chicken, peppers, onion and garlic until chicken is cooked through and peppers are crisp-tender.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 2-4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per 1/2 Recipe",
+      "calories": "220",
+      "protein": "29g",
+      "carbohydrates": "9g",
+      "fat": "8g"
+    }
+  }

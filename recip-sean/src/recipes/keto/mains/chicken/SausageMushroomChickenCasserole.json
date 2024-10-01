@@ -1,0 +1,74 @@
+{
+    "id": "dotties-sausage-mushroom-cream-cheese-chicken-casserole",
+    "name": "Dottie's Sausage, Mushroom and Cream Cheese Chicken Casserole",
+    "ingredients": [
+      "8 boneless chicken breasts, flattened",
+      "Salt, pepper and garlic powder, to taste",
+      "1/4 cup olive oil",
+      "1 pound pork sausage",
+      "1 stalk celery, chopped",
+      "8 ounces cream cheese, softened",
+      "8 ounces cheddar cheese, shredded, divided",
+      "1 pound fresh mushrooms, sliced",
+      "1/4 cup fresh parsley, chopped"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Large skillet",
+      "Mixing bowl"
+    ],
+    "cookingTime": 45,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Season chicken; brown in hot oil. Set aside.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Brown sausage and celery; drain and cool slightly.",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 2,
+        "en": "Preheat oven to 350º. Spray a 9x13\" baking pan and put mushrooms in the bottom.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Mix sausage, cream cheese, 4 ounces cheddar cheese and parsley in a bowl.",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 3,
+        "en": "Spoon mixture over mushrooms and smooth. Place chicken on top.",
+        "primaryIngredient": "sausage mixture"
+      },
+      {
+        "time": 30,
+        "en": "Cover and bake for 30 minutes.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 1,
+        "en": "Remove cover; top with remaining cheese.",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 15,
+        "en": "Bake 15 minutes until cheese is melted and browned and chicken is cooked.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Do not freeze. To serve, put chicken on a plate cheese side up; spoon mushroom mixture over the top.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "599",
+      "protein": "49g",
+      "carbohydrates": "4g",
+      "fat": "43g"
+    }
+  }

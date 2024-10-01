@@ -1,0 +1,67 @@
+{
+    "id": "chicken-chow-mein-with-almonds",
+    "name": "Chicken Chow Mein with Almonds",
+    "ingredients": [
+      "2 tablespoons oil",
+      "1/2 medium onion, sliced in thick slices, 1 3/4 ounces",
+      "4 cups napa cabbage, sliced coarsely, 1 small head or about 1 pound",
+      "1 cup celery, slice diagonally, 2 stalks",
+      "3 cloves garlic, minced",
+      "1/2 teaspoon granular Splenda",
+      "1 cup chicken broth",
+      "1/4 cup water, optional",
+      "2 tablespoons soy sauce",
+      "2 teaspoons sesame oil",
+      "4 cups diced cooked chicken",
+      "1/4 cup slivered almonds, lightly toasted, about 1 ounce",
+      "1 small can straw mushrooms, optional",
+      "Xanthan gum to thicken the sauce, optional"
+    ],
+    "utensils": [
+      "Very large skillet or wok"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Heat oil in skillet on medium-high. Cook onion, cabbage, celery and garlic until cabbage is wilted, 3 minutes.",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 1,
+        "en": "Add Splenda, broth, water, soy sauce and sesame oil.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 3,
+        "en": "Simmer for 3 minutes.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 2,
+        "en": "Stir in chicken and mushrooms (if using) and heat through.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Lightly sprinkle xanthan gum over sauce, stir in and cook until thickened.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with almonds before serving.",
+        "primaryIngredient": "almonds"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Freezing not recommended. Straw mushrooms are optional and not included in carb count.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "301",
+      "protein": "31g",
+      "carbohydrates": "9g",
+      "fat": "16g"
+    }
+  }

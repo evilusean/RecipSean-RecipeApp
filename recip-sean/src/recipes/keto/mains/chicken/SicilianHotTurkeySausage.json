@@ -1,0 +1,53 @@
+{
+    "id": "sicilian-style-hot-turkey-sausage",
+    "name": "Sicilian Style Hot Turkey Sausage",
+    "ingredients": [
+      "1 pound ground turkey or pork",
+      "1/2 teaspoon fennel seed, crushed",
+      "1/2 teaspoon ground fennel",
+      "1/2 teaspoon red pepper flakes",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon granular Splenda"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Skillet"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Combine the ground turkey or pork with all the remaining ingredients in a mixing bowl.",
+        "sk": "V miske zmiešajte mleté morčacie mäso alebo bravčovinu so všetkými zvyšnými ingredienciami.",
+        "ja": "ボウルに七面鳥または豚のひき肉と残りの全ての材料を入れて混ぜ合わせます。",
+        "primaryIngredient": "ground turkey or pork"
+      },
+      {
+        "time": 10,
+        "en": "Brown the mixture in a skillet over medium heat.",
+        "sk": "Opečte zmes na panvici na strednom ohni do hneda.",
+        "ja": "中火のフライパンで混ぜ合わせた材料を炒めて茶色くなるまで調理します。",
+        "primaryIngredient": "seasoned meat mixture"
+      },
+      {
+        "time": 1,
+        "en": "Drain any excess grease from the skillet.",
+        "sk": "Zlejte prebytočný tuk z panvice.",
+        "ja": "余分な脂があれば取り除きます。",
+        "primaryIngredient": "cooked sausage"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes enough to top 2-3 pizzas. The sausage will be a little dryer than commercial Italian sausage but has good flavor. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Recipe",
+      "calories": "976",
+      "protein": "81g",
+      "carbohydrates": "3g",
+      "fat": "68g"
+    }
+  }

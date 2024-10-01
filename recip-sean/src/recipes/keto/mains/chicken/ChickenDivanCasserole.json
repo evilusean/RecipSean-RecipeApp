@@ -1,0 +1,71 @@
+{
+    "id": "josies-chicken-divan-casserole",
+    "name": "Josie's Chicken Divan Casserole",
+    "ingredients": [
+      "3 cups diced cooked chicken",
+      "16 ounces fresh broccoli, cut up, 1 bunch",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 tablespoon butter",
+      "1/2 cup mayonnaise",
+      "1/2 cup sour cream",
+      "1/4 cup chicken broth from bouillon, make it extra strong",
+      "1/2 teaspoon curry powder",
+      "Salt and pepper, to taste",
+      "4 ounces cheddar cheese, shredded",
+      "6 strips bacon, fried until crisp, crumbled"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Sauté pan",
+      "Mixing bowl"
+    ],
+    "cookingTime": 35,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cook broccoli until slightly underdone; drain well.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Sauté mushrooms in butter until not quite tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 3,
+        "en": "Arrange chicken, broccoli and mushrooms in a greased 9x13\" pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Mix mayonnaise, sour cream, broth and seasonings; pour over the chicken.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "Top with cheese and bacon.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350° for 20-25 minutes.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Do not freeze. Consider omitting the broth and using dry bouillon granules instead for a thicker sauce.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "467",
+      "protein": "31g",
+      "carbohydrates": "7g",
+      "fat": "36g"
+    }
+  }

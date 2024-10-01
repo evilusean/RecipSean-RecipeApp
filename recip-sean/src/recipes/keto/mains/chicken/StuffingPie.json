@@ -1,0 +1,70 @@
+{
+    "id": "stuffing-pie",
+    "name": "Stuffing Pie",
+    "ingredients": [
+      "20 ounces ground turkey",
+      "1 pound pork sausage",
+      "1/2 pound fresh mushrooms, chopped",
+      "2 ounces onion, chopped (about 1/2 medium)",
+      "1 stalk celery, chopped",
+      "8 ounces Monterey jack cheese, shredded",
+      "4 eggs",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper"
+    ],
+    "utensils": [
+      "Large skillet",
+      "10-inch pie plate or 8x8\"/11x7\" baking dish",
+      "Mixing bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground turkey, sausage, mushrooms, onion and celery in a large skillet; drain well.",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 2,
+        "en": "Place meat mixture in a greased 10-inch pie plate or appropriate baking dish.",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 2,
+        "en": "Mix in the shredded cheese.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "In a bowl, beat eggs, cream, salt, and pepper.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Pour egg mixture evenly over the meat mixture.",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350º for 35-40 minutes until set in the center and nicely browned.",
+        "primaryIngredient": "pie"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "primaryIngredient": "pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. Mushrooms can be omitted to save money, but they enhance the flavor.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe (with mushrooms)",
+      "calories": "696",
+      "protein": "44g",
+      "carbohydrates": "4g",
+      "fat": "57g"
+    }
+  }

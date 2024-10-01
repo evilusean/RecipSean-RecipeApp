@@ -1,0 +1,73 @@
+{
+    "id": "green-enchilada-turkey-skillet-dinner",
+    "name": "Green \"Enchilada\" Turkey Skillet Dinner",
+    "ingredients": [
+      "20 ounces ground turkey",
+      "2 teaspoons taco seasoning",
+      "4 ounce can chopped green chiles",
+      "4 ounces cream cheese, softened",
+      "7 ounce can green Mexican salsa",
+      "2 green onions, chopped",
+      "Salt, to taste",
+      "4 ounces Monterey jack cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet or wok"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a large skillet or wok, brown the meat; drain off any excess grease.",
+        "sk": "Vo veľkej panvici alebo woku opečte mäso do hneda; zlejte prebytočný tuk.",
+        "ja": "大きなフライパンまたはワックで肉を炒めて茶色くし、余分な脂を切ります。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the seasoning and chiles.",
+        "sk": "Primiešajte korenie a čili.",
+        "ja": "シーズニングとチリを加えて混ぜます。",
+        "primaryIngredient": "seasoning and chiles"
+      },
+      {
+        "time": 3,
+        "en": "Add the cream cheese in spoonfuls and blend into the meat well.",
+        "sk": "Pridajte po lyžiciach krémový syr a dobre ho vmiešajte do mäsa.",
+        "ja": "クリームチーズをスプーンで少しずつ加え、肉とよく混ぜ合わせます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the salsa and green onions; adjust the seasoning with salt.",
+        "sk": "Vmiešajte salsu a jarnú cibuľku; dochuťte soľou.",
+        "ja": "サルサとねぎを加えて混ぜ、塩で味を調えます。",
+        "primaryIngredient": "salsa and green onions"
+      },
+      {
+        "time": 2,
+        "en": "Simmer a minute or two until the sauce is bubbly.",
+        "sk": "Varte na miernom ohni minútu alebo dve, kým omáčka nezačne bublať.",
+        "ja": "ソースがぶくぶくするまで1〜2分煮込みます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Add the Monterey jack cheese; cook and stir until the cheese melts.",
+        "sk": "Pridajte syr Monterey jack; varte a miešajte, kým sa syr neroztopí.",
+        "ja": "モントレージャックチーズを加え、チーズが溶けるまで調理して混ぜます。",
+        "primaryIngredient": "Monterey jack cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "523",
+      "protein": "35g",
+      "carbohydrates": "4g",
+      "fat": "40g"
+    }
+  }

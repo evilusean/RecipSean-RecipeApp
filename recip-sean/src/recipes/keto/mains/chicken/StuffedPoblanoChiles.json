@@ -1,0 +1,69 @@
+{
+    "id": "stuffed-poblano-chiles",
+    "name": "Stuffed Poblano Chiles",
+    "ingredients": [
+      "3 poblano chiles, roasted",
+      "1 pound ground turkey",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "1 clove garlic, minced",
+      "1/2 cup salsa",
+      "1 Roma tomato, diced",
+      "1 tablespoon chili powder",
+      "Salt and pepper, to taste",
+      "8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Baking dish",
+      "Skillet",
+      "Knife"
+    ],
+    "cookingTime": 20,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cool roasted poblano chiles, then peel. Carefully remove stems and seeds or cut lengthwise and scrape out seeds and membranes.",
+        "sk": "Vychlaďte opečené papričky poblano, potom ich olúpte. Opatrne odstráňte stopky a semienka alebo rozrežte pozdĺžne a vyškrabte semienka a blany.",
+        "ja": "焼いたポブラノチリを冷まし、皮をむきます。注意深く茎と種を取り除くか、縦に切って種と膜をかき出します。",
+        "primaryIngredient": "poblano chiles"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground turkey, onion, and garlic in a skillet; drain off any grease.",
+        "sk": "Na panvici opečte mleté morčacie mäso, cibuľu a cesnak; zlejte prebytočný tuk.",
+        "ja": "フライパンで七面鳥のひき肉、玉ねぎ、ニンニクを炒めて茶色くし、余分な脂を切ります。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 5,
+        "en": "Stir in salsa, tomato, chili powder, and half of the cheese. Season with salt and pepper.",
+        "sk": "Primiešajte salsu, paradajku, čili prášok a polovicu syra. Ochuťte soľou a korením.",
+        "ja": "サルサ、トマト、チリパウダー、チーズの半分を加えて混ぜます。塩コショウで味を調えます。",
+        "primaryIngredient": "salsa and spices"
+      },
+      {
+        "time": 10,
+        "en": "Fill chiles with meat mixture. Place in baking dish and top with remaining cheese.",
+        "sk": "Naplňte papričky mäsovou zmesou. Vložte do zapekacej misy a posypte zvyšným syrom.",
+        "ja": "チリにひき肉の混ぜ物を詰めます。ベーキング皿に置き、残りのチーズをのせます。",
+        "primaryIngredient": "stuffed chiles"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350ºF for 15-20 minutes until cheese is melted and bubbly.",
+        "sk": "Pečte pri 175°C 15-20 minút, kým sa syr neroztopí a nezačne bublať.",
+        "ja": "350°F（175°C）のオーブンで15〜20分、チーズが溶けて泡立つまで焼きます。",
+        "primaryIngredient": "stuffed chiles"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3-6 servings. Can be frozen. Ground beef or pork can be used instead of turkey if desired.",
+    "nutritionalInformation": {
+      "amount": "Per 1/3 Recipe",
+      "calories": "694",
+      "protein": "49g",
+      "carbohydrates": "17g",
+      "fat": "49g"
+    }
+  }

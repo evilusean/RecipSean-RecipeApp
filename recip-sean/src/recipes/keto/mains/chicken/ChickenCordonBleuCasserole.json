@@ -1,0 +1,60 @@
+{
+    "id": "chicken-cordon-bleu-casserole",
+    "name": "Chicken Cordon Bleu Casserole",
+    "ingredients": [
+      "1 pound boneless chicken breasts or tenders, cut into bite-size pieces",
+      "12 ounces ham, cut into cubes",
+      "6 ounces Swiss cheese, shredded",
+      "Salt and pepper, to taste",
+      "8 ounces cream cheese, softened",
+      "1/2 cup heavy cream",
+      "1 clove garlic, minced",
+      "1/8 teaspoon freshly ground pepper",
+      "1/8 teaspoon dill",
+      "2 teaspoons chives",
+      "1 tablespoon fresh parsley, chopped"
+    ],
+    "utensils": [
+      "12x7\" baking dish",
+      "Medium bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Put chicken, ham and cheese in a greased 12x7\" baking dish. Season with salt and pepper.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Blend heavy cream into cream cheese until smooth. Stir in garlic, pepper, dill, chives and parsley.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Pour cream cheese mixture over meat and cheese. Stir everything together.",
+        "primaryIngredient": "cream cheese mixture"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350º for about 40 minutes until bubbly and chicken is fully cooked.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 10,
+        "en": "Let stand about 10 minutes before serving to allow liquid to soak back into the sauce.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 4-6 servings. Chicken can be added raw or pre-cooked. If using pre-cooked chicken, reduce baking time to 20-30 minutes.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "754",
+      "protein": "60g",
+      "carbohydrates": "4g",
+      "fat": "55g"
+    }
+  }

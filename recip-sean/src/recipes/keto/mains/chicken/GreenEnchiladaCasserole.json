@@ -1,0 +1,68 @@
+{
+    "id": "green-enchilada-chicken-casserole",
+    "name": "Green \"Enchilada\" Chicken Casserole",
+    "ingredients": [
+      "4 cups cubed cooked chicken or turkey",
+      "2 teaspoons Seasoning for Tacos",
+      "8 ounces cream cheese",
+      "1 tablespoon minced chives, optional",
+      "7 ounce can Green Mexican Salsa",
+      "4 ounce can chopped green chiles",
+      "6 ounces Monterey jack cheese, shredded",
+      "4 green onions, chopped"
+    ],
+    "utensils": [
+      "11x7\" baking pan",
+      "Medium bowl",
+      "Whisk"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Grease an 11x7\" baking pan. Put chicken in the pan and toss with taco seasoning to coat.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Soften cream cheese and whisk well with chives and green salsa in a medium bowl.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 1,
+        "en": "Stir chopped green chiles into the cream cheese mixture.",
+        "primaryIngredient": "green chiles"
+      },
+      {
+        "time": 2,
+        "en": "Pour sauce evenly over chicken. (Optional: mix it in)",
+        "primaryIngredient": "cream cheese mixture"
+      },
+      {
+        "time": 1,
+        "en": "Top with shredded Monterey jack cheese.",
+        "primaryIngredient": "Monterey jack cheese"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350º for 25 minutes, until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 1,
+        "en": "Remove from oven and immediately sprinkle with chopped green onions.",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Do not freeze. Seasoning for Tacos is assumed to be a separate recipe.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 recipe",
+      "calories": "432",
+      "protein": "38g",
+      "carbohydrates": "5g",
+      "fat": "29g"
+    }
+  }

@@ -1,0 +1,71 @@
+{
+    "id": "chicken-and-stuffing-quiche",
+    "name": "Chicken and Stuffing Quiche",
+    "ingredients": [
+      "2 cups diced cooked chicken",
+      "1 pound pork sausage",
+      "1/4 pound mushrooms, sliced",
+      "2 tablespoons chopped onion",
+      "1 stalk celery, chopped",
+      "8 ounces Monterey jack cheese, shredded",
+      "4 eggs",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1 tablespoon fresh parsley, minced, optional"
+    ],
+    "utensils": [
+      "9 1/2-10\" pie plate or 8x8\"/11x7\" baking pan",
+      "Skillet",
+      "Mixing bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown sausage with mushrooms, onion and celery; drain well.",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 3,
+        "en": "Place sausage mixture in greased pie plate or baking pan.",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 2,
+        "en": "Mix in chicken and cheese.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, cream, seasonings and parsley (if using).",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Pour egg mixture evenly over the meat mixture.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350º for 35-40 minutes until set in the center and nicely browned.",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "primaryIngredient": "quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. Use a 9 1/2-10\" pie plate or it may overflow. An 8x8\" or 11x7\" baking pan can be used as an alternative.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "598",
+      "protein": "43g",
+      "carbohydrates": "3g",
+      "fat": "46g"
+    }
+  }

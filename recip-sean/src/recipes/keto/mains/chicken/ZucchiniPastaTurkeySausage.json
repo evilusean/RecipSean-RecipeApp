@@ -1,0 +1,74 @@
+{
+    "id": "sicilian-style-hot-turkey-sausage-with-zucchini-pasta",
+    "name": "Sicilian Style Hot Turkey Sausage with Zucchini Pasta",
+    "ingredients": [
+      "1 pound ground turkey or pork",
+      "1/2 teaspoon fennel seed, crushed",
+      "1/2 teaspoon ground fennel",
+      "1/2 teaspoon red pepper flakes",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon granular Splenda",
+      "1 clove garlic, minced",
+      "14.5 ounce can diced tomatoes, drained",
+      "1 teaspoon Italian seasoning",
+      "2 medium zucchini, julienned, about 1 1/4 pound before trimming",
+      "Salt and pepper, to taste",
+      "Pinch fresh basil, optional",
+      "1/2 cup freshly grated parmesan cheese, 2 ounces"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Grater"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix ground meat with fennel seed, ground fennel, red pepper flakes, salt, pepper, garlic powder, and Splenda to make the sausage.",
+        "sk": "Zmiešajte mleté mäso s feniklom, mletým feniklom, čili vločkami, soľou, korením, cesnakovým práškom a Splendou na prípravu klobásy.",
+        "ja": "挽肉にフェンネルシード、粉フェンネル、唐辛子フレーク、塩、コショウ、ニンニクパウダー、スプレンダを混ぜてソーセージを作ります。",
+        "primaryIngredient": "ground turkey or pork"
+      },
+      {
+        "time": 10,
+        "en": "Brown the sausage with minced garlic in a large skillet; drain excess grease.",
+        "sk": "Opečte klobásu s nasekaným cesnakom na veľkej panvici; zlejte prebytočný tuk.",
+        "ja": "大きなフライパンでソーセージとみじん切りのニンニクを炒めて、余分な脂を切ります。",
+        "primaryIngredient": "sausage mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add drained tomatoes and Italian seasoning. Simmer uncovered for a few minutes.",
+        "sk": "Pridajte scedené paradajky a talianske korenie. Varte nezakryté niekoľko minút.",
+        "ja": "水気を切ったトマトとイタリアンシーズニングを加え、蓋をせずに数分煮込みます。",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 5,
+        "en": "Add julienned zucchini and cook until tender but not mushy. Season with salt and pepper.",
+        "sk": "Pridajte nakrájanú cuketu a varte, kým nezmäkne, ale nie na kašu. Ochuťte soľou a korením.",
+        "ja": "千切りにしたズッキーニを加え、柔らかくなるまで（ただし煮崩れないように）調理します。塩コショウで味を調えます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle with fresh basil (if using) and parmesan cheese before serving.",
+        "sk": "Pred podávaním posypte čerstvou bazalkou (ak používate) a parmezánom.",
+        "ja": "提供前に新鮮なバジル（使用する場合）とパルメザンチーズをふりかけます。",
+        "primaryIngredient": "basil and cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "369",
+      "protein": "28g",
+      "carbohydrates": "8g",
+      "fat": "25g"
+    }
+  }

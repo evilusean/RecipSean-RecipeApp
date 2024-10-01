@@ -1,0 +1,61 @@
+{
+    "id": "cincinnati-style-turkey-chili",
+    "name": "Cincinnati-Style Turkey Chili",
+    "ingredients": [
+      "2 pounds ground turkey or ground beef",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "3 cloves garlic, minced",
+      "2 14.5 ounce cans diced tomatoes",
+      "2 tablespoons cocoa",
+      "2 tablespoons chili powder",
+      "1 teaspoon salt",
+      "1 teaspoon crushed red pepper",
+      "1 teaspoon oregano",
+      "1 teaspoon cumin"
+    ],
+    "utensils": [
+      "4-quart Dutch oven"
+    ],
+    "cookingTime": 70,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the turkey with the onion and garlic in a 4-quart Dutch oven; drain the fat.",
+        "sk": "Opečte morčacie mäso s cibuľou a cesnakom v 4-litrovom liatinovom hrnci; zlejte tuk.",
+        "ja": "4クォートのダッチオーブンで七面鳥のひき肉、玉ねぎ、ニンニクを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 5,
+        "en": "Stir in the remaining ingredients; bring to a boil.",
+        "sk": "Primiešajte zvyšné ingrediencie; priveďte do varu.",
+        "ja": "残りの材料を加えてかき混ぜ、沸騰させます。",
+        "primaryIngredient": "tomatoes and spices"
+      },
+      {
+        "time": 60,
+        "en": "Cover and simmer 1 hour.",
+        "sk": "Prikryte a varte na miernom ohni 1 hodinu.",
+        "ja": "蓋をして1時間煮込みます。",
+        "primaryIngredient": "chili"
+      },
+      {
+        "time": 1,
+        "en": "Serve over low carb pasta or just top with cheese and chopped onions, if desired.",
+        "sk": "Podávajte na nízkosacharidových cestovinách alebo len posypte syrom a nasekanou cibuľou, ak chcete.",
+        "ja": "お好みで低炭水化物パスタの上に盛り付けるか、チーズと刻んだ玉ねぎをトッピングして提供します。",
+        "primaryIngredient": "chili"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Can be frozen. Optional toppings of low carb spaghetti, shredded cheddar cheese, and chopped onion are not included in nutritional counts.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "272",
+      "protein": "29g",
+      "carbohydrates": "10g",
+      "fat": "13g"
+    }
+  }

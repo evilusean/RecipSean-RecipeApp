@@ -1,0 +1,68 @@
+{
+    "id": "tasty-turkey-muffins",
+    "name": "Tasty Turkey Muffins",
+    "ingredients": [
+      "1 pound ground turkey",
+      "1 stalk celery, minced",
+      "1/3 cup shallots or onion, minced, 1 1/2 ounces",
+      "2 ounces cheddar cheese, shredded",
+      "2 eggs",
+      "1/4 cup heavy cream",
+      "1/4 teaspoon pepper",
+      "1/4 teaspoon chicken seasoning"
+    ],
+    "utensils": [
+      "Skillet",
+      "Muffin tin",
+      "Mixing bowl"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the turkey with celery, onion, and a little salt and pepper until celery is tender; drain off any grease.",
+        "sk": "Opečte morku s zelerom, cibuľou a trochou soli a korenia, kým zeler nezmäkne; zlejte prebytočný tuk.",
+        "ja": "七面鳥のひき肉をセロリ、玉ねぎ、少量の塩コショウと一緒にセロリが柔らかくなるまで炒めます。余分な脂は切ります。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 5,
+        "en": "Beat the eggs, cream, pepper, and chicken seasoning in a mixing bowl.",
+        "sk": "V miske vyšľahajte vajcia, smotanu, korenie a kuracie korenie.",
+        "ja": "ボウルで卵、生クリーム、コショウ、チキンシーズニングを混ぜ合わせます。",
+        "primaryIngredient": "eggs and cream"
+      },
+      {
+        "time": 5,
+        "en": "Divide the turkey mixture among 6 well-greased muffin cups. Top with cheese.",
+        "sk": "Rozdeľte morčaciu zmes do 6 dobre vymastených muffinových formičiek. Posypte syrom.",
+        "ja": "七面鳥の混ぜ物を6つのよく油を塗ったマフィン型に分け入れます。チーズをのせます。",
+        "primaryIngredient": "turkey mixture"
+      },
+      {
+        "time": 2,
+        "en": "Slowly pour the egg mixture evenly over each muffin cup.",
+        "sk": "Pomaly nalejte vaječnú zmes rovnomerne na každú muffinovú formičku.",
+        "ja": "卵の混ぜ物をゆっくりと各マフィン型に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350ºF for 20-25 minutes, until set and lightly browned.",
+        "sk": "Pečte pri 175°C 20-25 minút, kým sa neustália a mierne nezhnednú.",
+        "ja": "350°F（175°C）のオーブンで20〜25分、固まって軽く茶色くなるまで焼きます。",
+        "primaryIngredient": "turkey muffins"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 muffins. Can be frozen. If chicken seasoning is unavailable, use 1/4 teaspoon poultry seasoning and 1/4 teaspoon salt.",
+    "nutritionalInformation": {
+      "amount": "Per serving",
+      "calories": "261",
+      "protein": "18g",
+      "carbohydrates": "1g",
+      "fat": "20g"
+    }
+  }

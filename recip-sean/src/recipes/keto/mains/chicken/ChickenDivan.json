@@ -1,0 +1,86 @@
+{
+    "id": "chicken-divan",
+    "name": "Chicken Divan",
+    "ingredients": [
+      "3-4 cups diced cooked chicken",
+      "16 ounces frozen broccoli florets",
+      "4 ounce can mushrooms, drained",
+      "8 ounces cheddar cheese, shredded",
+      "3 ounces fresh mushrooms, minced",
+      "1 stalk celery, minced",
+      "2 tablespoons onion, finely chopped",
+      "2 tablespoons butter",
+      "1 cup chicken broth",
+      "1 cup heavy cream",
+      "1/2-1 teaspoon xanthan gum, optional",
+      "Salt, to taste",
+      "1/4 teaspoon pepper",
+      "1/4 cup mayonnaise",
+      "1/8 teaspoon curry powder"
+    ],
+    "utensils": [
+      "Large non-stick skillet",
+      "9x13\" glass baking dish",
+      "Whisk",
+      "Foil"
+    ],
+    "cookingTime": 50,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Cook broccoli according to package directions for 7-8 minutes; drain.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Sauté fresh mushrooms, celery and onion in butter until soft and lightly browned. Season with salt and pepper.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add broth; bring to a boil and reduce by half.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 5,
+        "en": "Add cream and xanthan gum (if using). Simmer on medium heat until thickened.",
+        "primaryIngredient": "heavy cream"
+      },
+      {
+        "time": 2,
+        "en": "Gradually whisk in mayonnaise until well blended. Stir in curry powder.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 5,
+        "en": "In greased baking dish, mix chicken, broccoli, canned mushrooms, and cheese. Season to taste.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Pour in mushroom sauce and mix well.",
+        "primaryIngredient": "mushroom sauce"
+      },
+      {
+        "time": 30,
+        "en": "Cover with foil and bake at 350° for 30 minutes.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 10,
+        "en": "Uncover and bake another 10 minutes until bubbly and browned on top.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8-10 servings. Can be frozen. If using xanthan gum, you can thicken the sauce more and end up with a larger quantity.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Recipe",
+      "calories": "453",
+      "protein": "31g",
+      "carbohydrates": "6g",
+      "fat": "34g"
+    }
+  }

@@ -1,0 +1,56 @@
+{
+    "id": "bbq-bacon-turkey-burgers",
+    "name": "BBQ Bacon Turkey Burgers",
+    "ingredients": [
+      "20 ounces ground turkey, 85% lean",
+      "6 ounces bacon (6-7 slices)",
+      "1/4 cup KC Masterpiece Classic Blend barbecue sauce",
+      "Oil or bacon fat for frying"
+    ],
+    "utensils": [
+      "Food processor",
+      "Very large nonstick skillet"
+    ],
+    "cookingTime": 12,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Chop the raw bacon into large pieces then process in a food processor until ground to a paste.",
+        "sk": "Nakrájajte surovú slaninu na veľké kúsky a potom ju spracujte v kuchynskom robote, až kým nevznikne pasta.",
+        "ja": "生ベーコンを大きめに切り、フードプロセッサーでペースト状になるまで挽きます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 3,
+        "en": "Mix the ground bacon and the barbecue sauce into the ground turkey. Shape into 4 equal size balls.",
+        "sk": "Zmiešajte pomletú slaninu a barbecue omáčku s mletým morčacím mäsom. Vytvarujte 4 rovnako veľké guľky.",
+        "ja": "挽いたベーコンとバーベキューソースを七面鳥のひき肉に混ぜます。4等分のボールに成形します。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 2,
+        "en": "Heat a tablespoon or two of oil or fat in a very large nonstick skillet over medium-high heat.",
+        "sk": "Rozohrejte jednu alebo dve polievkové lyžice oleja alebo tuku vo veľmi veľkej nepriľnavej panvici na stredne vysokom ohni.",
+        "ja": "大きな非粘着性フライパンで1〜2tablespoonの油または脂を中高温で熱します。",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 12,
+        "en": "Place balls of ground turkey in the hot skillet and shape them into patties. Fry the patties about 5-6 minutes per side or until done to your liking.",
+        "sk": "Vložte guľky z mletého morčacieho mäsa do horúcej panvice a vytvarujte ich na fašírky. Smažte fašírky asi 5-6 minút z každej strany alebo kým nie sú hotové podľa vašej chuti.",
+        "ja": "熱したフライパンに七面鳥のひき肉のボールを置き、パティ状に成形します。片面5〜6分程度、または好みの焼き加減になるまで焼きます。",
+        "primaryIngredient": "turkey patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen. Flip patties carefully as they fall apart easily. Optional toppings like cheese or other condiments are not included in the nutritional information.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "509",
+      "protein": "37g",
+      "carbohydrates": "1g",
+      "fat": "39g"
+    }
+  }

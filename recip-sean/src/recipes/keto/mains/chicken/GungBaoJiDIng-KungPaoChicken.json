@@ -1,0 +1,87 @@
+{
+    "id": "kung-pao-chicken",
+    "name": "Kung Pao Chicken",
+    "ingredients": [
+      "1 pound boneless chicken thighs, in 1\" cubes",
+      "1 tablespoon dry white wine",
+      "2 teaspoons soy sauce",
+      "3 cloves garlic, minced",
+      "2 teaspoons ginger, grated",
+      "3 tablespoons oil, divided",
+      "1/4 cup unsalted roasted peanuts",
+      "1 teaspoon red pepper flakes",
+      "3/4 cup chicken broth",
+      "2 teaspoons rice vinegar",
+      "2 teaspoons sesame oil",
+      "1 tablespoon oyster sauce",
+      "1 tablespoons hoisin sauce",
+      "1/8-1/4 teaspoon sambal oelek, optional",
+      "1 red bell pepper, chopped in 1/2\" pieces",
+      "1/2 teaspoon xanthan gum",
+      "3 green onions, sliced thin"
+    ],
+    "utensils": [
+      "12-inch nonstick skillet or wok",
+      "Small bowls",
+      "Measuring cup"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Marinate chicken with wine and soy sauce for 10 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Combine garlic, ginger and 1 tablespoon oil in a small bowl; set aside.",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 1,
+        "en": "Combine peanuts and chili flakes in a small bowl.",
+        "primaryIngredient": "peanuts"
+      },
+      {
+        "time": 2,
+        "en": "Mix broth, vinegar, sesame oil, oyster sauce, hoisin sauce and sambal oelek in a measuring cup.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 4,
+        "en": "Cook chicken in 1 tablespoon oil over high heat, 2 minutes per side. Add peanuts and chili flakes, cook 30-40 seconds. Remove from skillet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Cook red bell pepper in remaining oil for 45 seconds.",
+        "primaryIngredient": "red bell pepper"
+      },
+      {
+        "time": 1,
+        "en": "Add garlic and ginger mixture, cook 10-15 seconds, then mix with peppers.",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 3,
+        "en": "Return chicken and peanuts to skillet. Sprinkle with xanthan gum, mix. Add sauce mixture and cook until thickened.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Stir in green onions.",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "259",
+      "protein": "12g",
+      "carbohydrates": "8g",
+      "fat": "21g"
+    }
+  }

@@ -1,0 +1,72 @@
+{
+    "id": "creamy-mexican-casserole",
+    "name": "Creamy Mexican Casserole",
+    "ingredients": [
+      "2 cups diced cooked chicken",
+      "1/2 pound yellow squash, cut in half moons",
+      "2 tablespoons butter",
+      "8 ounces cheddar cheese, shredded",
+      "1 batch Dottie's Cream of Mushroom Soup for Recipes",
+      "5 ounces red enchilada sauce",
+      "2 green onions, chopped",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "2-quart casserole or baking dish",
+      "Sauté pan"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Put chicken in a greased 2-quart casserole or baking dish.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Sauté squash in butter until tender-crisp.",
+        "primaryIngredient": "yellow squash"
+      },
+      {
+        "time": 2,
+        "en": "Add sautéed squash and half of the cheese to the chicken. Stir to combine.",
+        "primaryIngredient": "yellow squash"
+      },
+      {
+        "time": 3,
+        "en": "Mix mushroom soup and enchilada sauce, then blend into the chicken mixture.",
+        "primaryIngredient": "mushroom soup"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt to taste.",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle remaining cheese over the casserole.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350° for 30 minutes or until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 1,
+        "en": "Top with chopped green onions before serving.",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Do not freeze. Dottie's Cream of Mushroom Soup for Recipes is assumed to be a separate recipe.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "446",
+      "protein": "26g",
+      "carbohydrates": "8g",
+      "fat": "35g"
+    }
+  }

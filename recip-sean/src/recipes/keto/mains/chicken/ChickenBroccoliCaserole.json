@@ -1,0 +1,66 @@
+{
+    "id": "antymaymays-chicken-broccoli-casserole",
+    "name": "Antymaymay's Chicken Broccoli Casserole",
+    "ingredients": [
+      "3 cups diced cooked chicken",
+      "1 medium onion, sliced thin, 4 ounces",
+      "1 tablespoon butter",
+      "16 ounces frozen broccoli",
+      "3 ounces cheddar cheese, shredded, 3/4 cup",
+      "2 ounces cream cheese, diced",
+      "4 ounces cheddar cheese, shredded",
+      "1/2 cup heavy cream",
+      "1/4 teaspoon dry mustard",
+      "Pepper, to taste",
+      "Salt, to taste (if needed)"
+    ],
+    "utensils": [
+      "Small skillet",
+      "2-quart casserole or baking dish",
+      "Medium microwaveable bowl"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cook onion in butter until golden brown; set aside.",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Cook broccoli until just barely tender, about 5 minutes; drain well.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Prepare cheese sauce: Microwave cream cheese for 15 seconds. Add cheddar, cream, mustard, and pepper. Microwave 2 minutes, stirring every 30 seconds until smooth.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Mix chicken, broccoli, and cheese sauce in casserole dish. Season if needed.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Top with shredded cheese and cooked onions.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350º for about 30 minutes until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Can potentially be frozen. Cheese sauce can also be prepared on stovetop: Heat cream, melt in cream cheese, then gradually add cheddar cheese.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "411",
+      "protein": "32g",
+      "carbohydrates": "6g",
+      "fat": "29g"
+    }
+  }

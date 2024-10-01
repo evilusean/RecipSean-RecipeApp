@@ -1,0 +1,62 @@
+{
+    "id": "thai-curried-chicken",
+    "name": "Thai Curried Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts, cut in bite-sized pieces",
+      "8 ounces coconut milk",
+      "2 green onions, coarsely chopped",
+      "1 clove garlic, minced",
+      "1/4 teaspoon ginger",
+      "1 1/2 teaspoons chili paste or Sambal Oelek",
+      "1/4 teaspoon laos powder, also called galangal",
+      "3/4 teaspoon turmeric",
+      "Small bay leaf",
+      "Salt to taste"
+    ],
+    "utensils": [
+      "Glass bowl",
+      "Large non-stick skillet or wok"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Put the chicken in a glass bowl; stir in all of the remaining ingredients.",
+        "sk": "Vložte kura do sklenenej misky; primiešajte všetky zostávajúce ingrediencie.",
+        "ja": "ガラスのボウルに鶏肉を入れ、残りの材料をすべて加えてかき混ぜます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 240,
+        "en": "Marinate for several hours.",
+        "sk": "Marinujte niekoľko hodín.",
+        "ja": "数時間マリネします。",
+        "primaryIngredient": "chicken mixture"
+      },
+      {
+        "time": 20,
+        "en": "Simmer everything in either a large non-stick skillet or wok until the chicken is cooked through.",
+        "sk": "Varte všetko na miernom ohni buď vo veľkej nepriľnavej panvici alebo vo woku, kým nie je kura úplne prepečené.",
+        "ja": "大きな非粘着性のフライパンまたは中華鍋で、鶏肉に火が通るまですべてを煮込みます。",
+        "primaryIngredient": "chicken mixture"
+      },
+      {
+        "time": 1,
+        "en": "Remove the bay leaf before serving.",
+        "sk": "Pred podávaním vyberte bobkový list.",
+        "ja": "提供する前にローリエの葉を取り除きます。",
+        "primaryIngredient": "bay leaf"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze. Serve over chopped cauliflower as a replacement for rice. *Laos powder is also called galangal.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "137",
+      "protein": "2g",
+      "carbohydrates": "5g",
+      "fat": "14g"
+    }
+  }

@@ -1,0 +1,54 @@
+{
+    "id": "amys-larb",
+    "name": "Amy's Larb",
+    "ingredients": [
+      "1 pound ground chicken or turkey",
+      "1 1/2 tablespoons fish sauce",
+      "1 tablespoon lime juice",
+      "3 tablespoons fresh mint, chopped",
+      "3 tablespoons fresh cilantro, chopped",
+      "2 tablespoons shallots or onion, chopped",
+      "2 green onions, chopped",
+      "1/2 teaspoon cayenne",
+      "1 teaspoon sambal oelek or Asian chili paste",
+      "8 romaine lettuce leaves, 1/2 ounce each"
+    ],
+    "utensils": [
+      "Medium skillet or wok"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "In a medium skillet or wok, brown the chicken; drain any excess fat.",
+        "sk": "V stredne veľkej panvici alebo woku opečte kuracie mäso do hneda; zlejte prebytočný tuk.",
+        "ja": "中サイズのフライパンまたは中華鍋で鶏肉を炒めて茶色くし、余分な脂を切ります。",
+        "primaryIngredient": "ground chicken"
+      },
+      {
+        "time": 5,
+        "en": "Add the remaining ingredients and heat through.",
+        "sk": "Pridajte zvyšné ingrediencie a prehrejte.",
+        "ja": "残りの材料を加えて全体を温めます。",
+        "primaryIngredient": "mixed ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Serve wrapped in lettuce leaves, using two small leaves per serving.",
+        "sk": "Podávajte zabalené v šalátových listoch, použite dva malé listy na jednu porciu.",
+        "ja": "レタスの葉で包んで提供します。1人分につき小さな葉2枚を使用します。",
+        "primaryIngredient": "lettuce leaves"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen without the lettuce. Mint and cayenne can be omitted based on preference or availability.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "257",
+      "protein": "21g",
+      "carbohydrates": "3g",
+      "fat": "17g"
+    }
+  }

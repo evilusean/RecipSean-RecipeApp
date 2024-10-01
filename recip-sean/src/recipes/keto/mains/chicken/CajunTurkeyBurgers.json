@@ -1,0 +1,72 @@
+{
+    "id": "cajun-turkey-burgers",
+    "name": "Cajun Turkey Burgers",
+    "ingredients": [
+      "20 ounces ground turkey, 85% lean",
+      "1 tablespoon Cajun seasoning",
+      "1/4 cup tomato sauce",
+      "2 tablespoons oil",
+      "8 ounces fresh mushrooms, sliced",
+      "1 green pepper, chopped",
+      "1 red pepper, chopped",
+      "1 medium tomato, seeded and diced, about 5 1/2 ounces",
+      "4 green onions, chopped",
+      "1 clove garlic, minced",
+      "1 teaspoon Cajun seasoning",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large nonstick skillet",
+      "Another skillet",
+      "Mixing bowl"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix the turkey, 1 tablespoon seasoning and tomato sauce. Shape into 4 patties.",
+        "sk": "Zmiešajte morčacie mäso, 1 polievkovú lyžicu korenia a paradajkovú omáčku. Vytvarujte 4 fašírky.",
+        "ja": "七面鳥のひき肉、大さじ1のケイジャンシーズニング、トマトソースを混ぜます。4つのパティに成形します。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 12,
+        "en": "Heat a large nonstick skillet sprayed with cooking spray over medium-high heat. Add the burgers and cook them about 5-6 minutes per side or until done to your liking.",
+        "sk": "Rozohrejte veľkú nepriľnavú panvicu postriekanú olejom na stredne vysokom ohni. Pridajte fašírky a smažte ich asi 5-6 minút z každej strany alebo kým nie sú hotové podľa vašej chuti.",
+        "ja": "大きな非粘着性フライパンに調理用スプレーをし、中高温で熱します。バーガーを加え、片面5〜6分程度、または好みの焼き加減になるまで調理します。",
+        "primaryIngredient": "turkey patties"
+      },
+      {
+        "time": 10,
+        "en": "Meanwhile in another skillet, sauté the vegetables in the oil until tender.",
+        "sk": "Medzitým v inej panvici opečte zeleninu na oleji, kým nezmäkne.",
+        "ja": "その間に別のフライパンで、野菜が柔らかくなるまで油で炒めます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Season vegetables with 1 teaspoon Cajun seasoning and salt and pepper, to taste.",
+        "sk": "Ochuťte zeleninu 1 čajovou lyžičkou cajunského korenia a soľou a korením podľa chuti.",
+        "ja": "野菜に小さじ1のケイジャンシーズニング、塩、こしょうを好みで加えて味付けします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Serve the vegetable mixture over the burgers.",
+        "sk": "Podávajte zeleninovou zmesou na fašírkach.",
+        "ja": "バーガーの上に野菜のミックスをのせて提供します。",
+        "primaryIngredient": "burgers and vegetables"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze. Badia Louisiana Cajun Hot Seasoning Blend was used for the Cajun seasoning.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "405",
+      "protein": "28g",
+      "carbohydrates": "9g",
+      "fat": "29g"
+    }
+  }

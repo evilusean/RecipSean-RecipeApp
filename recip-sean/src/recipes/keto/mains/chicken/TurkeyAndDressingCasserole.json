@@ -1,0 +1,77 @@
+{
+    "id": "turkey-and-dressing-casserole",
+    "name": "Turkey and Dressing Casserole",
+    "ingredients": [
+      "1 1/2 pounds frozen cauliflower",
+      "1 pound pork sausage",
+      "20 ounces ground turkey",
+      "2 stalks celery, chopped",
+      "1 medium onion, chopped, 4 ounces",
+      "1 pound mushrooms, quartered",
+      "8 ounces cream cheese, softened",
+      "8 ounces cheddar cheese, shredded",
+      "Poultry seasoning or seasoning of your choice",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large soup kettle",
+      "9x13 inch baking pan",
+      "Aluminum foil"
+    ],
+    "cookingTime": 60,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook cauliflower as directed on package until tender; drain well.",
+        "sk": "Uvarte karfiol podľa návodu na obale, kým nezmäkne; dobre sceďte.",
+        "ja": "パッケージの指示に従ってカリフラワーを柔らかくなるまで調理し、よく水気を切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 15,
+        "en": "In the same pot, brown sausage and turkey with celery, onion, and mushrooms. Season with poultry seasoning, salt, and pepper. Drain fat.",
+        "sk": "V tom istom hrnci opečte klobásu a morku so zelerom, cibuľou a hubami. Ochuťte korením na hydinu, soľou a korením. Zlejte tuk.",
+        "ja": "同じ鍋でソーセージと七面鳥のひき肉をセロリ、玉ねぎ、マッシュルームと一緒に炒めます。ポultryシーズニング、塩、コショウで味付けし、脂を切ります。",
+        "primaryIngredient": "sausage and turkey"
+      },
+      {
+        "time": 5,
+        "en": "Stir in cream cheese until well blended, then add cauliflower and cheddar cheese. Adjust seasonings if necessary.",
+        "sk": "Vmiešajte krémový syr, kým sa dobre nespojí, potom pridajte karfiol a čedar. V prípade potreby upravte korenie.",
+        "ja": "クリームチーズを加えてよく混ぜ、カリフラワーとチェダーチーズを加えます。必要に応じて味を調整します。",
+        "primaryIngredient": "cream cheese and cheddar"
+      },
+      {
+        "time": 5,
+        "en": "Spread mixture in a greased 9x13 inch baking pan; cover with foil.",
+        "sk": "Rozložte zmes do vymastenej zapekacej formy 23x33 cm; prikryte alobalom.",
+        "ja": "油を塗った9x13インチのベーキング皿に混ぜ物を広げ、アルミホイルで覆います。",
+        "primaryIngredient": "casserole mixture"
+      },
+      {
+        "time": 30,
+        "en": "Bake covered at 350°F for 30 minutes.",
+        "sk": "Pečte prikryté pri 175°C 30 minút.",
+        "ja": "350°F（175°C）のオーブンで30分間、覆ったまま焼きます。",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 30,
+        "en": "Uncover and bake an additional 20-30 minutes until hot, bubbly, and browned on top.",
+        "sk": "Odkryte a pečte ďalších 20-30 minút, kým nebude horúce, bublajúce a zhnednuté na vrchu.",
+        "ja": "アルミホイルを外し、さらに20〜30分、熱々になり、泡立ち、上部が茶色くなるまで焼きます。",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8-10 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Recipe",
+      "calories": "541",
+      "protein": "35g",
+      "carbohydrates": "9g",
+      "fat": "41g"
+    }
+  }

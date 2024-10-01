@@ -1,0 +1,63 @@
+{
+    "id": "broccoli-and-chicken-stir-fry",
+    "name": "Broccoli and Chicken Stir-Fry",
+    "ingredients": [
+      "1 pound boneless chicken thighs, cut in bite-size pieces",
+      "1 tablespoon oil",
+      "12 ounces fresh broccoli florets",
+      "4 cloves garlic, minced",
+      "4 green onions, sliced",
+      "1-2 teaspoons ground ginger",
+      "1/2 teaspoon xanthan gum (optional)",
+      "1/4 cup soy sauce",
+      "2 tablespoons rice vinegar",
+      "2 packets True Orange or other orange flavoring equal to about 2 tablespoons orange juice",
+      "2 tablespoons granular Splenda or equivalent liquid sweetener",
+      "1/2 teaspoon sesame oil",
+      "1 teaspoon chili paste (sambal oelek)"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Small bowl",
+      "Microwave-safe casserole dish"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 6,
+        "en": "Heat oil in skillet over medium-high heat. Add chicken; cook until done, stirring occasionally, about 6 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Mix sauce ingredients in a small bowl.",
+        "primaryIngredient": "soy sauce"
+      },
+      {
+        "time": 2,
+        "en": "Microwave broccoli florets in a covered casserole for 2 minutes on HIGH.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 1,
+        "en": "Mix ginger and xanthan gum in a small bowl.",
+        "primaryIngredient": "ginger"
+      },
+      {
+        "time": 5,
+        "en": "Add vegetables and remaining ingredients to cooked chicken. Cook and stir until heated through and sauce has thickened (if using xanthan gum).",
+        "primaryIngredient": "vegetables"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3 servings. You can use a mixture of broccoli florets, carrots and snow peas instead of just broccoli. The original recipe called for 1 tablespoon of sesame oil.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "193",
+      "protein": "15g",
+      "carbohydrates": "14g",
+      "fat": "10g"
+    }
+  }

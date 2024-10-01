@@ -1,0 +1,66 @@
+{
+    "id": "mushroom-chicken-and-sausage-casserole",
+    "name": "Mushroom Chicken and Sausage Casserole",
+    "ingredients": [
+      "3-4 cups diced cooked chicken",
+      "1 pound pork sausage",
+      "1 stalk celery, chopped fine",
+      "1 tablespoon onion, chopped",
+      "1/2 pound mushrooms, sliced",
+      "8 ounces cream cheese, softened",
+      "16 ounce bag frozen cauliflower, cooked well and drained",
+      "8 ounces cheddar cheese, shredded",
+      "Salt, to taste",
+      "1/2 teaspoon pepper",
+      "Paprika, optional"
+    ],
+    "utensils": [
+      "9x13\" baking dish",
+      "Large skillet",
+      "Mixing bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown sausage with celery, onion and mushrooms.",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 3,
+        "en": "Stir softened cream cheese into sausage mixture until well blended.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Coarsely chop the cooked cauliflower.",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Mix all ingredients and spread in a greased 9x13\" baking dish.",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 1,
+        "en": "If desired, dust the top with paprika.",
+        "primaryIngredient": "paprika"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350º for about 40 minutes until the top is nicely browned.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8-12 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Recipe",
+      "calories": "550",
+      "protein": "42g",
+      "carbohydrates": "6g",
+      "fat": "40g"
+    }
+  }

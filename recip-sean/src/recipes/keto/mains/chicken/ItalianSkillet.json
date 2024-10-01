@@ -1,0 +1,61 @@
+{
+    "id": "amys-italian-skillet",
+    "name": "Amy's Italian Skillet",
+    "ingredients": [
+      "20 ounces ground chicken or turkey",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "1/2 green pepper, chopped, about 4 ounces",
+      "1/2 red bell pepper, chopped, about 4 ounces",
+      "4-8 ounces tomato sauce",
+      "Pinch granular Splenda, optional",
+      "1 teaspoon Italian seasoning",
+      "1/2 teaspoon garlic powder",
+      "Salt and pepper, to taste",
+      "1/4 cup freshly grated parmesan cheese, optional, 1 ounce"
+    ],
+    "utensils": [
+      "Large skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Brown the turkey or chicken in a large skillet; drain.",
+        "sk": "Opečte morku alebo kura vo veľkej panvici do hneda; zlejte tuk.",
+        "ja": "大きなフライパンで七面鳥または鶏肉のひき肉を炒めて茶色くし、油を切ります。",
+        "primaryIngredient": "ground chicken or turkey"
+      },
+      {
+        "time": 5,
+        "en": "Add the onions and peppers and cook until tender.",
+        "sk": "Pridajte cibuľu a papriky a varte, kým nezmäknú.",
+        "ja": "玉ねぎとピーマンを加え、柔らかくなるまで調理します。",
+        "primaryIngredient": "onions and peppers"
+      },
+      {
+        "time": 5,
+        "en": "Add the tomato sauce, Splenda (if using), and spices to taste. Simmer until heated through.",
+        "sk": "Pridajte paradajkovú omáčku, Splendu (ak používate) a korenie podľa chuti. Varte na miernom ohni, kým sa nezahreje.",
+        "ja": "トマトソース、スプレンダ（使用する場合）、スパイスを好みで加え、温まるまで煮込みます。",
+        "primaryIngredient": "tomato sauce and spices"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with parmesan cheese, if desired.",
+        "sk": "Ak chcete, posypte parmezánom.",
+        "ja": "お好みでパルメザンチーズをふりかけます。",
+        "primaryIngredient": "parmesan cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen. Frozen chopped peppers can be used. The parmesan cheese is optional and adds about 1/4 carb per serving.",
+    "nutritionalInformation": {
+      "amount": "Per Serving (with 4 ounces tomato sauce)",
+      "calories": "328",
+      "protein": "26g",
+      "carbohydrates": "6g",
+      "fat": "21g"
+    }
+  }

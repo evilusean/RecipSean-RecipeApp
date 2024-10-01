@@ -1,0 +1,72 @@
+{
+    "id": "sandras-chicken-with-peanut-curry-sauce",
+    "name": "Sandra's Chicken with Peanut Curry Sauce",
+    "ingredients": [
+      "2 tablespoons oil",
+      "1 1/2 pounds boneless chicken breast, cubed",
+      "Salt and pepper, to taste",
+      "8 ounces frozen cut green beans, thawed",
+      "8 ounces frozen bell pepper strips, thawed",
+      "13.5 ounces coconut milk (1 can)",
+      "1/2 cup chicken broth",
+      "1 tablespoon red Thai curry paste",
+      "1/3 cup natural peanut butter",
+      "2 tablespoon granular Splenda or equivalent liquid Splenda",
+      "1 tablespoon lime juice",
+      "Cilantro for garnish, optional"
+    ],
+    "utensils": [
+      "4-cup measuring cup",
+      "Whisk",
+      "Large skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a 4-cup measuring cup, whisk together all of the sauce ingredients except the cilantro; set aside.",
+        "sk": "V 4-šálkovej odmerke zmiešajte všetky ingrediencie na omáčku okrem koriandra; odložte bokom.",
+        "ja": "4カップの計量カップに、コリアンダー以外のソースの材料をすべて入れて泡立て器で混ぜ、脇に置きます。",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 5,
+        "en": "Heat the oil in a large skillet over medium-high heat. Sauté the chicken just until the outside is opaque.",
+        "sk": "Rozohrejte olej vo veľkej panvici na stredne vysokom ohni. Opečte kura, kým nie je zvonku nepriehľadné.",
+        "ja": "大きなフライパンで中高温で油を熱し、鶏肉の外側が不透明になるまで炒めます。",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Add the green beans and peppers; cook another 3 minutes, stirring frequently.",
+        "sk": "Pridajte zelené fazuľky a papriky; varte ďalšie 3 minúty za častého miešania.",
+        "ja": "インゲンとパプリカを加え、頻繁に混ぜながらさらに3分間調理します。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 8,
+        "en": "Add the sauce to the skillet with the chicken and vegetables. Bring to a boil then turn down the heat and simmer 6-8 minutes until the sauce thickens slightly.",
+        "sk": "Pridajte omáčku do panvice s kuracím mäsom a zeleninou. Priveďte do varu, potom znížte teplotu a varte 6-8 minút, kým omáčka mierne nezhustne.",
+        "ja": "フライパンの鶏肉と野菜にソースを加えます。沸騰させてから火を弱め、ソースが少し濃くなるまで6〜8分間煮込みます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with cilantro to serve.",
+        "sk": "Pred podávaním posypte koriandrom.",
+        "ja": "提供する際にコリアンダーをふりかけます。",
+        "primaryIngredient": "cilantro"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Freezing not recommended. For 6 servings, use 2 pounds of chicken. Crunchy or creamy peanut butter can be used.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "608",
+      "protein": "48g",
+      "carbohydrates": "16g",
+      "fat": "38g"
+    }
+  }

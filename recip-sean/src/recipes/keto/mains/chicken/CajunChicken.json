@@ -1,0 +1,73 @@
+{
+    "id": "cajun-chicken",
+    "name": "Cajun Chicken",
+    "ingredients": [
+      "3 boneless chicken breasts, sliced in thin strips",
+      "2 teaspoons Cajun Seasoning",
+      "3 tablespoons butter",
+      "1 tablespoon oil",
+      "3 medium green and/or red bell peppers, cut in thin strips, 8 ounces",
+      "1/2 pound mushrooms, sliced",
+      "4 green onions, cut diagonally in 1/2-inch pieces",
+      "1/8 teaspoon basil",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon pepper",
+      "1/4 teaspoon salt, or to taste",
+      "1/4 cup heavy cream",
+      "1/2 teaspoon xanthan gum"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "Large nonstick skillet or wok",
+      "Small bowl"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Toss chicken pieces with Cajun seasoning in a medium bowl.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Heat butter and oil in a large skillet or wok on medium-high heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 5,
+        "en": "Stir-fry chicken until not quite done.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Add peppers and mushrooms. Stir-fry until peppers are crisp-tender.",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 1,
+        "en": "If using xanthan gum, mix with seasonings in a small bowl.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 3,
+        "en": "Reduce heat to low. Stir in seasonings and cream. Cook until sauce thickens.",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 2,
+        "en": "Add green onions and toss briefly to combine. Season with more salt if needed.",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 large servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "287",
+      "protein": "22g",
+      "carbohydrates": "7g",
+      "fat": "19g"
+    }
+  }

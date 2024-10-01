@@ -1,0 +1,56 @@
+{
+    "id": "mexican-spinach-casserole-deluxe",
+    "name": "Mexican Spinach Casserole Deluxe",
+    "ingredients": [
+      "1 pound ground beef, pork or turkey",
+      "1/2 medium onion, chopped, 2 ounces",
+      "8 ounce cream cheese, softened",
+      "10 ounce package frozen chopped spinach, thawed and well-drained",
+      "1/3 cup sour cream",
+      "2 teaspoons Seasoning for Tacos",
+      "10 ounce can Ro-tel tomatoes, drained (diced tomatoes with green chiles)",
+      "1/4 cup canned sliced pickled jalapeños",
+      "2 roasted red bell peppers, coarsely chopped",
+      "4 ounces mozzarella or Monterey Jack cheese, shredded, 1 cup",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "2 1/2-quart casserole dish",
+      "Skillet",
+      "Mixing bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the meat and onion; drain the fat.",
+        "primaryIngredient": "ground meat"
+      },
+      {
+        "time": 3,
+        "en": "Blend in the cream cheese until completely incorporated.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Put all ingredients in a greased 2 1/2-quart casserole and mix well.",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350º for about 40 minutes or until bubbly and browned on top.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. Seasoning for Tacos is assumed to be a separate recipe.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "412",
+      "protein": "23g",
+      "carbohydrates": "10g",
+      "fat": "32g"
+    }
+  }

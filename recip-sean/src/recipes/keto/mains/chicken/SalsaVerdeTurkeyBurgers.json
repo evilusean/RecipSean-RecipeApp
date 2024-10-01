@@ -1,0 +1,63 @@
+{
+    "id": "salsa-verde-turkey-burgers",
+    "name": "Salsa Verde Turkey Burgers",
+    "ingredients": [
+      "1 avocado",
+      "1/2 cup sour cream",
+      "1/2 cup fresh cilantro, chopped (divided)",
+      "1 clove garlic, minced",
+      "Salt",
+      "1 1/4 pounds ground turkey, 85% lean",
+      "1/2 cup green salsa",
+      "4 slices pepper-jack cheese, about 4 ounces",
+      "2 small green or red tomatoes, sliced, about 4 ounces"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Medium bowl",
+      "Large nonstick skillet",
+      "Fork"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a small bowl, blend avocado, sour cream, 1/4 cup cilantro, and garlic with a fork until well blended but chunky. Season with salt to taste. Chill until ready to serve.",
+        "sk": "V malej miske zmiešajte avokádo, kyslú smotanu, 1/4 šálky koriandra a cesnak vidličkou, kým nie je zmes dobre premiešaná, ale stále hrubá. Ochuťte soľou podľa chuti. Chlaďte až do podávania.",
+        "ja": "小さなボウルでアボカド、サワークリーム、1/4カップのコリアンダー、ニンニクをフォークでよく混ぜ合わせますが、少し粗めに残します。塩で味を調え、提供するまで冷蔵します。",
+        "primaryIngredient": "avocado"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, mix the turkey, salt, remaining 1/4 cup cilantro and salsa; shape into 4 patties.",
+        "sk": "V strednej miske zmiešajte morku, soľ, zvyšný 1/4 šálky koriandra a salsu; vytvarujte 4 fašírky.",
+        "ja": "中サイズのボウルで七面鳥のひき肉、塩、残りの1/4カップのコリアンダー、サルサを混ぜ、4つのパティに成形します。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 10,
+        "en": "Spray a large nonstick skillet and heat over medium-high heat. Cook patties 5 minutes. Flip, top each with a slice of cheese and cook another 5 minutes.",
+        "sk": "Postriekajte veľkú nepriľnavú panvicu a rozohrejte na stredne vysokom ohni. Smažte fašírky 5 minút. Otočte ich, na každú položte plátok syra a smažte ďalších 5 minút.",
+        "ja": "大きな非粘着性フライパンに油をスプレーし、中高温で熱します。パティを5分間調理し、裏返してチーズを1枚ずつのせ、さらに5分間調理します。",
+        "primaryIngredient": "turkey patties"
+      },
+      {
+        "time": 2,
+        "en": "To serve, top each burger patty with sliced tomato and avocado sauce.",
+        "sk": "Pri podávaní položte na každú fašírku plátky paradajok a avokádovú omáčku.",
+        "ja": "提供する際、各バーガーパティにスライスしたトマトとアボカドソースをのせます。",
+        "primaryIngredient": "tomatoes and avocado sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "496",
+      "protein": "31g",
+      "carbohydrates": "7g",
+      "fat": "38g"
+    }
+  }

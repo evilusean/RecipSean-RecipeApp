@@ -1,0 +1,54 @@
+{
+    "id": "hot-turkey-breakfast-sausage",
+    "name": "Hot Turkey Breakfast Sausage",
+    "ingredients": [
+      "1 pound ground turkey, 85% lean",
+      "1 teaspoon chicken seasoning",
+      "1/2 teaspoon pepper",
+      "1/2 teaspoon ground sage",
+      "1/2 teaspoon coriander",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon cayenne",
+      "1/4 teaspoon crushed red pepper flakes",
+      "1/2 teaspoon granular Splenda"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Frying pan"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Blend the turkey and spices well in a mixing bowl.",
+        "sk": "V miske dobre zmiešajte morku a korenie.",
+        "ja": "ボウルで七面鳥のひき肉とスパイスをよく混ぜ合わせます。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 2,
+        "en": "Either shape into patties or leave as bulk sausage.",
+        "sk": "Buď vytvarujte na fašírky alebo nechajte ako voľné mäso.",
+        "ja": "パティ状に成形するか、そのままのひき肉の状態で調理します。",
+        "primaryIngredient": "seasoned turkey"
+      },
+      {
+        "time": 10,
+        "en": "Fry in a pan until cooked through, about 5 minutes per side for patties or 10 minutes for bulk sausage.",
+        "sk": "Smažte na panvici, kým nie je mäso prepečené, asi 5 minút z každej strany pre fašírky alebo 10 minút pre voľné mäso.",
+        "ja": "フライパンで完全に火が通るまで調理します。パティの場合は片面5分程度、ひき肉の状態なら10分程度です。",
+        "primaryIngredient": "turkey sausage"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-breakfast",
+    "notes": "Makes 4-6 servings. Can be frozen. For milder sausage, omit or reduce the amount of cayenne. If chicken seasoning is unavailable, use 1/2 teaspoon poultry seasoning and 1/2 teaspoon salt instead.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "244",
+      "protein": "20g",
+      "carbohydrates": "1g",
+      "fat": "17g"
+    }
+  }

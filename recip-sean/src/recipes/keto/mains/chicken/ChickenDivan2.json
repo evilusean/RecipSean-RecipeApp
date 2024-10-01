@@ -1,0 +1,78 @@
+{
+    "id": "chicken-divan-revised",
+    "name": "Chicken Divan - Revised",
+    "ingredients": [
+      "4 cups diced cooked chicken",
+      "14-16 ounces frozen broccoli florets",
+      "8 ounces cheddar cheese, shredded",
+      "2 tablespoons butter",
+      "1 stalk celery, diced",
+      "1 small onion, diced",
+      "8 ounces fresh mushrooms, sliced",
+      "1/2 teaspoon xanthan gum",
+      "1 cup chicken broth",
+      "1 cup heavy cream",
+      "1/8 teaspoon curry powder",
+      "Salt and pepper, to taste",
+      "1/4 cup mayonnaise",
+      "1/2 cup grated parmesan cheese, optional"
+    ],
+    "utensils": [
+      "Large non-stick skillet",
+      "9x13\" glass baking dish"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cook broccoli according to package directions for 5 minutes; drain.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Sauté celery, onion and mushrooms in butter until tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle xanthan gum over surface and quickly stir in.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 5,
+        "en": "Add broth and cream; bring to a boil. Simmer until sauce has thickened, stirring frequently.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 2,
+        "en": "Stir in mayonnaise, curry powder, salt, and pepper.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 5,
+        "en": "In greased baking dish, mix chicken, broccoli and cheese. Pour in mushroom sauce and mix well.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle parmesan cheese over the top, if using.",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 40,
+        "en": "Bake, uncovered, at 350º for 35-40 minutes until bubbly and browned on top.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "478",
+      "protein": "33g",
+      "carbohydrates": "6g",
+      "fat": "36g"
+    }
+  }

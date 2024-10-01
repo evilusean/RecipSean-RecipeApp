@@ -1,0 +1,59 @@
+{
+    "id": "cheesy-chicken-broccoli-casserole",
+    "name": "Cheesy Chicken Broccoli Casserole",
+    "ingredients": [
+      "2 cups diced cooked chicken",
+      "8 ounces frozen broccoli cuts or florets, cooked and drained well",
+      "1/4 cup sour cream",
+      "1/4 cup mayonnaise",
+      "1/2 teaspoon chicken bouillon granules dissolved in 1/4 cup hot water",
+      "1 teaspoon garlic powder",
+      "4 ounces cheddar cheese, shredded, 1 cup",
+      "4 pieces bacon, chopped and fried until crisp",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "1 1/2 quart casserole dish",
+      "Small bowl",
+      "Whisk"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Put chicken in greased casserole; season with salt and pepper.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Top with broccoli; season with salt and pepper.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "Whisk together sour cream, mayonnaise, bouillon mixture and garlic powder; pour over broccoli.",
+        "primaryIngredient": "sour cream"
+      },
+      {
+        "time": 2,
+        "en": "Top with cheese and sprinkle with bacon.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350º for 25 minutes until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "432",
+      "protein": "31g",
+      "carbohydrates": "5g",
+      "fat": "32g"
+    }
+  }

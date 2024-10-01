@@ -1,0 +1,71 @@
+{
+    "id": "nancys-orange-chicken",
+    "name": "Nancy's Orange Chicken",
+    "ingredients": [
+      "2 1/2 pounds boneless chicken thighs, cubed (about 8-10)",
+      "2 green peppers, cut into strips (8 1/4 ounces trimmed)",
+      "1 medium onion, slivered (about 4 1/2 ounces trimmed)",
+      "2 tablespoons oil",
+      "1 cup chicken broth",
+      "1/2 cup fresh orange juice",
+      "1/2 cup water",
+      "2 teaspoons orange zest (4 grams)",
+      "1/2 cup white vinegar",
+      "1/4 cup plus 1 tablespoon soy sauce",
+      "1/2 cup plus 1 tablespoon plus 2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "1/2 teaspoon blackstrap molasses",
+      "4 cloves garlic, minced",
+      "1/8 teaspoon ground ginger",
+      "1 teaspoon sambal oelek",
+      "1/2 teaspoon xanthan gum"
+    ],
+    "utensils": [
+      "Large zipper bag",
+      "Colander",
+      "Wok"
+    ],
+    "cookingTime": 30,
+    "prepTime": 60,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Combine marinade ingredients. Pour scant 3/4 cup over chicken in zipper bag. Marinate 30-60 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Drain chicken in colander, reserving marinade.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Heat oil in wok. Sauté vegetables until tender-crisp; set aside.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 10,
+        "en": "Cook chicken until no longer pink outside. Add unused and reserved marinade, simmer 15 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Thicken sauce with xanthan gum.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 1,
+        "en": "Return vegetables to wok and heat through.",
+        "primaryIngredient": "vegetables"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. You can substitute 1/4 cup orange juice + 4 packets True Orange + 1/4 cup water to save carbs.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "195",
+      "protein": "15g",
+      "carbohydrates": "12g",
+      "fat": "10g"
+    }
+  }

@@ -1,0 +1,61 @@
+{
+    "id": "cheesy-chicken-green-bean-casserole",
+    "name": "Cheesy Chicken & Green Bean Casserole",
+    "ingredients": [
+      "3 14.25-ounce cans French cut green beans, drained",
+      "2 4 ounce cans mushrooms, drained",
+      "2 tablespoons butter",
+      "2 stalks celery, chopped fine",
+      "1 small onion, sliced in very thin rings, 2.5 ounces",
+      "1/2 cup mayonnaise",
+      "1/4 cup heavy cream",
+      "Salt, to taste",
+      "1/2 teaspoon pepper",
+      "1/4 teaspoon garlic powder",
+      "8 ounces cheddar cheese, shredded",
+      "2 cups diced cooked chicken or turkey"
+    ],
+    "utensils": [
+      "2 1/2-3 quart casserole dish",
+      "Sauté pan"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Sauté celery and onion in butter until browned.",
+        "primaryIngredient": "celery"
+      },
+      {
+        "time": 5,
+        "en": "Combine beans, mushrooms, and celery/onion mixture in casserole dish.",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 3,
+        "en": "Stir in mayonnaise, cream, and seasonings. Mix well.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 2,
+        "en": "Stir in cheese and chicken.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 40,
+        "en": "Bake uncovered at 350º for 30-40 minutes, until bubbly and brown.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8 servings. Do not freeze. Can be microwaved on MEDIUM for 20-30 minutes, stirring occasionally, as an alternative cooking method.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "363",
+      "protein": "19g",
+      "carbohydrates": "8g",
+      "fat": "29g"
+    }
+  }

@@ -1,0 +1,51 @@
+{
+    "id": "all-american-turkey-burgers",
+    "name": "All-American Turkey Burgers",
+    "ingredients": [
+      "1 pound ground turkey",
+      "1 1/2 ounces onion, chopped fine, about 1/3 cup",
+      "1 stalk celery, chopped fine",
+      "1 tablespoon low carb barbecue sauce",
+      "1 teaspoon hot sauce",
+      "2 teaspoons Worcestershire sauce"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Indoor or outdoor grill"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix all of the ingredients well in a bowl.",
+        "sk": "V miske dobre zmiešajte všetky ingrediencie.",
+        "ja": "ボウルに全ての材料を入れてよく混ぜます。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 3,
+        "en": "Shape the mixture into 3 patties.",
+        "sk": "Vytvarujte zmes do 3 fašírok.",
+        "ja": "混ぜた材料を3つのパティに成形します。",
+        "primaryIngredient": "turkey mixture"
+      },
+      {
+        "time": 10,
+        "en": "Grill the patties on an indoor or outdoor grill until cooked through.",
+        "sk": "Grilujte fašírky na vnútornom alebo vonkajšom grile, kým nie sú prepečené.",
+        "ja": "室内または屋外のグリルで、パティが完全に火が通るまで焼きます。",
+        "primaryIngredient": "turkey patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "240",
+      "protein": "27g",
+      "carbohydrates": "3g",
+      "fat": "13g"
+    }
+  }

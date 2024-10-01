@@ -1,0 +1,72 @@
+{
+    "id": "turkey-gourmet-skillet-dinner",
+    "name": "Turkey Gourmet Skillet Dinner",
+    "ingredients": [
+      "20 ounces ground turkey, 85% lean",
+      "1 small onion, sliced, 2 1/2 ounces",
+      "2 cloves garlic, minced",
+      "Roasted red pepper, julienned, about 2 ounces or 1/4 cup",
+      "1 ounce sun-dried tomatoes, about 5 pieces, julienned",
+      "8 ounces mushrooms, sliced",
+      "1/2 cup tomato sauce",
+      "1/4 cup heavy cream",
+      "Salt and pepper, to taste",
+      "1 medium zucchini, julienned like pasta, about 6 ounces",
+      "Herbs of your choice, such as parsley and basil",
+      "2 ounces freshly grated parmesan cheese, 1/2 cup"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Knife",
+      "Grater"
+    ],
+    "cookingTime": 25,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "Soak sun-dried tomatoes in boiling water for 10-15 minutes. Measure and prep all ingredients.",
+        "sk": "Namočte sušené paradajky do vriacej vody na 10-15 minút. Odmerajte a pripravte všetky ingrediencie.",
+        "ja": "乾燥トマトを沸騰したお湯に10〜15分浸します。全ての材料を計量し、下準備をします。",
+        "primaryIngredient": "sun-dried tomatoes"
+      },
+      {
+        "time": 10,
+        "en": "Brown turkey, onion, and garlic in a large skillet; drain grease. Season lightly with salt and pepper.",
+        "sk": "Na veľkej panvici opečte morku, cibuľu a cesnak; zlejte mastnotu. Jemne ochuťte soľou a korením.",
+        "ja": "大きなフライパンで七面鳥のひき肉、玉ねぎ、ニンニクを炒めて脂を切ります。塩コショウで軽く味付けします。",
+        "primaryIngredient": "ground turkey"
+      },
+      {
+        "time": 5,
+        "en": "Add red peppers, sun-dried tomatoes, and mushrooms. Cook until mushrooms are tender.",
+        "sk": "Pridajte červenú papriku, sušené paradajky a huby. Varte, kým huby nezmäknú.",
+        "ja": "赤ピーマン、乾燥トマト、マッシュルームを加えます。マッシュルームが柔らかくなるまで調理します。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Stir in tomato sauce and heavy cream. Add zucchini and simmer until tender.",
+        "sk": "Vmiešajte paradajkovú omáčku a smotanu. Pridajte cuketu a varte, kým nezmäkne.",
+        "ja": "トマトソースと生クリームを加えて混ぜます。ズッキーニを加えて柔らかくなるまで煮込みます。",
+        "primaryIngredient": "sauce and zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Add parmesan cheese. Season with salt, pepper, and herbs to taste.",
+        "sk": "Pridajte parmezán. Dochuťte soľou, korením a bylinkami podľa chuti.",
+        "ja": "パルメザンチーズを加えます。塩、コショウ、ハーブで好みの味に調整します。",
+        "primaryIngredient": "cheese and herbs"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Do not freeze. Use a zucchini that weighs about 9-10 ounces.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "468",
+      "protein": "35g",
+      "carbohydrates": "11g",
+      "fat": "31g"
+    }
+  }

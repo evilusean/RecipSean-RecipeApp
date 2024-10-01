@@ -1,0 +1,79 @@
+{
+    "id": "rachaels-chicken-fajita-burgers",
+    "name": "Rachael's Chicken Fajita Burgers",
+    "ingredients": [
+      "2 pounds ground chicken or turkey",
+      "1/2 small onion, grated, about 1 ounce",
+      "2 tablespoons chipotle chile powder",
+      "2 tablespoons Montreal steak seasoning",
+      "3 tablespoons cilantro, chopped",
+      "Nonstick cooking spray",
+      "1 tablespoon oil",
+      "2 large red or green bell peppers, sliced",
+      "1 large onion, sliced, about 6 ounces",
+      "2 cloves garlic, minced",
+      "1 jalapeño or serrano chile, chopped",
+      "3/4 cup green salsa",
+      "2 tablespoons cilantro, chopped"
+    ],
+    "utensils": [
+      "Large nonstick skillet",
+      "Another large skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Combine ground chicken, grated onion, chipotle powder, steak seasoning, and 3 tablespoons cilantro. Shape into 6 patties, about 1 inch thick.",
+        "sk": "Zmiešajte mleté kuracie mäso, nastrúhanú cibuľu, chipotle prášok, korenenie na steak a 3 polievkové lyžice koriandra. Vytvarujte 6 fašírok hrubých asi 2,5 cm.",
+        "ja": "鶏ひき肉、おろした玉ねぎ、チポトレパウダー、ステーキシーズニング、刻んだコリアンダー大さじ3を混ぜ合わせます。約2.5cm厚の6つのパティに成形します。",
+        "primaryIngredient": "ground chicken"
+      },
+      {
+        "time": 10,
+        "en": "Spray a large nonstick skillet with cooking spray and heat over medium-high heat. Cook the burgers 5 minutes per side or until cooked to your liking.",
+        "sk": "Postriekajte veľkú nepriľnavú panvicu sprejom na varenie a rozohrejte na stredne vysokom ohni. Smažte fašírky 5 minút z každej strany alebo kým nie sú hotové podľa vašej chuti.",
+        "ja": "大きな非粘着性フライパンに調理用スプレーをし、中高温で熱します。バーガーを片面5分ずつ、または好みの焼き加減になるまで調理します。",
+        "primaryIngredient": "chicken patties"
+      },
+      {
+        "time": 5,
+        "en": "Heat oil in another large skillet over high heat. Stir-fry peppers and onion until slightly charred on the edges.",
+        "sk": "V inej veľkej panvici rozohrejte olej na vysokom ohni. Opečte papriky a cibuľu, kým sa okraje mierne neopália.",
+        "ja": "別の大きなフライパンで油を高温で熱し、ピーマンと玉ねぎを端が少し焦げるまで炒めます。",
+        "primaryIngredient": "peppers and onion"
+      },
+      {
+        "time": 2,
+        "en": "Add garlic and jalapeño or serrano chile. Cook about 1-2 minutes.",
+        "sk": "Pridajte cesnak a jalapeño alebo serrano čili. Varte asi 1-2 minúty.",
+        "ja": "ニンニクとハラペーニョまたはセラーノチリを加え、1〜2分ほど炒めます。",
+        "primaryIngredient": "garlic and chile"
+      },
+      {
+        "time": 1,
+        "en": "Add salsa and cilantro to the vegetable mixture and heat 1 minute longer.",
+        "sk": "Pridajte salsu a koriander k zeleninovej zmesi a ohrejte ešte 1 minútu.",
+        "ja": "野菜のミックスにサルサとコリアンダーを加え、さらに1分間温めます。",
+        "primaryIngredient": "salsa"
+      },
+      {
+        "time": 1,
+        "en": "Serve burgers topped with the seared peppers and onions.",
+        "sk": "Podávajte fašírky s opečenými paprikami a cibuľou navrchu.",
+        "ja": "バーガーの上に炒めたピーマンと玉ねぎをのせて提供します。",
+        "primaryIngredient": "burgers and vegetables"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. The burgers can be frozen but not the peppers. One 7-ounce can of green Mexican salsa yields about 3/4 cup.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "390",
+      "protein": "29g",
+      "carbohydrates": "10g",
+      "fat": "26g"
+    }
+  }

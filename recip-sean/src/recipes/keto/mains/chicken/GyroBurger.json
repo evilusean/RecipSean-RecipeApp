@@ -1,0 +1,82 @@
+{
+    "id": "rachaels-gyro-burgers-with-greek-salad",
+    "name": "Rachael's Gyro Burgers with Greek Salad",
+    "ingredients": [
+      "1 cup Yocheese or Greek yogurt",
+      "1 clove garlic, minced",
+      "1/2 English cucumber, finely chopped, 4 ounces",
+      "1 tablespoon lemon juice",
+      "1/4 teaspoon salt, or to taste",
+      "1/4 teaspoon pepper, or to taste",
+      "1/2 cup peperoncini, sliced, about 2 ounces",
+      "1/2 cup kalamata olives, optional",
+      "16 grape tomatoes, halved, about 6 ounces",
+      "2 ounces red onion, chopped, about 1/2 cup",
+      "1 green pepper, chopped, about 4 ounces",
+      "2 tablespoons olive oil",
+      "8 ounces romaine hearts, chopped",
+      "1/4 pound feta cheese, crumbled",
+      "1 pound ground turkey",
+      "1 pound ground lamb",
+      "2 sprigs fresh oregano, finely chopped, 4 grams",
+      "1 tablespoon ground coriander",
+      "1 1/2 teaspoons cumin",
+      "1/4 teaspoon cayenne",
+      "1/4 cup parsley, chopped, 3 grams",
+      "1 tablespoon lemon zest, from 1 lemon",
+      "1 tablespoon olive oil, for frying"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Large skillet"
+    ],
+    "cookingTime": 15,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Make tzatziki sauce by combining yogurt, garlic, cucumber, lemon juice, salt, and pepper. Chill for about an hour.",
+        "sk": "Pripravte tzatziki omáčku zmiešaním jogurtu, cesnaku, uhorky, citrónovej šťavy, soli a korenia. Chlaďte asi hodinu.",
+        "ja": "ヨーグルト、ニンニク、キュウリ、レモン汁、塩、コショウを混ぜてザジキソースを作り、1時間ほど冷やします。",
+        "primaryIngredient": "yogurt"
+      },
+      {
+        "time": 10,
+        "en": "Mix salad ingredients except lettuce and feta in a large bowl. Let marinate while preparing burgers.",
+        "sk": "Zmiešajte ingrediencie na šalát okrem šalátu a fety vo veľkej miske. Nechajte marinovať počas prípravy hamburgerov.",
+        "ja": "レタスとフェタチーズ以外のサラダの材料を大きなボウルで混ぜ、バーガーを準備する間マリネします。",
+        "primaryIngredient": "salad vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Combine burger ingredients except oil in a large bowl. Divide into 6 portions and form patties. Make an indentation in the center of each.",
+        "sk": "Zmiešajte ingrediencie na hamburgery okrem oleja vo veľkej miske. Rozdeľte na 6 porcií a vytvarujte fašírky. Urobte priehlbinu v strede každej.",
+        "ja": "油以外のバーガーの材料を大きなボウルで混ぜ、6等分してパティを作ります。各パティの中央にくぼみを作ります。",
+        "primaryIngredient": "ground meat"
+      },
+      {
+        "time": 12,
+        "en": "Heat oil in a large skillet over medium-high heat. Cook burgers 5-6 minutes per side or until done to your liking.",
+        "sk": "Rozohrejte olej vo veľkej panvici na stredne vysokom ohni. Smažte hamburgery 5-6 minút z každej strany alebo kým nie sú hotové podľa vašej chuti.",
+        "ja": "大きなフライパンで中高温で油を熱し、バーガーを片面5〜6分、または好みの焼き加減になるまで調理します。",
+        "primaryIngredient": "burger patties"
+      },
+      {
+        "time": 3,
+        "en": "Toss all salad ingredients together. Serve burgers over salad and top with tzatziki sauce, using about 1/4 cup sauce per serving.",
+        "sk": "Zmiešajte všetky ingrediencie na šalát. Podávajte hamburgery na šaláte a navrch dajte tzatziki omáčku, použite asi 1/4 šálky omáčky na porciu.",
+        "ja": "全てのサラダの材料を混ぜ合わせます。サラダの上にバーガーを乗せ、1人分につき約1/4カップのザジキソースをかけて提供します。",
+        "primaryIngredient": "burgers and salad"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. The burgers can be frozen but not the salad or toppings. One medium lemon will yield about 2 tablespoons juice and 1 tablespoon zest for the entire recipe.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "573",
+      "protein": "32g",
+      "carbohydrates": "10g",
+      "fat": "45g"
+    }
+  }

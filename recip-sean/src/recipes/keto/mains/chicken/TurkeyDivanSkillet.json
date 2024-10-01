@@ -1,0 +1,62 @@
+{
+    "id": "turkey-divan-skillet-dinner",
+    "name": "Turkey Divan Skillet Dinner",
+    "ingredients": [
+      "20 ounces ground turkey or chicken",
+      "1 small onion, diced",
+      "1 stalk celery, diced",
+      "1/2 pound fresh mushrooms, sliced",
+      "12 ounces broccoli florets, cooked",
+      "Salt and pepper, to taste",
+      "Pinch curry powder",
+      "1/4 teaspoon xanthan gum",
+      "1/4 cup chicken broth",
+      "1/4 cup heavy cream",
+      "4 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet or wok"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown meat with onion, celery, and mushrooms until celery is tender. Drain grease.",
+        "sk": "Opečte mäso s cibuľou, zelerom a hubami, kým zeler nezmäkne. Zlejte mastnotu.",
+        "ja": "肉を玉ねぎ、セロリ、マッシュルームと一緒にセロリが柔らかくなるまで炒めます。脂を切ります。",
+        "primaryIngredient": "ground turkey or chicken"
+      },
+      {
+        "time": 5,
+        "en": "Stir in salt, pepper, and curry powder. Sprinkle xanthan gum over and quickly stir in.",
+        "sk": "Vmiešajte soľ, korenie a karí prášok. Posypte xantánovou gumou a rýchlo zamiešajte.",
+        "ja": "塩、コショウ、カレー粉を加えて混ぜます。キサンタンガムをふりかけ、素早く混ぜ込みます。",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 5,
+        "en": "Add broth and cream; bring to simmer. Cook and stir until sauce thickens.",
+        "sk": "Pridajte vývar a smotanu; priveďte do varu. Varte a miešajte, kým omáčka nezhustne.",
+        "ja": "ブロスとクリームを加えて沸騰させます。ソースが濃くなるまで調理し、かき混ぜます。",
+        "primaryIngredient": "broth and cream"
+      },
+      {
+        "time": 5,
+        "en": "Add broccoli and heat through. Adjust seasonings, add cheese and stir to melt.",
+        "sk": "Pridajte brokolicu a prehrejte. Upravte korenie, pridajte syr a miešajte, kým sa neroztopí.",
+        "ja": "ブロッコリーを加えて温めます。味を調整し、チーズを加えて溶けるまで混ぜます。",
+        "primaryIngredient": "broccoli and cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Can be frozen. For broccoli, use Mann's Broccoli Wokly and microwave for 1-2 minutes only. Remove from bag immediately after cooking to prevent overcooking.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "513",
+      "protein": "37g",
+      "carbohydrates": "9g",
+      "fat": "37g"
+    }
+  }

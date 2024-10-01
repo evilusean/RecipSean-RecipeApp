@@ -1,0 +1,57 @@
+{
+    "id": "spicy-chicken-and-spinach-casserole",
+    "name": "Spicy Chicken & Spinach Casserole",
+    "ingredients": [
+      "3 cups cooked, diced chicken",
+      "10 ounce package frozen chopped spinach, thawed and drained well",
+      "1 small onion, chopped",
+      "1 tablespoon butter",
+      "1/4 cup canned pickled jalapeños, roughly chopped, 1 ounce can",
+      "8 ounces cream cheese, softened",
+      "1/3 cup sour cream",
+      "10 ounce can Ro-tel tomatoes, drained (tomatoes with green chilies)",
+      "1/4 teaspoon cumin",
+      "1/2 teaspoon chili powder",
+      "8 ounces cheddar cheese, shredded",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "2 1/2 quart casserole dish",
+      "Skillet",
+      "Mixing bowl"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Mix chicken and spinach in a greased 2 1/2 quart casserole.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Sauté onion in butter until tender; add to the chicken.",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Stir in all remaining ingredients and mix well. Season with salt and pepper, to taste.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 50,
+        "en": "Bake, uncovered, at 350º for 40-50 minutes, until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 recipe",
+      "calories": "484",
+      "protein": "35g",
+      "carbohydrates": "7g",
+      "fat": "36g"
+    }
+  }

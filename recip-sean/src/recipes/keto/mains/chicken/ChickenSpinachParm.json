@@ -1,0 +1,52 @@
+{
+    "id": "chicken-and-spinach-parmesan",
+    "name": "Chicken and Spinach Parmesan",
+    "ingredients": [
+      "2 cups diced cooked chicken",
+      "10 ounces frozen spinach, drained well",
+      "1/2 cup sour cream",
+      "1/2 cup mayonnaise",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon pepper",
+      "3 ounces freshly grated parmesan cheese, 3/4 cup",
+      "1 ounce mozzarella cheese, shredded, 1/4 cup"
+    ],
+    "utensils": [
+      "8x8\" baking dish",
+      "Mixing bowl"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Arrange chicken and spinach in a greased 8x8\" baking dish.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Mix sour cream, mayonnaise, garlic powder, pepper, parmesan cheese, and mozzarella cheese.",
+        "primaryIngredient": "sour cream"
+      },
+      {
+        "time": 2,
+        "en": "Spread mixture over the chicken and spinach.",
+        "primaryIngredient": "sour cream mixture"
+      },
+      {
+        "time": 40,
+        "en": "Bake uncovered at 350º for 40 minutes or until the top is nicely browned.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze. Don't skimp on the baking. The topping needs to be quite brown for good flavor.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "530",
+      "protein": "34g",
+      "carbohydrates": "6g",
+      "fat": "41g"
+    }
+  }

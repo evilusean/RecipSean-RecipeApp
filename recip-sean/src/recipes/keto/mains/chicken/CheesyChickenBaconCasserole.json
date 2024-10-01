@@ -1,0 +1,66 @@
+{
+    "id": "cheesy-chicken-bacon-cabbage-casserole",
+    "name": "Cheesy Chicken Bacon Cabbage Casserole",
+    "ingredients": [
+      "8 slices bacon, chopped",
+      "1 medium cabbage, chopped, about 36 ounces",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "1 green or red bell pepper, chopped",
+      "2 tablespoons butter or bacon grease",
+      "Salt and pepper, to taste",
+      "4 cups diced cooked chicken breast, 18 ounces",
+      "1 cup sour cream",
+      "8 ounces cheddar cheese, shredded",
+      "4 ounces cheddar cheese, shredded",
+      "Paprika"
+    ],
+    "utensils": [
+      "Very large Dutch oven or wok",
+      "9x13\" baking pan",
+      "Paper towels"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Fry bacon until crisp; remove to paper towel-lined plate. Reserve 2 tablespoons grease if desired.",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Sauté cabbage, onions and bell peppers in butter or bacon grease until tender and wilted; season with salt and pepper.",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Stir in chicken, sour cream, bacon and 8 ounces of cheese. Adjust seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Spread mixture in greased 9x13\" baking pan. Top with 4 ounces of cheese and sprinkle with paprika.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 450º until golden brown and bubbly, about 20 minutes.",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 10,
+        "en": "Let stand about 10 minutes before serving.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8 servings. Do not freeze. A cup of sour cream is used rather than 8 ounces by weight.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "457",
+      "protein": "34g",
+      "carbohydrates": "11g",
+      "fat": "31g"
+    }
+  }

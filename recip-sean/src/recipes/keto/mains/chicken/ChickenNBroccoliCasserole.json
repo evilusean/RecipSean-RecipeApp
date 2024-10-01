@@ -1,0 +1,61 @@
+{
+    "id": "postghostys-chicken-and-broccoli-casserole",
+    "name": "Postghosty's Chicken and Broccoli Casserole",
+    "ingredients": [
+      "2-3 cups cooked chicken, diced",
+      "8 ounces frozen chopped broccoli, 2 cups cooked",
+      "1 batch Dottie's Mushroom Soup for Recipes",
+      "4 ounce can mushrooms, drained",
+      "8 ounces shredded cheddar cheese",
+      "Pinch curry powder, optional",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "9x9\" baking dish",
+      "Mixing bowl"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Arrange chicken in the bottom of baking dish. Season with salt and pepper.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Arrange broccoli over chicken; season with salt and pepper.",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 5,
+        "en": "In a bowl, mix soup, mushrooms, curry powder and half the cheese.",
+        "primaryIngredient": "mushroom soup"
+      },
+      {
+        "time": 2,
+        "en": "Spread mixture over the broccoli.",
+        "primaryIngredient": "mushroom soup"
+      },
+      {
+        "time": 1,
+        "en": "Top with the rest of the cheese.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350º for 20-30 minutes until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "668",
+      "protein": "49g",
+      "carbohydrates": "8g",
+      "fat": "49g"
+    }
+  }
