@@ -1,0 +1,76 @@
+{
+    "id": "keto-main_rouladen_flavored_pot_roast_001",
+    "name": "Rouladen-Flavored Pot Roast",
+    "ingredients": [
+      "3 1/4 pound boneless chuck roast",
+      "2 tablespoons Dijon mustard",
+      "Salt and pepper, to taste",
+      "2 tablespoons Onion Soup Mix",
+      "1 large onion, thickly sliced in rings, 5 ounces",
+      "3 slices bacon, coarsely chopped",
+      "3/4 cup water",
+      "1/4 cup dry white wine",
+      "1 teaspoon beef bouillon granules",
+      "1 pound carrots, optional *"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Heavy duty foil",
+      "Measuring cup",
+      "Oven"
+    ],
+    "cookingTime": 300,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Line a 9x13\" baking pan with heavy duty foil.",
+        "primaryIngredient": "foil"
+      },
+      {
+        "time": 5,
+        "en": "Place the roast in the pan and rub half of the mustard over the top. Season with salt, pepper and half of the onion soup mix. Turn the roast over and repeat on the other side.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 2,
+        "en": "Scatter the onion rings over the top, then scatter the pieces of bacon over the onions.",
+        "primaryIngredient": "onion and bacon"
+      },
+      {
+        "time": 3,
+        "en": "In a measuring cup, heat the water until boiling. Add the wine and bouillon; stir until the bouillon has dissolved.",
+        "primaryIngredient": "liquid mixture"
+      },
+      {
+        "time": 1,
+        "en": "Pour the liquid mixture around the meat.",
+        "primaryIngredient": "liquid mixture"
+      },
+      {
+        "time": 5,
+        "en": "If using carrots, peel and cut them into large chunks. Arrange around the roast and season lightly with salt and pepper.",
+        "primaryIngredient": "carrots"
+      },
+      {
+        "time": 240,
+        "en": "Cover tightly with foil and roast at 325°F for 3-4 hours.",
+        "primaryIngredient": "pot roast"
+      },
+      {
+        "time": 60,
+        "en": "Remove the foil and roast another 30-60 minutes to brown the onions and bacon.",
+        "primaryIngredient": "onions and bacon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 6 servings. The dish can be frozen. *Carrots are optional and not included in the nutritional counts.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "515 kcal",
+      "protein": "37g",
+      "carbohydrates": "3g",
+      "fat": "37g"
+    }
+  }

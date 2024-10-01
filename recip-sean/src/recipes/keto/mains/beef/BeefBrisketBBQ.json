@@ -1,0 +1,68 @@
+{
+    "id": "keto-main_nancys_beef_brisket_barbq_001",
+    "name": "Nancy's Beef Brisket Bar-B-Q",
+    "ingredients": [
+      "4-5 pound beef brisket, trimmed",
+      "2 teaspoons paprika",
+      "1 1/2 teaspoons salt",
+      "1/2 cup Better \"Heinz\" Ketchup",
+      "2 tablespoons vinegar",
+      "1/2 cup onion, chopped, 2 3/4 ounces",
+      "1 tablespoon Worcestershire sauce",
+      "1 1/2 teaspoons liquid smoke",
+      "1/2 teaspoon blackstrap molasses",
+      "3 tablespoons granular Splenda or equivalent liquid",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon pepper"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Heavy duty foil",
+      "Mixing bowl",
+      "Oven"
+    ],
+    "cookingTime": 240,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Combine 2 teaspoons paprika and 1 1/2 teaspoons salt, then rub this mixture all over both sides of the brisket.",
+        "primaryIngredient": "beef brisket"
+      },
+      {
+        "time": 2,
+        "en": "Put the meat in a 9x13\" baking pan lined with heavy duty foil.",
+        "primaryIngredient": "beef brisket"
+      },
+      {
+        "time": 10,
+        "en": "Combine the remaining ingredients (ketchup, vinegar, onion, Worcestershire sauce, liquid smoke, molasses, Splenda, 1/4 teaspoon salt, and pepper) in a bowl.",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Pour the sauce mixture over the meat.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Cover the baking pan tightly with foil.",
+        "primaryIngredient": "baking pan"
+      },
+      {
+        "time": 240,
+        "en": "Bake at 325°F for 3-4 hours.",
+        "primaryIngredient": "beef brisket"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 10 servings. The brisket can be frozen. Lining the baking pan with heavy duty foil helps with clean-up.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "420 kcal",
+      "protein": "50g",
+      "carbohydrates": "3g",
+      "fat": "22g"
+    }
+  }

@@ -1,0 +1,66 @@
+{
+    "id": "keto-main_stir_fried_beef_peppers_001",
+    "name": "Stir-Fried Beef & Peppers",
+    "ingredients": [
+      "1 tablespoon oil",
+      "1 pound top sirloin steak, sliced very thin against the grain",
+      "2 cloves garlic, minced",
+      "1 teaspoon fresh ginger, grated",
+      "1 small onion, sliced thin, 2 1/2 ounces",
+      "1 small yellow bell pepper, julienned, about 3 1/2 ounces",
+      "1 small red bell pepper, julienned, about 3 1/2 ounces",
+      "1 tablespoon soy sauce",
+      "1 tablespoon oyster sauce",
+      "1/4 teaspoon xanthan gum, optional",
+      "4 ounces raw baby spinach, about 8 cups loosely packed"
+    ],
+    "utensils": [
+      "Wok or large skillet",
+      "Grater",
+      "Measuring spoons"
+    ],
+    "cookingTime": 5,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Heat the oil in a wok or large skillet.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Stir-fry the beef, garlic and ginger over high heat just until the steak is partially browned and some pink remains, about 30 seconds to a minute.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 1,
+        "en": "Add the onions and peppers; stir-fry until tender-crisp, about 1 minute.",
+        "primaryIngredient": "onions and peppers"
+      },
+      {
+        "time": 1,
+        "en": "Stir in the soy sauce and oyster sauce.",
+        "primaryIngredient": "sauces"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle the xanthan gum over the meat and vegetables then stir in well. Cook very briefly just until the sauce thickens and coats everything.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 1,
+        "en": "Serve over the raw spinach.",
+        "primaryIngredient": "spinach"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Do not freeze. The spinach will wilt down as the hot beef mixture sits on it, providing just the right amount to get a bite of spinach with each forkful of the beef and peppers.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "203 kcal",
+      "protein": "25g",
+      "carbohydrates": "7g",
+      "fat": "8g"
+    }
+  }

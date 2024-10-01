@@ -1,0 +1,59 @@
+{
+    "id": "keto-main_pot_roast_001",
+    "name": "Pot Roast",
+    "ingredients": [
+      "Chuck roast",
+      "Toasted or regular minced dried onion *",
+      "Toasted or regular onion powder",
+      "Garlic powder",
+      "Salt",
+      "Pepper",
+      "Any other desired seasonings",
+      "Carrots, in large chunks, optional",
+      "Other low carb vegetables suitable for roasting (onions, celery, turnips, rutabaga, etc.), cut into chunks, optional"
+    ],
+    "utensils": [
+      "Roasting pan or 9x13\" baking pan",
+      "Heavy foil",
+      "Oven"
+    ],
+    "cookingTime": 300,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place the chuck roast in a roasting pan or 9x13\" baking pan.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 3,
+        "en": "Sprinkle the roast liberally with your desired seasonings on both sides.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 5,
+        "en": "If using, arrange the carrots and other vegetables around the meat and sprinkle them with seasonings.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Cover the pan with heavy foil.",
+        "primaryIngredient": "pan"
+      },
+      {
+        "time": 300,
+        "en": "Roast at 325°F for about 4-5 hours until tender.",
+        "primaryIngredient": "pot roast"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "The number of servings will vary with size of roast. The dish can be frozen. *You could use a package of dry onion soup mix, but it's high in carbs. Another option is to use low carb Onion Soup Mix. Figure about 3 net carbs per serving for the meat only, plus whatever veggies you add.",
+    "nutritionalInformation": {
+      "amount": "1 serving (with carrots)",
+      "calories": "273 kcal",
+      "protein": "32g",
+      "carbohydrates": "6g",
+      "fat": "13g"
+    }
+  }

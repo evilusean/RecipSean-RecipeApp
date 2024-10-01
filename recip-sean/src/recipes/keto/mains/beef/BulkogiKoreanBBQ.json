@@ -1,0 +1,70 @@
+{
+    "id": "keto-main_bulkogi_korean_barbecue_001",
+    "name": "Bulkogi (Korean Barbecue)",
+    "ingredients": [
+      "2 pounds top sirloin steak",
+      "5 tablespoons soy sauce",
+      "1/4 cup granulated Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon black pepper",
+      "1/4 cup green onion, chopped",
+      "1 tablespoon garlic, minced",
+      "1 tablespoon sesame oil",
+      "5 tablespoon water",
+      "Leaf lettuce, optional"
+    ],
+    "utensils": [
+      "Ziploc bag",
+      "Baking pan",
+      "Contact-type grill or nonstick skillet",
+      "Serving plate"
+    ],
+    "cookingTime": 15,
+    "prepTime": 75,
+    "instructions": [
+      {
+        "time": 60,
+        "en": "Partially freeze the beef for about an hour to make it easier to slice.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 10,
+        "en": "Slice the beef as thinly as possible against the grain. It should be in very thin slices, but not falling apart.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 5,
+        "en": "Mix all of the remaining ingredients except the lettuce to create the marinade.",
+        "primaryIngredient": "marinade ingredients"
+      },
+      {
+        "time": 60,
+        "en": "Pour marinade over the meat and marinate for at least 1 hour, turning occasionally.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "Preheat a contact-type grill or nonstick skillet.",
+        "primaryIngredient": "grill"
+      },
+      {
+        "time": 10,
+        "en": "Grill the meat in batches without closing the lid. Turn meat after a few seconds to brown the other side and remove to a serving plate; repeat with remaining meat.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 1,
+        "en": "Serve beef rolled up in lettuce leaves if desired.",
+        "primaryIngredient": "beef"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 6-8 servings. The beef can be frozen. You can sauté the meat in a nonstick skillet if you don't have a contact-type grill. Nutritional information is provided for both 1/6 and 1/8 of the recipe.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "223 kcal",
+      "protein": "31g",
+      "carbohydrates": "3g",
+      "fat": "9g"
+    }
+  }

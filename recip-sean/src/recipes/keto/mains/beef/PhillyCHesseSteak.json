@@ -1,0 +1,57 @@
+{
+    "id": "keto-main_philly_cheesesteak_001",
+    "name": "Philly Cheesesteak",
+    "ingredients": [
+      "1 steak",
+      "1/4 cup onion, sliced or chopped, 1 1/2 ounces",
+      "1/2 green pepper, sliced or chopped, about 3 ounces",
+      "1/4 of a 4 ounce can mushrooms, drained",
+      "Butter or oil",
+      "Salt and pepper, to taste",
+      "1/2 ounce provolone cheese or Monterey jack cheese, sliced"
+    ],
+    "utensils": [
+      "Grill or skillet",
+      "Sauté pan",
+      "Broiler"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Season and grill the steak as desired. Leave whole or slice into bite-sized pieces.",
+        "primaryIngredient": "steak"
+      },
+      {
+        "time": 8,
+        "en": "Sauté the onion, pepper, and mushrooms in butter or oil until they caramelize. Season to taste.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Top the steak with the sautéed vegetables.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Place sliced cheese on top of the vegetables.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Broil to melt the cheese.",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 1 serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "461 kcal",
+      "protein": "21g",
+      "carbohydrates": "9g",
+      "fat": "38g"
+    }
+  }

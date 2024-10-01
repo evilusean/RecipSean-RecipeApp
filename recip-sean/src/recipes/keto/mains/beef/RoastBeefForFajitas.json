@@ -1,0 +1,56 @@
+{
+    "id": "keto-main_roast_beef_for_fajitas_001",
+    "name": "Roast Beef for Fajitas",
+    "ingredients": [
+      "1 chuck roast",
+      "1/2 bottle Figaro Fajita marinade, 4 ounces",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Slow cooker"
+    ],
+    "cookingTime": 540,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place the chuck roast in a slow cooker; season with salt and pepper.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 1,
+        "en": "Pour the Figaro Fajita marinade over the roast.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 60,
+        "en": "Cover and cook on HIGH for about 1 hour.",
+        "primaryIngredient": "roast"
+      },
+      {
+        "time": 420,
+        "en": "Turn to LOW and cook for 6-8 more hours, turning the roast once during cooking time.",
+        "primaryIngredient": "roast"
+      },
+      {
+        "time": 5,
+        "en": "Slice, chop or shred the beef.",
+        "primaryIngredient": "roast"
+      },
+      {
+        "time": 2,
+        "en": "Serve with desired fajita toppings.",
+        "primaryIngredient": "beef"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "The number of servings varies. Carb count is negligible before adding toppings. Suggested toppings include sautéed green peppers, onions, lettuce, salsa, sour cream, guacamole, and cheese.",
+    "nutritionalInformation": {
+      "amount": "1 serving (without toppings)",
+      "calories": "322 kcal",
+      "protein": "24g",
+      "carbohydrates": "trace",
+      "fat": "24g"
+    }
+  }

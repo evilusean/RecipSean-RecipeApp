@@ -1,0 +1,62 @@
+{
+    "id": "keto-main_dotties_carne_guisada_001",
+    "name": "Dottie's Carne Guisada",
+    "ingredients": [
+      "2 pound chuck roast, trimmed and cubed",
+      "2 tablespoons oil",
+      "1 small onion, diced, 2 1/2 ounces",
+      "4 ounces canned chopped green chiles",
+      "14 ounces beef broth",
+      "14.5 ounce can diced tomatoes, undrained",
+      "2 jalapeño peppers, chopped",
+      "2 tablespoons chili powder",
+      "1 teaspoon garlic powder",
+      "1 teaspoon onion powder",
+      "1 teaspoon cumin",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large Dutch oven (8-quart recommended)",
+      "Colander (optional)",
+      "Two forks (for shredding, optional)"
+    ],
+    "cookingTime": 140,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "In a large Dutch oven, heat the oil over medium-high heat. Brown the beef cubes on all sides.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 5,
+        "en": "Add all of the remaining ingredients; bring to a simmer.",
+        "primaryIngredient": "vegetables and spices"
+      },
+      {
+        "time": 120,
+        "en": "Cover and simmer for 2 hours or until the beef is very tender.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 10,
+        "en": "Remove the lid and raise the heat. Simmer until the liquid has thickened, about 10 minutes.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 5,
+        "en": "Serve in low carb tortillas or over chopped lettuce, if desired. Top with cheese, sour cream, guacamole, etc. as preferred.",
+        "primaryIngredient": "beef"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4-6 servings. The dish can be frozen. An alternative method for thickening is provided using xanthan gum. The recipe can accommodate a 3 or 4 pound roast to stretch servings. Nutritional information is provided for both 1/4 and 1/6 of the recipe. The counts do not include optional tortillas, lettuce, or toppings.",
+    "nutritionalInformation": {
+      "amount": "1/4 recipe",
+      "calories": "440 kcal",
+      "protein": "49g",
+      "carbohydrates": "11g",
+      "fat": "22g"
+    }
+  }

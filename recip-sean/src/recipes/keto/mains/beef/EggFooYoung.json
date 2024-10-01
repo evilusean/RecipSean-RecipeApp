@@ -1,0 +1,76 @@
+{
+    "id": "keto-main_egg_foo_yung_001",
+    "name": "Egg Foo Yung",
+    "ingredients": [
+      "2-3 eggs",
+      "1/2 teaspoon soy sauce, about",
+      "Salt and pepper, to taste",
+      "1 teaspoon butter",
+      "1/2 serving Spicy Asian Cabbage (or choice of vegetables and meats)"
+    ],
+    "utensils": [
+      "Medium nonstick skillet",
+      "Whisk",
+      "Microwave",
+      "Spatula"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Warm the cabbage mixture (or your choice of vegetables and meats) in the microwave and set aside.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Heat the butter in a medium nonstick skillet over medium heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Whisk the eggs, soy sauce, salt, and pepper. Go easy on the salt because the soy sauce is salty.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "When the butter is hot, pour in half of the egg mixture and swirl to spread it over the entire bottom of the pan.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Top with the vegetable/meat mixture, covering the entire surface of the eggs.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Pour the remaining egg mixture all over the top of the vegetables, coating them as well as possible.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 3,
+        "en": "Cook until the egg is set on the bottom and slightly browned.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 3,
+        "en": "Carefully flip the whole pancake over and cook on the other side until lightly browned.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Slide the egg pancake out onto a serving plate.",
+        "primaryIngredient": "egg pancake"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 1 serving. Do not freeze. The Spicy Asian Cabbage can be replaced with other vegetables and meats. Suggestions include sautéed onion, broccoli slaw, cabbage, mushrooms, leftover diced meat, peppers and onions from fajitas, leftover taco meat, cheese, and salsa.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "232 kcal",
+      "protein": "14g",
+      "carbohydrates": "5g",
+      "fat": "17g"
+    }
+  }

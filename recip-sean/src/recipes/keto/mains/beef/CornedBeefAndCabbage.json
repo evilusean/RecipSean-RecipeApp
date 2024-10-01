@@ -1,0 +1,59 @@
+{
+    "id": "keto-main_paulas_easy_corned_beef_cabbage_001",
+    "name": "Paula's Easy Corned Beef & Cabbage",
+    "ingredients": [
+      "4 pieces bacon, coarsely chopped",
+      "4 tablespoons butter",
+      "1 small cabbage, coarsely chopped, 25 ounces",
+      "Salt and pepper, to taste",
+      "12 ounce can corned beef, broken into chunks",
+      "1/3 cup water"
+    ],
+    "utensils": [
+      "Large skillet with lid"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a large skillet with a lid, cook the bacon until almost crisp. Remove the bacon but keep the fat in the skillet.",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 2,
+        "en": "Add the butter to the fat and heat over medium heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 3,
+        "en": "Add the cabbage and stir to coat it with fat. Add 1/3 cup water and salt and pepper, going easy on the salt.",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 15,
+        "en": "Cover and cook 10-15 minutes, until the cabbage is tender.",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Add the corned beef and bacon. Cook, uncovered, until everything is hot and some of the liquid has evaporated.",
+        "primaryIngredient": "corned beef"
+      },
+      {
+        "time": 1,
+        "en": "Adjust the seasonings to taste.",
+        "primaryIngredient": "salt and pepper"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4-6 servings. Do not freeze. Nutritional information is provided for both 1/4 and 1/6 of the recipe.",
+    "nutritionalInformation": {
+      "amount": "1/4 recipe",
+      "calories": "395 kcal",
+      "protein": "28g",
+      "carbohydrates": "10g",
+      "fat": "28g"
+    }
+  }

@@ -1,0 +1,63 @@
+{
+    "id": "keto-main_pot_roast_mushroom_tomato_sauce_001",
+    "name": "Pot Roast with Mushroom Tomato Sauce",
+    "ingredients": [
+      "3 pound boneless chuck roast",
+      "Salt and pepper, to taste",
+      "1/2 teaspoon onion powder",
+      "1 medium onion, sliced thin, 4 ounces",
+      "4 ounce can mushrooms",
+      "8 ounce can tomato sauce",
+      "Oil for browning"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Heavy duty foil",
+      "Skillet for browning",
+      "Oven"
+    ],
+    "cookingTime": 250,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the meat on both sides in hot oil.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 2,
+        "en": "Line a 9x13\" baking pan with heavy duty foil and place the browned meat in it.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 2,
+        "en": "Season the meat with salt, pepper and onion powder.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 3,
+        "en": "Top the meat with the sliced onions, canned mushrooms, and tomato sauce.",
+        "primaryIngredient": "vegetables and sauce"
+      },
+      {
+        "time": 1,
+        "en": "Cover the baking pan with foil.",
+        "primaryIngredient": "baking pan"
+      },
+      {
+        "time": 240,
+        "en": "Bake at 325°F for about 4 hours until tender.",
+        "primaryIngredient": "pot roast"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 6-8 servings. The dish can be frozen.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "494 kcal",
+      "protein": "37g",
+      "carbohydrates": "4g",
+      "fat": "35g"
+    }
+  }

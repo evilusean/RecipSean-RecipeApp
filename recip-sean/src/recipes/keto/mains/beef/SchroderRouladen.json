@@ -1,0 +1,72 @@
+{
+    "id": "keto-main_grandma_schroeders_rouladen_001",
+    "name": "Grandma Schroeder's Rouladen",
+    "ingredients": [
+      "Rump roast, sliced 1/8\" thick against the grain",
+      "Salt and pepper, to taste",
+      "Bacon, raw, 1 piece per slice of meat",
+      "Small onion, minced, 2 1/2 ounces",
+      "Dijon mustard, optional",
+      "Oil for browning"
+    ],
+    "utensils": [
+      "Skillet",
+      "Roasting pan",
+      "Toothpicks or string",
+      "Oven"
+    ],
+    "cookingTime": 150,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Spread each slice of beef with a little mustard (if using) and season with salt & pepper.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 5,
+        "en": "Top each slice with 1 slice of bacon and sprinkle with a little of the minced onion.",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Roll each up to form a meat roll. Secure with toothpicks or string.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 10,
+        "en": "Brown the rolls well on all sides in hot oil in a skillet.",
+        "primaryIngredient": "beef rolls"
+      },
+      {
+        "time": 2,
+        "en": "Place browned rolls in a roasting pan.",
+        "primaryIngredient": "beef rolls"
+      },
+      {
+        "time": 30,
+        "en": "Cover the pan and roast at 350°F, just until you can smell them cooking.",
+        "primaryIngredient": "beef rolls"
+      },
+      {
+        "time": 120,
+        "en": "Turn heat down to 300°F. Roast for 2 hours, turning them once to brown evenly.",
+        "primaryIngredient": "beef rolls"
+      },
+      {
+        "time": 3,
+        "en": "Remove toothpicks, string or thread before serving.",
+        "primaryIngredient": "beef rolls"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "The number of servings will depend on the amount of meat. Grandma recommends 1/2 pound per person. The dish can be frozen. Traditionally, the pan is deglazed with hot water to make gravy, but serving with pan juices is also an option.",
+    "nutritionalInformation": {
+      "amount": "1 serving (estimate)",
+      "calories": "588 kcal",
+      "protein": "58g",
+      "carbohydrates": "1g",
+      "fat": "37g"
+    }
+  }

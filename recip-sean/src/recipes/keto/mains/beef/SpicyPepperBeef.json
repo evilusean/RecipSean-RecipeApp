@@ -1,0 +1,76 @@
+{
+    "id": "keto-main_spicy_pepper_beef_001",
+    "name": "Spicy Pepper Beef",
+    "ingredients": [
+      "2 pounds top sirloin steak, sliced thinly across the grain",
+      "3 tablespoons oil, divided",
+      "1 teaspoon fresh ginger, grated",
+      "1 teaspoon crushed red pepper",
+      "2 green bell peppers, julienned",
+      "1 red bell pepper, julienned",
+      "1 medium onion, sliced thin, 4 ounces",
+      "1 teaspoon granular Splenda",
+      "1/4 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1 tablespoon sesame oil",
+      "1/2 teaspoon xanthan gum, optional",
+      "Marinade:",
+      "6 tablespoons soy sauce",
+      "1/4 teaspoon pepper"
+    ],
+    "utensils": [
+      "Zipper bag",
+      "Large nonstick skillet or wok",
+      "Measuring spoons",
+      "Grater"
+    ],
+    "cookingTime": 10,
+    "prepTime": 40,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Put the sliced beef in a zipper bag and add the marinade (soy sauce and pepper). Marinate in the refrigerator for 30 minutes to 1 hour.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 1,
+        "en": "Heat 2 tablespoons of oil in a large nonstick skillet or wok over medium-high heat.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 1,
+        "en": "Add the ginger and crushed red pepper. Cook and stir for 5 seconds.",
+        "primaryIngredient": "ginger and red pepper"
+      },
+      {
+        "time": 2,
+        "en": "Add the beef and marinade. Stir-fry just until the meat is no longer pink, about 1-2 minutes. Remove the beef and keep warm.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "Add the peppers and onions to the pan with the remaining tablespoon of oil. Cook until tender-crisp, 1-2 minutes.",
+        "primaryIngredient": "peppers and onions"
+      },
+      {
+        "time": 1,
+        "en": "Return the beef to the pan; stir in the Splenda, salt, pepper and sesame oil.",
+        "primaryIngredient": "beef"
+      },
+      {
+        "time": 2,
+        "en": "Optional: To thicken the sauce, push the meat and peppers to one side of the pan. Sprinkle the xanthan gum over the meat. Quickly stir it in and toss everything together.",
+        "primaryIngredient": "xanthan gum"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 6 servings. Do not freeze. The sauce should thicken by serving time without further cooking if xanthan gum is used.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "300 kcal",
+      "protein": "32g",
+      "carbohydrates": "7g",
+      "fat": "16g"
+    }
+  }

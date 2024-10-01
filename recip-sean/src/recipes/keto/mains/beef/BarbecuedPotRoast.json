@@ -1,0 +1,72 @@
+{
+    "id": "keto-main_laredo_barbecued_pot_roast_001",
+    "name": "Laredo Barbecued Pot Roast",
+    "ingredients": [
+      "3 pound boneless chuck roast",
+      "1 small onion, coarsely chopped, 2 1/2 ounces",
+      "1 clove garlic, chopped",
+      "8 ounce can tomato sauce",
+      "1/4 cup granular Splenda or equivalent liquid Splenda",
+      "2 tablespoons vinegar",
+      "1 teaspoon yellow mustard",
+      "1 tablespoon Worcestershire sauce",
+      "2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1 teaspoon liquid smoke, optional",
+      "Oil for browning"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Slow cooker",
+      "Small bowl"
+    ],
+    "cookingTime": 360,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the roast in hot oil in a large skillet.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 2,
+        "en": "Place the browned roast in a slow cooker.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 5,
+        "en": "Sauté the onion and garlic in the pan drippings.",
+        "primaryIngredient": "onion and garlic"
+      },
+      {
+        "time": 1,
+        "en": "Add the sautéed onion and garlic to the slow cooker.",
+        "primaryIngredient": "onion and garlic"
+      },
+      {
+        "time": 5,
+        "en": "In a small bowl, mix the remaining ingredients (tomato sauce, Splenda, vinegar, mustard, Worcestershire sauce, salt, pepper, and liquid smoke if using).",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 1,
+        "en": "Pour the sauce mixture over the roast in the slow cooker.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 360,
+        "en": "Cook on LOW for 6 hours.",
+        "primaryIngredient": "pot roast"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 8 servings. The dish can be frozen.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "371 kcal",
+      "protein": "27g",
+      "carbohydrates": "3.5g",
+      "fat": "27g"
+    }
+  }

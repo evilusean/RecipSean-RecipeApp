@@ -1,0 +1,65 @@
+{
+    "id": "keto-main_philly_cheesesteak_melt_001",
+    "name": "Philly Cheesesteak Melt",
+    "ingredients": [
+      "Frozen wafer-thin beef steaks, such as Steak-Umm or Philly Gourmet",
+      "Red bell pepper, chopped",
+      "Green bell pepper, chopped",
+      "Onion, chopped",
+      "Mushrooms, sliced",
+      "Butter",
+      "Salt and pepper, to taste",
+      "Sliced or shredded cheese (Swiss, provolone, cheddar, etc.)"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Serving bowl or casserole",
+      "Two forks",
+      "Microwave",
+      "Plates"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "In a large skillet, sauté the chopped peppers, onions, and mushrooms in butter until tender. Season to taste.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Transfer sautéed vegetables to a serving bowl or casserole and keep warm.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Heat the skillet on medium-high heat.",
+        "primaryIngredient": "skillet"
+      },
+      {
+        "time": 5,
+        "en": "Add the frozen steaks to the skillet. Break them into smaller pieces if desired. Cook as directed on the package; season with salt and pepper.",
+        "primaryIngredient": "beef steaks"
+      },
+      {
+        "time": 2,
+        "en": "Add the vegetable mixture to the cooked steaks and toss together with two forks to slightly break up the meat.",
+        "primaryIngredient": "beef and vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Arrange each serving on a plate, top with cheese and microwave until the cheese is melted.",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe's serving size and carb count can vary depending on the amount of ingredients used. The nutritional information provided is an estimate. This is a quick and tasty supper option.",
+    "nutritionalInformation": {
+      "amount": "1 serving (estimate)",
+      "calories": "439 kcal",
+      "protein": "25g",
+      "carbohydrates": "7g",
+      "fat": "32g"
+    }
+  }

@@ -1,0 +1,81 @@
+{
+    "id": "keto-main_beef_stroganoff_001",
+    "name": "Beef Stroganoff",
+    "ingredients": [
+      "3 cups beef broth (2 cans)",
+      "1 small carrot, chopped",
+      "1 bay leaf",
+      "3 tablespoons butter *",
+      "1 pound fresh mushrooms, sliced",
+      "2 pound chuck roast, cut into 1\" cubes",
+      "Salt and pepper, to taste",
+      "3 tablespoons oil",
+      "4 ounces onion, chopped (1 medium)",
+      "3 cloves garlic, minced",
+      "2 tablespoons dry white wine",
+      "2 tablespoons sour cream",
+      "1 tablespoon Dijon mustard",
+      "2 tablespoons fresh parsley, chopped",
+      "1/4 teaspoon xanthan gum, optional"
+    ],
+    "utensils": [
+      "Medium or large pot",
+      "Large Dutch oven",
+      "Small bowl",
+      "Strainer"
+    ],
+    "cookingTime": 150,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Bring the broth, carrot and bay leaf to a boil in a pot. Remove from heat and let stand.",
+        "primaryIngredient": "beef broth"
+      },
+      {
+        "time": 10,
+        "en": "Melt butter in a large Dutch oven. Sauté mushrooms until tender and browned; remove and set aside.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 15,
+        "en": "Pat meat cubes dry, season with salt and pepper. Brown meat in oil in two batches.",
+        "primaryIngredient": "chuck roast"
+      },
+      {
+        "time": 10,
+        "en": "Add onions and garlic to the meat; cook until onion is soft.",
+        "primaryIngredient": "onions and garlic"
+      },
+      {
+        "time": 5,
+        "en": "Add wine and strain the beef broth into the pot, discarding carrot and bay leaf.",
+        "primaryIngredient": "wine and broth"
+      },
+      {
+        "time": 120,
+        "en": "Simmer, partly covered, for 1 1/2-2 hours or until meat is very tender.",
+        "primaryIngredient": "meat"
+      },
+      {
+        "time": 5,
+        "en": "Add mushrooms, sour cream, mustard and parsley. Adjust seasonings.",
+        "primaryIngredient": "mushrooms and seasonings"
+      },
+      {
+        "time": 5,
+        "en": "Optional: To thicken, sprinkle xanthan gum over meat, mix well, and let sit on low heat for a few minutes.",
+        "primaryIngredient": "xanthan gum"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 6 servings. Do not freeze. *The original recipe called for more butter and oil for sautéing mushrooms, but this can be reduced to 2-3 tablespoons of butter. If serving over noodles for non-keto eaters, the initial broth pot can be reused for cooking noodles.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "476 kcal",
+      "protein": "28g",
+      "carbohydrates": "5g",
+      "fat": "38g"
+    }
+  }

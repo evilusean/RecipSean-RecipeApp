@@ -1,0 +1,76 @@
+{
+    "id": "keto-main_lorraines_beef_stroganoff_001",
+    "name": "Lorraine's Beef Stroganoff",
+    "ingredients": [
+      "1 pound braising steak, cut in strips (chuck or round steak will do)",
+      "2-4 tablespoons butter",
+      "1 medium onion, chopped, 3 1/2 ounces",
+      "2 cloves garlic, minced",
+      "1/2 pound mushrooms, sliced",
+      "1 beef bouillon cube",
+      "1 cup boiling water",
+      "1/2 teaspoon marjoram",
+      "2 tablespoons sour cream",
+      "Pinch fresh parsley, chopped, optional",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Large covered casserole",
+      "Oven"
+    ],
+    "cookingTime": 100,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a large skillet, brown the meat in butter.",
+        "primaryIngredient": "braising steak"
+      },
+      {
+        "time": 2,
+        "en": "Add the onion; cook a couple minutes until they start to brown.",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 3,
+        "en": "Add garlic and mushrooms; season with salt and pepper. Cook about 3 minutes.",
+        "primaryIngredient": "garlic and mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Dissolve the bouillon cube in the boiling water; stir into the meat.",
+        "primaryIngredient": "beef bouillon"
+      },
+      {
+        "time": 2,
+        "en": "Bring to a boil, then transfer to a large covered casserole.",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 90,
+        "en": "Bake at 325°F, covered, for 1 to 1 1/2 hours. Stir and check every 30 minutes to see if meat is tender.",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the marjoram and sour cream. Do not boil.",
+        "primaryIngredient": "marjoram and sour cream"
+      },
+      {
+        "time": 1,
+        "en": "Stir in the parsley, if using.",
+        "primaryIngredient": "parsley"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Do not freeze. Can be served over Faux Rice.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "392 kcal",
+      "protein": "18g",
+      "carbohydrates": "5g",
+      "fat": "33g"
+    }
+  }
