@@ -1,0 +1,94 @@
+{
+    "id": "keto-main_home_style_chicken_packets_001",
+    "name": "Home Style Chicken Packets",
+    "ingredients": [
+      "4 sheets heavy duty foil, 12 x 18\"",
+      "4 boneless chicken breasts",
+      "1/2 pound mushrooms, sliced",
+      "2 medium zucchini, sliced about 1/4-1/2\" thick, 14 ounces",
+      "2-3 green onions, cut in 1\" pieces, optional",
+      "Salt and pepper, to taste",
+      "Herbs and spices, to taste",
+      "4-5 pats butter"
+    ],
+    "utensils": [
+      "Oven",
+      "9 x 13\" glass baking pan (for alternate method)"
+    ],
+    "cookingTime": 24,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Put 1 chicken breast in the center of each piece of foil.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Season both sides of the chicken with salt, pepper, and desired herbs and spices.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 5,
+        "en": "Cover the chicken with sliced mushrooms, zucchini, and green onions (if using). Season vegetables to taste.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Place pats of butter on top of the vegetables.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 5,
+        "en": "Fold up the foil to form packets, leaving room for circulation.",
+        "primaryIngredient": "foil packets"
+      },
+      {
+        "time": 24,
+        "en": "Bake at 450°F (230°C) for 20-24 minutes.",
+        "primaryIngredient": "chicken packets"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Do not freeze. An alternate method is provided for baking in a glass pan.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "261 kcal",
+      "protein": "29g",
+      "carbohydrates": "6g",
+      "fat": "13g"
+    },
+    "alternateMethod": [
+      {
+        "time": 2,
+        "en": "Spray a 9 x 13\" glass baking pan with cooking spray.",
+        "primaryIngredient": "baking pan"
+      },
+      {
+        "time": 2,
+        "en": "Place the 4 chicken breasts in the pan and season both sides.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Cover with vegetables and season to taste.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Place pats of butter on top of the vegetables.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Cover the pan with heavy foil.",
+        "primaryIngredient": "foil"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 450°F (230°C) for 30-35 minutes, or until the chicken is done.",
+        "primaryIngredient": "chicken and vegetables"
+      }
+    ]
+  }

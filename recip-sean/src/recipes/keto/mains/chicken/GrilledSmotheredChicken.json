@@ -1,0 +1,71 @@
+{
+    "id": "keto-main_grilled_smothered_chicken_001",
+    "name": "Grilled Smothered Chicken",
+    "ingredients": [
+      "6 boneless chicken breasts",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Desired seasonings, to taste",
+      "Butter, amount as needed",
+      "8 ounces fresh mushrooms, sliced",
+      "1 green pepper, chopped, about 6 ounces",
+      "1/2 cup onion, chopped, 2 1/2 ounces",
+      "1 clove garlic, minced",
+      "8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Grill",
+      "Skillet",
+      "Baking sheet",
+      "Oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Flatten the chicken breasts, if desired. Sprinkle with salt, pepper, and desired seasonings.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the chicken until done to your taste.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Meanwhile, sauté the mushrooms, green pepper, onion, and garlic in butter until tender.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Place the grilled chicken on a baking sheet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Cover the chicken with the sautéed vegetables.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Smother the vegetables with shredded cheddar cheese.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "Bake at 350°F (175°C) for about 5 minutes, until the cheese is melted.",
+        "primaryIngredient": "assembled dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 6 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "332 kcal",
+      "protein": "38g",
+      "carbohydrates": "5g",
+      "fat": "18g"
+    }
+  }

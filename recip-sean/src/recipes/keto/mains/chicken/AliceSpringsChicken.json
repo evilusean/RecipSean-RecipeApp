@@ -1,0 +1,70 @@
+{
+    "id": "keto-main_alice_springs_chicken_001",
+    "name": "Alice Springs Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "8 pieces bacon, coarsely chopped",
+      "8 ounces fresh mushrooms, sliced",
+      "1 tablespoon butter",
+      "1 clove garlic, minced",
+      "4 ounces cheddar cheese, shredded",
+      "Seasonings of your choice (e.g., Spicy Seasoning Salt)",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Grill",
+      "Skillet",
+      "Paper towels",
+      "Foil-lined baking sheet",
+      "Broiler"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season the chicken breasts with your choice of seasonings.",
+        "primaryIngredient": "chicken breasts"
+      },
+      {
+        "time": 10,
+        "en": "Grill the chicken until just done. Keep warm.",
+        "primaryIngredient": "chicken breasts"
+      },
+      {
+        "time": 5,
+        "en": "In a skillet, fry the bacon until crisp. Drain on paper towels.",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "In the same skillet, sauté the mushrooms and garlic in butter. Season with salt to taste. Cook until juices have evaporated.",
+        "primaryIngredient": "mushrooms and garlic"
+      },
+      {
+        "time": 2,
+        "en": "Place the grilled chicken on a foil-lined baking sheet.",
+        "primaryIngredient": "chicken breasts"
+      },
+      {
+        "time": 2,
+        "en": "Top each piece of chicken with 1/4 of the mushrooms and bacon, then with the shredded cheese.",
+        "primaryIngredient": "mushrooms, bacon, and cheese"
+      },
+      {
+        "time": 3,
+        "en": "Broil until cheese is melted and bubbly.",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. The author thinks this could be frozen.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "356 kcal",
+      "protein": "40g",
+      "carbohydrates": "3g",
+      "fat": "20g"
+    }
+  }

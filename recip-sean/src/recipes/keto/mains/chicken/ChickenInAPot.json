@@ -1,0 +1,85 @@
+{
+    "id": "keto-main_chicken_in_crockpot_001",
+    "name": "Chicken in a Crockpot",
+    "ingredients": [
+      "1 whole chicken, about 4 1/2 pounds (or size that fits your slow cooker)",
+      "Salt",
+      "Pepper",
+      "Other seasonings of your choice"
+    ],
+    "utensils": [
+      "Slow cooker (Crock Pot)",
+      "Large plate or container",
+      "Knife for cutting (optional)",
+      "Containers for freezing (optional)",
+      "Strainer (for broth)"
+    ],
+    "cookingTime": 360,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Place the chicken in the crock pot; sprinkle desired seasonings inside the cavity and all over the outside. Use plenty of salt to avoid bland taste.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Turn breast side up in the slow cooker; add no liquid.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 360,
+        "en": "Cover and cook on LOW for 5-6 hours (or up to 10 hours if needed, but chicken will be very well done).",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Carefully remove the chicken from the cooker to a large plate or container.",
+        "primaryIngredient": "cooked chicken"
+      },
+      {
+        "time": 15,
+        "en": "Cut into serving size pieces, or pull the meat off the bones for use in other recipes.",
+        "primaryIngredient": "cooked chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "One 4 1/2 pound chicken will yield about 4 cups diced chicken. Can be frozen in 2-cup containers for later use.",
+    "variations": [
+      {
+        "name": "Chicken Breasts in a Crock Pot",
+        "ingredients": [
+          "Split chicken breasts with skin and bones",
+          "Salt, pepper or other seasonings"
+        ],
+        "instructions": [
+          "Season the chicken breasts and place in the slow cooker; add no liquid.",
+          "Cover and cook on LOW for 5 hours.",
+          "Remove chicken pieces and allow to cool before deboning.",
+          "Cut up the meat for immediate use or freeze for later."
+        ],
+        "notes": "9 chicken breasts yield about 8 cups cubed chicken. After 5 hours, the chicken should be perfectly done, tender, and juicy."
+      }
+    ],
+    "additionalRecipes": [
+      {
+        "name": "Crock Pot Chicken Broth",
+        "ingredients": [
+          "Bones from cooked chicken",
+          "Cooking liquid from slow cooker",
+          "6-8 cups cold water",
+          "Additional seasoning to taste"
+        ],
+        "instructions": [
+          "Put all the bones back in the slow cooker with any remaining cooking liquid.",
+          "Add 6-8 cups cold water and a bit more seasoning.",
+          "Cook on HIGH for about 3 hours.",
+          "Strain out the bones and let the broth chill overnight.",
+          "Once cold, skim off any fat from the top.",
+          "Divide broth into individual containers and freeze for later use."
+        ],
+        "notes": "Can be divided into 1 and 2 cup containers. Label and date containers before freezing."
+      }
+    ]
+  }

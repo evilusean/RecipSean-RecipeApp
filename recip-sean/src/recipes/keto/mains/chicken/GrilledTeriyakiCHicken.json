@@ -1,0 +1,62 @@
+{
+    "id": "keto-main_grilled_teriyaki_chicken_001",
+    "name": "Grilled Teriyaki Chicken",
+    "ingredients": [
+      "1/3 cup water",
+      "1/4 cup dry sherry",
+      "1/4 cup soy sauce",
+      "2 cloves garlic, minced",
+      "1/4-1/2 teaspoon ground ginger",
+      "3 boneless chicken breasts"
+    ],
+    "utensils": [
+      "2 cup measuring cup",
+      "Large zipper bag",
+      "Shallow pan",
+      "Grill (indoor or outdoor)"
+    ],
+    "cookingTime": 15,
+    "prepTime": 130,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix water, dry sherry, soy sauce, minced garlic, and ground ginger in a 2 cup measuring cup.",
+        "primaryIngredient": "marinade ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Place chicken breasts in a large zipper bag.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Add the marinade mixture to the bag with the chicken.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 120,
+        "en": "Place the bag in a shallow pan and marinate in the refrigerator for at least 2 hours, turning the bag over occasionally.",
+        "primaryIngredient": "chicken in marinade"
+      },
+      {
+        "time": 1,
+        "en": "Drain and discard the marinade.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 15,
+        "en": "Grill the chicken on an indoor or outdoor grill just until no longer pink in the center. Be careful not to overcook.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 3 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "140 kcal",
+      "protein": "28g",
+      "carbohydrates": "1g",
+      "fat": "1g"
+    }
+  }

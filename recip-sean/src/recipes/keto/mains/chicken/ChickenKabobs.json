@@ -1,0 +1,77 @@
+{
+    "id": "keto-main_chicken_kabobs_001",
+    "name": "Chicken Kabobs",
+    "ingredients": [
+      "1 1/2 pounds boneless chicken breasts, 3-4 breasts",
+      "1 medium onion, 4 ounces",
+      "2 green peppers, about 9 ounces after trimming",
+      "1 medium zucchini or yellow squash, about 7-8 ounces",
+      "8 cherry tomatoes, about 5 1/2 ounces",
+      "8 12-inch bamboo skewers",
+      "Marinade:",
+      "1/2 cup water",
+      "1/2 cup Da Vinci sugar free syrup, pineapple flavor",
+      "1/2 tablespoon lime juice",
+      "1 teaspoon soy sauce",
+      "1 teaspoon salt",
+      "1/8 teaspoon liquid smoke",
+      "1/8 teaspoon onion powder",
+      "1/8 teaspoon pepper",
+      "1/8 teaspoon garlic powder"
+    ],
+    "utensils": [
+      "Cutting board",
+      "Knife",
+      "Bowl for marinating",
+      "Grill"
+    ],
+    "cookingTime": 8,
+    "prepTime": 140,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cut the chicken into about 1-inch cubes.",
+        "primaryIngredient": "chicken breasts"
+      },
+      {
+        "time": 5,
+        "en": "Mix all marinade ingredients in a bowl.",
+        "primaryIngredient": "marinade ingredients"
+      },
+      {
+        "time": 120,
+        "en": "Marinate the chicken for at least 2 hours.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 120,
+        "en": "Soak the bamboo skewers in water while marinating the chicken.",
+        "primaryIngredient": "bamboo skewers"
+      },
+      {
+        "time": 10,
+        "en": "Cut the vegetables into chunky pieces.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 10,
+        "en": "Thread the chicken and vegetables on the skewers.",
+        "primaryIngredient": "chicken and vegetables"
+      },
+      {
+        "time": 8,
+        "en": "Grill until the chicken is done, about 6-8 minutes.",
+        "primaryIngredient": "kabobs"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Freezing is not recommended.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "227 kcal",
+      "protein": "41g",
+      "carbohydrates": "9g",
+      "fat": "2g"
+    }
+  }

@@ -1,0 +1,67 @@
+{
+    "id": "keto-main_terrys_cilantro_cream_chicken_001",
+    "name": "Terry's Cilantro Cream Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "3 tablespoons butter",
+      "1-2 teaspoons McCormick Rotisserie Chicken seasoning *",
+      "3 ounces cream cheese, cubed",
+      "3/4 cup heavy cream",
+      "1 tablespoon lime juice (1/2 of 1 small lime)",
+      "1/2 cup cilantro, chopped (about 2 big handfuls)"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Whisk",
+      "Serving plates"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Heat butter in a large skillet over medium-high heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 2,
+        "en": "Liberally season both sides of chicken breasts with rotisserie chicken seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 6,
+        "en": "Brown the chicken on both sides in the hot butter. Remove chicken from pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Add cream cheese and cream to the skillet. Over low heat, whisk to blend well as cream cheese melts.",
+        "primaryIngredient": "cream cheese and cream"
+      },
+      {
+        "time": 2,
+        "en": "Whisk in lime juice and stir in cilantro.",
+        "primaryIngredient": "lime juice and cilantro"
+      },
+      {
+        "time": 15,
+        "en": "Return chicken to pan; cover and simmer for 15 minutes, turning after about 7 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Place cooked chicken on serving plates and pour about 1/4 cup of sauce over each serving.",
+        "primaryIngredient": "chicken and sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* McCormick Rotisserie Chicken seasoning can be substituted with your favorite seasoning salt or Mexican seasoning. Watch out for sugar in commercial blends. This recipe makes 4 servings. Do not freeze. The sauce doesn't reheat well.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "437 kcal",
+      "protein": "30g",
+      "carbohydrates": "3g",
+      "fat": "34g"
+    }
+  }

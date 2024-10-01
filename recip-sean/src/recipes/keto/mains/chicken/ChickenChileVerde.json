@@ -1,0 +1,70 @@
+{
+    "id": "keto-main_chicken_chile_verde_001",
+    "name": "Chicken Chile Verde",
+    "ingredients": [
+      "3 pounds boneless chicken breast, about 6-7 medium",
+      "14 ounces green Mexican salsa",
+      "4 ounces onion, chopped, 1 medium",
+      "1 teaspoon pepper",
+      "4 cloves garlic, minced",
+      "1/4 cup sliced pickled jalapeños",
+      "2 teaspoons chicken bouillon granules",
+      "1/4 cup fresh cilantro, chopped",
+      "Iceberg lettuce, chopped (not included in counts)",
+      "Toppings, see ideas below (not included in counts)"
+    ],
+    "utensils": [
+      "Slow cooker",
+      "Small bowl",
+      "Two forks"
+    ],
+    "cookingTime": 480,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place the chicken in a slow cooker.",
+        "primaryIngredient": "chicken breast"
+      },
+      {
+        "time": 5,
+        "en": "Combine the green salsa, onion, pepper, garlic, jalapeños and bouillon in a small bowl.",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Pour the sauce mixture over the chicken and stir to ensure sauce gets under and between all chicken pieces.",
+        "primaryIngredient": "sauce and chicken"
+      },
+      {
+        "time": 480,
+        "en": "Cook on LOW for 6-8 hours.",
+        "primaryIngredient": "chicken in sauce"
+      },
+      {
+        "time": 5,
+        "en": "Use two forks to shred the chicken once it's tender.",
+        "primaryIngredient": "cooked chicken"
+      },
+      {
+        "time": 1,
+        "en": "Stir in the cilantro just before serving.",
+        "primaryIngredient": "cilantro"
+      },
+      {
+        "time": 2,
+        "en": "Serve over chopped iceberg lettuce and add desired toppings.",
+        "primaryIngredient": "shredded chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 10 servings. Can be frozen. Suggested toppings (not included in nutritional counts): Sour cream, pickled jalapeños, chopped green onions, guacamole, salsa, shredded cheese, Cilantro Pepita Sauce, olives, diced tomatoes, etc.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "169 kcal",
+      "protein": "32g",
+      "carbohydrates": "3g",
+      "fat": "2g"
+    }
+  }

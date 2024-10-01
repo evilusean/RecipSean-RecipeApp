@@ -1,0 +1,80 @@
+{
+    "id": "keto-main_ginas_chicken_lazone_001",
+    "name": "Gina's Chicken Lazone",
+    "ingredients": [
+      "2 pounds boneless, skinless chicken thighs (about 6 pieces) *",
+      "1 teaspoon salt",
+      "1 1/2 teaspoons chili powder",
+      "1 1/2 teaspoons onion powder",
+      "2 teaspoons garlic powder",
+      "4 tablespoons butter, divided",
+      "1/2 cup heavy cream"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Large skillet"
+    ],
+    "cookingTime": 18,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Mix the salt, chili powder, onion powder, and garlic powder in a small bowl.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 3,
+        "en": "Rub the seasoning mixture on the chicken pieces to coat them well.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Heat 2 tablespoons of butter in a large skillet over medium heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 8,
+        "en": "Brown the chicken on both sides, about 4 minutes per side.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Add the cream to the skillet and turn the heat to medium-low.",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 10,
+        "en": "Simmer until the chicken is done, stirring the sauce occasionally and flipping the chicken over halfway through. For thighs, this will take about 5 minutes per side.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "When the chicken is done and the sauce has reduced and thickened, add the remaining 2 tablespoons of butter. Once melted, stir it into the sauce.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Serve the chicken topped with the sauce.",
+        "primaryIngredient": "chicken and sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* Gina originally used 4 whole boneless chicken breasts. This recipe makes 3-6 servings.",
+    "nutritionalInformation": [
+      {
+        "amount": "Per Thigh",
+        "calories": "222 kcal",
+        "protein": "10g",
+        "carbohydrates": "2g",
+        "fat": "19g"
+      },
+      {
+        "amount": "Per 2 Thighs",
+        "calories": "443 kcal",
+        "protein": "21g",
+        "carbohydrates": "4g",
+        "fat": "38g"
+      }
+    ]
+  }

@@ -1,0 +1,77 @@
+{
+    "id": "keto-main_chicken_pizza_001",
+    "name": "Chicken Pizza",
+    "ingredients": [
+      "1 boneless chicken breast (about 5 1/2 ounces)",
+      "Dash Italian seasoning",
+      "Dash garlic powder",
+      "Dash salt",
+      "Toppings:",
+      "1 tablespoon pizza sauce",
+      "1/2 ounce pepperoni (8 thin slices)",
+      "1/2 large fresh mushroom, sliced thin (1/2 ounce)",
+      "1 ounce Italian sausage, cooked and crumbled",
+      "1 ounce mozzarella cheese, shredded",
+      "2 tablespoons green pepper, minced (1/2 ounce)",
+      "1 tablespoon red onion, minced (1/4 ounce)"
+    ],
+    "utensils": [
+      "Meat mallet",
+      "Foil-lined baking sheet",
+      "Oven"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Pound the chicken as thin as possible without tearing it.",
+        "primaryIngredient": "chicken breast"
+      },
+      {
+        "time": 1,
+        "en": "Season both sides of the chicken with Italian seasoning, garlic powder, and salt.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 1,
+        "en": "Place the seasoned chicken on a foil-lined baking sheet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Spread the pizza sauce on top of the chicken.",
+        "primaryIngredient": "pizza sauce"
+      },
+      {
+        "time": 5,
+        "en": "Arrange toppings in this order: pepperoni, mushrooms, sausage, cheese, peppers, and onions.",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 1,
+        "en": "Lightly sprinkle with a little more Italian seasoning and garlic powder.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 1,
+        "en": "Preheat the oven to 400°F (200°C).",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 10,
+        "en": "Bake for 10 minutes. Do not overcook.",
+        "primaryIngredient": "chicken pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 1 serving. Be careful not to overcook the chicken.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "438 kcal",
+      "protein": "51g",
+      "carbohydrates": "4g",
+      "fat": "23g"
+    }
+  }

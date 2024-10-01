@@ -1,0 +1,64 @@
+{
+    "id": "keto-main_chutatips_chicken_satay_001",
+    "name": "Chutatip's Chicken Satay",
+    "ingredients": [
+      "2 pounds boneless chicken breast, about 4 breast halves",
+      "1/2 cup coconut milk",
+      "1/4 cup cilantro, chopped",
+      "1 teaspoon curry powder",
+      "1 teaspoon turmeric",
+      "4 teaspoons granular Splenda",
+      "1 teaspoon soy sauce or fish sauce",
+      "1/4 cup oil",
+      "Bamboo skewers, about 12-14"
+    ],
+    "utensils": [
+      "Knife",
+      "Mixing bowl",
+      "Grill"
+    ],
+    "cookingTime": 10,
+    "prepTime": 190,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Slice the chicken in thin strips. (It's easier to slice if partially frozen.)",
+        "primaryIngredient": "chicken breast"
+      },
+      {
+        "time": 5,
+        "en": "Mix coconut milk, cilantro, curry powder, turmeric, Splenda, soy sauce or fish sauce, and oil in a bowl.",
+        "primaryIngredient": "marinade ingredients"
+      },
+      {
+        "time": 5,
+        "en": "Add the sliced chicken to the marinade and mix well.",
+        "primaryIngredient": "chicken and marinade"
+      },
+      {
+        "time": 180,
+        "en": "Marinate for at least 3 hours or overnight.",
+        "primaryIngredient": "marinating chicken"
+      },
+      {
+        "time": 10,
+        "en": "Thread the marinated chicken strips onto bamboo skewers.",
+        "primaryIngredient": "marinated chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the skewers just until done, basting with the marinade while grilling. Do not overcook.",
+        "primaryIngredient": "chicken skewers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes about 6 servings. Can be frozen. Serve with Peanut Sauce for dipping and Cucumber Salad.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "297 kcal",
+      "protein": "36g",
+      "carbohydrates": "2g",
+      "fat": "16g"
+    }
+  }

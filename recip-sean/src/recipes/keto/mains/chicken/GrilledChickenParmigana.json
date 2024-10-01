@@ -1,0 +1,76 @@
+{
+    "id": "keto-main_rachaels_grilled_chicken_cutlets_parmigiana_001",
+    "name": "Rachael's Grilled Chicken Cutlets Parmigiana",
+    "ingredients": [
+      "4 small or 2 large boneless chicken breasts",
+      "Salt and pepper, to taste",
+      "2 tablespoon olive oil",
+      "4 cloves garlic, chopped",
+      "1/2 teaspoon crushed red pepper flakes, or to taste",
+      "2 tablespoons onion, chopped",
+      "15 ounce can fire roasted diced tomatoes, such as Muir Glen brand *",
+      "1 tablespoon fresh basil, shredded",
+      "2 ounces freshly grated parmesan cheese, 1/4 cup",
+      "4 ounces smoked mozzarella or fontina cheese, sliced thin *"
+    ],
+    "utensils": [
+      "Grill (indoor or outdoor)",
+      "Small pot",
+      "Baking dish",
+      "Broiler"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "If using large chicken breasts, cut them in half. Season with salt and pepper.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill chicken on an indoor or outdoor grill until just done; keep warm.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "In a small pot over low heat, sauté garlic, crushed red pepper flakes, and onion for 10 minutes, stirring often.",
+        "primaryIngredient": "garlic, pepper flakes, onion"
+      },
+      {
+        "time": 2,
+        "en": "Add undrained tomatoes to the pot and heat through, about 2 minutes.",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 1,
+        "en": "Add basil to the sauce and heat just until wilted. Adjust seasoning with salt and pepper as needed.",
+        "primaryIngredient": "basil"
+      },
+      {
+        "time": 1,
+        "en": "Preheat the broiler.",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 2,
+        "en": "In a baking dish, layer the chicken, sauce, parmesan cheese, and mozzarella or fontina cheese.",
+        "primaryIngredient": "all components"
+      },
+      {
+        "time": 2,
+        "en": "Broil until the top is browned, about 1-2 minutes.",
+        "primaryIngredient": "assembled dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* If you can't find fire roasted diced tomatoes or smoked mozzarella, you can use regular canned diced tomatoes and mozzarella cheese. This recipe makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "370 kcal",
+      "protein": "41g",
+      "carbohydrates": "7g",
+      "fat": "19g"
+    }
+  }

@@ -1,0 +1,71 @@
+{
+    "id": "keto-main_chicken_parmesan_001",
+    "name": "Chicken Parmesan",
+    "ingredients": [
+      "1 boneless chicken breast, pounded thin",
+      "1 egg, beaten",
+      "Parmesan cheese, enough to coat the chicken",
+      "Dash garlic powder",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "1 tablespoon spaghetti sauce",
+      "1 ounce mozzarella cheese, shredded",
+      "Oil for sautéing"
+    ],
+    "utensils": [
+      "Shallow dish for egg",
+      "Plate for Parmesan cheese",
+      "Skillet",
+      "Baking dish",
+      "Microwave"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Dip the pounded chicken breast in beaten egg.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Coat the egg-dipped chicken with Parmesan cheese.",
+        "primaryIngredient": "Parmesan cheese"
+      },
+      {
+        "time": 8,
+        "en": "Sauté the coated chicken in oil until browned on both sides.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Season the chicken with garlic powder, salt, and pepper.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 1,
+        "en": "Place the chicken in a baking dish and spread with spaghetti sauce.",
+        "primaryIngredient": "spaghetti sauce"
+      },
+      {
+        "time": 1,
+        "en": "Top the chicken with shredded mozzarella cheese.",
+        "primaryIngredient": "mozzarella cheese"
+      },
+      {
+        "time": 5,
+        "en": "Microwave on MEDIUM for about 5 minutes until cheese is melted.",
+        "primaryIngredient": "chicken parmesan"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 1 serving. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "387 kcal",
+      "protein": "48g",
+      "carbohydrates": "3g",
+      "fat": "19g"
+    }
+  }

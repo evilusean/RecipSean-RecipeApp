@@ -1,0 +1,59 @@
+{
+    "id": "keto-main_boursin_chicken_001",
+    "name": "Boursin Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "Salt and pepper, or seasonings of your choice",
+      "5.2 ounce package Boursin garlic and herb cheese *",
+      "10 ounce package frozen chopped spinach, thawed and drained very well",
+      "2 tablespoons butter"
+    ],
+    "utensils": [
+      "Knife",
+      "Plastic wrap",
+      "Meat mallet",
+      "Mixing bowl",
+      "Greased baking dish",
+      "Nonstick foil (optional)",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Trim fat from chicken breasts. Butterfly each breast by making a shallow vertical cut in the middle, then horizontal cuts to create flaps. Cover with plastic wrap and pound to even thickness. Season both sides.",
+        "primaryIngredient": "chicken breasts"
+      },
+      {
+        "time": 5,
+        "en": "Stir together the Boursin cheese and drained spinach.",
+        "primaryIngredient": "Boursin cheese and spinach"
+      },
+      {
+        "time": 10,
+        "en": "Place 1/4 of the spinach mixture in the center of each chicken breast. Fold sides over to cover filling, sealing the opening. Place seam side down in a greased baking dish.",
+        "primaryIngredient": "chicken and filling"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle with seasoning salt or garlic powder. Place a pat of butter on each piece of chicken.",
+        "primaryIngredient": "seasonings and butter"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 375°F for 25-30 minutes or until chicken juices are no longer pink.",
+        "primaryIngredient": "stuffed chicken breasts"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* Do not use homemade Boursin Cheese Spread as it won't hold up to baking. This recipe makes 4 servings. Freezing is not recommended.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "346 kcal",
+      "protein": "32g",
+      "carbohydrates": "4g",
+      "fat": "23g"
+    }
+  }

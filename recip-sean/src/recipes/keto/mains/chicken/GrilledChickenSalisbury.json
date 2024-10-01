@@ -1,0 +1,61 @@
+{
+    "id": "keto-main_grilled_chicken_salisbury_001",
+    "name": "Grilled Chicken Salisbury",
+    "ingredients": [
+      "4 boneless chicken breasts, pounded flat",
+      "2 teaspoons Seasoning Salt",
+      "4 tablespoon butter",
+      "1/2 pound fresh mushrooms, quartered",
+      "2 cloves garlic, minced",
+      "9 ounces fresh baby spinach",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Grill",
+      "Very large skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season chicken breasts on both sides with seasoning salt.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the chicken and keep warm.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 8,
+        "en": "In a very large skillet, sauté mushrooms and garlic in butter until tender and most of the liquid has evaporated.",
+        "primaryIngredient": "mushrooms, garlic"
+      },
+      {
+        "time": 5,
+        "en": "Add spinach to the mushrooms and cook just until wilted, stirring to mix with mushrooms from the bottom of the pan.",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 1,
+        "en": "Season the spinach-mushroom mixture with salt to taste.",
+        "primaryIngredient": "spinach-mushroom mixture"
+      },
+      {
+        "time": 2,
+        "en": "Serve the spinach-mushroom mixture over the grilled chicken.",
+        "primaryIngredient": "all components"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "264 kcal",
+      "protein": "31g",
+      "carbohydrates": "5g",
+      "fat": "13g"
+    }
+  }

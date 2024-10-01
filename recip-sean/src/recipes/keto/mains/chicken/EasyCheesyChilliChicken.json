@@ -1,0 +1,77 @@
+{
+    "id": "keto-main_george_stellas_easy_cheesy_chili_chicken_001",
+    "name": "George Stella's Easy Cheesy Chili Chicken",
+    "ingredients": [
+      "2 tablespoons olive oil",
+      "2 tablespoons cilantro",
+      "1 tablespoon chili powder",
+      "1 tablespoon cumin",
+      "2 teaspoons salt",
+      "1 clove garlic, chopped",
+      "1/2 teaspoon pepper",
+      "1/8 teaspoon cayenne",
+      "4-5 boneless chicken breasts",
+      "1/4 cup green pepper, julienned",
+      "2 tablespoons red onion, diced",
+      "1/4 cup Roma tomato, diced (about 1/2 small)",
+      "4 ounces colby-jack cheese, shredded"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "Foil-lined baking sheet",
+      "Oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Stir together olive oil, cilantro, chili powder, cumin, salt, garlic, pepper, and cayenne in a medium bowl to form a thick paste.",
+        "primaryIngredient": "seasoning mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add chicken to the bowl and rub the seasoning mixture all over the meat until coated evenly.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Place the seasoned chicken on a foil-lined baking sheet.",
+        "primaryIngredient": "seasoned chicken"
+      },
+      {
+        "time": 3,
+        "en": "Arrange the green pepper, red onion, and diced tomato over the chicken.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 400°F (200°C) for 20 minutes or until the chicken is just done. Do not overcook.",
+        "primaryIngredient": "chicken and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Top with shredded colby-jack cheese and return to oven until melted, about 5 minutes.",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4-5 servings. Do not freeze.",
+    "nutritionalInformation": [
+      {
+        "amount": "1/4 Recipe",
+        "calories": "321 kcal",
+        "protein": "35g",
+        "carbohydrates": "4g",
+        "fat": "18g"
+      },
+      {
+        "amount": "1/5 Recipe",
+        "calories": "283 kcal",
+        "protein": "33g",
+        "carbohydrates": "3g",
+        "fat": "15g"
+      }
+    ]
+  }

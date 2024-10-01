@@ -1,0 +1,101 @@
+{
+    "id": "keto-main_kents_enchilada_chicken_paillard_001",
+    "name": "Kent's Enchilada Chicken Paillard with Red Enchilada Sauce",
+    "ingredients": [
+      "Red Enchilada Sauce:",
+      "1 tablespoon oil",
+      "1 small onion, chopped fine (about 2 1/2 ounces)",
+      "3 cloves garlic",
+      "3 tablespoons chili powder",
+      "2 teaspoons ground coriander",
+      "2 teaspoons cumin",
+      "1/4 teaspoon salt",
+      "2 8-ounce cans tomato sauce *",
+      "4 teaspoons granular Splenda or equivalent liquid",
+      "1/2 cup water",
+      "Chicken Paillard:",
+      "4 large or 8 small boneless chicken breasts (about 3 pounds total)",
+      "Salt and pepper, to taste",
+      "2-3 tablespoons oil, divided",
+      "2 red bell peppers, coarsely chopped (about 6 ounces after trimming) *",
+      "1 large onion, julienned (about 8 ounces after trimming)",
+      "2 cloves garlic, minced",
+      "4 ounces cream cheese, softened",
+      "8 ounces shredded cheddar cheese, divided"
+    ],
+    "utensils": [
+      "Medium pot",
+      "Large skillet",
+      "9x13 inch baking pan",
+      "Whisk",
+      "Meat mallet"
+    ],
+    "cookingTime": 50,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "For the sauce: Cook chopped onion in oil until soft and slightly browned in a medium pot.",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 1,
+        "en": "Add garlic and spices to the pot. Cook until fragrant.",
+        "primaryIngredient": "garlic and spices"
+      },
+      {
+        "time": 10,
+        "en": "Add tomato sauce, Splenda, and water. Simmer covered for at least 8 minutes, stirring occasionally.",
+        "primaryIngredient": "tomato sauce"
+      },
+      {
+        "time": 10,
+        "en": "Pound chicken breasts until very thin. If using large breasts, cut them in half.",
+        "primaryIngredient": "chicken breasts"
+      },
+      {
+        "time": 10,
+        "en": "Brown seasoned chicken in batches in a large skillet with oil. Transfer to a greased 9x13 inch baking pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "In the same skillet, cook peppers and onions until just tender, adding garlic near the end. Season and set aside.",
+        "primaryIngredient": "peppers and onions"
+      },
+      {
+        "time": 5,
+        "en": "In the skillet, whisk enchilada sauce with cream cheese over low heat. Add half the cheddar cheese and stir until melted.",
+        "primaryIngredient": "sauce and cheese"
+      },
+      {
+        "time": 2,
+        "en": "Pour sauce over chicken, top with pepper mixture, and sprinkle remaining cheddar cheese.",
+        "primaryIngredient": "all components"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F (175°C) for 20 minutes or until cheese is melted and bubbly.",
+        "primaryIngredient": "assembled dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* For bell peppers, you can use a mix of red and yellow if needed. This recipe makes 6-8 servings.",
+    "nutritionalInformation": [
+      {
+        "amount": "1/6 Recipe",
+        "calories": "577 kcal",
+        "protein": "65g",
+        "carbohydrates": "9g",
+        "fat": "30g"
+      },
+      {
+        "amount": "1/8 Recipe",
+        "calories": "433 kcal",
+        "protein": "48g",
+        "carbohydrates": "7g",
+        "fat": "23g"
+      }
+    ]
+  }

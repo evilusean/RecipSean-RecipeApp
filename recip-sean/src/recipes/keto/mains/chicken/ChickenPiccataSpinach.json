@@ -1,0 +1,78 @@
+{
+    "id": "keto-main_chicken_piccata_spinach_001",
+    "name": "Chicken Piccata with Spinach",
+    "ingredients": [
+      "3 boneless chicken breasts, pounded very thin",
+      "Salt and pepper, to taste",
+      "3 tablespoons olive oil",
+      "2 tablespoons butter",
+      "1/2 pound fresh mushrooms, sliced",
+      "2 shallots, chopped",
+      "3 cloves garlic, chopped",
+      "2 tablespoons capers, rinsed and chopped",
+      "1/4 cup dry white wine",
+      "1/4 cup chicken broth",
+      "2 tablespoons fresh lemon juice (1 small lemon)",
+      "3 ounces fresh baby spinach, large stems removed",
+      "1/2 ounce Parmigiano-Reggiano cheese for garnish"
+    ],
+    "utensils": [
+      "Very large nonstick skillet",
+      "Plate for chicken",
+      "3 dinner plates"
+    ],
+    "cookingTime": 10,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season the chicken with salt and pepper on both sides.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Heat 2 tablespoons oil in a very large nonstick skillet over medium-high heat. Add the chicken and brown 1 minute on each side. Remove chicken to a plate and keep warm.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "In the same skillet, heat the remaining tablespoon of oil and the butter.",
+        "primaryIngredient": "oil and butter"
+      },
+      {
+        "time": 5,
+        "en": "Sauté the mushrooms, shallots, garlic and capers for 5 minutes.",
+        "primaryIngredient": "mushrooms, shallots, garlic, capers"
+      },
+      {
+        "time": 2,
+        "en": "Add the wine, broth and lemon juice. Heat through and adjust seasoning if necessary.",
+        "primaryIngredient": "wine, broth, lemon juice"
+      },
+      {
+        "time": 2,
+        "en": "Divide the raw spinach among 3 dinner plates. Top each bed of spinach with a chicken breast.",
+        "primaryIngredient": "spinach and chicken"
+      },
+      {
+        "time": 1,
+        "en": "Pour the mushroom sauce over everything.",
+        "primaryIngredient": "mushroom sauce"
+      },
+      {
+        "time": 1,
+        "en": "Garnish with shaved Parmigiano-Reggiano.",
+        "primaryIngredient": "Parmigiano-Reggiano"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 3 servings. Do not freeze. The warm sauce will wilt the spinach. For better browning, consider cooking the chicken for 30 seconds on high heat per side.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "391 kcal",
+      "protein": "33g",
+      "carbohydrates": "7g",
+      "fat": "25g"
+    }
+  }

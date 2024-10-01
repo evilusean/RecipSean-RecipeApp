@@ -1,0 +1,85 @@
+{
+    "id": "keto-main_rachaels_chicken_shawarma_001",
+    "name": "Rachael's Chicken Shawarma",
+    "ingredients": [
+      "Tahini Sauce:",
+      "1 tablespoon tahini",
+      "1/4 cup plus 2 tablespoons Yocheese or Greek yogurt",
+      "3/4 teaspoon lemon juice *",
+      "1 teaspoon olive oil",
+      "Pinch salt",
+      "Chicken Seasoning Rub:",
+      "1 tablespoon ground coriander",
+      "1 tablespoon cumin",
+      "1 tablespoon ground cardamom **",
+      "1 tablespoon chili powder",
+      "1 tablespoon grill seasoning",
+      "1 teaspoon smoked paprika",
+      "1 tablespoon lemon juice *",
+      "1 large clove garlic, minced",
+      "3 tablespoons oil",
+      "4 boneless chicken breasts",
+      "Veggie Mixture:",
+      "1 tablespoon olive oil",
+      "1 large onion, sliced, 5 1/4 ounces",
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "4 low carb pita breads or tortillas, optional (not included in the counts)"
+    ],
+    "utensils": [
+      "Small bowl for sauce",
+      "Small bowl for seasoning",
+      "Grill",
+      "Large skillet or wok",
+      "Knife for slicing"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Combine all sauce ingredients in a small bowl and chill until serving time.",
+        "primaryIngredient": "tahini sauce ingredients"
+      },
+      {
+        "time": 5,
+        "en": "Mix all chicken seasoning ingredients (except chicken) to form a paste.",
+        "primaryIngredient": "chicken seasoning ingredients"
+      },
+      {
+        "time": 3,
+        "en": "Rub the seasoning paste all over the chicken to coat well.",
+        "primaryIngredient": "chicken and seasoning"
+      },
+      {
+        "time": 6,
+        "en": "Grill the chicken about 3 minutes per side until just done. Don't overcook.",
+        "primaryIngredient": "seasoned chicken"
+      },
+      {
+        "time": 10,
+        "en": "Heat 1 tablespoon oil in a large skillet or wok over medium-high heat. Cook onions and peppers until slightly charred and onions are caramelized. Season with salt and pepper.",
+        "primaryIngredient": "onions and peppers"
+      },
+      {
+        "time": 5,
+        "en": "Slice the chicken thinly.",
+        "primaryIngredient": "cooked chicken"
+      },
+      {
+        "time": 2,
+        "en": "Serve sliced chicken with peppers and top with yogurt-tahini sauce. Optionally, serve in pita bread or tortillas.",
+        "primaryIngredient": "all components"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* You'll need 1 lemon total for the whole recipe. ** Cardamom is optional; the recipe author preferred it without. This recipe makes 4 servings. The chicken can be frozen but not the peppers. Low carb pita breads or tortillas are optional and not included in nutritional counts.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "357 kcal",
+      "protein": "31g",
+      "carbohydrates": "13g",
+      "fat": "21g"
+    }
+  }

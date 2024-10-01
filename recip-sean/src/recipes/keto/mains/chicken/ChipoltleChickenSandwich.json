@@ -1,0 +1,69 @@
+{
+    "id": "keto-lunch_chipotle_turkey_sandwich_001",
+    "name": "Chipotle Turkey Sandwich",
+    "ingredients": [
+      "1 serving Carbquik Artisan Flat Bread, Carbquik Cheddar Bun or Flax Sandwich Bun",
+      "2 tablespoons Chipotle Mayo",
+      "1 piece leaf lettuce, 1/4 ounce",
+      "1 thin slice pepper jack cheese, 3/4 ounce",
+      "1 1/2 ounces thinly sliced smoked deli turkey, preferably sugar free *",
+      "1 thin slice red onion, optional, about 1/2 ounce"
+    ],
+    "utensils": [
+      "Knife for splitting bread",
+      "Spreading knife or spoon"
+    ],
+    "cookingTime": 0,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 1,
+        "en": "Split the bread or bun into two thin slices.",
+        "primaryIngredient": "bread or bun"
+      },
+      {
+        "time": 1,
+        "en": "Spread the Chipotle Mayo on both bun halves.",
+        "primaryIngredient": "Chipotle Mayo"
+      },
+      {
+        "time": 1,
+        "en": "Top with some lettuce.",
+        "primaryIngredient": "lettuce"
+      },
+      {
+        "time": 1,
+        "en": "Add a slice of pepper jack cheese.",
+        "primaryIngredient": "pepper jack cheese"
+      },
+      {
+        "time": 1,
+        "en": "Layer the sliced smoked deli turkey.",
+        "primaryIngredient": "turkey"
+      },
+      {
+        "time": 1,
+        "en": "If desired, add a thin slice of red onion.",
+        "primaryIngredient": "red onion"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-lunch",
+    "notes": "* Use Boar's Head brand turkey, which has no sugar or carbs. If you can't get sugar-free smoked turkey, add a carb to the counts. This recipe makes 1 serving. Do not freeze.",
+    "nutritionalInformation": [
+      {
+        "amount": "1 serving with onion",
+        "calories": "401 kcal",
+        "protein": "14g",
+        "carbohydrates": "10g",
+        "fat": "36g"
+      },
+      {
+        "amount": "1 serving without onion",
+        "calories": "396 kcal",
+        "protein": "14g",
+        "carbohydrates": "9g",
+        "fat": "36g"
+      }
+    ]
+  }

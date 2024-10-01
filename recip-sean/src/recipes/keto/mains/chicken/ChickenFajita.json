@@ -1,0 +1,82 @@
+{
+    "id": "keto-main_chicken_fajitas_001",
+    "name": "Chicken Fajitas (with Salad Option)",
+    "ingredients": [
+      "Boneless chicken breasts (or beef)",
+      "Fajita marinade *",
+      "Sliced or chopped green, red, and/or yellow peppers",
+      "Sliced or chopped onions",
+      "Oil for sautéing",
+      "Salt to taste",
+      "Shredded or chopped iceberg lettuce (for salad option)",
+      "Shredded cheddar cheese",
+      "Mexican hot sauce or salsa of your choice",
+      "Sour cream",
+      "Guacamole (optional)"
+    ],
+    "utensils": [
+      "Grill",
+      "Skillet or frying pan",
+      "Plates for serving"
+    ],
+    "cookingTime": 20,
+    "prepTime": 240,
+    "instructions": [
+      {
+        "time": 240,
+        "en": "Marinate the chicken in fajita marinade for several hours or overnight; drain marinade before cooking.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the chicken just until done; don't overcook.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Meanwhile, sauté the peppers and onions in oil until desired tenderness; season with salt to taste.",
+        "primaryIngredient": "peppers and onions"
+      },
+      {
+        "time": 5,
+        "en": "For fajita salad: Arrange a bed of lettuce on each plate. Thinly slice the chicken breasts and divide among the plates. Top with cheese, sauteed peppers and onions, salsa, sour cream, and guacamole if desired. Toss all together.",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 5,
+        "en": "For traditional fajitas: Arrange the sliced chicken on a plate. Top with the pepper-onion mixture, cheese, salsa, guacamole, and sour cream.",
+        "primaryIngredient": "all ingredients"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "* Use Figaro Fabulosa Fajitas Marinade or similar. 1/2 bottle will marinate 4-6 breasts. This recipe is for one serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "1 serving (traditional fajita)",
+      "calories": "289 kcal",
+      "protein": "13g",
+      "carbohydrates": "17g",
+      "fat": "20g"
+    },
+    "variations": [
+      {
+        "name": "Fajita Salad",
+        "ingredients": [
+          "2 ounces iceberg lettuce, chopped, about 1 cup",
+          "Grilled chicken or beef",
+          "1/4 cup Sautéed Peppers and Onions",
+          "1/2 ounce cheddar cheese",
+          "2 tablespoons salsa",
+          "2 tablespoons guacamole",
+          "1 tablespoon sour cream"
+        ],
+        "nutritionalInformation": {
+          "amount": "1 serving",
+          "calories": "242 kcal",
+          "protein": "13g",
+          "carbohydrates": "13g",
+          "fat": "17g"
+        }
+      }
+    ]
+  }

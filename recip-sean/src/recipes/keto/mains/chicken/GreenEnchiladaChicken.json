@@ -1,0 +1,86 @@
+{
+    "id": "keto-main_green_enchilada_chicken_001",
+    "name": "Green Enchilada Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts, pounded flat",
+      "2 teaspoons Seasoning for Tacos",
+      "4 ounces Monterey jack cheese, shredded",
+      "1/2 cup sour cream",
+      "7 ounce can Green Mexican Salsa",
+      "4 ounce can chopped green chiles",
+      "A little cilantro, chopped, optional",
+      "2 green onions, chopped, optional",
+      "1/4 teaspoons xanthan gum, optional",
+      "Oil for sautéing"
+    ],
+    "utensils": [
+      "Large skillet",
+      "9 x 13 inch baking pan",
+      "Small bowl",
+      "Microwave or oven"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Sprinkle each side of the chicken breasts with 1/4 teaspoon of the taco seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Heat oil in a large skillet; sauté the chicken until just done or grill on an outdoor or indoor grill. Don't overcook.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Place cooked chicken in a greased 9 x 13 inch baking pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Mix sour cream, green sauce, chiles, and cilantro (if using) in a small bowl.",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 1,
+        "en": "Pour the sauce mixture over the chicken.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 10,
+        "en": "For microwave method: Cook on MEDIUM until hot and bubbly.",
+        "primaryIngredient": "chicken and sauce"
+      },
+      {
+        "time": 2,
+        "en": "Top each piece with 1/4 of the cheese and return to the microwave until the cheese is melted.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 25,
+        "en": "For oven method: Bake in a 350°F (175°C) oven for 25 minutes.",
+        "primaryIngredient": "chicken and sauce"
+      },
+      {
+        "time": 5,
+        "en": "Top with cheese and bake an additional 5 minutes until the cheese is melted.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "If desired, top with chopped green onions before serving.",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Do not freeze. Xanthan gum is optional and can be used to thicken the sauce if desired.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "320 kcal",
+      "protein": "37g",
+      "carbohydrates": "6g",
+      "fat": "16g"
+    }
+  }
