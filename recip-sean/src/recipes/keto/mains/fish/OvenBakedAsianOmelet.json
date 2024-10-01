@@ -1,0 +1,76 @@
+{
+    "id": "keto-main_oven_baked_asian_omelet_001",
+    "name": "Oven-Baked Asian Omelet",
+    "ingredients": [
+      "8 eggs",
+      "2 tablespoons soy sauce",
+      "1/4 teaspoon sesame oil",
+      "6 green onions, chopped",
+      "2 tablespoons oil",
+      "1/2 pound fresh mushrooms, sliced",
+      "6 ounces small-medium cooked shrimp",
+      "8 ounces fresh or canned bean sprouts, rinsed and drained well",
+      "1/8 teaspoon garlic powder",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "10-inch quiche pan or pie plate",
+      "Mixing bowl",
+      "Oven"
+    ],
+    "cookingTime": 27,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Beat the eggs with the soy sauce and sesame oil. Stir in the chopped green onions.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "In a large skillet, sauté the mushrooms in oil until tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 3,
+        "en": "Add the shrimp and bean sprouts; cook on high heat long enough to evaporate any excess liquid, stirring constantly.",
+        "primaryIngredient": "shrimp"
+      },
+      {
+        "time": 1,
+        "en": "Season with garlic powder, salt and pepper.",
+        "primaryIngredient": "garlic powder"
+      },
+      {
+        "time": 2,
+        "en": "Spread the mushroom mixture in a greased 10-inch quiche pan or pie plate.",
+        "primaryIngredient": "mushroom mixture"
+      },
+      {
+        "time": 1,
+        "en": "Pour the egg mixture over the mushrooms.",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 17,
+        "en": "Bake at 425°F for 15-17 minutes until set.",
+        "primaryIngredient": "omelet"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "primaryIngredient": "omelet"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Freezing is not recommended for this dish. The recipe makes 6-8 servings, depending on portion size.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "197 kcal",
+      "protein": "17g",
+      "carbohydrates": "6g",
+      "fat": "12g"
+    }
+  }

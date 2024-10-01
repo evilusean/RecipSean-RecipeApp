@@ -1,0 +1,92 @@
+{
+    "id": "keto-main_fishermans_pie_001",
+    "name": "Fisherman's Pie",
+    "ingredients": [
+      "1 tablespoon butter",
+      "1 leek, sliced, about 3 ounces",
+      "8 ounces fresh mushrooms, sliced and divided",
+      "1 pound cooked fish, broken into bite-size pieces",
+      "4 ounces small scallops, cooked",
+      "8 ounce package frozen cooked salad shrimp, thawed",
+      "2 tablespoons fresh parsley, chopped",
+      "1 stalk celery, chopped",
+      "2 tablespoons onion, chopped, about 1 ounce",
+      "2 tablespoons butter",
+      "1/2 teaspoon xanthan gum",
+      "1/2 cup chicken broth",
+      "3/4 cup heavy cream",
+      "1 tablespoon dry white wine",
+      "Salt and pepper, to taste",
+      "1 small fresh cauliflower, about 16 ounces",
+      "1 tablespoon water",
+      "1 tablespoon butter",
+      "1 tablespoon heavy cream",
+      "Paprika for dusting"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "5 greased ramekins",
+      "Food processor",
+      "Large covered casserole dish",
+      "Oven"
+    ],
+    "cookingTime": 50,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "For the Mashed Cauliflower: Chop the cauliflower into small pieces and place in a large covered casserole dish. Add 1 tablespoon water; cover and microwave on HIGH for 5 minutes. Stir and cook another 5 minutes. Let stand covered 5 minutes; drain briefly.",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Place cooked cauliflower in a food processor along with 1 tablespoon butter and 1 tablespoon heavy cream. Process until smooth and creamy, scraping down the sides of the processor occasionally. Season to taste with salt and pepper. Set aside.",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 10,
+        "en": "For the Cream of Mushroom Soup: Sauté 4 ounces chopped mushrooms, celery, and onion in 2 tablespoons butter until soft.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Sprinkle the xanthan gum over the mushrooms then stir in well. Add the broth and cream. Bring to a boil, then turn down the heat and cook until slightly thickened, stirring frequently.",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the wine and adjust the seasonings to taste. Set aside.",
+        "primaryIngredient": "wine"
+      },
+      {
+        "time": 10,
+        "en": "For the Fisherman's Pie: In a medium skillet, sauté the leeks and remaining 4 ounces sliced mushrooms until tender; remove them from the pan and set aside.",
+        "primaryIngredient": "leeks"
+      },
+      {
+        "time": 5,
+        "en": "Very gently stir the leek mixture, fish, shrimp, scallops, and parsley into the prepared mushroom soup. Try not to break up the fish too much. Adjust the seasoning with salt and pepper, if needed.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 5,
+        "en": "Divide the mixture between 5 greased ramekins. Spread some of the mashed cauliflower over each ramekin. Dust the tops with paprika.",
+        "primaryIngredient": "fish mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for about 20 minutes until hot and bubbly.",
+        "primaryIngredient": "assembled pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Do not freeze this dish. The recipe makes 5 individual servings in ramekins. Ensure all seafood is properly cooked before assembling the pie.",
+    "nutritionalInformation": {
+      "amount": "1 serving (1/5 of recipe)",
+      "calories": "416 kcal",
+      "protein": "35g",
+      "carbohydrates": "10g",
+      "fat": "27g"
+    }
+  }

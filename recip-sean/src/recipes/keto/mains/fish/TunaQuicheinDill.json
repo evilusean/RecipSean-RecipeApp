@@ -1,0 +1,64 @@
+{
+    "id": "keto-main_tuna_quiche_with_dill_001",
+    "name": "Tuna Quiche with Dill",
+    "ingredients": [
+      "6 ounce can solid white tuna, drained",
+      "4 ounces Swiss cheese, shredded",
+      "2 tablespoons green onion, chopped",
+      "3 eggs",
+      "1 cup heavy cream",
+      "1/2 teaspoon dried dill or 2 teaspoon fresh",
+      "1/2 teaspoon salt",
+      "Dash pepper"
+    ],
+    "utensils": [
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk or fork",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Grease a pie plate.",
+        "primaryIngredient": "pie plate"
+      },
+      {
+        "time": 3,
+        "en": "Arrange the drained tuna, chopped green onions, and shredded Swiss cheese in the greased pie plate.",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 3,
+        "en": "In a mixing bowl, beat the eggs, cream, dill, salt, and pepper.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Pour the egg mixture over the cheese and tuna in the pie plate.",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 35 minutes or until a knife inserted in center comes out clean.",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "primaryIngredient": "quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 6 servings. The quiche can be frozen.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "266 kcal",
+      "protein": "14g",
+      "carbohydrates": "2g",
+      "fat": "24g"
+    }
+  }

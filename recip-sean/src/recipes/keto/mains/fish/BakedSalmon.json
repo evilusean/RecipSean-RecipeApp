@@ -1,0 +1,55 @@
+{
+    "id": "keto-main_baked_salmon_001",
+    "name": "Baked Salmon",
+    "ingredients": [
+      "1 pound salmon or other fish fillet, thawed if frozen",
+      "2-4 tablespoons butter, softened",
+      "Garlic powder",
+      "Salt",
+      "Pepper"
+    ],
+    "utensils": [
+      "Baking dish",
+      "Heavy foil (optional)",
+      "Oven"
+    ],
+    "cookingTime": 12,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place the fish in a greased baking dish. Optionally, line with heavy foil for easy clean up.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle the fish with garlic powder, salt, and pepper.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 2,
+        "en": "Dot with soft butter and spread over the surface of fish.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 12,
+        "en": "Bake at 425°F for 6-12 minutes, or until the thickest part of the salmon is just done. Check frequently to prevent over-cooking.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 2,
+        "en": "Optional: Put the fish under the broiler for a few minutes to brown the top.",
+        "primaryIngredient": "salmon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Baking time will depend on the thickness of the fish, so start with the minimum time and check frequently to prevent over-cooking. This recipe can be frozen for later use.",
+    "nutritionalInformation": {
+      "amount": "1/3 recipe",
+      "calories": "313 kcal",
+      "protein": "30g",
+      "carbohydrates": "trace",
+      "fat": "21g"
+    }
+  }

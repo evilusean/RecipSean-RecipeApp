@@ -1,0 +1,72 @@
+{
+    "id": "keto-main_sweet_spicy_asian_fish_001",
+    "name": "Sweet & Spicy Asian Fish",
+    "ingredients": [
+      "1 tablespoon onion, grated",
+      "1 clove garlic, minced",
+      "1 teaspoon sesame oil",
+      "2 tablespoons soy sauce",
+      "1 tablespoon lime juice",
+      "1 tablespoon granular Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon ground coriander",
+      "1/8 to 1/4 teaspoon ground ginger",
+      "1/2 teaspoon sambal oeleck, or to taste",
+      "1 1/2 pounds fish (about 6 tilapia fillets)"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Gallon size zipper bag",
+      "Rimmed baking sheet",
+      "Foil",
+      "Oven with broiler"
+    ],
+    "cookingTime": 15,
+    "prepTime": 70,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a small bowl, mix all of the ingredients except the fish.",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Place the fish in a gallon size zipper bag and pour in the sauce.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 2,
+        "en": "Seal the bag and then gently knead the fish until it's completely coated with sauce.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 60,
+        "en": "If time allows, marinate the fish in the bag for at least an hour.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 3,
+        "en": "Dump the fish and sauce onto a rimmed baking sheet lined with foil and arrange the fish in a single layer.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 425°F for 10 minutes.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 5,
+        "en": "Raise the oven rack to the highest setting and broil the fish for another 5 minutes.",
+        "primaryIngredient": "fish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Sambal oeleck is an Asian chili paste. The recipe makes 3 servings. Marinating time is optional but recommended for at least an hour if time allows.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "177 kcal",
+      "protein": "33g",
+      "carbohydrates": "3g",
+      "fat": "3g"
+    }
+  }

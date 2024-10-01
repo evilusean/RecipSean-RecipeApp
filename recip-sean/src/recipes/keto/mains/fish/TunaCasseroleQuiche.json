@@ -1,0 +1,65 @@
+{
+    "id": "keto-main_quicker_tuna_casserole_quiche_001",
+    "name": "Quicker Tuna 'Casserole' Quiche",
+    "ingredients": [
+      "4 ounce can sliced mushrooms, drained",
+      "6 ounce can tuna, drained",
+      "8 ounces cheddar cheese, shredded",
+      "4 eggs",
+      "1/2 cup mayonnaise",
+      "1/2 teaspoon onion powder",
+      "1 teaspoon dry minced onions",
+      "1 teaspoon pepper",
+      "1/2 teaspoon salt"
+    ],
+    "utensils": [
+      "10\" pie plate",
+      "Medium size bowl",
+      "Whisk",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Grease a 10\" pie plate.",
+        "primaryIngredient": "pie plate"
+      },
+      {
+        "time": 3,
+        "en": "Put the drained mushrooms, drained tuna, and shredded cheddar cheese in the greased pie plate.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "In a medium size bowl, whisk together the eggs, mayonnaise, onion powder, dry minced onions, pepper, and salt.",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Pour the egg mixture into the pie plate and mix everything together.",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 35 minutes or until set and browned.",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 5,
+        "en": "Let stand a few minutes before serving.",
+        "primaryIngredient": "quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 6-8 servings. The nutritional information is provided for both 1/6 and 1/8 of the recipe.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "368 kcal",
+      "protein": "21g",
+      "carbohydrates": "3g",
+      "fat": "31g"
+    }
+  }

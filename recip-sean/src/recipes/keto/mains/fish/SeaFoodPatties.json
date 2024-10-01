@@ -1,0 +1,80 @@
+{
+    "id": "keto-main_seafood_patties_001",
+    "name": "Seafood Patties",
+    "ingredients": [
+      "6 ounce can tuna or crab meat, drained",
+      "6 ounce frozen salad shrimp, thawed and drained",
+      "2 tablespoons celery, minced",
+      "2 tablespoons green pepper, minced",
+      "1 tablespoon green onion, minced",
+      "1 clove garlic, minced",
+      "Butter, optional",
+      "1 egg",
+      "1/8 teaspoon Old Bay seasoning or paprika",
+      "Pinch cayenne pepper, optional",
+      "Dash Tabasco, optional",
+      "1 ounce Monterey jack cheese, shredded",
+      "1/4 cup crushed pork rinds, 1 ounce",
+      "Oil for frying"
+    ],
+    "utensils": [
+      "Medium bowl",
+      "Fork",
+      "Very large nonstick skillet",
+      "Two spoons for shaping"
+    ],
+    "cookingTime": 20,
+    "prepTime": 45,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Finely mince about 3/4 of the shrimp almost to a paste. Keep the rest whole for texture.",
+        "primaryIngredient": "shrimp"
+      },
+      {
+        "time": 5,
+        "en": "Optional: Sauté the celery, green pepper, green onion and garlic in a little butter until tender-crisp.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, combine the seafood and vegetable mixture. Using a fork, stir in the egg until very well incorporated.",
+        "primaryIngredient": "seafood"
+      },
+      {
+        "time": 3,
+        "en": "Stir in all the seasonings, cheese and pork rinds. Mix well until it becomes a thick sort of paste.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 30,
+        "en": "Chill the mixture for at least 30 minutes.",
+        "primaryIngredient": "seafood mixture"
+      },
+      {
+        "time": 2,
+        "en": "Heat enough oil to at least cover the bottom of a very large nonstick skillet.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 5,
+        "en": "When the oil is hot, spoon in the seafood mixture, dividing into about 6-8 mounds. Using two spoons, gently shape and flatten into patties.",
+        "primaryIngredient": "seafood mixture"
+      },
+      {
+        "time": 10,
+        "en": "Fry on medium heat until very nicely browned on bottom. Don't flip until well-browned. Flip and brown well on the other side.",
+        "primaryIngredient": "seafood patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "You can divide the 'batter' differently depending on desired servings: for 2-3 servings, make 6 patties; for 4 servings, make 8 small patties. The patties are tender and quite fragile. This recipe can be frozen.",
+    "nutritionalInformation": {
+      "amount": "1/4 recipe",
+      "calories": "368 kcal",
+      "protein": "26g",
+      "carbohydrates": "1g",
+      "fat": "14g"
+    }
+  }

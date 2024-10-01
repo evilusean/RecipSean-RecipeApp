@@ -1,0 +1,57 @@
+{
+    "id": "keto-main_tuna_patties_001",
+    "name": "Tuna Patties",
+    "ingredients": [
+      "2 6-ounce cans tuna, drained",
+      "2 eggs",
+      "1/2 teaspoon celery salt",
+      "1/4 teaspoon onion powder",
+      "1/4 teaspoon pepper",
+      "2 ounces cheddar cheese, shredded",
+      "2 tablespoons parmesan cheese, 1/2 ounce",
+      "2 tablespoons oil"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Large skillet"
+    ],
+    "cookingTime": 8,
+    "prepTime": 35,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix all of the ingredients except the oil in a small bowl.",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 30,
+        "en": "Chill the mixture for at least 30 minutes.",
+        "primaryIngredient": "tuna mixture"
+      },
+      {
+        "time": 2,
+        "en": "Heat the oil in a large skillet on about medium heat.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 2,
+        "en": "Drop the tuna mixture by large spoonfuls into the hot oil. Flatten slightly and shape into patties.",
+        "primaryIngredient": "tuna mixture"
+      },
+      {
+        "time": 8,
+        "en": "Fry about 3-4 minutes on each side until well-browned. Flip them very gently and brown the other side.",
+        "primaryIngredient": "tuna patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 2-6 servings. The patties can be frozen. Serve with Tartar Sauce or sauce of your choice. Nutritional information is provided for 1/2, 1/4, and 1/6 of the recipe.",
+    "nutritionalInformation": {
+      "amount": "1/4 recipe",
+      "calories": "228 kcal",
+      "protein": "21g",
+      "carbohydrates": "1g",
+      "fat": "20g"
+    }
+  }

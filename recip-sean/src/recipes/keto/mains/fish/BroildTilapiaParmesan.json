@@ -1,0 +1,73 @@
+{
+    "id": "keto-main_broiled_tilapia_parmesan_001",
+    "name": "Phoebe's Broiled Tilapia Parmesan",
+    "ingredients": [
+      "2 pounds tilapia, thawed (6-8 fillets)",
+      "2 ounces parmesan cheese (1/2 cup)",
+      "1/4 cup butter, softened",
+      "3 tablespoons mayonnaise",
+      "2 tablespoons lemon juice (1 small lemon)",
+      "1/4 teaspoon basil",
+      "1/4 teaspoon pepper",
+      "1/8 teaspoons onion powder",
+      "1/8 teaspoon celery salt",
+      "Salt for seasoning",
+      "Nonstick cooking spray"
+    ],
+    "utensils": [
+      "Large sheet pan",
+      "Heavy foil",
+      "Small bowl",
+      "Oven with broiler",
+      "Spoon"
+    ],
+    "cookingTime": 8,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Blend the topping ingredients (parmesan, butter, mayonnaise, lemon juice, basil, pepper, onion powder, celery salt) in a small bowl. Keep chilled until needed.",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 2,
+        "en": "Raise your oven rack to the highest setting and preheat the broiler.",
+        "primaryIngredient": "oven"
+      },
+      {
+        "time": 2,
+        "en": "Line a large sheet pan with heavy foil and spray with nonstick cooking spray.",
+        "primaryIngredient": "foil"
+      },
+      {
+        "time": 2,
+        "en": "Arrange the fish on the baking sheet and sprinkle lightly with salt on both sides.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 6,
+        "en": "Broil for 5-6 minutes or until the fish is done to your liking.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 2,
+        "en": "Spread the topping evenly over the fish. If it melts and runs off, spoon it back on top of the fish.",
+        "primaryIngredient": "topping"
+      },
+      {
+        "time": 2,
+        "en": "Broil for about 2 minutes to brown the topping, watching very closely to prevent burning.",
+        "primaryIngredient": "topping"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "For the best flavor, let the topping get quite brown, but not burnt. This recipe should not be frozen. The topping can be prepared in advance and kept chilled until needed.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "307 kcal",
+      "protein": "31g",
+      "carbohydrates": "1g",
+      "fat": "19g"
+    }
+  }

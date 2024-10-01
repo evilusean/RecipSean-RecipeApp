@@ -1,0 +1,73 @@
+{
+    "id": "keto-main_lobster_mushroom_alfredo_zucchini_noodles_001",
+    "name": "Lobster and Mushroom Alfredo with Zucchini 'Noodles'",
+    "ingredients": [
+      "2 pounds zucchini",
+      "3 tablespoons butter, divided",
+      "8 ounces fresh mushrooms, sliced",
+      "8 ounces cream cheese, softened",
+      "3/4 cup heavy cream",
+      "2 ounces freshly grated parmesan cheese (1/2 cup)",
+      "1/4 teaspoon pepper",
+      "1/2 teaspoon garlic powder",
+      "Salt, to taste",
+      "1/2 pound cooked lobster meat",
+      "Pinch fresh parsley, minced (optional)",
+      "Spicy Seasoning Salt (optional)"
+    ],
+    "utensils": [
+      "Mandolin with wide julienne blade or sharp knife",
+      "Large non-stick skillet",
+      "Serving bowl",
+      "Large skillet for sauce"
+    ],
+    "cookingTime": 25,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "For Zucchini 'Noodles': Trim the ends off the zucchini. Using the wide julienne blade of a mandolin or a sharp knife, shred the zucchini lengthwise into noodle-like strips. Cut strips to desired length.",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "Sauté zucchini in 1 tablespoon butter in a non-stick skillet until slightly limp, but not mushy. Season with salt, pepper, and Spicy Seasoning Salt if desired. Keep warm in a serving bowl.",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "For Alfredo Sauce: Heat 2 tablespoons butter in a large skillet; sauté the mushrooms until tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add the cream cheese in small chunks and heat on medium-low heat, stirring until melted and smooth. Gradually blend in the cream until smooth.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Stir in the parmesan, pepper, garlic powder, and salt. Cook and stir over low heat until smooth and creamy, thinning with water as needed to make the sauce thick but pourable.",
+        "primaryIngredient": "parmesan"
+      },
+      {
+        "time": 3,
+        "en": "Add the lobster meat and stir to coat with the sauce and heat through. Add the parsley and adjust the seasonings as needed.",
+        "primaryIngredient": "lobster"
+      },
+      {
+        "time": 2,
+        "en": "Serve the lobster and mushroom Alfredo sauce over the prepared Zucchini 'Noodles'.",
+        "primaryIngredient": "zucchini noodles"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Do not freeze this dish. The zucchini 'noodles' have a texture similar to thick egg noodles. You can adjust the thickness of the Alfredo sauce by adding water if needed.",
+    "nutritionalInformation": {
+      "amount": "1 serving (1/5 of recipe)",
+      "calories": "504 kcal",
+      "protein": "22g",
+      "carbohydrates": "10g",
+      "fat": "43g"
+    }
+  }

@@ -1,0 +1,68 @@
+{
+    "id": "keto-main_lorraines_salmon_baked_herbed_butter_001",
+    "name": "Lorraine's Salmon Baked with Herbed Butter",
+    "ingredients": [
+      "4 tablespoons butter, softened",
+      "1 cup fresh parsley, chopped fine, about 20 grams",
+      "2 cloves garlic, minced",
+      "1 tablespoon capers, chopped (optional)",
+      "4 salmon fillets, 1 pound total",
+      "4 thin slices lemon",
+      "Salt and pepper, to taste",
+      "4 large pieces heavy duty foil"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Baking sheet",
+      "Oven"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix the softened butter, chopped parsley, minced garlic, and chopped capers (if using).",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 5,
+        "en": "Place each salmon fillet in the center of a square of foil and season with salt and pepper.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 3,
+        "en": "Cut 2 deep slashes into each piece of fish and spread the herbed butter into the cuts.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 2,
+        "en": "Cut the lemon slices in half and push one piece into each cut in the fish.",
+        "primaryIngredient": "lemon"
+      },
+      {
+        "time": 3,
+        "en": "Seal the foil around the salmon to form packets; place them on a baking sheet.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 15,
+        "en": "Bake at 375°F for 10-15 minutes or until the salmon is cooked through.",
+        "primaryIngredient": "salmon"
+      },
+      {
+        "time": 1,
+        "en": "Remove the lemon slices before serving.",
+        "primaryIngredient": "salmon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. Do not freeze. The original recipe creator doesn't care for capers and left them out, so they are optional.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "238 kcal",
+      "protein": "23g",
+      "carbohydrates": "1g",
+      "fat": "15g"
+    }
+  }

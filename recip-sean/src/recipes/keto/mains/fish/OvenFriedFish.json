@@ -1,0 +1,56 @@
+{
+    "id": "keto-main_peggys_oven_fried_fish_001",
+    "name": "Peggy's Oven Fried Fish",
+    "ingredients": [
+      "1 pound tilapia filets (at least 3 pieces)",
+      "1 tablespoon oil",
+      "2 tablespoons mayonnaise",
+      "2 ounces pork rinds, crushed (about 1/2 cup)",
+      "1-2 teaspoons Seasoning Salt, or seasoning of your choice"
+    ],
+    "utensils": [
+      "Large baking sheet",
+      "Foil",
+      "Shallow bowl or pie plate",
+      "Oven"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Line a large baking sheet with foil and rub with the oil to coat.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 2,
+        "en": "Mix the crushed pork rinds and seasoning in a shallow bowl or pie plate.",
+        "primaryIngredient": "pork rinds"
+      },
+      {
+        "time": 4,
+        "en": "Coat each piece of fish with mayonnaise on both sides.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 4,
+        "en": "Cover the mayonnaise-coated fish on both sides with the seasoned pork rind crumbs.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 450°F for about 15-20 minutes or until the fish is crispy and cooked through. It's not necessary to flip the fish over during baking.",
+        "primaryIngredient": "tilapia"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "You'll need at least 3 pieces of fish to make 3 servings. The original recipe used 6 filets that were small and weighed between 2 1/4 and 3 1/4 ounces each. Adjust cooking time based on the thickness of your fish filets.",
+    "nutritionalInformation": {
+      "amount": "1 serving (1/3 of recipe)",
+      "calories": "316 kcal",
+      "protein": "38g",
+      "carbohydrates": "trace",
+      "fat": "17g"
+    }
+  }

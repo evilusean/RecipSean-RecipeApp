@@ -1,0 +1,60 @@
+{
+    "id": "keto-main_crispy_fried_fish_001",
+    "name": "Crispy Fried Fish",
+    "ingredients": [
+      "2 tilapia filets (about 4 ounces each)",
+      "1 egg white",
+      "2 ounces BBQ flavor pork rinds, finely crushed (about 1 cup)",
+      "Oil for frying",
+      "Salt"
+    ],
+    "utensils": [
+      "2 pie plates",
+      "Fork",
+      "Large nonstick skillet"
+    ],
+    "cookingTime": 5,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Put the egg white in a pie plate and beat with a fork until frothy.",
+        "primaryIngredient": "egg white"
+      },
+      {
+        "time": 1,
+        "en": "Put the pork rind crumbs in another pie plate.",
+        "primaryIngredient": "pork rinds"
+      },
+      {
+        "time": 2,
+        "en": "Heat a good amount of oil in a large nonstick skillet over medium heat. The oil should cover the bottom of the pan.",
+        "primaryIngredient": "oil"
+      },
+      {
+        "time": 3,
+        "en": "Coat the fish well with the egg white and then dip the filets into the crumbs to coat them well. Pat the crumbs on as thickly as you can.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 4,
+        "en": "Very carefully place the fish in hot oil in the skillet and fry on both sides until the coating has browned slightly and the fish is cooked through. It will only take a minute or two per side.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 1,
+        "en": "Season to taste with salt. Serve immediately while the fish is hot and the coating is crisp.",
+        "primaryIngredient": "salt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "You'll probably have extra crumbs but it's helpful to have more than you'll need in order to coat the fish more easily. Turkey Creek brand was used. The BBQ flavoring does have a little sugar in it but not enough to add any countable carbs per serving. Gentle handling will help keep the crumbs from falling off too much.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "391 kcal",
+      "protein": "39g",
+      "carbohydrates": "trace",
+      "fat": "25g"
+    }
+  }

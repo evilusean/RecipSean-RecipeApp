@@ -1,0 +1,72 @@
+{
+    "id": "keto-main_cheesy_tuna_casserole_001",
+    "name": "Cheesy Tuna Casserole",
+    "ingredients": [
+      "2 6-ounce cans tuna, drained",
+      "16 ounce bag frozen French cut green beans",
+      "3 ounces fresh mushrooms, chopped, about 8 small",
+      "1 stalk celery, finely chopped",
+      "2 tablespoons onion, finely chopped",
+      "2 tablespoons butter",
+      "1/2 cup chicken broth",
+      "3/4 cup heavy cream",
+      "Salt and pepper, to taste",
+      "Xanthan gum, optional",
+      "4-8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Medium pot",
+      "Sauté pan",
+      "1 1/2 - 2 quart casserole dish",
+      "Microwave or oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook the green beans as directed on the package; drain well.",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 8,
+        "en": "Sauté the mushrooms, celery and onion in the butter until very soft and starting to brown a bit.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add the broth; bring to a boil. Let the liquid reduce by half, then stir in the cream.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 10,
+        "en": "Bring back to a boil. Turn down the heat and cook until reduced and thickened, stirring frequently. Season to taste.",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 5,
+        "en": "Stir the tuna and mushroom soup mixture into the green beans. Add salt and pepper, if needed.",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 2,
+        "en": "Mix in the cheese; put into a 1 1/2 - 2 quart casserole.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 10,
+        "en": "Microwave or bake until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Do not freeze this dish. You may use 4 ounces of cheese instead of 8 for a less cheesy version. Xanthan gum can be used optionally, likely to thicken the sauce if needed.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "382 kcal",
+      "protein": "25g",
+      "carbohydrates": "8g",
+      "fat": "28g"
+    }
+  }

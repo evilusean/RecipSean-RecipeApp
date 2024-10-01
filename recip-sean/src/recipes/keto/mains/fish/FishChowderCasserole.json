@@ -1,0 +1,56 @@
+{
+    "id": "keto-main_fish_chowder_casserole_001",
+    "name": "Fish Chowder Casserole",
+    "ingredients": [
+      "2 pounds fish, cooked and broken into bite-size pieces",
+      "16 ounces frozen cauliflower, cooked and well-drained",
+      "8 ounces cream cheese, softened",
+      "1 clove garlic, minced",
+      "1/4 teaspoon pepper",
+      "1/8 teaspoon dill",
+      "2 teaspoons chives",
+      "1 tablespoon fresh parsley, chopped",
+      "8 ounces cheddar cheese, shredded",
+      "6 green onions, white and green parts, chopped (about 1 1/2 ounces chopped)",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "2-quart casserole dish",
+      "Mixing bowl",
+      "Oven"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Combine the cream cheese, garlic, pepper, dill, chives and parsley in a 2-quart casserole; blend well.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 3,
+        "en": "Stir in the fish and cauliflower and mix until well-coated with the cream cheese mixture.",
+        "primaryIngredient": "fish"
+      },
+      {
+        "time": 2,
+        "en": "Fold in the cheddar cheese and green onions then add some salt, if needed.",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for about 30-35 minutes or until hot and bubbly and browned on the top.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "The 2 pounds of fish is the uncooked weight and will yield just over 1 pound of cooked fish. Adjust salt to taste as needed.",
+    "nutritionalInformation": {
+      "amount": "1/6 recipe",
+      "calories": "395 kcal",
+      "protein": "33g",
+      "carbohydrates": "6g",
+      "fat": "27g"
+    }
+  }

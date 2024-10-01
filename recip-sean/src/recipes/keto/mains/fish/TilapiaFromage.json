@@ -1,0 +1,79 @@
+{
+    "id": "keto-main_paulas_tilapia_fromage_001",
+    "name": "Paula's Tilapia Fromage",
+    "ingredients": [
+      "1 tablespoon butter",
+      "3 1/2 ounces onion, chopped (about 1 small-medium)",
+      "4 ounces Monterey jack cheese, shredded",
+      "1/2 cup mayonnaise",
+      "Dash hot sauce",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon garlic powder",
+      "1/8 teaspoon pepper",
+      "1/8 teaspoon onion powder",
+      "Red pepper flakes, to taste",
+      "8 tilapia fillets (about 2 1/2 ounces each)",
+      "4 tablespoons cold butter, cut into 16 pieces"
+    ],
+    "utensils": [
+      "Small skillet",
+      "Medium bowl",
+      "Rimmed sheet pan",
+      "Foil",
+      "Oven with broiler"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Sauté the chopped onion in 1 tablespoon butter in a small skillet until soft.",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 2,
+        "en": "Transfer sautéed onion to a medium bowl and let cool slightly.",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 3,
+        "en": "Add the shredded cheese, mayonnaise, hot sauce, and all seasonings to the onion; mix well.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "Place the tilapia fillets on a foil-lined rimmed sheet pan. Top each piece with two pieces of the cold butter.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 350°F for about 10 minutes or until almost done.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 2,
+        "en": "Divide the cheese mixture evenly among the pieces of fish; spread to cover the tops.",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 15,
+        "en": "Bake for another 10-15 minutes until the cheese has melted and browned slightly.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 2,
+        "en": "Optional: For more browning, put the fish under the broiler for a minute or two, watching closely.",
+        "primaryIngredient": "tilapia"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4 servings. The final broiling step is optional but can add a nice brown color to the cheese topping. Watch closely to prevent burning if using the broiler.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "438 kcal",
+      "protein": "8g",
+      "carbohydrates": "3g",
+      "fat": "45g"
+    }
+  }

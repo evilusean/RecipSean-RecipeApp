@@ -1,0 +1,71 @@
+{
+    "id": "keto-main_tuna_rice_casserole_variation_001",
+    "name": "Tuna \"Rice\" Casserole Variation",
+    "ingredients": [
+      "24 ounces fresh cauliflower, shredded, 1 small-medium head",
+      "2 tablespoons butter, divided",
+      "2 stalks celery, diced",
+      "3 6-ounce cans tuna, drained",
+      "4 ounce can mushrooms, drained",
+      "8 ounces cheddar cheese, shredded",
+      "3/4 cup heavy cream",
+      "1/2 cup mayonnaise",
+      "1/2 teaspoon onion powder",
+      "1/2-1 teaspoon salt",
+      "1 teaspoon pepper",
+      "1 teaspoon dry minced onion",
+      "3 tablespoons water"
+    ],
+    "utensils": [
+      "3-4 quart casserole dish with lid",
+      "Microwave",
+      "Skillet",
+      "Medium microwaveable bowl",
+      "Whisk",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Put the shredded cauliflower in a 3-4 quart casserole with a lid. Add 3 tablespoons of water, cover and microwave on HIGH 8-10 minutes until just tender, stirring every couple minutes. Do not overcook. Stir in 1 tablespoon butter.",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Sauté the diced celery in the remaining tablespoon of butter until very tender.",
+        "primaryIngredient": "celery"
+      },
+      {
+        "time": 5,
+        "en": "In a medium microwaveable bowl, mix the cheese and cream. Microwave 2 minutes on HIGH to melt the cheese; stir until well blended and creamy.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Whisk in the mayonnaise, seasonings and dry onion to the cheese mixture.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 3,
+        "en": "Stir the celery, tuna and mushrooms into the cauliflower; add the cheese sauce and mix well.",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 30,
+        "en": "Bake, uncovered, at 350°F for 30 minutes until hot and bubbly.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 8 servings. The casserole can be frozen. It can be covered and chilled before baking; add an extra 5-10 minutes to baking time if chilled.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "410 kcal",
+      "protein": "24g",
+      "carbohydrates": "7g",
+      "fat": "32g"
+    }
+  }

@@ -1,0 +1,61 @@
+{
+    "id": "keto-main_baked_tilapia_001",
+    "name": "Baked Tilapia",
+    "ingredients": [
+      "1 pound tilapia fillets, thawed if frozen",
+      "Garlic powder",
+      "Spicy Seasoning Salt",
+      "Salt and pepper, to taste",
+      "3-4 tablespoons butter, melted",
+      "Cooking spray"
+    ],
+    "utensils": [
+      "Rimmed baking sheet",
+      "Heavy duty foil",
+      "Oven"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Line a rimmed baking sheet with heavy duty foil and spray with cooking spray.",
+        "primaryIngredient": "foil"
+      },
+      {
+        "time": 2,
+        "en": "Arrange the fish in a single layer on the baking sheet.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 2,
+        "en": "Season the fish on both sides with garlic powder, Spicy Seasoning Salt, salt, and pepper.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 1,
+        "en": "Pour the melted butter over the fillets.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 425°F for about 8-10 minutes, just until opaque. Do not overcook.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 1,
+        "en": "Serve with the browned buttery pan juices.",
+        "primaryIngredient": "tilapia"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe can be frozen for later use. Be careful not to overcook the fish to maintain its texture and flavor. The browned buttery pan juices add extra flavor to the dish.",
+    "nutritionalInformation": {
+      "amount": "1/3 recipe",
+      "calories": "283 kcal",
+      "protein": "27g",
+      "carbohydrates": "trace",
+      "fat": "19g"
+    }
+  }

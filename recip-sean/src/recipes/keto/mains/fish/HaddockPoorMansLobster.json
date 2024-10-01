@@ -1,0 +1,68 @@
+{
+    "id": "keto-main_carolyns_poor_mans_lobster_001",
+    "name": "Carolyn's Poor Man's Lobster",
+    "ingredients": [
+      "4 ounce fresh or frozen haddock fillet",
+      "Water, enough to cover the fish",
+      "1/2 teaspoon white vinegar",
+      "1 1/2 teaspoons salt",
+      "2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "1 tablespoon butter, melted",
+      "Garlic or garlic powder, to taste"
+    ],
+    "utensils": [
+      "Deep-sided skillet",
+      "Slotted spoon",
+      "Broiler pan",
+      "Oven with broiler"
+    ],
+    "cookingTime": 12,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place the haddock fillet in a deep-sided skillet. Add just enough water to cover the fish.",
+        "primaryIngredient": "haddock"
+      },
+      {
+        "time": 1,
+        "en": "Add vinegar, salt, and Splenda to the water.",
+        "primaryIngredient": "vinegar"
+      },
+      {
+        "time": 8,
+        "en": "Bring to a boil and cook for 5-8 minutes or until the fish turns white and feels firm but isn't flaking.",
+        "primaryIngredient": "haddock"
+      },
+      {
+        "time": 1,
+        "en": "Remove the fish from the water with a slotted spoon and place on a broiler pan.",
+        "primaryIngredient": "haddock"
+      },
+      {
+        "time": 4,
+        "en": "Broil for 2 minutes per side to dry out the fish.",
+        "primaryIngredient": "haddock"
+      },
+      {
+        "time": 1,
+        "en": "Combine the melted butter and garlic powder.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Serve the fish dipped in the garlic butter.",
+        "primaryIngredient": "haddock"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "A 4 ounce fillet will yield between 2 1/2 and 2 3/4 ounces of cooked fish. This recipe can be frozen. The amounts of vinegar, salt, and Splenda are per fillet, so adjust accordingly if cooking multiple fillets.",
+    "nutritionalInformation": {
+      "amount": "1 serving",
+      "calories": "190 kcal",
+      "protein": "19g",
+      "carbohydrates": "trace",
+      "fat": "12g"
+    }
+  }

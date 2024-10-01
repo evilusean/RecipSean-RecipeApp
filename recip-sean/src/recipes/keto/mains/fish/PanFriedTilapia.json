@@ -1,0 +1,43 @@
+{
+    "id": "keto-main_pan_fried_tilapia_001",
+    "name": "Pan-Fried Tilapia",
+    "ingredients": [
+      "Tilapia fillets, thawed (about 4 ounces each)",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Other seasonings, as desired",
+      "1 tablespoon butter per fillet"
+    ],
+    "utensils": [
+      "Nonstick skillet"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season the tilapia fillets with salt, pepper, or other seasonings as desired.",
+        "primaryIngredient": "tilapia"
+      },
+      {
+        "time": 1,
+        "en": "Heat 1 tablespoon of butter per fillet in a nonstick skillet over medium-high heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 10,
+        "en": "Fry the seasoned tilapia fillets until golden brown on both sides, about 8-10 minutes total.",
+        "primaryIngredient": "tilapia"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe is for one serving (one fillet). Adjust the amount of ingredients based on the number of fillets you're cooking. Cooking time may vary slightly depending on the thickness of the fillets.",
+    "nutritionalInformation": {
+      "amount": "1 serving (1 fillet)",
+      "calories": "210 kcal",
+      "protein": "20g",
+      "carbohydrates": "trace",
+      "fat": "14g"
+    }
+  }

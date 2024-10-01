@@ -1,0 +1,55 @@
+{
+    "id": "keto-main_quick_shrimp_scampi_001",
+    "name": "Quick Shrimp Scampi",
+    "ingredients": [
+      "2 tablespoons butter",
+      "1/4 teaspoon garlic powder, or to taste",
+      "1/2 pound cooked medium shrimp",
+      "Salt, to taste",
+      "Pepper, to taste",
+      "Dash cayenne",
+      "Pinch fresh parsley, minced"
+    ],
+    "utensils": [
+      "Small skillet"
+    ],
+    "cookingTime": 8,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Heat the butter in a small skillet.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 1,
+        "en": "Add the shrimp and garlic powder to the melted butter.",
+        "primaryIngredient": "shrimp"
+      },
+      {
+        "time": 4,
+        "en": "Cook on high until any watery liquid evaporates and you're left with just a little buttery sauce. Watch closely.",
+        "primaryIngredient": "shrimp"
+      },
+      {
+        "time": 1,
+        "en": "Turn down the heat and season with salt, pepper and cayenne.",
+        "primaryIngredient": "salt"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with minced fresh parsley before serving.",
+        "primaryIngredient": "parsley"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 1-2 servings. Do not freeze. Nutritional information is provided for both full and half servings.",
+    "nutritionalInformation": {
+      "amount": "1 serving (full recipe)",
+      "calories": "447 kcal",
+      "protein": "46g",
+      "carbohydrates": "3g",
+      "fat": "27g"
+    }
+  }

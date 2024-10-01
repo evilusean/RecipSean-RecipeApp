@@ -1,0 +1,69 @@
+{
+    "id": "keto-main_tuna_casserole_001",
+    "name": "Tuna Casserole",
+    "ingredients": [
+      "2 6-ounce cans tuna, drained",
+      "16 ounce bag frozen French cut green beans",
+      "3 ounces fresh mushrooms, chopped, about 8 small",
+      "1 stalk celery, finely chopped",
+      "2 tablespoons onion, finely chopped",
+      "2 tablespoons butter",
+      "1/2 cup chicken broth",
+      "3/4 cup heavy cream",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Medium pot",
+      "Skillet",
+      "Strainer"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Cook the green beans as directed on the package; drain well.",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 5,
+        "en": "Sauté the mushrooms, celery and onion in the butter until very soft and starting to brown a bit.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 3,
+        "en": "Add the broth; bring to a boil. Let liquid reduce by half.",
+        "primaryIngredient": "chicken broth"
+      },
+      {
+        "time": 5,
+        "en": "Stir in the cream. Bring to a boil and cook until reduced, starting to thicken and turning brownish from the mushrooms.",
+        "primaryIngredient": "heavy cream"
+      },
+      {
+        "time": 1,
+        "en": "Season to taste with salt and pepper.",
+        "primaryIngredient": "salt and pepper"
+      },
+      {
+        "time": 2,
+        "en": "Stir the tuna and mushroom soup mixture into the green beans.",
+        "primaryIngredient": "tuna"
+      },
+      {
+        "time": 5,
+        "en": "Heat over medium-low heat until hot and bubbly; add salt and pepper, if needed.",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4-6 servings. Do not freeze. Nutritional information is provided for 1/4, 1/5, and 1/6 of the recipe.",
+    "nutritionalInformation": {
+      "amount": "1/4 recipe",
+      "calories": "329 kcal",
+      "protein": "25g",
+      "carbohydrates": "6g",
+      "fat": "23g"
+    }
+  }
