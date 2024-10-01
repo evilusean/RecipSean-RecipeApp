@@ -1,0 +1,66 @@
+{
+    "id": "salsa-chicken",
+    "name": "Salsa Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "2 teaspoons Seasoning for Tacos",
+      "1 cup salsa",
+      "1/2 cup sour cream",
+      "4 ounces Monterey jack cheese, shredded",
+      "Chopped green onions, for garnish, optional"
+    ],
+    "utensils": [
+      "Frying pan or grill",
+      "Baking pan",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Sprinkle both sides of the chicken with taco seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Pan fry or grill the chicken.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Place cooked chicken in a greased baking pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Mix the salsa and sour cream; pour over the chicken.",
+        "primaryIngredient": "salsa"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350º for 20 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Top with the cheese and bake until cheese melts.",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle chopped green onions over the top, if using.",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "321",
+      "protein": "36g",
+      "carbohydrates": "6g",
+      "fat": "16g"
+    }
+  }

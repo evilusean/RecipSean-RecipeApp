@@ -1,0 +1,47 @@
+{
+    "id": "oven-baked-chicken-patties",
+    "name": "Oven-Baked Chicken Patties",
+    "ingredients": [
+      "10 ounce can chicken, drained well",
+      "2 eggs",
+      "1/4 cup celery, chopped fine (1 ounce)",
+      "4 green onions, chopped fine (1/2 ounce)",
+      "2 ounces cheddar cheese, shredded",
+      "Salt and pepper, to taste",
+      "Pinch Old Bay seasoning, optional"
+    ],
+    "utensils": [
+      "Mixing bowl",
+      "Muffin top pans",
+      "Oven"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix all of the ingredients in a bowl.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Spoon mixture into 6 well-greased muffin top pans. Spread and pat the chicken mixture to fill the cups evenly.",
+        "primaryIngredient": "chicken mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350º for 20 minutes until set and lightly browned around the edges.",
+        "primaryIngredient": "chicken patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen. *Yield: 6 1/8 ounces drained chicken from the can.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "114",
+      "protein": "13g",
+      "carbohydrates": "1g",
+      "fat": "6g"
+    }
+  }

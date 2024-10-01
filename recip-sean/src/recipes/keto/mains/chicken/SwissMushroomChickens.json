@@ -1,0 +1,62 @@
+{
+    "id": "swiss-mushroom-chicken",
+    "name": "Swiss Mushroom Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts, pounded flat if desired",
+      "Salt, pepper and your choice of seasonings",
+      "1/2 pound mushrooms, sliced",
+      "2 tablespoons butter",
+      "4 thin slices deli ham",
+      "4 slices Swiss cheese, about 1 ounce each"
+    ],
+    "utensils": [
+      "Grill or sauté pan",
+      "Large baking dish",
+      "Frying pan",
+      "Oven"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season chicken as desired.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill or sauté chicken till just done.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Place cooked chicken in a large baking dish.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 7,
+        "en": "Sauté mushrooms in butter until tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Top each piece of chicken with a slice of ham, 1/4 of the mushrooms, then a slice of cheese.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for 15-20 minutes until everything is hot and the cheese is melted.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "325",
+      "protein": "41g",
+      "carbohydrates": "3g",
+      "fat": "15g"
+    }
+  }

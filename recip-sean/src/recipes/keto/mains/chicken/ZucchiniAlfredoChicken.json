@@ -1,0 +1,68 @@
+{
+    "id": "zucchini-alfredo-with-grilled-chicken",
+    "name": "Zucchini Alfredo with Grilled Chicken",
+    "ingredients": [
+      "2 pounds zucchini",
+      "3 cloves garlic, minced",
+      "2 tablespoons olive oil",
+      "8 ounces cream cheese, softened",
+      "3/4 cup heavy cream",
+      "2 ounces freshly grated parmesan cheese, 1/2 cup",
+      "Pepper, about 1/4 teaspoon",
+      "Pinch nutmeg",
+      "1/2 teaspoon garlic powder",
+      "Salt, to taste",
+      "Pinch fresh parsley, minced, optional",
+      "3-4 boneless chicken breasts, seasoned, grilled and cubed"
+    ],
+    "utensils": [
+      "Large nonstick skillet",
+      "Serving bowl",
+      "Grater",
+      "Grill"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cut zucchini into thin 'pasta' sized strips.",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Heat oil in skillet. Sauté zucchini and garlic until tender but not mushy. Season with salt. Transfer to serving bowl and keep warm.",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 5,
+        "en": "In same skillet, heat cream cheese on medium-low until melted and smooth.",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Gradually blend in cream until smooth. Stir in parmesan and seasonings. Cook over low heat until smooth and creamy, thinning with water if needed.",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 5,
+        "en": "Add cubed chicken and stir to coat with sauce.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Serve chicken and sauce over zucchini 'pasta'.",
+        "primaryIngredient": "zucchini"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "427",
+      "protein": "27g",
+      "carbohydrates": "7g",
+      "fat": "33g"
+    }
+  }

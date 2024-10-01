@@ -1,0 +1,65 @@
+{
+    "id": "danas-parmesan-deviled-chicken",
+    "name": "Dana's Parmesan Deviled Chicken",
+    "ingredients": [
+      "1 tablespoon oil",
+      "1 clove garlic, minced",
+      "1/4 cup spicy brown or Dijon mustard",
+      "2 tablespoons dry white wine",
+      "3/4 cup parmesan cheese, the kind in a green can (3 ounces)",
+      "1 teaspoon paprika",
+      "1/4 teaspoon cayenne",
+      "8 chicken thighs, bone-in and skin on",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "2 pie plates",
+      "9x13\" baking pan",
+      "Non-stick foil",
+      "Oven"
+    ],
+    "cookingTime": 90,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Combine oil and minced garlic in a pie plate. Let stand about 5 minutes.",
+        "primaryIngredient": "garlic"
+      },
+      {
+        "time": 2,
+        "en": "Add mustard and wine to the oil mixture.",
+        "primaryIngredient": "mustard"
+      },
+      {
+        "time": 3,
+        "en": "In another pie plate, mix parmesan cheese, paprika, and cayenne.",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 10,
+        "en": "Coat chicken with mustard mixture, then coat well with parmesan cheese mixture on all sides.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Place chicken in a non-stick foil-lined 9x13\" baking pan. Sprinkle any remaining parmesan cheese mixture over each piece.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 90,
+        "en": "Bake at 350º for 75-90 minutes or until chicken is cooked through and coating is golden brown.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen but coating will turn soft. Original recipe calls for bone-in thighs, but boneless thighs can be used (cooking time may reduce to 60 minutes). Spicy brown mustard was used in this version.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "273",
+      "protein": "21g",
+      "carbohydrates": "1g",
+      "fat": "20g"
+    }
+  }

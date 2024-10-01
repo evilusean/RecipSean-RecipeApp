@@ -1,0 +1,59 @@
+{
+    "id": "parmesan-herb-chicken",
+    "name": "Parmesan Herb Chicken",
+    "ingredients": [
+      "1 cup freshly grated parmesan cheese (4 ounces)",
+      "2 tablespoons fresh parsley, chopped",
+      "1 teaspoon basil",
+      "1 teaspoon paprika",
+      "1/2-1 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/8 teaspoon garlic powder",
+      "6 bone-in chicken breasts, preferably with the skin on",
+      "1/2 cup butter, melted"
+    ],
+    "utensils": [
+      "Shallow dish or pie pan",
+      "10x15\" baking pan",
+      "Oven"
+    ],
+    "cookingTime": 55,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix parmesan cheese, parsley, basil, paprika, salt, pepper, and garlic powder in a shallow dish or pie pan.",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 2,
+        "en": "Melt the butter.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 10,
+        "en": "Dip each chicken breast in melted butter, then coat with the parmesan mixture.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Place coated chicken breasts in a greased 10x15\" baking pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 55,
+        "en": "Bake at 350º for 40-55 minutes, depending on the size of the breasts.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "535",
+      "protein": "55g",
+      "carbohydrates": "1g",
+      "fat": "33g"
+    }
+  }

@@ -1,0 +1,72 @@
+{
+    "id": "mushroom-jack-fajitas",
+    "name": "Mushroom Jack Fajitas",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "1 large green pepper, julienned (about 8 ounces)",
+      "1 large red bell pepper, julienned (about 8 ounces)",
+      "2 medium onions, slivered (9 ounces)",
+      "1 tablespoon oil",
+      "8 ounces mushrooms, sliced",
+      "1 tablespoon bacon grease",
+      "4 slices bacon, cooked and crumbled",
+      "6 ounces Monterey jack cheese, shredded",
+      "1 cup water",
+      "3 tablespoons soy sauce",
+      "4 1/2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "1 tablespoon salt",
+      "1 tablespoon white vinegar",
+      "1 1/2 teaspoons chipotle chile powder",
+      "1 teaspoon liquid smoke",
+      "1 teaspoon paprika",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon pepper"
+    ],
+    "utensils": [
+      "Large zipper bag",
+      "Baking dish",
+      "Grill",
+      "Large skillet",
+      "Large platter or dinner plates"
+    ],
+    "cookingTime": 30,
+    "prepTime": 150,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Combine marinade ingredients and pour over chicken in a large zipper bag. Marinate in the refrigerator for 2 hours or longer.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 15,
+        "en": "Grill the chicken and keep warm.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Cook peppers and onion in oil until tender-crisp and slightly browned. Season with salt and set aside.",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 5,
+        "en": "Sauté mushrooms in bacon grease. Season with salt.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 10,
+        "en": "Assemble: Arrange peppers and onions on a platter, top with sliced chicken, cheese, mushrooms, and bacon bits. Let stand until cheese melts.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Do not freeze. Optional toppings (not included in nutritional info): Salsa, Sour cream, Guacamole, Shredded lettuce, Pico de gallo.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "328",
+      "protein": "31g",
+      "carbohydrates": "11g",
+      "fat": "18g"
+    }
+  }

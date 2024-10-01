@@ -1,0 +1,44 @@
+{
+    "id": "sauteed-chicken-breasts",
+    "name": "Sautéed Chicken Breasts",
+    "ingredients": [
+      "Boneless chicken breasts",
+      "Garlic powder, to taste",
+      "Paprika, to taste",
+      "Salt and pepper, to taste",
+      "Butter",
+      "Oil"
+    ],
+    "utensils": [
+      "Nonstick skillet"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Sprinkle garlic powder, paprika, salt, and pepper over both sides of the chicken breasts.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Heat butter and a little oil in a nonstick skillet on medium heat.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 15,
+        "en": "Sauté the chicken, just until the juices run clear.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Cooking time may vary depending on the thickness of the chicken breasts.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "273",
+      "protein": "27g",
+      "carbohydrates": "trace",
+      "fat": "18g"
+    }
+  }

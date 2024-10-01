@@ -1,0 +1,57 @@
+{
+    "id": "peggys-oven-fried-chicken",
+    "name": "Peggy's Oven-Fried Chicken",
+    "ingredients": [
+      "8 bone-in, skin-on chicken thighs (about 4 pounds)",
+      "1/4 cup mayonnaise",
+      "1/2 cup parmesan cheese (2 ounces)",
+      "1 cup finely crushed pork rinds (about 2 1/2 ounces)",
+      "2 tablespoons seasoning blend of your choice",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Shallow bowl",
+      "Rimmed baking sheet",
+      "Aluminum foil",
+      "Oven"
+    ],
+    "cookingTime": 70,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Coat each piece of chicken with mayonnaise.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Mix parmesan cheese, crushed pork rinds, and seasonings in a shallow bowl.",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 10,
+        "en": "Dip chicken pieces in the crumb mixture, coating on all sides. Place on a foil-lined, rimmed baking sheet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Pat any remaining crumbs on top of the chicken.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 70,
+        "en": "Bake at 350º for 60-70 minutes or until the chicken is done.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-8 servings. *The recipe creator used KFC Chicken Seasoning for the seasoning blend.",
+    "nutritionalInformation": {
+      "amount": "Per Thigh",
+      "calories": "275",
+      "protein": "23g",
+      "carbohydrates": "1g",
+      "fat": "19g"
+    }
+  }

@@ -1,0 +1,85 @@
+{
+    "id": "keto-main_italian_chicken_001",
+    "name": "Italian Chicken",
+    "ingredients": [
+      "8 chicken thighs, skin removed",
+      "8 ounces tomato sauce",
+      "2 tablespoons tomato paste",
+      "1/4 teaspoon onion powder",
+      "1/4 teaspoon garlic powder",
+      "1/4 teaspoon Italian seasoning",
+      "1/4 teaspoon salt, or to taste",
+      "4 ounce can mushrooms, drained",
+      "8 ounces mozzarella cheese, shredded",
+      "1/4 cup parmesan cheese, 1 ounce"
+    ],
+    "utensils": [
+      "9x13\" glass baking dish",
+      "Microwave",
+      "Mixing bowl",
+      "Plastic wrap"
+    ],
+    "cookingTime": 40,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place the skinless chicken thighs in a greased 9x13\" glass baking dish.",
+        "primaryIngredient": "chicken thighs"
+      },
+      {
+        "time": 5,
+        "en": "Mix tomato sauce, tomato paste, onion powder, garlic powder, Italian seasoning, salt, and drained mushrooms in a bowl.",
+        "primaryIngredient": "sauce ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Spoon the sauce mixture over the chicken.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Cover the baking dish with plastic wrap.",
+        "primaryIngredient": "none"
+      },
+      {
+        "time": 30,
+        "en": "Microwave on MEDIUM power for 30 minutes until the chicken is cooked through.",
+        "primaryIngredient": "chicken and sauce"
+      },
+      {
+        "time": 2,
+        "en": "Remove plastic wrap and top with shredded mozzarella and parmesan cheese.",
+        "primaryIngredient": "cheeses"
+      },
+      {
+        "time": 5,
+        "en": "Cook uncovered on MEDIUM for 5 minutes until the cheese is melted and bubbly.",
+        "primaryIngredient": "cheese topped chicken"
+      },
+      {
+        "time": 5,
+        "en": "Let stand for 5 minutes before serving.",
+        "primaryIngredient": "finished dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe makes 4-8 servings. Do not freeze.",
+    "nutritionalInformation": [
+      {
+        "amount": "Per Thigh",
+        "calories": "198 kcal",
+        "protein": "21g",
+        "carbohydrates": "4g",
+        "fat": "10g"
+      },
+      {
+        "amount": "Per 2 Thighs",
+        "calories": "395 kcal",
+        "protein": "43g",
+        "carbohydrates": "8g",
+        "fat": "21g"
+      }
+    ]
+  }

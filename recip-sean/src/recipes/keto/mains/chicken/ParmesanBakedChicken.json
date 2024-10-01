@@ -1,0 +1,55 @@
+{
+    "id": "parmesan-baked-chicken",
+    "name": "Parmesan Baked Chicken",
+    "ingredients": [
+      "1 tablespoon butter, melted",
+      "1 boneless chicken breast",
+      "1/2 ounce parmesan cheese, shredded (about 2 tablespoons)",
+      "Pinch garlic powder",
+      "Dash pepper",
+      "Dash Spicy Seasoning Salt"
+    ],
+    "utensils": [
+      "Baking dish",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Melt the butter.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 3,
+        "en": "Dip the chicken breast in melted butter.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Coat the chicken with shredded parmesan cheese.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle the chicken with garlic powder, pepper, and Spicy Seasoning Salt.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350º for about 25-30 minutes, until the chicken is cooked through.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "298",
+      "protein": "33g",
+      "carbohydrates": "1g",
+      "fat": "17g"
+    }
+  }

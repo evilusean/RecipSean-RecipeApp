@@ -1,0 +1,55 @@
+{
+    "id": "melt-in-your-mouth-chicken-breasts",
+    "name": "Melt in Your Mouth Chicken Breasts",
+    "ingredients": [
+      "4 boneless chicken breasts (about 2 pounds)",
+      "1 cup mayonnaise",
+      "1/2 cup freshly grated parmesan cheese",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1/2 teaspoon garlic powder",
+      "1/4 teaspoon paprika",
+      "1/2 teaspoon No-Salt Seasoning"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Meat mallet",
+      "Rimmed baking sheet",
+      "Aluminum foil",
+      "Oven"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix the mayonnaise, cheese and seasonings in a small bowl.",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 5,
+        "en": "Pound the chicken flat and place on a foil-lined rimmed baking sheet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Spread the mayonnaise mixture evenly over the chicken.",
+        "primaryIngredient": "mayonnaise mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 375º for 20 minutes or until the chicken is cooked through and the topping is golden brown.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "695",
+      "protein": "57g",
+      "carbohydrates": "2g",
+      "fat": "50g"
+    }
+  }

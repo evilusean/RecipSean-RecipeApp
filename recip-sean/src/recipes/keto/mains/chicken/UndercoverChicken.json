@@ -1,0 +1,71 @@
+{
+    "id": "undercover-chicken",
+    "name": "Undercover Chicken",
+    "ingredients": [
+      "4 small or 2 large boneless chicken breasts (about 26 ounces total)",
+      "1 green pepper, julienned",
+      "2 1/2 ounces onion, sliced thin, 1 small",
+      "2 cloves garlic, minced",
+      "1 Roma tomato, thinly sliced",
+      "1 small zucchini, cut in half moons",
+      "1 teaspoon Italian seasoning or seasoning of your choice",
+      "1 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/2 cup Italian dressing",
+      "4 12\" pieces of heavy-duty foil"
+    ],
+    "utensils": [
+      "Heavy-duty foil",
+      "Baking sheet",
+      "Oven"
+    ],
+    "cookingTime": 60,
+    "prepTime": 190,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Place each piece of chicken in the center of a 12-inch square sheet of heavy-duty foil.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Top chicken with green pepper, onion, garlic, tomatoes and zucchini, evenly distributing among the pieces of chicken.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle with seasonings.",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 2,
+        "en": "Pour Italian dressing over everything.",
+        "primaryIngredient": "Italian dressing"
+      },
+      {
+        "time": 5,
+        "en": "Fold up the foil and seal well.",
+        "primaryIngredient": "foil"
+      },
+      {
+        "time": 180,
+        "en": "Marinate for 2-3 hours in the fridge on a baking sheet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 60,
+        "en": "Bake at 375º for 35-60 minutes or until the chicken is done.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "300",
+      "protein": "44g",
+      "carbohydrates": "8g",
+      "fat": "10g"
+    }
+  }

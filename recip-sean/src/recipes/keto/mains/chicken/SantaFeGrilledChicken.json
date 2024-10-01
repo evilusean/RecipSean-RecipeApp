@@ -1,0 +1,61 @@
+{
+    "id": "santa-fe-grilled-chicken",
+    "name": "Santa Fe Grilled Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts, about 2 pounds total",
+      "1 cup water",
+      "3 tablespoons soy sauce",
+      "4 1/2 teaspoons granular Splenda or equivalent liquid Splenda",
+      "1 teaspoon salt",
+      "1 tablespoon white vinegar",
+      "1 1/2 teaspoons chipotle chile powder",
+      "1 teaspoon liquid smoke",
+      "1 teaspoon paprika",
+      "1 teaspoon garlic powder",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon pepper"
+    ],
+    "utensils": [
+      "Large bowl or zipper bag",
+      "Indoor or outdoor grill"
+    ],
+    "cookingTime": 15,
+    "prepTime": 130,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix all marinade ingredients in a large bowl or zipper bag.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 3,
+        "en": "Add chicken to the marinade.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 120,
+        "en": "Marinate chicken in the refrigerator for 2 hours (no longer).",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Remove chicken from marinade and drain well.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 15,
+        "en": "Grill chicken on an indoor or outdoor grill just until no longer pink in the center.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen. Serve on its own or in a Fajita Salad.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "191",
+      "protein": "40g",
+      "carbohydrates": "1g",
+      "fat": "2g"
+    }
+  }

@@ -1,0 +1,46 @@
+{
+    "id": "roast-chicken",
+    "name": "Roast Chicken",
+    "ingredients": [
+      "Whole chicken or chicken thighs",
+      "Desired seasonings (e.g., garlic powder, salt, pepper, seasoning salt)"
+    ],
+    "utensils": [
+      "Shallow roasting pan or large baking pan",
+      "Oven"
+    ],
+    "cookingTime": 135,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Clean the inside of the chicken well (for whole chicken).",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Season inside and out with desired seasonings.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Place in a shallow roasting pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 135,
+        "en": "Roast according to size: 2-2.5 lbs at 400º for 1-1.25 hours; 2.5-3 lbs at 375º for 1.25-1.75 hours; 3-4 lbs at 375º for 1.75-2.25 hours; 5-8 lbs at 325º for 2.5-3.5 hours. For thighs, roast at 425º for 35-45 minutes.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Cooking times vary based on chicken size. For chicken thighs, ensure they are placed skin side up in the pan. Roast until juices run clear.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fat": "N/A"
+    }
+  }

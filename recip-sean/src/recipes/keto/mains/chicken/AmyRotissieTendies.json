@@ -1,0 +1,43 @@
+{
+    "id": "amys-rotissetenders",
+    "name": "Amy's Rotissetenders",
+    "ingredients": [
+      "1 pound boneless chicken tenders",
+      "2 teaspoons McCormick Rotisserie Seasoning"
+    ],
+    "utensils": [
+      "9x13\" baking dish or baking sheet",
+      "Cooking spray",
+      "Aluminum foil (optional)",
+      "Oven"
+    ],
+    "cookingTime": 10,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Spray a 9x13\" baking dish or foil-lined baking sheet with cooking spray.",
+        "primaryIngredient": "baking dish"
+      },
+      {
+        "time": 3,
+        "en": "Place chicken tenders in the prepared dish and sprinkle both sides with rotisserie seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 450º for about 10 minutes or until the chicken is done to your liking.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "128",
+      "protein": "26g",
+      "carbohydrates": "trace",
+      "fat": "1g"
+    }
+  }

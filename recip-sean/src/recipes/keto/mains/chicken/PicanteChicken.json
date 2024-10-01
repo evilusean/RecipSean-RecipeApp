@@ -1,0 +1,48 @@
+{
+    "id": "eunices-picante-chicken",
+    "name": "Eunice's Picante Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts",
+      "2 tablespoons oil",
+      "1 cup picante sauce",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda",
+      "2 tablespoons Dijon mustard"
+    ],
+    "utensils": [
+      "Large skillet with lid"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the chicken on both sides in oil in a skillet large enough to hold all of the chicken in a single layer.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Combine picante sauce, Splenda, and Dijon mustard.",
+        "primaryIngredient": "picante sauce"
+      },
+      {
+        "time": 2,
+        "en": "Pour sauce mixture over the chicken.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 20,
+        "en": "Cover and simmer until the chicken is cooked through.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Freezing not recommended. Nutritional information varies slightly depending on the type of Splenda used.",
+    "nutritionalInformation": {
+      "amount": "Per Serving (with granular Splenda)",
+      "calories": "218",
+      "protein": "28g",
+      "carbohydrates": "5g",
+      "fat": "9g"
+    }
+  }

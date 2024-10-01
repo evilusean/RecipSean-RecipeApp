@@ -1,0 +1,61 @@
+{
+    "id": "marinated-chicken-breast",
+    "name": "Marinated Chicken Breast",
+    "ingredients": [
+      "Boneless chicken breasts",
+      "Wine vinegar",
+      "Oil or olive oil",
+      "Herbs/spices as desired",
+      "Minced garlic",
+      "Salt",
+      "Pepper"
+    ],
+    "utensils": [
+      "Ziploc bag",
+      "Grill"
+    ],
+    "cookingTime": 15,
+    "prepTime": 60,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Put the chicken pieces in a ziploc bag.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Pour in the remaining ingredients as desired.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 2,
+        "en": "Seal and knead the bag to evenly distribute the marinade.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 60,
+        "en": "Marinate an hour or more in the fridge.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Drain the marinade.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 15,
+        "en": "Grill the chicken.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Marinating time can be extended for more flavor. Adjust herbs and spices according to preference.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "N/A",
+      "protein": "N/A",
+      "carbohydrates": "N/A",
+      "fat": "N/A"
+    }
+  }

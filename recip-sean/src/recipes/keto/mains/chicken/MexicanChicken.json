@@ -1,0 +1,48 @@
+{
+    "id": "mexican-chicken-ii",
+    "name": "Mexican Chicken II",
+    "ingredients": [
+      "2 boneless chicken breasts",
+      "2 teaspoons Seasoning for Tacos",
+      "2 ounces iceberg lettuce",
+      "2 tablespoons Mexican Hot Sauce",
+      "2 teaspoons sour cream"
+    ],
+    "utensils": [
+      "Barbecue or contact grill"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Sprinkle both sides of the chicken with the seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 15,
+        "en": "Grill on a barbecue or contact grill until just done.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Top with lettuce, sauce and sour cream.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 0,
+        "en": "Alternatively, slice the chicken and roll up with the toppings in lettuce leaves.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 2 servings. Do not freeze. Optional toppings: Shredded cheese, Guacamole.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "153",
+      "protein": "28g",
+      "carbohydrates": "3g",
+      "fat": "3g"
+    }
+  }

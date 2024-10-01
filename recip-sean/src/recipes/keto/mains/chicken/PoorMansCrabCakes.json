@@ -1,0 +1,60 @@
+{
+    "id": "bruces-poor-mans-crab-cakes",
+    "name": "Bruce's Poor Man's Crab Cakes",
+    "ingredients": [
+      "16-18 ounces canned chicken",
+      "1 1/2 teaspoons Old Bay seasoning",
+      "2 tablespoons fresh herbs, such as parsley and chives, chopped",
+      "2 tablespoons green onion tops, finely chopped",
+      "1/4 cup mayonnaise",
+      "1 egg",
+      "Pinch salt, optional",
+      "Pinch pepper",
+      "1/4 cup oil"
+    ],
+    "utensils": [
+      "Small baking sheet",
+      "Wax paper",
+      "Plastic wrap",
+      "Skillet"
+    ],
+    "cookingTime": 10,
+    "prepTime": 70,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Break the chicken into very small bits and squeeze out all moisture.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Mix all ingredients except oil.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Shape mixture into 4 patties on a wax paper-lined baking sheet.",
+        "primaryIngredient": "chicken mixture"
+      },
+      {
+        "time": 60,
+        "en": "Cover with plastic wrap and chill for at least 1 hour.",
+        "primaryIngredient": "chicken patties"
+      },
+      {
+        "time": 10,
+        "en": "Heat oil in a skillet over medium heat. Fry patties 4-5 minutes per side until golden brown.",
+        "primaryIngredient": "chicken patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 2-4 servings. Can be frozen. The recipe creator used two 10-ounce cans of white meat chicken, which yielded 10 ounces of meat after draining. Nutritional information is based on the actual amount of chicken used, not the pre-drained weight.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "286",
+      "protein": "22g",
+      "carbohydrates": "1g",
+      "fat": "21g"
+    }
+  }

@@ -1,0 +1,78 @@
+{
+    "id": "seoul-chicken",
+    "name": "Seoul Chicken",
+    "ingredients": [
+      "6-8 chicken thighs, skin on",
+      "5 tablespoons soy sauce",
+      "1/4 cup granular Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon pepper",
+      "1/4 cup green onion, chopped",
+      "1 tablespoon garlic, minced",
+      "1 tablespoon sesame oil",
+      "5 tablespoons water",
+      "Xanthan gum, optional"
+    ],
+    "utensils": [
+      "Gallon size ziploc bag",
+      "Small bowl",
+      "Shallow pan",
+      "9x13\" glass baking pan",
+      "Small saucepan",
+      "Whisk",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 70,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Place chicken thighs in a gallon size ziploc bag.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Mix remaining ingredients (except xanthan gum) in a small bowl.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 2,
+        "en": "Pour marinade into the bag with chicken, close and knead to coat all pieces.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 60,
+        "en": "Marinate in refrigerator for at least 1 hour, turning bag occasionally.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Transfer contents of bag to a 9x13\" glass baking pan, arranging thighs skin side up.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 425º for 35-40 minutes until meat is done.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Remove chicken from pan. Skim fat from juices, transfer to saucepan, and bring to boil.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 3,
+        "en": "Optionally thicken sauce with xanthan gum, whisking briskly.",
+        "primaryIngredient": "sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. Unthickened pan juices can be served over chicken or Fried \"Rice\".",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "300",
+      "protein": "23g",
+      "carbohydrates": "3g",
+      "fat": "21g"
+    }
+  }

@@ -1,0 +1,64 @@
+{
+    "id": "pizza-chicken",
+    "name": "Pizza Chicken",
+    "ingredients": [
+      "1 boneless chicken breast, pounded flat if thick",
+      "Salt, pepper, garlic powder and Italian seasoning, to taste",
+      "1 tablespoon pizza sauce",
+      "4 slices pepperoni",
+      "1 teaspoon butter or oil",
+      "2 fresh mushrooms, sliced",
+      "2 thin green pepper rings",
+      "1 ounce mozzarella cheese, shredded"
+    ],
+    "utensils": [
+      "Grill",
+      "Sauté pan",
+      "Baking dish",
+      "Oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season the chicken with salt, pepper, garlic powder, and Italian seasoning.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill the seasoned chicken.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Sauté mushrooms and pepper rings in butter or oil until slightly tender; set aside.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Spread pizza sauce over the grilled chicken.",
+        "primaryIngredient": "pizza sauce"
+      },
+      {
+        "time": 3,
+        "en": "Top with pepperoni, pepper rings, mushrooms, and shredded mozzarella cheese.",
+        "primaryIngredient": "pepperoni"
+      },
+      {
+        "time": 15,
+        "en": "Bake at 350º for 10-15 minutes or until hot and the cheese is melted.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Can be frozen but the peppers will get soft.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "310",
+      "protein": "36g",
+      "carbohydrates": "3g",
+      "fat": "16g"
+    }
+  }

@@ -1,0 +1,65 @@
+{
+    "id": "danas-skillet-chicken-florentine",
+    "name": "Dana's Skillet Chicken Florentine",
+    "ingredients": [
+      "2 tablespoons butter, divided",
+      "3 boneless chicken breasts or 6 chicken tenders (about 1 pound)",
+      "10 ounces frozen chopped spinach, thawed",
+      "2 cloves garlic, minced",
+      "1/4 cup heavy cream",
+      "1/4 cup parmesan cheese",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet with lid"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Season chicken with salt and pepper.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Heat 1 tablespoon butter in skillet over medium-high heat. Brown chicken 1.5-2 minutes per side, not cooking through. Remove to plate.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Add remaining butter to skillet. Add spinach and garlic; cook about 1 minute to heat.",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 2,
+        "en": "Stir in cream and cheese. Season with salt and pepper. Spread spinach evenly in skillet.",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 1,
+        "en": "Top spinach with chicken in a single layer.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Cover and simmer over low heat about 5 minutes or until chicken is cooked to your liking.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 1,
+        "en": "Serve chicken topped with spinach mixture.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3 servings. Do not freeze. Fresh baby spinach (9 oz) can be substituted for frozen, but may need longer cooking time. Use high-quality parmesan cheese if possible.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "334",
+      "protein": "33g",
+      "carbohydrates": "5g",
+      "fat": "20g"
+    }
+  }

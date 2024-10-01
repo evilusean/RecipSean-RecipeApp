@@ -1,0 +1,49 @@
+{
+    "id": "roasted-chicken-and-radish-medley",
+    "name": "Roasted Chicken & Radish Medley",
+    "ingredients": [
+      "1/4 cup olive oil",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1 teaspoon Italian seasoning",
+      "1 pound boneless chicken breasts, halved",
+      "2 green peppers, cut in chunks",
+      "6 ounces radishes, halved, about 12-16 radishes",
+      "1 medium zucchini, cut in thick half moons, 7 ounces",
+      "12 cloves garlic, peeled"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Large shallow roasting pan",
+      "Oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "In a large bowl, toss all ingredients to coat with oil and seasonings.",
+        "primaryIngredient": "chicken and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Transfer to a large shallow roasting pan, arranging the vegetables around the chicken.",
+        "primaryIngredient": "chicken and vegetables"
+      },
+      {
+        "time": 25,
+        "en": "Roast at 400º for 25 minutes, turning the food every 10 minutes.",
+        "primaryIngredient": "chicken and vegetables"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "289",
+      "protein": "28g",
+      "carbohydrates": "9g",
+      "fat": "15g"
+    }
+  }

@@ -1,0 +1,61 @@
+{
+    "id": "smothered-chicken-ii",
+    "name": "Smothered Chicken II",
+    "ingredients": [
+      "6 boneless chicken breasts",
+      "1 tablespoon Spicy Seasoning Salt, about",
+      "1/8 teaspoon pepper",
+      "1/8 teaspoon garlic powder",
+      "Butter",
+      "Cooking oil",
+      "1 large onion, chopped, 7 ounces",
+      "3 green and/or red peppers, chopped",
+      "3-4 small zucchini, in thin half moons, about 12 ounces",
+      "16 ounces fresh mushrooms, sliced",
+      "2 cloves garlic, minced"
+    ],
+    "utensils": [
+      "Meat mallet",
+      "Outdoor or indoor grill",
+      "Very large non-stick skillet or wok"
+    ],
+    "cookingTime": 25,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Flatten chicken breasts with a meat mallet; season on both sides with seasoning salt, pepper and garlic powder.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 10,
+        "en": "Grill chicken on an outdoor or indoor grill; keep warm.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Heat 2-3 tablespoons butter and a tablespoon of oil in a very large non-stick skillet or wok.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 15,
+        "en": "Sauté onion, peppers, zucchini, mushrooms and garlic on medium to high heat until tender and a little browned. Season with seasoning salt to taste.",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 2,
+        "en": "Serve hot veggie mixture over the chicken.",
+        "primaryIngredient": "vegetables"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-12 servings. Do not freeze. For 12 smaller servings, use large chicken breasts and cut them each in half.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "239",
+      "protein": "31g",
+      "carbohydrates": "11g",
+      "fat": "8g"
+    }
+  }

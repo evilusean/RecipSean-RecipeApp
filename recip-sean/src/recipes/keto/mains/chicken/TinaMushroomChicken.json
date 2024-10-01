@@ -1,0 +1,77 @@
+{
+    "id": "tinas-mushroom-chicken",
+    "name": "Tina's Mushroom Chicken",
+    "ingredients": [
+      "6 chicken thighs",
+      "Salt",
+      "1/8 teaspoon pepper",
+      "1/4 teaspoon paprika",
+      "1/4 cup butter",
+      "1/2 pound mushrooms, sliced",
+      "1 teaspoon soy sauce",
+      "1/2 teaspoon Dijon mustard",
+      "3/4 cup heavy cream",
+      "Dash paprika",
+      "Pinch fresh parsley, chopped",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large baking pan",
+      "Large skillet",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Season the chicken with salt, pepper, and paprika and place in a large baking pan.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 425°F for 45 minutes, until done.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "About 20 minutes before chicken is done, melt the butter in a large skillet.",
+        "primaryIngredient": "butter"
+      },
+      {
+        "time": 5,
+        "en": "Sauté the mushrooms until tender.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Stir in the soy sauce and mustard, then slowly stir in the cream.",
+        "primaryIngredient": "cream"
+      },
+      {
+        "time": 5,
+        "en": "Bring to a boil and cook until the sauce has thickened.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 1,
+        "en": "Season to taste and stir in parsley.",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 2,
+        "en": "Serve sauce over the chicken.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "378",
+      "protein": "17g",
+      "carbohydrates": "2g",
+      "fat": "33g"
+    }
+  }

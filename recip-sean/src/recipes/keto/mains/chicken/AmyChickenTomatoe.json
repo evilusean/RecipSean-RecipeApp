@@ -1,0 +1,41 @@
+{
+    "id": "amys-rotel-chicken",
+    "name": "Amy's Rotel Chicken",
+    "ingredients": [
+      "3 boneless skinless chicken breasts",
+      "10 ounce can Ro-tel tomatoes, undrained"
+    ],
+    "utensils": [
+      "8x8\" baking dish",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Put the chicken in an 8x8\" baking dish.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 3,
+        "en": "Pour the tomatoes and liquid over the chicken, trying to keep the bits of tomato on top of the chicken, not in the bottom of the pan.",
+        "primaryIngredient": "Ro-tel tomatoes"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350º for 30-45 minutes or until done to your liking.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "144",
+      "protein": "28g",
+      "carbohydrates": "3g",
+      "fat": "2g"
+    }
+  }

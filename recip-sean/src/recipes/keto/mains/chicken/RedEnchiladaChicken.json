@@ -1,0 +1,57 @@
+{
+    "id": "red-enchilada-chicken",
+    "name": "Red Enchilada Chicken",
+    "ingredients": [
+      "4 boneless chicken breasts, about 1 pound",
+      "2 teaspoons Seasoning for Tacos",
+      "1/2 cup Red Enchilada Sauce",
+      "1 Roma tomato, diced, about 3 1/2 ounces",
+      "4 green onions, chopped",
+      "4 ounces colby-jack cheese, shredded"
+    ],
+    "utensils": [
+      "Large rimmed baking sheet",
+      "Aluminum foil",
+      "Cooking spray",
+      "Oven"
+    ],
+    "cookingTime": 24,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Line a large rimmed baking sheet with foil and spray with cooking spray.",
+        "primaryIngredient": "baking sheet"
+      },
+      {
+        "time": 5,
+        "en": "Season chicken on both sides with taco seasoning and place on the baking sheet.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Top each chicken breast with 2 tablespoons of enchilada sauce, some tomato and green onions.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 400º for 20 minutes.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 4,
+        "en": "Sprinkle with cheese and bake about 4 more minutes to melt the cheese.",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze. Variation: You could also add a few sliced black olives or pickled jalapeños along with the tomatoes, if desired.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "271",
+      "protein": "34g",
+      "carbohydrates": "6g",
+      "fat": "12g"
+    }
+  }

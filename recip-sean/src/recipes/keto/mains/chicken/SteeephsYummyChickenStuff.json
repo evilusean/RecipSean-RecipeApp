@@ -1,0 +1,58 @@
+{
+    "id": "stephs-yummy-chicken-stuff",
+    "name": "Steph's Yummy Chicken Stuff",
+    "ingredients": [
+      "2 pounds boneless chicken breasts",
+      "Salt and pepper, to taste",
+      "3 4-ounce cans mushrooms, drained",
+      "1/3 cup sour cream",
+      "1/3 cup mayonnaise",
+      "1/2 packet ranch dressing mix, 1/2 ounce or a scant 2 tablespoons",
+      "2 tablespoons heavy cream",
+      "1/4 cup parmesan cheese, 1 ounce"
+    ],
+    "utensils": [
+      "9x13\" baking dish",
+      "Mixing bowl",
+      "Oven"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Place chicken pieces in a single layer in a 9x13\" baking dish; season lightly with salt and pepper on both sides.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 2,
+        "en": "Cover chicken with drained mushrooms.",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Blend sour cream, mayonnaise, ranch dressing mix and cream; spread over the mushrooms.",
+        "primaryIngredient": "sour cream"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle parmesan cheese over everything.",
+        "primaryIngredient": "parmesan cheese"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 375º for 30-35 minutes, then check. Continue baking up to 45-60 minutes total or until the top is brown and crusty and the chicken is done.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Do not freeze. Check the chicken after 30-35 minutes to avoid overcooking.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "334",
+      "protein": "38g",
+      "carbohydrates": "5g",
+      "fat": "17g"
+    }
+  }
