@@ -1,0 +1,82 @@
+{
+    "id": "oklahoma-fried-onion-burgers",
+    "name": "Oklahoma Fried Onion Burgers",
+    "ingredients": [
+      "1 large onion, sliced 1/8-inch thick",
+      "1 pound ground beef",
+      "1 tablespoon butter",
+      "1 tablespoon oil",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Colander",
+      "Kitchen towel",
+      "Baking sheet",
+      "Large skillet",
+      "Large spatula"
+    ],
+    "cookingTime": 20,
+    "prepTime": 40,
+    "instructions": [
+      {
+        "time": 35,
+        "en": "Slice onion, toss with salt, drain for 30 minutes, then squeeze out moisture. Season with pepper.",
+        "sk": "Nakrájajte cibuľu, premiešajte so soľou, nechajte 30 minút odkvapkať, potom vytlačte vlhkosť. Ochuťte korením.",
+        "ja": "玉ねぎをスライスし、塩と和え、30分間水切りし、水分を絞ります。コショウで味付けします。",
+        "primaryIngredient": "seasoned onions"
+      },
+      {
+        "time": 5,
+        "en": "Make four piles of onion slices on a baking sheet.",
+        "sk": "Vytvorte štyri kôpky cibuľových plátkov na plechu na pečenie.",
+        "ja": "ベーキングシートの上に玉ねぎのスライスを4つの山に分けます。",
+        "primaryIngredient": "onion piles"
+      },
+      {
+        "time": 5,
+        "en": "Season ground beef with salt and pepper. Shape into four large balls.",
+        "sk": "Ochuťte mleté mäso soľou a korením. Vytvarujte štyri veľké guľky.",
+        "ja": "挽肉に塩コショウで味付けし、4つの大きな団子を作ります。",
+        "primaryIngredient": "seasoned beef balls"
+      },
+      {
+        "time": 5,
+        "en": "Place each meat ball on onion pile and flatten to form thin patty, embedding onions in meat.",
+        "sk": "Položte každú mäsovú guľku na kôpku cibule a stlačte na tenkú fašírku, zapracujte cibuľu do mäsa.",
+        "ja": "各肉団子を玉ねぎの山の上に置き、薄いパティに押しつぶし、玉ねぎを肉に埋め込みます。",
+        "primaryIngredient": "onion-embedded patties"
+      },
+      {
+        "time": 2,
+        "en": "Heat butter and oil in a large skillet over medium heat.",
+        "sk": "Rozohrejte maslo a olej na veľkej panvici na strednom ohni.",
+        "ja": "大きなフライパンで中火でバターと油を熱します。",
+        "primaryIngredient": "heated skillet"
+      },
+      {
+        "time": 10,
+        "en": "Carefully transfer patties with onions to skillet. Cook 7-8 minutes, then flip and cook 2 more minutes on medium-high heat.",
+        "sk": "Opatrne preneste fašírky s cibuľou na panvicu. Varte 7-8 minút, potom otočte a varte ďalšie 2 minúty na stredne vysokom ohni.",
+        "ja": "パティを玉ねぎと共に慎重にフライパンに移します。7-8分調理し、裏返して中高温で2分間調理します。",
+        "primaryIngredient": "cooked burgers"
+      },
+      {
+        "time": 1,
+        "en": "Serve with American cheese if desired (not included in nutritional counts).",
+        "sk": "Podávajte s americkým syrom, ak chcete (nie je zahrnuté v nutričných hodnotách).",
+        "ja": "お好みでアメリカンチーズを添えて提供します（栄養価計算には含まれていません）。",
+        "primaryIngredient": "served burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Nutritional information is based on using about 1 1/2 ounces of onion slices per burger.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "237",
+      "protein": "19g",
+      "carbohydrates": "3g",
+      "fat": "16g"
+    }
+  }

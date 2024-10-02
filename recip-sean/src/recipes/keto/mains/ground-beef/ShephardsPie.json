@@ -1,0 +1,88 @@
+{
+    "id": "josies-shepherds-pie",
+    "name": "Josie's Shepherd's Pie",
+    "ingredients": [
+      "4-6 pieces bacon, chopped",
+      "2 pounds ground beef",
+      "Small onion, chopped, 2.5 ounces",
+      "Salt and pepper, to taste",
+      "1/4 teaspoon toasted onion powder",
+      "1/4 teaspoon garlic powder",
+      "1 egg, beaten",
+      "8 ounces cheddar cheese, shredded and divided",
+      "16 ounce package frozen green beans",
+      "16 ounce package frozen cauliflower",
+      "3 tablespoons butter, divided",
+      "1/4 cup sour cream",
+      "1 tablespoon chives, minced"
+    ],
+    "utensils": [
+      "Large skillet",
+      "7 1/2 x 11 3/4 inch baking dish",
+      "Medium pot",
+      "Food processor"
+    ],
+    "cookingTime": 50,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Fry bacon until crisp in a large skillet; drain and set aside.",
+        "sk": "Na veľkej panvici opečte slaninu do chrumkava; sceďte a odložte bokom.",
+        "ja": "大きなフライパンでベーコンをカリカリに炒めます。油を切って脇に置きます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "In the same skillet, brown ground beef and onion, seasoning with salt and pepper; drain fat.",
+        "sk": "V tej istej panvici opečte mleté mäso a cibuľu, ochuťte soľou a korením; zlejte tuk.",
+        "ja": "同じフライパンで挽肉と玉ねぎを炒めて茶色くし、塩コショウで味付けします。脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "In a baking dish, mix hamburger, bacon, onion and garlic powders. Adjust salt, stir in beaten egg and half the cheese. Spread in dish.",
+        "sk": "V zapekacej miske zmiešajte hamburger, slaninu, cibuľový a cesnakový prášok. Upravte soľ, vmiešajte rozšľahané vajce a polovicu syra. Rozotrite v miske.",
+        "ja": "ベーキング皿に挽肉、ベーコン、オニオンパウダー、ガーリックパウダーを混ぜます。塩加減を調整し、溶き卵とチーズの半分を混ぜ込みます。皿に広げます。",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 10,
+        "en": "Cook green beans as per package directions; drain, return to pot, add 1 tbsp butter and salt. Spread over meat layer.",
+        "sk": "Uvarte zelené fazuľky podľa návodu na obale; sceďte, vráťte do hrnca, pridajte 1 lyžicu masla a soľ. Rozotrite na mäsovú vrstvu.",
+        "ja": "インゲンを袋の指示通りに調理し、水気を切ってから鍋に戻し、バター大さじ1と塩を加えます。肉の層の上に広げます。",
+        "primaryIngredient": "green beans"
+      },
+      {
+        "time": 15,
+        "en": "Cook cauliflower 10-12 minutes until very tender; drain. Puree with 2 tbsp butter and sour cream. Add chives, pulse to blend. Spread over green beans.",
+        "sk": "Varte karfiol 10-12 minút do mäkka; sceďte. Rozmixujte s 2 lyžicami masla a kyslou smotanou. Pridajte pažítku, krátko mixujte. Rozotrite na zelené fazuľky.",
+        "ja": "カリフラワーを10〜12分間柔らかくなるまで調理し、水気を切ります。バター大さじ2とサワークリームと一緒にピューレにします。チャイブを加えて軽く混ぜます。インゲンの上に広げます。",
+        "primaryIngredient": "cauliflower puree"
+      },
+      {
+        "time": 5,
+        "en": "Sprinkle remaining cheese over the top.",
+        "sk": "Posypte zvyšným syrom.",
+        "ja": "残りのチーズを上にふりかけます。",
+        "primaryIngredient": "cheese topping"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 35 minutes, until hot and bubbly.",
+        "sk": "Pečte pri 175°C 35 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで35分間、熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "baked shepherd's pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 very generous servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "433",
+      "protein": "30g",
+      "carbohydrates": "8g",
+      "fat": "31g"
+    }
+  }

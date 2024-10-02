@@ -1,0 +1,68 @@
+{
+    "id": "white-castle-hamburger-pie",
+    "name": "White Castle Hamburger Pie",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 packet onion soup mix or seasoning mixture (see recipe below)",
+      "2 eggs",
+      "1/2 cup mayonnaise",
+      "1/4 cup heavy cream",
+      "8 ounces cheddar cheese, shredded",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "9-10 inch pie plate",
+      "Mixing bowl",
+      "Whisk"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with half of the onion soup mix; drain fat and season with salt and pepper.",
+        "sk": "Opečte mleté mäso s polovicou cibuľovej polievkovej zmesi; zlejte tuk a ochuťte soľou a korením.",
+        "ja": "挽肉をオニオンスープミックスの半分と一緒に炒めて茶色くし、脂を切って塩コショウで味付けします。",
+        "primaryIngredient": "seasoned ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Stir in remaining soup mix and put meat in a greased 9-10 inch pie plate. Mix in half the cheese, then top with remaining cheese.",
+        "sk": "Vmiešajte zvyšnú polievkovú zmes a vložte mäso do vymastenej 23-25 cm formy na koláč. Vmiešajte polovicu syra, potom posypte zvyšným syrom.",
+        "ja": "残りのスープミックスを混ぜ、油を塗った9-10インチのパイ皿に肉を入れます。チーズの半分を混ぜ、残りのチーズをのせます。",
+        "primaryIngredient": "layered meat and cheese"
+      },
+      {
+        "time": 5,
+        "en": "Whisk eggs, mayonnaise, cream, and a dash of pepper; pour evenly over the meat.",
+        "sk": "Vyšľahajte vajcia, majonézu, smotanu a štipku korenia; rovnomerne nalejte na mäso.",
+        "ja": "卵、マヨネーズ、生クリーム、少量のコショウを泡立て、肉の上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 30-35 minutes.",
+        "sk": "Pečte pri 175°C 30-35 minút.",
+        "ja": "350°F（175°C）のオーブンで30〜35分間焼きます。",
+        "primaryIngredient": "baked pie"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "sk": "Pred podávaním nechajte 10 minút odstáť.",
+        "ja": "提供前に10分間置きます。",
+        "primaryIngredient": "rested pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. For a true White Castle experience, top each serving with dill pickles and mustard. Or, make a sauce of dill pickle relish and mustard.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Pie",
+      "calories": "490",
+      "protein": "25g",
+      "carbohydrates": "5g",
+      "fat": "41g"
+    }
+  }

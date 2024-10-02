@@ -1,0 +1,65 @@
+{
+    "id": "hearty-bacon-cheeseburgers",
+    "name": "Hearty Bacon Cheeseburgers",
+    "ingredients": [
+      "2 pounds ground chuck",
+      "8 slices bacon, chopped and fried until crisp",
+      "2 ounces cheddar cheese, shredded, 1/2 cup",
+      "4 green onions, chopped",
+      "1 tablespoon Worcestershire sauce",
+      "1/2-3/4 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/4 teaspoon garlic powder",
+      "6 slices pepper jack cheese, optional, about 4 ounces"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Grill",
+      "Spatula",
+      "Cutting board",
+      "Knife",
+      "Skillet (for frying bacon)"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "In a bowl, combine ground chuck, bacon, cheddar cheese, green onions, Worcestershire sauce, salt, pepper, and garlic powder.",
+        "sk": "V miske zmiešajte mleté mäso, slaninu, čedar, jarnú cibuľku, Worcesterskú omáčku, soľ, korenie a cesnakový prášok.",
+        "ja": "ボウルに挽肉、ベーコン、チェダーチーズ、青ネギ、ウスターソース、塩、コショウ、ニンニクパウダーを入れて混ぜます。",
+        "primaryIngredient": "burger mixture"
+      },
+      {
+        "time": 5,
+        "en": "Shape mixture into 6 patties.",
+        "sk": "Vytvarujte zmes do 6 fašírok.",
+        "ja": "混ぜたものを6つのパティに成形します。",
+        "primaryIngredient": "burger patties"
+      },
+      {
+        "time": 15,
+        "en": "Grill patties to desired doneness.",
+        "sk": "Grilujte fašírky podľa požadovanej prepečenosti.",
+        "ja": "パティをお好みの焼き加減でグリルします。",
+        "primaryIngredient": "grilled burgers"
+      },
+      {
+        "time": 2,
+        "en": "If desired, top each patty with a slice of pepper jack cheese and let stand until melted.",
+        "sk": "Ak chcete, položte na každú fašírku plátok syra pepper jack a nechajte postáť, kým sa neroztopí.",
+        "ja": "お好みで各パティにペッパージャックチーズをのせ、溶けるまで置いておきます。",
+        "primaryIngredient": "cheese-topped burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving (with cheese)",
+      "calories": "524",
+      "protein": "34g",
+      "carbohydrates": "1g",
+      "fat": "41g"
+    }
+  }

@@ -1,0 +1,64 @@
+{
+    "id": "french-onion-burgers",
+    "name": "French Onion Burgers",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 tablespoon Worcestershire sauce",
+      "1 tablespoon Onion Soup Mix",
+      "Salt and pepper, to taste",
+      "2 tablespoons butter",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 teaspoon beef bouillon granules",
+      "2 tablespoons dry white wine",
+      "3 ounces Swiss cheese, sliced",
+      "3 tablespoons French Onion Dip"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Mixing bowl",
+      "Grill or grill pan",
+      "Spatula"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Sauté mushrooms in butter until tender. Add bouillon and wine; cook over high heat to evaporate most juices. Season with salt and pepper.",
+        "sk": "Opečte huby na masle do mäkka. Pridajte bujón a víno; varte na vysokom ohni, aby sa odparila väčšina šťavy. Ochuťte soľou a korením.",
+        "ja": "バターでマッシュルームを柔らかくなるまで炒めます。ブイヨンとワインを加え、高温で調理して水分のほとんどを蒸発させます。塩コショウで味を調えます。",
+        "primaryIngredient": "mushroom topping"
+      },
+      {
+        "time": 5,
+        "en": "Mix ground beef, Worcestershire sauce, onion soup mix, salt and pepper. Shape into 3 patties.",
+        "sk": "Zmiešajte mleté mäso, Worcesterskú omáčku, cibuľovú polievkovú zmes, soľ a korenie. Vytvarujte 3 fašírky.",
+        "ja": "挽肉、ウスターソース、オニオンスープミックス、塩、コショウを混ぜます。3つのパティを作ります。",
+        "primaryIngredient": "burger patties"
+      },
+      {
+        "time": 10,
+        "en": "Grill hamburgers and top each with a slice of Swiss cheese.",
+        "sk": "Grilujte hamburgery a na každý položte plátok švajčiarskeho syra.",
+        "ja": "ハンバーガーを焼き、各パティにスイスチーズのスライスをのせます。",
+        "primaryIngredient": "grilled burgers with cheese"
+      },
+      {
+        "time": 2,
+        "en": "Smother burgers with mushrooms. Top each with 1 tablespoon of French onion dip.",
+        "sk": "Prekryte hamburgery hubami. Na každý dajte 1 lyžicu francúzskeho cibuľového dipu.",
+        "ja": "バーガーにマッシュルームをたっぷりのせます。各バーガーにフレンチオニオンディップ大さじ1をのせます。",
+        "primaryIngredient": "finished burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3 servings. Can be frozen without the toppings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "495",
+      "protein": "36g",
+      "carbohydrates": "6g",
+      "fat": "36g"
+    }
+  }

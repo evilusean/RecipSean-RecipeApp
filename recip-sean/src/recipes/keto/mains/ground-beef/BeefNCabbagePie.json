@@ -1,0 +1,78 @@
+{
+    "id": "sues-mexicali-ground-beef-and-cabbage-pie",
+    "name": "Sue's Mexicali Ground Beef and Cabbage Pie",
+    "ingredients": [
+      "3 cups cabbage, chopped, about 8 ounces or 1/2 a small cabbage",
+      "1 pound ground beef",
+      "1 tablespoon Seasoning for Tacos",
+      "2 eggs",
+      "1 tablespoon heavy cream",
+      "8 ounces cheddar cheese, shredded",
+      "1 tablespoon butter",
+      "1-2 tablespoons water",
+      "Salsa, 1 tablespoon per serving",
+      "Sour cream, 1 tablespoon per serving"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉を炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 10,
+        "en": "Add cabbage and 1 tablespoon butter; cook until cabbage is soft. Add seasoning and 1-2 tablespoons water.",
+        "sk": "Pridajte kapustu a 1 polievkovú lyžicu masla; varte, kým kapusta nezmäkne. Pridajte korenie a 1-2 polievkové lyžice vody.",
+        "ja": "キャベツと大さじ1のバターを加え、キャベツが柔らかくなるまで調理します。調味料と大さじ1〜2の水を加えます。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Whisk eggs and cream in a bowl. Put 1/2 of the cheese in a greased pie plate. Pour eggs over cheese.",
+        "sk": "Vyšľahajte vajcia a smotanu v miske. Položte polovicu syra do vymastenej formy na koláč. Nalejte vajcia na syr.",
+        "ja": "ボウルで卵と生クリームを泡立てます。油を塗ったパイ皿にチーズの半分を敷き、その上に卵を注ぎます。",
+        "primaryIngredient": "egg mixture and cheese"
+      },
+      {
+        "time": 5,
+        "en": "Spoon hamburger mixture over eggs; press slightly. Top with remaining cheese.",
+        "sk": "Navrstvite mäsovú zmes na vajcia; jemne pritlačte. Posypte zvyšným syrom.",
+        "ja": "ハンバーグの混ぜ物を卵の上にのせ、軽く押さえます。残りのチーズをのせます。",
+        "primaryIngredient": "layered pie"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for 20-30 minutes.",
+        "sk": "Pečte pri 175°C 20-30 minút.",
+        "ja": "350°F（175°C）のオーブンで20〜30分間焼きます。",
+        "primaryIngredient": "baked pie"
+      },
+      {
+        "time": 2,
+        "en": "Serve with salsa and sour cream.",
+        "sk": "Podávajte so salsou a kyslou smotanou.",
+        "ja": "サルサとサワークリームを添えて提供します。",
+        "primaryIngredient": "toppings"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Pie",
+      "calories": "522",
+      "protein": "37g",
+      "carbohydrates": "7g",
+      "fat": "38g"
+    }
+  }

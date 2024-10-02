@@ -1,0 +1,73 @@
+{
+    "id": "taco-pie",
+    "name": "Taco Pie",
+    "ingredients": [
+      "1 pound ground beef",
+      "2 tablespoons Linda's Taco Seasoning",
+      "8 ounces Deluxe American or cheddar cheese, shredded",
+      "3 eggs",
+      "1 cup salsa"
+    ],
+    "utensils": [
+      "Skillet",
+      "Large pie plate",
+      "Mixing bowl",
+      "Whisk"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef in a skillet; drain grease and stir in taco seasoning.",
+        "sk": "Opečte mleté mäso na panvici; zlejte mastnotu a vmiešajte taco korenie.",
+        "ja": "フライパンで挽肉を炒めて茶色くし、脂を切ってタコシーズニングを混ぜ込みます。",
+        "primaryIngredient": "seasoned ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Put meat in a large greased pie plate. Top with half of the cheese.",
+        "sk": "Vložte mäso do veľkej vymastenej formy na koláč. Posypte polovicou syra.",
+        "ja": "油を塗った大きなパイ皿に肉を入れます。チーズの半分をのせます。",
+        "primaryIngredient": "meat and cheese layer"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs with salsa; pour over cheese and meat.",
+        "sk": "Vyšľahajte vajcia so salsou; nalejte na syr a mäso.",
+        "ja": "卵とサルサを混ぜ、チーズと肉の上に注ぎます。",
+        "primaryIngredient": "egg and salsa mixture"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for 30 minutes.",
+        "sk": "Pečte pri 175°C 30 minút.",
+        "ja": "350°F（175°C）のオーブンで30分間焼きます。",
+        "primaryIngredient": "partially baked pie"
+      },
+      {
+        "time": 5,
+        "en": "Top with remaining cheese and bake another 5 minutes to melt the cheese.",
+        "sk": "Posypte zvyšným syrom a pečte ďalších 5 minút, aby sa syr roztopil.",
+        "ja": "残りのチーズをのせ、さらに5分間焼いてチーズを溶かします。",
+        "primaryIngredient": "melted cheese topping"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting and serving.",
+        "sk": "Pred krájaním a podávaním nechajte 10 minút odstáť.",
+        "ja": "切り分けて提供する前に10分間置きます。",
+        "primaryIngredient": "rested pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "391",
+      "protein": "28g",
+      "carbohydrates": "5g",
+      "fat": "29g"
+    }
+  }

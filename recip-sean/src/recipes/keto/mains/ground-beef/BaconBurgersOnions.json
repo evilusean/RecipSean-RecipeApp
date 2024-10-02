@@ -1,0 +1,78 @@
+{
+    "id": "bacon-burgers-with-smoked-cheese-and-onions",
+    "name": "Bacon Burgers with Smoked Cheese and Onions",
+    "ingredients": [
+      "6 slices bacon, chopped",
+      "3 tablespoons reserved bacon grease",
+      "2 medium onions, divided, 8 ounces",
+      "1 1/2 pounds ground sirloin",
+      "2 teaspoons Worcestershire sauce",
+      "2 teaspoons Montreal steak seasoning",
+      "1/2 teaspoon salt",
+      "4 ounces smoked Gouda or cheddar cheese, shredded or sliced"
+    ],
+    "utensils": [
+      "Large nonstick skillet",
+      "Paper towels",
+      "Plate",
+      "Large bowl",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Fry chopped bacon until crisp. Remove bacon, drain on paper towels. Reserve 3 tablespoons grease.",
+        "sk": "Opečte nakrájanú slaninu do chrumkava. Vyberte slaninu, nechajte odkvapkať na papierových utierka. Odložte 3 lyžice masti.",
+        "ja": "刻んだベーコンをカリカリに揚げます。ベーコンを取り出し、ペーパータオルで油を切ります。油大さじ3を取っておきます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Finely chop 1/4 onion, sauté in 1 tablespoon bacon grease for 3 minutes. Add to bacon and cool.",
+        "sk": "Najemno nasekajte 1/4 cibule, opečte na 1 lyžici slaniny 3 minúty. Pridajte k slanine a nechajte vychladnúť.",
+        "ja": "玉ねぎ1/4個をみじん切りにし、ベーコンの油大さじ1で3分炒めます。ベーコンに加えて冷まします。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 15,
+        "en": "Slice remaining onion. Sauté in 2 tablespoons bacon grease, covered, for 10 minutes until golden. Season with salt and keep warm.",
+        "sk": "Nakrájajte zvyšnú cibuľu. Opečte na 2 lyžiciach slaniny, prikryté, 10 minút do zlatista. Osoľte a udržujte teplé.",
+        "ja": "残りの玉ねぎをスライスします。ベーコンの油大さじ2で蓋をして10分間、金色になるまで炒めます。塩で味付けし、温めておきます。",
+        "primaryIngredient": "caramelized onions"
+      },
+      {
+        "time": 10,
+        "en": "Mix ground sirloin, Worcestershire sauce, steak seasoning, salt, and bacon mixture. Form 4 patties.",
+        "sk": "Zmiešajte mleté mäso, Worcesterskú omáčku, korenenie na steaky, soľ a slaninová zmes. Vytvarujte 4 fašírky.",
+        "ja": "挽肉、ウスターソース、ステーキシーズニング、塩、ベーコンの混ぜ物を合わせます。4つのパティを作ります。",
+        "primaryIngredient": "burger patties"
+      },
+      {
+        "time": 12,
+        "en": "Cook burgers 4-6 minutes per side. Top with cheese, cover until melted.",
+        "sk": "Opečte fašírky 4-6 minút z každej strany. Navrch položte syr, prikryte kým sa neroztopí.",
+        "ja": "バーガーを片面4〜6分ずつ焼きます。チーズをのせ、溶けるまで蓋をします。",
+        "primaryIngredient": "cooked burgers"
+      },
+      {
+        "time": 2,
+        "en": "Serve burgers topped with sautéed onions.",
+        "sk": "Podávajte fašírky s opečenou cibuľou navrchu.",
+        "ja": "バーガーに炒めた玉ねぎをのせて提供します。",
+        "primaryIngredient": "assembled burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen. For a cheaper option, use regular ground beef, but be cautious of excess fat when cooking. Consider grilling outdoors or using a contact grill for fattier meat.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "672",
+      "protein": "42g",
+      "carbohydrates": "6g",
+      "fat": "52g"
+    }
+  }

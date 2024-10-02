@@ -1,0 +1,80 @@
+{
+    "id": "cabbage-roll-pie",
+    "name": "Cabbage Roll Pie",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 stalk celery, minced",
+      "2 tablespoon onion, chopped",
+      "3-4 cups cabbage, chopped, about 8 ounces",
+      "2 tablespoon butter",
+      "8 small mushrooms, chopped, 3 ounces",
+      "Salt, to taste",
+      "1/2 teaspoon pepper",
+      "Garlic powder, to taste",
+      "1 cup chicken broth",
+      "3/4 cup heavy cream",
+      "8 ounce cheddar or Monterey jack cheese, shredded",
+      "2 eggs, beaten"
+    ],
+    "utensils": [
+      "Very large nonstick skillet",
+      "10-inch pie plate",
+      "Mixing bowl"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, celery, and onion in a large nonstick skillet; drain fat.",
+        "sk": "Opečte mleté mäso, zeler a cibuľu na veľkej nepriľnavej panvici; zlejte tuk.",
+        "ja": "大きな非粘着性フライパンで挽肉、セロリ、玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 10,
+        "en": "Add cabbage and butter; cook until cabbage starts to wilt. Add mushrooms and cook until vegetables are very soft and slightly browned.",
+        "sk": "Pridajte kapustu a maslo; varte, kým kapusta nezačne vädnúť. Pridajte huby a varte, kým zelenina nie je veľmi mäkká a mierne zhnednutá.",
+        "ja": "キャベツとバターを加え、キャベツがしんなりするまで調理します。マッシュルームを加え、野菜が非常に柔らかくなり、少し茶色くなるまで調理します。",
+        "primaryIngredient": "cabbage and mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Season with pepper, salt, and garlic powder to taste.",
+        "sk": "Ochuťte korením, soľou a cesnakovým práškom podľa chuti.",
+        "ja": "コショウ、塩、ニンニクパウダーで好みの味に調整します。",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 10,
+        "en": "Add broth and cream; bring to boil and cook on high, stirring occasionally, until reduced and thickened.",
+        "sk": "Pridajte vývar a smotanu; priveďte do varu a varte na vysokom ohni za občasného miešania, kým sa nezredukuje a nezhustne.",
+        "ja": "ブロスとクリームを加え、沸騰させ、時々かき混ぜながら高温で煮詰めてとろみをつけます。",
+        "primaryIngredient": "broth and cream"
+      },
+      {
+        "time": 5,
+        "en": "Stir in cheese, then beaten eggs. Pour into a greased 10-inch pie plate.",
+        "sk": "Vmiešajte syr, potom rozšľahané vajcia. Nalejte do vymastenej 25 cm formy na koláč.",
+        "ja": "チーズを混ぜ、次に溶き卵を加えます。油を塗った10インチのパイ皿に注ぎます。",
+        "primaryIngredient": "cheese and eggs"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for 25-30 minutes until set.",
+        "sk": "Pečte pri 175°C 25-30 minút, kým sa neustáli.",
+        "ja": "350°F（175°C）のオーブンで25〜30分間、固まるまで焼きます。",
+        "primaryIngredient": "baked pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "453",
+      "protein": "26g",
+      "carbohydrates": "5g",
+      "fat": "37g"
+    }
+  }

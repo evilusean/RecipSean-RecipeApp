@@ -1,0 +1,64 @@
+{
+    "id": "italian-meatball-burgers",
+    "name": "Italian Meatball Burgers",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 pound bulk Italian sausage",
+      "2 teaspoons dry minced onion",
+      "1/2 teaspoon garlic powder",
+      "1/2 cup parmesan cheese (2 ounces)",
+      "2 eggs",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1 batch Amy's Marinara Sauce, heated",
+      "6 tablespoons parmesan cheese (1 1/2 ounces)"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Baking sheet",
+      "Aluminum foil",
+      "Broiler"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix first 8 ingredients in a large bowl using your fingers until meat no longer feels slimy from eggs.",
+        "sk": "Zmiešajte prvých 8 prísad vo veľkej miske prstami, kým mäso prestane byť slizké od vajec.",
+        "ja": "大きなボウルに最初の8つの材料を入れ、卵のぬめりがなくなるまで指でよく混ぜます。",
+        "primaryIngredient": "burger mixture"
+      },
+      {
+        "time": 5,
+        "en": "Shape mixture into 6 patties and place on a foil-lined baking sheet.",
+        "sk": "Vytvarujte zmes do 6 fašírok a položte ich na plech vyložený alobalom.",
+        "ja": "混ぜたものを6つのパティに成形し、アルミホイルを敷いたベーキングシートに置きます。",
+        "primaryIngredient": "burger patties"
+      },
+      {
+        "time": 12,
+        "en": "Broil patties about 5-6 minutes per side or until done to your liking.",
+        "sk": "Grilujte fašírky asi 5-6 minút z každej strany alebo kým nie sú hotové podľa vašej chuti.",
+        "ja": "パティを片面5〜6分ずつ、またはお好みの焼き加減になるまでブロイルします。",
+        "primaryIngredient": "broiled burgers"
+      },
+      {
+        "time": 3,
+        "en": "Serve topped with heated marinara sauce and a tablespoon of parmesan cheese per burger.",
+        "sk": "Podávajte s teplou marinara omáčkou a lyžicou parmezánu na každý burger.",
+        "ja": "温めたマリナラソースとパルメザンチーズ大さじ1をそれぞれのバーガーにのせて提供します。",
+        "primaryIngredient": "finished burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. VARIATION: Add sautéed mushrooms and/or bell peppers to the sauce (not included in the counts).",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "506",
+      "protein": "33g",
+      "carbohydrates": "5g",
+      "fat": "39g"
+    }
+  }

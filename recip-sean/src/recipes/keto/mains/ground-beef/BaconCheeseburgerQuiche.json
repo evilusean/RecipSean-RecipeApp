@@ -1,0 +1,77 @@
+{
+    "id": "moonchilds-bacon-cheeseburger-quiche",
+    "name": "Moonchild's Bacon Cheeseburger Quiche",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 small onion, chopped (2 1/2 ounces)",
+      "4 slices bacon, chopped",
+      "3 eggs",
+      "1/2 cup mayonnaise",
+      "1/2 cup heavy cream",
+      "8 ounces cheddar or Swiss cheese, shredded",
+      "1/4 teaspoon garlic powder",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Greased pie plate",
+      "Mixing bowl",
+      "Whisk"
+    ],
+    "cookingTime": 50,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion and bacon in a large skillet; drain fat. Season to taste.",
+        "sk": "Opečte mleté mäso s cibuľou a slaninou na veľkej panvici; zlejte tuk. Ochuťte podľa chuti.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、ベーコンを炒めて茶色くし、脂を切ります。好みで味付けします。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Spread meat mixture in a greased pie plate.",
+        "sk": "Rozložte mäsovú zmes do vymastenej formy na koláč.",
+        "ja": "油を塗ったパイ皿に肉の混ぜ物を広げます。",
+        "primaryIngredient": "meat mixture in pie plate"
+      },
+      {
+        "time": 5,
+        "en": "Whisk eggs, mayonnaise, heavy cream, and garlic powder. Mix 1/3 of the cheese into the meat mixture and arrange the rest over the meat.",
+        "sk": "Vyšľahajte vajcia, majonézu, smotanu a cesnakový prášok. Vmiešajte 1/3 syra do mäsovej zmesi a zvyšok rozložte na mäso.",
+        "ja": "卵、マヨネーズ、生クリーム、ニンニクパウダーを泡立てます。チーズの1/3を肉の混ぜ物に混ぜ、残りを肉の上に並べます。",
+        "primaryIngredient": "egg mixture and cheese"
+      },
+      {
+        "time": 2,
+        "en": "Pour the egg mixture over the cheese.",
+        "sk": "Nalejte vaječnú zmes na syr.",
+        "ja": "卵の混ぜ物をチーズの上に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 35 minutes or until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri 175°C 35 minút alebo kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35分間、または中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "baked quiche"
+      },
+      {
+        "time": 15,
+        "en": "Let stand for 15 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 15 minút odstáť.",
+        "ja": "切る前に15分間置きます。",
+        "primaryIngredient": "rested quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "549",
+      "protein": "27g",
+      "carbohydrates": "3g",
+      "fat": "48g"
+    }
+  }

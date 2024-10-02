@@ -1,0 +1,64 @@
+{
+    "id": "cooks-country-green-chile-cheeseburgers",
+    "name": "Cook's Country Green Chile Cheeseburgers",
+    "ingredients": [
+      "3 Anaheim chiles, halved lengthwise and seeded",
+      "3 jalapeños, halved lengthwise and seeded",
+      "1 medium onion, sliced in three 1/2\" thick rounds",
+      "6 toothpicks",
+      "1 clove garlic, minced",
+      "1/2 teaspoon salt, or to taste",
+      "1/4 teaspoon pepper",
+      "1 1/2 pounds ground chuck",
+      "4 slices American cheese"
+    ],
+    "utensils": [
+      "Outdoor grill",
+      "Large bowl",
+      "Food processor",
+      "Small bowl",
+      "Microwave"
+    ],
+    "cookingTime": 20,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Grill chiles and onion on outdoor grill over high heat until charred and tender, about 4 minutes per side. Cool in covered bowl for at least 5 minutes.",
+        "sk": "Grilujte čili papričky a cibuľu na vonkajšom grile na vysokom ohni, kým nie sú opálené a mäkké, asi 4 minúty z každej strany. Nechajte vychladnúť v zakrytej miske aspoň 5 minút.",
+        "ja": "屋外グリルで高温でチリとタマネギを両面4分ずつ焦げ目がつき柔らかくなるまで焼きます。蓋をした器に入れ5分以上冷まします。",
+        "primaryIngredient": "grilled chiles and onion"
+      },
+      {
+        "time": 10,
+        "en": "Peel and chop chiles and onions. Process with garlic in food processor until coarsely chopped. Puree 1/4 cup of mixture separately.",
+        "sk": "Ošúpte a nasekajte čili papričky a cibuľu. Spracujte s cesnakom v kuchynskom robote na hrubo. Rozmixujte 1/4 šálky zmesi zvlášť.",
+        "ja": "チリとタマネギの皮をむき刻みます。ニンニクと共にフードプロセッサーで粗く刻みます。1/4カップの混合物を別にピューレ状にします。",
+        "primaryIngredient": "processed chiles and onion"
+      },
+      {
+        "time": 10,
+        "en": "Mix pureed chiles with ground beef, salt, and pepper. Shape into four 3/4\" thick patties with indentation in center. Refrigerate until ready to grill.",
+        "sk": "Zmiešajte rozmixované čili s mletým hovädzím mäsom, soľou a korením. Vytvarujte štyri 2 cm hrubé fašírky s priehlbinou v strede. Chlaďte až do grilovania.",
+        "ja": "ピューレ状のチリと挽肉、塩、コショウを混ぜます。4つの2cm厚のパティを作り、中央をくぼませます。グリルする直前まで冷蔵します。",
+        "primaryIngredient": "burger patties"
+      },
+      {
+        "time": 10,
+        "en": "Grill burgers 3-5 minutes per side. Top with chopped chile mixture and cheese. Grill until cheese melts and burgers are done.",
+        "sk": "Grilujte fašírky 3-5 minút z každej strany. Navrch dajte nasekanú čili zmes a syr. Grilujte, kým sa syr neroztopí a fašírky nie sú hotové.",
+        "ja": "バーガーを両面3-5分ずつ焼きます。刻んだチリミックスとチーズをのせます。チーズが溶けバーガーが焼けるまでグリルします。",
+        "primaryIngredient": "grilled burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Insert 2 toothpicks into the sides of each onion slice to keep them from falling apart on the grill. Remove toothpicks before chopping.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "530",
+      "protein": "44g",
+      "carbohydrates": "10g",
+      "fat": "34g"
+    }
+  }

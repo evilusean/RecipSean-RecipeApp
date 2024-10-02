@@ -1,0 +1,68 @@
+{
+    "id": "portobello-bbq-melt",
+    "name": "Portobello BBQ Melt",
+    "ingredients": [
+      "4 portobello mushroom caps, stems removed",
+      "1/4 cup onion, chopped",
+      "1 pound ground chuck",
+      "6 tablespoons low carb barbecue sauce",
+      "Salt and pepper, to taste",
+      "4 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Grill, broiler, or large skillet",
+      "Baking sheet",
+      "Cheese grater",
+      "Cutting board",
+      "Knife"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Grill, broil or pan-fry portobello mushrooms until tender, but not mushy. Set aside and keep warm.",
+        "sk": "Grilujte, opečte alebo osmažte portobello huby, kým nie sú mäkké, ale nie rozvarené. Odložte bokom a udržujte teplé.",
+        "ja": "ポートベロマッシュルームをグリル、ブロイル、または炒めて柔らかくなるまで調理します（ふやけないように注意）。脇に置いて温かく保ちます。",
+        "primaryIngredient": "cooked mushrooms"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground chuck and onion in a skillet. Drain fat.",
+        "sk": "Opečte mleté mäso a cibuľu na panvici. Zlejte tuk.",
+        "ja": "フライパンで挽肉と玉ねぎを炒めて褐色になるまで調理します。脂を切ります。",
+        "primaryIngredient": "browned meat and onions"
+      },
+      {
+        "time": 5,
+        "en": "Add barbecue sauce to meat mixture. Season with salt and pepper. Cook until hot and bubbly.",
+        "sk": "Pridajte barbecue omáčku k mäsovej zmesi. Ochuťte soľou a korením. Varte, kým nie je horúce a bublajúce.",
+        "ja": "肉の混ぜ物にバーベキューソースを加えます。塩コショウで味付けします。熱くなりバブルが出るまで調理します。",
+        "primaryIngredient": "seasoned meat mixture"
+      },
+      {
+        "time": 5,
+        "en": "Place mushroom caps gill side up on baking sheet. Top with meat mixture and sprinkle with cheese.",
+        "sk": "Položte hubové klobúčiky lamelami nahor na plech. Navrch dajte mäsovú zmes a posypte syrom.",
+        "ja": "ベーキングシートにマッシュルームのキャップをヒダ側を上にして置きます。肉の混ぜ物をのせ、チーズをかけます。",
+        "primaryIngredient": "assembled melts"
+      },
+      {
+        "time": 5,
+        "en": "Broil until cheese is melted. Serve immediately.",
+        "sk": "Grilujte, kým sa syr neroztopí. Ihneď podávajte.",
+        "ja": "チーズが溶けるまでブロイルします。すぐに提供します。",
+        "primaryIngredient": "finished melts"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze. Carb Options barbecue sauce recommended.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "445",
+      "protein": "29g",
+      "carbohydrates": "7g",
+      "fat": "33g"
+    }
+  }

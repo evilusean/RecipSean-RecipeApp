@@ -1,0 +1,92 @@
+{
+    "id": "quiche-italiano",
+    "name": "Quiche Italiano",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/4 pound Italian sausage",
+      "1 clove garlic, minced",
+      "2 tablespoons onion, chopped",
+      "2 tablespoons green pepper, diced",
+      "1/2 cup fresh mushrooms, sliced, 1 1/4 ounces",
+      "1/2 cup tomato sauce",
+      "Salt, to taste",
+      "1/8 teaspoon pepper",
+      "1/8 teaspoon basil",
+      "1/8 teaspoon oregano",
+      "2 eggs",
+      "1/2 cup mayonnaise",
+      "1/4 cup heavy cream",
+      "Pinch parsley, optional",
+      "8 ounce mozzarella cheese, shredded and divided",
+      "1 tablespoon parmesan cheese, grated"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and sausage with garlic, onion, peppers, and mushrooms in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso a klobásu s cesnakom, cibuľou, paprikou a hubami na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉とソーセージをニンニク、玉ねぎ、ピーマン、マッシュルームと一緒に炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add tomato sauce and seasonings to taste. Put meat sauce in a greased pie plate.",
+        "sk": "Pridajte paradajkovú omáčku a korenie podľa chuti. Vložte mäsovú omáčku do vymastenej formy na koláč.",
+        "ja": "トマトソースと調味料を加えて味を調えます。油を塗ったパイ皿に肉ソースを入れます。",
+        "primaryIngredient": "seasoned meat sauce"
+      },
+      {
+        "time": 5,
+        "en": "Mix in half of the mozzarella cheese.",
+        "sk": "Vmiešajte polovicu mozzarelly.",
+        "ja": "モッツァレラチーズの半分を混ぜ込みます。",
+        "primaryIngredient": "cheese and meat mixture"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs and mix in mayonnaise, cream, and parsley; beat well. Stir in parmesan and remaining mozzarella.",
+        "sk": "Vyšľahajte vajcia a vmiešajte majonézu, smotanu a petržlenovú vňať; dobre vyšľahajte. Vmiešajte parmezán a zvyšnú mozzarellu.",
+        "ja": "卵を溶きほぐし、マヨネーズ、生クリーム、パセリを加えてよく混ぜます。パルメザンと残りのモッツァレラを混ぜ込みます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour custard over meat. Sprinkle top with a little basil, if desired.",
+        "sk": "Nalejte vaječnú zmes na mäso. Ak chcete, posypte vrch trochou bazalky.",
+        "ja": "卵液を肉の上に注ぎます。お好みで上からバジルを少々振りかけます。",
+        "primaryIngredient": "assembled quiche"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 35 minutes or until set.",
+        "sk": "Pečte pri 175°C 35 minút alebo kým sa neustáli.",
+        "ja": "350°F（175°C）のオーブンで35分間、または固まるまで焼きます。",
+        "primaryIngredient": "baked quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "sk": "Pred podávaním nechajte 10 minút odstáť.",
+        "ja": "提供前に10分間置きます。",
+        "primaryIngredient": "rested quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "518",
+      "protein": "26g",
+      "carbohydrates": "4g",
+      "fat": "44g"
+    }
+  }

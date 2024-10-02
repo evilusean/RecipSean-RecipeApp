@@ -1,0 +1,70 @@
+{
+    "id": "no-crust-pizza",
+    "name": "No Crust Pizza",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/2 teaspoon salt",
+      "1 teaspoon dry minced onion",
+      "1/4 teaspoon Italian seasoning",
+      "1 clove garlic",
+      "1 tablespoon parmesan cheese",
+      "1/4 cup pizza sauce",
+      "4 ounces mozzarella cheese",
+      "2 ounces canned mushrooms",
+      "11 slices pepperoni"
+    ],
+    "utensils": [
+      "10-inch glass pie plate",
+      "Mixing bowl",
+      "Serving plate"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a greased 10-inch glass pie plate, mix ground beef, salt, onion, Italian seasoning, garlic, and parmesan cheese.",
+        "sk": "V mastnej 25 cm sklenenej forme na koláč zmiešajte mleté mäso, soľ, cibuľu, talianske korenie, cesnak a parmezán.",
+        "ja": "油を塗った10インチのガラスパイ皿に、挽肉、塩、玉ねぎ、イタリアンシーズニング、ニンニク、パルメザンチーズを混ぜ合わせます。",
+        "primaryIngredient": "seasoned ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Press the mixture into the plate to form a crust.",
+        "sk": "Zmes vtlačte do formy, aby ste vytvorili kôrku.",
+        "ja": "混ぜ物を皿に押し付けて、クラストを形成します。",
+        "primaryIngredient": "beef crust"
+      },
+      {
+        "time": 5,
+        "en": "Top with pizza sauce, mozzarella cheese, mushrooms, and pepperoni.",
+        "sk": "Navrch dajte pizzovú omáčku, mozzarellu, huby a pepperoni.",
+        "ja": "ピザソース、モッツァレラチーズ、マッシュルーム、ペパロニをトッピングします。",
+        "primaryIngredient": "pizza toppings"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F for 40-45 minutes.",
+        "sk": "Pečte pri 175°C 40-45 minút.",
+        "ja": "350°F（175°C）のオーブンで40〜45分間焼きます。",
+        "primaryIngredient": "baked pizza"
+      },
+      {
+        "time": 5,
+        "en": "Carefully remove the 'pizza' from the pan and place on a serving plate. Discard the grease.",
+        "sk": "Opatrne vyberte 'pizzu' z formy a položte na servírovací tanier. Odstráňte mastnotu.",
+        "ja": "注意深く「ピザ」を皿から取り出し、サービングプレートに置きます。脂は捨てます。",
+        "primaryIngredient": "served pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "330",
+      "protein": "26g",
+      "carbohydrates": "3g",
+      "fat": "23g"
+    }
+  }

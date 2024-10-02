@@ -1,0 +1,80 @@
+{
+    "id": "patties-parmigiana",
+    "name": "Patties Parmigiana",
+    "ingredients": [
+      "1 1/2 pounds ground beef",
+      "1/4 cup onion, minced",
+      "1 clove garlic, minced",
+      "1 teaspoon Worcestershire sauce",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1 egg, beaten",
+      "2 ounces parmesan cheese, grated, 1/2 cup",
+      "Cooking oil",
+      "8 ounces tomato sauce",
+      "1 teaspoon Italian seasoning",
+      "6 1/2-ounce slices mozzarella cheese"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Large non-stick skillet with lid",
+      "Measuring cups and spoons",
+      "Grater (if not using pre-grated parmesan)"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix ground beef, onion, garlic, Worcestershire sauce, salt and pepper. Shape into 6 patties.",
+        "sk": "Zmiešajte mleté mäso, cibuľu, cesnak, Worcesterskú omáčku, soľ a korenie. Vytvarujte 6 fašírok.",
+        "ja": "挽肉、玉ねぎ、ニンニク、ウスターソース、塩、コショウを混ぜます。6つのパティを作ります。",
+        "primaryIngredient": "seasoned beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Dip patties in beaten egg, then coat with parmesan cheese.",
+        "sk": "Namočte fašírky do rozšľahaného vajca, potom obaľte v parmezáne.",
+        "ja": "パティを溶き卵にくぐらせ、パルメザンチーズをまぶします。",
+        "primaryIngredient": "coated patties"
+      },
+      {
+        "time": 10,
+        "en": "Brown patties in oiled skillet over medium heat, turning once. Drain fat.",
+        "sk": "Opečte fašírky na oleji na strednom ohni, raz otočte. Zlejte tuk.",
+        "ja": "油を引いたフライパンで中火で両面を焼きます。余分な脂を切ります。",
+        "primaryIngredient": "browned patties"
+      },
+      {
+        "time": 2,
+        "en": "Combine tomato sauce and Italian seasoning; pour over patties.",
+        "sk": "Zmiešajte paradajkovú omáčku a talianske korenie; nalejte na fašírky.",
+        "ja": "トマトソースとイタリアンシーズニングを混ぜ、パティの上にかけます。",
+        "primaryIngredient": "seasoned tomato sauce"
+      },
+      {
+        "time": 15,
+        "en": "Cover skillet and simmer on low heat for 15 minutes, until meat is cooked through.",
+        "sk": "Prikryte panvicu a varte na miernom ohni 15 minút, kým mäso nie je prepečené.",
+        "ja": "フライパンに蓋をし、弱火で15分間、肉に火が通るまで煮込みます。",
+        "primaryIngredient": "simmered patties"
+      },
+      {
+        "time": 3,
+        "en": "Top each patty with mozzarella slice; cover and heat until cheese melts.",
+        "sk": "Na každú fašírku položte plátok mozzarelly; prikryte a zohrievajte, kým sa syr neroztopí.",
+        "ja": "各パティにモッツァレラチーズをのせ、蓋をしてチーズが溶けるまで加熱します。",
+        "primaryIngredient": "cheese-topped patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "367",
+      "protein": "27g",
+      "carbohydrates": "4g",
+      "fat": "27g"
+    }
+  }

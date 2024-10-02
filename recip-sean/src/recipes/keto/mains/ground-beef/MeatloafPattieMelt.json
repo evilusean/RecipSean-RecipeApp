@@ -1,0 +1,59 @@
+{
+    "id": "meatloaf-patty-melt",
+    "name": "Meatloaf Patty Melt",
+    "ingredients": [
+      "1/2 tablespoon butter",
+      "2 ounces onion, sliced or coarsely chopped, about 1 small",
+      "1 slice leftover meatloaf, warmed",
+      "1/2 ounce cheddar cheese, shredded or sliced",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Skillet",
+      "Spatula",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Sauté onion in butter until tender and browned. Season with salt to taste.",
+        "sk": "Opečte cibuľu na masle do mäkka a zhnednutia. Ochuťte soľou podľa chuti.",
+        "ja": "バターで玉ねぎを柔らかく色づくまで炒めます。塩で味を調えます。",
+        "primaryIngredient": "sautéed onions"
+      },
+      {
+        "time": 5,
+        "en": "Add meatloaf to pan and fry until heated through and browned on both sides.",
+        "sk": "Pridajte sekanú do panvice a opečte z oboch strán, kým nie je preohriata a zhnednutá.",
+        "ja": "ミートローフをパンに入れ、両面が温まり色づくまで焼きます。",
+        "primaryIngredient": "fried meatloaf"
+      },
+      {
+        "time": 3,
+        "en": "Cover meatloaf with onions; top with cheese. Cover pan to melt cheese.",
+        "sk": "Prekryte sekanú cibuľou; navrch položte syr. Prikryte panvicu, aby sa syr roztopil.",
+        "ja": "ミートローフに玉ねぎをのせ、その上にチーズをのせます。蓋をしてチーズを溶かします。",
+        "primaryIngredient": "assembled patty melt"
+      },
+      {
+        "time": 1,
+        "en": "Serve immediately.",
+        "sk": "Ihneď podávajte.",
+        "ja": "すぐに提供します。",
+        "primaryIngredient": "served patty melt"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "448",
+      "protein": "33g",
+      "carbohydrates": "7g",
+      "fat": "32g"
+    }
+  }

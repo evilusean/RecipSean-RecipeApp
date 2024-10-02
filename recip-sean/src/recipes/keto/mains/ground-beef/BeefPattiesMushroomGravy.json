@@ -1,0 +1,88 @@
+{
+    "id": "beef-patties-with-mushroom-gravy",
+    "name": "Beef Patties with Mushroom Gravy",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 teaspoon dry minced onion",
+      "1 tablespoon fresh parsley, chopped",
+      "1 teaspoon pepper",
+      "2 teaspoons salt",
+      "1/8 teaspoon nutmeg",
+      "1 teaspoon Dijon mustard",
+      "1 pound fresh mushrooms",
+      "1 stalk celery",
+      "2 tablespoons onion, diced",
+      "3 tablespoons butter",
+      "1 cup chicken broth",
+      "1 cup heavy cream",
+      "1 teaspoon Dijon mustard",
+      "1 teaspoon xanthan gum",
+      "1/4 teaspoon dill",
+      "1 tablespoon parsley",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large mixing bowl",
+      "Grill or large skillet",
+      "Saucepan",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons and cups"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Combine ground beef with next 6 ingredients. Shape into 8 patties.",
+        "sk": "Zmiešajte mleté mäso s ďalšími 6 prísadami. Vytvarujte 8 fašírok.",
+        "ja": "挽肉と次の6つの材料を混ぜ合わせます。8つのパティを作ります。",
+        "primaryIngredient": "seasoned ground beef"
+      },
+      {
+        "time": 10,
+        "en": "Grill or pan fry patties until slightly pink in center.",
+        "sk": "Grilujte alebo opečte fašírky, kým nie sú v strede mierne ružové.",
+        "ja": "パティを中心がわずかにピンク色になるまでグリルまたはフライパンで焼きます。",
+        "primaryIngredient": "beef patties"
+      },
+      {
+        "time": 5,
+        "en": "Finely chop 4 oz mushrooms, slice the rest. Sauté mushrooms, celery, and onion in butter until tender.",
+        "sk": "Najemno nasekajte 4 unce húb, zvyšok nakrájajte. Opečte huby, zeler a cibuľu na masle do mäkka.",
+        "ja": "マッシュルーム4オンスをみじん切りにし、残りをスライスします。マッシュルーム、セロリ、玉ねぎをバターで柔らかくなるまで炒めます。",
+        "primaryIngredient": "sautéed vegetables"
+      },
+      {
+        "time": 10,
+        "en": "Add broth, cream, and mustard. Simmer until slightly reduced. Thicken with xanthan gum.",
+        "sk": "Pridajte vývar, smotanu a horčicu. Varte, kým sa mierne nezredukuje. Zahustite xantánovou gumou.",
+        "ja": "ブロス、クリーム、マスタードを加えます。少し煮詰まるまで煮ます。キサンタンガムでとろみをつけます。",
+        "primaryIngredient": "mushroom gravy"
+      },
+      {
+        "time": 5,
+        "en": "Stir in dill and parsley. Season with salt and pepper. Add beef patties and simmer until heated through.",
+        "sk": "Vmiešajte kôpor a petržlen. Ochuťte soľou a korením. Pridajte hovädzie fašírky a varte, kým sa neprehreje.",
+        "ja": "ディルとパセリを加えます。塩コショウで味を調えます。ビーフパティを加えて温まるまで煮ます。",
+        "primaryIngredient": "finished dish"
+      },
+      {
+        "time": 2,
+        "en": "Serve mushroom sauce over patties.",
+        "sk": "Podávajte hubovú omáčku na fašírkach.",
+        "ja": "パティにマッシュルームソースをかけて提供します。",
+        "primaryIngredient": "served dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "355",
+      "protein": "21g",
+      "carbohydrates": "4g",
+      "fat": "28g"
+    }
+  }

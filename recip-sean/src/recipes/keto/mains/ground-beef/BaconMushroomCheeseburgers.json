@@ -1,0 +1,60 @@
+{
+    "id": "bacon-mushroom-cheeseburgers",
+    "name": "Bacon Mushroom Cheeseburgers",
+    "ingredients": [
+      "4 quarter-pound hamburger patties, grilled",
+      "4 slices bacon",
+      "1/2 pound mushrooms, sliced",
+      "1 small onion, diced, 2 1/2 ounces",
+      "4 ounces cheddar cheese, sliced"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Grill or grill pan",
+      "Broiler",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Grill hamburger patties to desired doneness.",
+        "sk": "Grilujte fašírky podľa požadovanej prepečenosti.",
+        "ja": "ハンバーガーパティを好みの焼き加減でグリルします。",
+        "primaryIngredient": "hamburger patties"
+      },
+      {
+        "time": 10,
+        "en": "Sauté bacon, mushrooms, and onions in a large skillet until slightly browned; drain fat.",
+        "sk": "Opečte slaninu, huby a cibuľu na veľkej panvici, kým mierne nezhnednú; zlejte tuk.",
+        "ja": "大きなフライパンでベーコン、マッシュルーム、玉ねぎを軽く茶色くなるまで炒めます。脂を切ります。",
+        "primaryIngredient": "bacon mixture"
+      },
+      {
+        "time": 5,
+        "en": "Top hamburger patties with bacon mixture, then add a slice of cheese to each.",
+        "sk": "Na fašírky položte slaninová zmes, potom na každú pridajte plátok syra.",
+        "ja": "ハンバーガーパティにベーコンの混ぜ物をのせ、各パティにチーズスライスを1枚ずつのせます。",
+        "primaryIngredient": "assembled burgers"
+      },
+      {
+        "time": 2,
+        "en": "Broil to melt the cheese.",
+        "sk": "Grilujte, kým sa syr neroztopí.",
+        "ja": "チーズが溶けるまでブロイルします。",
+        "primaryIngredient": "melted cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen without the toppings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "469",
+      "protein": "30g",
+      "carbohydrates": "4g",
+      "fat": "36g"
+    }
+  }

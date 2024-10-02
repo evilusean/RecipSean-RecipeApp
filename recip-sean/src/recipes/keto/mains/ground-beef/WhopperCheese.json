@@ -1,0 +1,56 @@
+{
+    "id": "whopper-with-cheese",
+    "name": "\"Whopper\" with Cheese",
+    "ingredients": [
+      "1 hamburger patty",
+      "1 ounce slice cheddar cheese",
+      "1/4 cup shredded lettuce",
+      "2 tablespoons finely chopped tomato",
+      "1 teaspoon finely chopped onion",
+      "2 tablespoons mayonnaise",
+      "1 teaspoon dill pickle relish",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Grill or skillet",
+      "Small bowl",
+      "Measuring spoons and cups",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Grill the hamburger patty and melt the cheese on top.",
+        "sk": "Grilujte hamburgerovú fašírku a roztopte na nej syr.",
+        "ja": "ハンバーガーパティを焼き、その上でチーズを溶かします。",
+        "primaryIngredient": "grilled burger with cheese"
+      },
+      {
+        "time": 5,
+        "en": "Mix lettuce, tomato, onion, mayonnaise, pickle relish, salt, and pepper in a small bowl.",
+        "sk": "V malej miske zmiešajte šalát, paradajku, cibuľu, majonézu, nakladanú uhorku, soľ a korenie.",
+        "ja": "小さなボウルにレタス、トマト、玉ねぎ、マヨネーズ、ピクルスレリッシュ、塩、コショウを混ぜます。",
+        "primaryIngredient": "topping mixture"
+      },
+      {
+        "time": 2,
+        "en": "Serve the lettuce mixture on top of the hamburger.",
+        "sk": "Podávajte zmes šalátu na vrchu hamburgera.",
+        "ja": "レタスミックスをハンバーガーの上に載せて提供します。",
+        "primaryIngredient": "assembled burger"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "513",
+      "protein": "26g",
+      "carbohydrates": "3g",
+      "fat": "44g"
+    }
+  }

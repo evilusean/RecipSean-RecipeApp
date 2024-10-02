@@ -1,0 +1,75 @@
+{
+    "id": "microwave-hamburger-quiche",
+    "name": "Microwave Hamburger Quiche",
+    "ingredients": [
+      "1/2 pound ground beef",
+      "4 eggs",
+      "1/2 cup green onion, chopped, about 1 bunch",
+      "1/3 cup heavy cream",
+      "1/3 cup mayonnaise",
+      "1/2 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "3 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Glass pie plate",
+      "Medium mixing bowl",
+      "Microwave"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 4,
+        "en": "Crumble ground beef in a glass pie plate. Microwave on HIGH for 2 1/2-4 minutes until cooked through. Break up meat and drain fat.",
+        "sk": "Rozdrobte mleté mäso na sklenenej forme na koláč. Varte v mikrovlnnej rúre na VYSOKOM výkone 2 1/2-4 minúty, kým nie je prepečené. Rozdeľte mäso a zlejte tuk.",
+        "ja": "ガラスのパイ皿に挽肉をほぐし入れます。電子レンジの強火で2分30秒から4分間、完全に火が通るまで加熱します。肉をほぐし、脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 2,
+        "en": "In a medium bowl, mix all remaining ingredients except cheese.",
+        "sk": "V strednej miske zmiešajte všetky zostávajúce prísady okrem syra.",
+        "ja": "中サイズのボウルにチーズ以外の残りの材料をすべて入れて混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 1,
+        "en": "Pour egg mixture over the cooked meat.",
+        "sk": "Nalejte vaječnú zmes na uvarené mäso.",
+        "ja": "調理した肉の上に卵の混ぜ物を注ぎます。",
+        "primaryIngredient": "combined mixture"
+      },
+      {
+        "time": 8,
+        "en": "Cook on MEDIUM power for 4 minutes. Push cooked portions to center. Cook on MEDIUM for 4-8 minutes until almost set, lifting edges of set egg after half the time.",
+        "sk": "Varte na STREDNOM výkone 4 minúty. Posuňte uvarené časti do stredu. Varte na STREDNOM výkone 4-8 minút, kým nie je takmer hotové, po polovici času nadvihnite okraje ustáleného vajca.",
+        "ja": "中火で4分間加熱します。調理された部分を中央に寄せます。中火でさらに4〜8分間、ほぼ固まるまで加熱し、半分の時間が経過したら固まった卵の端を持ち上げます。",
+        "primaryIngredient": "cooking quiche"
+      },
+      {
+        "time": 2,
+        "en": "Top with cheese and cook on MEDIUM about 2 minutes until melted.",
+        "sk": "Posypte syrom a varte na STREDNOM výkone asi 2 minúty, kým sa neroztopí.",
+        "ja": "チーズをのせ、中火で約2分間、溶けるまで加熱します。",
+        "primaryIngredient": "cheese topping"
+      },
+      {
+        "time": 5,
+        "en": "Let stand several minutes before serving.",
+        "sk": "Pred podávaním nechajte niekoľko minút odstáť.",
+        "ja": "数分間置いてから提供します。",
+        "primaryIngredient": "rested quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "460",
+      "protein": "21g",
+      "carbohydrates": "3g",
+      "fat": "40g"
+    }
+  }

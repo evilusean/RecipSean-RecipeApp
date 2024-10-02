@@ -1,0 +1,89 @@
+{
+    "id": "coney-island-chili-dog-pie",
+    "name": "Coney Island Chili Dog Pie",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/4 cup onion, finely chopped, 1 1/4 ounce",
+      "1 tablespoon plus 1/2 teaspoon chili powder",
+      "1/2 teaspoon cumin",
+      "1/8 teaspoon pepper",
+      "Salt, to taste",
+      "1/2 teaspoon yellow mustard",
+      "Dash hot sauce",
+      "8 ounce can tomato sauce",
+      "2 kosher hot dogs, sliced in rounds *",
+      "2 eggs",
+      "1/2 cup mayonnaise",
+      "1/4 cup heavy cream",
+      "8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Large pie plate",
+      "Mixing bowl",
+      "Whisk"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and onion in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso a cibuľu na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Stir in seasonings, mustard, hot sauce, tomato sauce, and sliced hot dogs.",
+        "sk": "Vmiešajte korenie, horčicu, pálivú omáčku, paradajkovú omáčku a nakrájané párky.",
+        "ja": "調味料、マスタード、ホットソース、トマトソース、スライスしたホットドッグを加えて混ぜます。",
+        "primaryIngredient": "chili dog mixture"
+      },
+      {
+        "time": 5,
+        "en": "Spread mixture in a greased large pie plate; stir in half of the cheese.",
+        "sk": "Rozotrite zmes do vymastenej veľkej formy na koláč; vmiešajte polovicu syra.",
+        "ja": "油を塗った大きなパイ皿に混ぜ物を広げ、チーズの半分を混ぜ込みます。",
+        "primaryIngredient": "meat and cheese layer"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs well; whisk in mayonnaise then cream until smooth. Stir in remaining cheese.",
+        "sk": "Dobre vyšľahajte vajcia; vmiešajte majonézu, potom smotanu do hladka. Vmiešajte zvyšný syr.",
+        "ja": "卵をよく溶きほぐし、マヨネーズを加えて混ぜ、次に生クリームを加えてなめらかになるまで混ぜます。残りのチーズを混ぜ込みます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture over the meat mixture and spread evenly.",
+        "sk": "Nalejte vaječnú zmes na mäsovú zmes a rovnomerne rozotrite.",
+        "ja": "卵の混ぜ物を肉の混ぜ物の上に注ぎ、均等に広げます。",
+        "primaryIngredient": "assembled pie"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F for 30-35 minutes.",
+        "sk": "Pečte pri 175°C 30-35 minút.",
+        "ja": "350°F（175°C）のオーブンで30〜35分間焼きます。",
+        "primaryIngredient": "baked pie"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "rested pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. *Kosher hot dogs are used for their low carb content. Hebrew National and Nathan's have only 1 carb per hot dog. Additional hot dogs can be added, but remember to account for extra carbs.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "538",
+      "protein": "27g",
+      "carbohydrates": "5g",
+      "fat": "46g"
+    }
+  }

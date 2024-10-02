@@ -1,0 +1,73 @@
+{
+    "id": "sloppy-joe-burgers",
+    "name": "Sloppy Joe Burgers",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 small onion, finely chopped, 2 1/2 ounces",
+      "1 clove garlic, minced",
+      "8 ounces tomato sauce",
+      "1/4 cup granular Splenda or equivalent liquid Splenda",
+      "2 tablespoon vinegar",
+      "1 teaspoon mustard",
+      "1 tablespoon Worcestershire sauce",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "6 slices American cheese, at room temperature",
+      "6 small servings My Favorite Coleslaw"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Very large nonstick skillet",
+      "Cooking spray",
+      "Spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "In a large bowl, combine all ingredients except cheese and coleslaw. Shape into 6 patties.",
+        "sk": "Vo veľkej miske zmiešajte všetky prísady okrem syra a coleslaw. Vytvarujte 6 fašírok.",
+        "ja": "大きなボウルにチーズとコールスローを除く全ての材料を入れて混ぜます。6つのパティを作ります。",
+        "primaryIngredient": "seasoned beef mixture"
+      },
+      {
+        "time": 2,
+        "en": "Spray a very large nonstick skillet with cooking spray and heat on medium-high.",
+        "sk": "Veľmi veľkú nepriľnavú panvicu postriekajte sprejom na varenie a zohrejte na stredne vysokom ohni.",
+        "ja": "大きな非粘着性フライパンに調理用スプレーをし、中高温で熱します。",
+        "primaryIngredient": "prepared skillet"
+      },
+      {
+        "time": 12,
+        "en": "Cook patties about 5 minutes per side or until done to your liking. If necessary, cook in batches of three.",
+        "sk": "Fašírky opekajte asi 5 minút z každej strany alebo kým nie sú hotové podľa vašej chuti. Ak je to potrebné, opekajte v dávkach po tri.",
+        "ja": "パティを片面約5分、またはお好みの焼き加減になるまで調理します。必要に応じて3つずつ調理します。",
+        "primaryIngredient": "cooked patties"
+      },
+      {
+        "time": 2,
+        "en": "During the last 2 minutes of cooking, top each burger with a slice of cheese.",
+        "sk": "Počas posledných 2 minút varenia položte na každý burger plátok syra.",
+        "ja": "調理の最後の2分間で、各バーガーにチーズスライスをのせます。",
+        "primaryIngredient": "cheese-topped burgers"
+      },
+      {
+        "time": 1,
+        "en": "Serve topped with coleslaw.",
+        "sk": "Podávajte s coleslaw navrchu.",
+        "ja": "コールスローをのせて提供します。",
+        "primaryIngredient": "finished burgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen without the toppings. Subtract 1 carb per serving if you use liquid Splenda.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "471",
+      "protein": "32g",
+      "carbohydrates": "7g",
+      "fat": "35g"
+    }
+  }

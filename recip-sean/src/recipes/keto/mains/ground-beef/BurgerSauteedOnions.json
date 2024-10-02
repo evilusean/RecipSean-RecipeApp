@@ -1,0 +1,55 @@
+{
+    "id": "hamburgers-with-sauteed-mushrooms-and-onions",
+    "name": "Hamburgers or Cheeseburgers with Sautéed Mushrooms & Onions",
+    "ingredients": [
+      "Hamburger patties",
+      "Sliced cheese, optional",
+      "Fresh mushrooms, sliced",
+      "Onion, chopped",
+      "Garlic, minced",
+      "Butter",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Grill or skillet for hamburgers",
+      "Skillet for mushrooms and onions",
+      "Spatula",
+      "Knife",
+      "Cutting board"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook hamburger patties as desired and season to taste. Top with cheese if using.",
+        "sk": "Pripravte fašírky podľa chuti a ochuťte. Ak používate, položte na vrch syr.",
+        "ja": "ハンバーガーパティをお好みで調理し、味付けします。チーズを使用する場合は上にのせます。",
+        "primaryIngredient": "hamburger patties"
+      },
+      {
+        "time": 10,
+        "en": "Sauté mushrooms, onions, and garlic in butter until tender and slightly browned. Season to taste.",
+        "sk": "Opečte huby, cibuľu a cesnak na masle, kým nezmäknú a mierne nezhnednú. Ochuťte podľa chuti.",
+        "ja": "マッシュルーム、タマネギ、ニンニクをバターで柔らかくなり少し色づくまで炒めます。好みで味付けします。",
+        "primaryIngredient": "mushroom and onion mixture"
+      },
+      {
+        "time": 2,
+        "en": "Serve the mushroom mixture over the hamburgers.",
+        "sk": "Podávajte hubovú zmes na fašírkach.",
+        "ja": "ハンバーガーの上にマッシュルームミックスをのせて提供します。",
+        "primaryIngredient": "finished hamburgers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "The carb count will vary depending on the amount of mushrooms and onions used per serving.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "386",
+      "protein": "27g",
+      "carbohydrates": "3g",
+      "fat": "29g"
+    }
+  }

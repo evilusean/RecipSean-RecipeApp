@@ -1,0 +1,70 @@
+{
+    "id": "burgers-with-creamy-bbq-sauce",
+    "name": "Burgers with Creamy BBQ Sauce",
+    "ingredients": [
+      "1 tablespoon low carb barbecue sauce",
+      "1 tablespoon mayonnaise",
+      "Pinch granular Splenda, optional",
+      "1 tablespoon butter",
+      "1/2 small onion, about 1 1/2 ounces",
+      "4 ounce ground beef patty",
+      "1 ounce cheddar cheese, sliced",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Small skillet",
+      "Grill or grill pan",
+      "Heat-proof plate or baking sheet",
+      "Broiler"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Blend barbecue sauce, mayonnaise, and optional Splenda; set aside.",
+        "sk": "Zmiešajte barbecue omáčku, majonézu a voliteľne Splendu; odložte bokom.",
+        "ja": "バーベキューソース、マヨネーズ、オプションのスプレンダを混ぜ合わせ、脇に置きます。",
+        "primaryIngredient": "creamy bbq sauce"
+      },
+      {
+        "time": 5,
+        "en": "Sauté onion in butter in a small skillet until lightly browned; keep warm.",
+        "sk": "Opečte cibuľu na masle v malej panvici do svetlohneda; udržujte teplé.",
+        "ja": "小さなフライパンでバターで玉ねぎを軽く茶色くなるまで炒めます。温かく保ちます。",
+        "primaryIngredient": "sautéed onion"
+      },
+      {
+        "time": 8,
+        "en": "Grill hamburger patty, seasoning with salt and pepper. Place on heat-proof plate.",
+        "sk": "Grilujte hamburgerovú fašírku, ochuťte soľou a korením. Položte na teplovzdornú misku.",
+        "ja": "ハンバーガーパティを塩コショウで味付けしてグリルします。耐熱皿に置きます。",
+        "primaryIngredient": "grilled burger"
+      },
+      {
+        "time": 3,
+        "en": "Top burger with onion and cheese. Broil until cheese is melted.",
+        "sk": "Na hamburger položte cibuľu a syr. Grilujte, kým sa syr neroztopí.",
+        "ja": "バーガーに玉ねぎとチーズをのせます。チーズが溶けるまでブロイルします。",
+        "primaryIngredient": "topped burger"
+      },
+      {
+        "time": 1,
+        "en": "Top with creamy BBQ sauce to serve.",
+        "sk": "Podávajte s krémovou BBQ omáčkou navrchu.",
+        "ja": "クリーミーなBBQソースをかけて提供します。",
+        "primaryIngredient": "finished burger"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Do not freeze. Carb Options Hickory Barbecue Sauce recommended.",
+    "nutritionalInformation": {
+      "amount": "Per Serving (with 1 tablespoon sauce)",
+      "calories": "477",
+      "protein": "26g",
+      "carbohydrates": "5g",
+      "fat": "39g"
+    }
+  }

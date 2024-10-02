@@ -1,0 +1,98 @@
+{
+    "id": "nancys-salisbury-steak",
+    "name": "Nancy's Salisbury Steak",
+    "ingredients": [
+      "2 pounds lean ground beef",
+      "1 ounce parmesan cheese, 1/4 cup",
+      "1/4 cup ground pork rinds, 1 ounce",
+      "1 egg",
+      "2 tablespoons heavy cream",
+      "1 ounce onion, chopped, 1/4 cup",
+      "1 tablespoon Worcestershire sauce",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 ounce onion, chopped, 1/4 cup",
+      "1 cup beef broth",
+      "1 1/2 tablespoons Worcestershire sauce",
+      "1 teaspoon beef bouillon",
+      "1 clove garlic, minced",
+      "1 teaspoon tomato paste",
+      "1/2 teaspoon salt",
+      "1/2 cup water",
+      "2 tablespoons heavy cream",
+      "1/2 teaspoon xanthan gum"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Large skillet",
+      "8x11\" baking dish",
+      "2-cup measure",
+      "Medium pot",
+      "Whisk",
+      "Strainer"
+    ],
+    "cookingTime": 75,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix first 9 ingredients in a large bowl. Shape into 6 oval patties.",
+        "sk": "Zmiešajte prvých 9 prísad vo veľkej miske. Vytvarujte 6 oválnych fašírok.",
+        "ja": "大きなボウルで最初の9つの材料を混ぜます。6つの楕円形のパティを作ります。",
+        "primaryIngredient": "beef mixture"
+      },
+      {
+        "time": 10,
+        "en": "Brown patties in a large skillet on both sides. Place in 8x11\" baking dish.",
+        "sk": "Opečte fašírky na veľkej panvici z oboch strán. Vložte do 20x28 cm zapekacej misy.",
+        "ja": "大きなフライパンでパティの両面を焼きます。20x28cmのベーキング皿に置きます。",
+        "primaryIngredient": "browned patties"
+      },
+      {
+        "time": 10,
+        "en": "Sauté mushrooms and 1/4 cup onion in skillet until tender.",
+        "sk": "Opečte huby a 1/4 šálky cibule na panvici do mäkka.",
+        "ja": "フライパンでマッシュルームと1/4カップの玉ねぎを柔らかくなるまで炒めます。",
+        "primaryIngredient": "sautéed mushrooms and onions"
+      },
+      {
+        "time": 5,
+        "en": "Mix gravy ingredients in 2-cup measure. Pour over mushrooms and cook until hot.",
+        "sk": "Zmiešajte prísady na omáčku v 500 ml odmerke. Nalejte na huby a varte do horúca.",
+        "ja": "2カップの計量カップでグレービーの材料を混ぜます。マッシュルームの上に注ぎ、熱くなるまで調理します。",
+        "primaryIngredient": "gravy mixture"
+      },
+      {
+        "time": 5,
+        "en": "Pour mushrooms and liquid over patties. Bake uncovered at 300°F for 1 hour.",
+        "sk": "Nalejte huby a tekutinu na fašírky. Pečte nezakryté pri 150°C 1 hodinu.",
+        "ja": "マッシュルームと液体をパティの上に注ぎます。150°Cで1時間、蓋をせずに焼きます。",
+        "primaryIngredient": "baked dish"
+      },
+      {
+        "time": 10,
+        "en": "Remove patties and mushrooms. Strain liquid into pot. Add cream and heat. Whisk in xanthan gum to thicken.",
+        "sk": "Vyberte fašírky a huby. Preceďte tekutinu do hrnca. Pridajte smotanu a zohrejte. Zašľahajte xantánovú gumu na zahustenie.",
+        "ja": "パティとマッシュルームを取り出します。液体をポットに濾します。クリームを加えて温めます。キサンタンガムを泡立て器で加えてとろみをつけます。",
+        "primaryIngredient": "gravy"
+      },
+      {
+        "time": 5,
+        "en": "Add mushrooms to gravy and serve over patties.",
+        "sk": "Pridajte huby do omáčky a podávajte na fašírkach.",
+        "ja": "グレービーにマッシュルームを加え、パティの上にかけて提供します。",
+        "primaryIngredient": "finished dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen without the sauce.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "358",
+      "protein": "32g",
+      "carbohydrates": "4g",
+      "fat": "24g"
+    }
+  }
