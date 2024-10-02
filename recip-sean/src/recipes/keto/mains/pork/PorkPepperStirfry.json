@@ -1,0 +1,62 @@
+{
+    "id": "pork-and-bell-pepper-stir-fry",
+    "name": "Pork and Bell Pepper Stir-Fry",
+    "ingredients": [
+      "3 medium green peppers, about 4 ounces each",
+      "1 large onion, about 5 ounces",
+      "3 cloves garlic, minced",
+      "6-8 servings leftover roast pork loin, julienned or cubed",
+      "2 tablespoons butter",
+      "1 tablespoon oil",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Very large skillet",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Spatula or wooden spoon"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Cut green peppers and onion into large chunks.",
+        "sk": "Nakrájajte zelené papriky a cibuľu na veľké kúsky.",
+        "ja": "ピーマンと玉ねぎを大きめに切ります。",
+        "primaryIngredient": "peppers and onion"
+      },
+      {
+        "time": 2,
+        "en": "Heat butter and oil in a very large skillet on medium-high heat.",
+        "sk": "Na veľkej panvici rozohrejte maslo a olej na stredne vysokom ohni.",
+        "ja": "大きめのフライパンで中高温でバターと油を熱します。",
+        "primaryIngredient": "butter and oil"
+      },
+      {
+        "time": 13,
+        "en": "Add peppers, onion, garlic, and pork. Stir-fry until everything is nicely browned.",
+        "sk": "Pridajte papriky, cibuľu, cesnak a bravčové mäso. Smažte za stáleho miešania, kým všetko pekne nezhnedne.",
+        "ja": "ピーマン、玉ねぎ、ニンニク、豚肉を加えます。全体がきつね色になるまで炒めます。",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 1,
+        "en": "Season to taste with salt and pepper.",
+        "sk": "Dochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "223",
+      "protein": "24g",
+      "carbohydrates": "5g",
+      "fat": "11g"
+    }
+  }

@@ -1,0 +1,66 @@
+{
+    "id": "mustard-pork-chops-with-crispy-cabbage",
+    "name": "Mustard Pork Chops with Crispy Cabbage",
+    "ingredients": [
+      "1 medium head cabbage, about 27 ounces before trimming",
+      "5 tablespoons butter, divided",
+      "Salt and pepper",
+      "6 thin bone-in pork chops, about 1 1/2 pounds *",
+      "1 tablespoon oil",
+      "1 cup chicken broth *",
+      "1/4 cup heavy cream",
+      "2 1/2 tablespoons grainy mustard"
+    ],
+    "utensils": [
+      "Baking sheet",
+      "Large skillet",
+      "Whisk",
+      "Paper towels",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cut cabbage into 1-inch wedges. Brush with melted butter and season. Roast at 450°F (230°C) for 20-25 minutes until browned.",
+        "sk": "Nakrájajte kapustu na 2,5 cm kliny. Potrite roztopeným maslom a ochuťte. Pečte pri 230°C 20-25 minút do zhnednutia.",
+        "ja": "キャベツを2.5cm幅のくさび形に切ります。溶かしバターを塗り、調味します。230°Cのオーブンで20-25分、茶色くなるまで焼きます。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 10,
+        "en": "Season pork chops. Brown in batches in a skillet with oil and butter, 2 minutes per side. Keep warm.",
+        "sk": "Ochuťte bravčové kotlety. Opečte po dávkach na panvici s olejom a maslom, 2 minúty z každej strany. Udržujte teplé.",
+        "ja": "豚肉に味付けをします。フライパンで油とバターを使い、バッチに分けて両面2分ずつ焼きます。温めておきます。",
+        "primaryIngredient": "pork chops"
+      },
+      {
+        "time": 10,
+        "en": "Make sauce: Boil broth, cream, and mustard in skillet, scraping up browned bits. Simmer until thickened.",
+        "sk": "Pripravte omáčku: Povarte vývar, smotanu a horčicu v panvici, zoškrabujúc pripečené kúsky. Varte do zhustnutia.",
+        "ja": "ソースを作ります：フライパンでブロス、クリーム、マスタードを煮立て、こびりついた部分をこそげ落とします。とろみがつくまで煮詰めます。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 5,
+        "en": "Add pork chops to sauce, simmer until sauce reaches desired thickness. Serve with roasted cabbage.",
+        "sk": "Pridajte bravčové kotlety do omáčky, varte kým omáčka nedosiahne požadovanú hustotu. Podávajte s pečenou kapustou.",
+        "ja": "豚肉をソースに戻し入れ、好みの濃さになるまで煮込みます。ローストしたキャベツと一緒に提供します。",
+        "primaryIngredient": "pork chops with sauce"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Do not freeze. *Boneless loin chops can be used. Suggest using low sodium broth to avoid overly salty sauce. The mustard sauce doesn't reheat well.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "351",
+      "protein": "21g",
+      "carbohydrates": "7g",
+      "fat": "27g"
+    }
+  }

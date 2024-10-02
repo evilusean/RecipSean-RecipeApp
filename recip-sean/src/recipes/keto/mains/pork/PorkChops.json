@@ -1,0 +1,66 @@
+{
+    "id": "foil-baked-pork-chops",
+    "name": "Pork Chops",
+    "ingredients": [
+      "6 pork chops",
+      "Seasoning of your choice",
+      "1/2 small onion, chopped, 1 1/4 ounces"
+    ],
+    "utensils": [
+      "Heavy duty foil",
+      "Large baking pan",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Oven"
+    ],
+    "cookingTime": 120,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Place pork chops on a large piece of heavy foil.",
+        "sk": "Položte bravčové kotlety na veľký kus hrubej fólie.",
+        "ja": "大きな重duty箔の上に豚肉のチョップを置きます。",
+        "primaryIngredient": "pork chops"
+      },
+      {
+        "time": 4,
+        "en": "Season both sides of pork chops with desired seasonings (salt, pepper, garlic powder, etc.).",
+        "sk": "Okoreňte obe strany bravčových kotliet podľa chuti (soľ, korenie, cesnakový prášok atď.).",
+        "ja": "豚肉の両面を好みの調味料（塩、コショウ、ニンニクパウダーなど）で味付けします。",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle chopped onions over the pork chops.",
+        "sk": "Posypte bravčové kotlety nasekanou cibuľou.",
+        "ja": "刻んだ玉ねぎを豚肉の上にふりかけます。",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 3,
+        "en": "Fold up the foil and seal well. Place in a large baking pan.",
+        "sk": "Zabaľte fóliu a dobre utesnite. Vložte do veľkého pekáča.",
+        "ja": "箔を折りたたんでしっかりと密閉します。大きな焼き皿に置きます。",
+        "primaryIngredient": "wrapped pork chops"
+      },
+      {
+        "time": 120,
+        "en": "Bake at 350°F (175°C) for about 2 hours until tender.",
+        "sk": "Pečte pri teplote 175°C asi 2 hodiny, kým nezmäknú.",
+        "ja": "350°F（175°C）のオーブンで約2時間、柔らかくなるまで焼きます。",
+        "primaryIngredient": "baked pork chops"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "235",
+      "protein": "23g",
+      "carbohydrates": "1g",
+      "fat": "15g"
+    }
+  }

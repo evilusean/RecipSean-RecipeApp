@@ -1,0 +1,79 @@
+{
+    "id": "heathers-potsticker-patties",
+    "name": "Heather's Potsticker Patties",
+    "ingredients": [
+      "3-4 pound head napa cabbage *",
+      "1 small-medium onion, chopped, about 3 ounces",
+      "2 cloves garlic",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1 teaspoon granular Splenda",
+      "4 tablespoons oil, divided",
+      "1 pound ground pork",
+      "1 pound ground turkey or chicken",
+      "1 tablespoon soy sauce",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "2 eggs",
+      "5 green onions, minced",
+      "Dash hot sauce",
+      "1/8 teaspoon sesame oil, optional"
+    ],
+    "utensils": [
+      "Large wok or pot",
+      "Large skillet",
+      "Large bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons and cups"
+    ],
+    "cookingTime": 40,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "Prepare cabbage: Trim, separate leaves, and slice into thin shreds.",
+        "sk": "Pripravte kapustu: Orežte, oddeľte listy a nakrájajte na tenké prúžky.",
+        "ja": "キャベツの準備：根元を切り落とし、葉を分け、細く刻みます。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 10,
+        "en": "Stir-fry cabbage mixture in 2 tbsp oil until soft. Evaporate excess liquid on high heat.",
+        "sk": "Opražte zmes kapusty na 2 lyžiciach oleja do mäkka. Na vysokom ohni odparujte prebytočnú tekutinu.",
+        "ja": "キャベツミックスを2大さじの油で柔らかくなるまで炒めます。高温で余分な水分を蒸発させます。",
+        "primaryIngredient": "cabbage mixture"
+      },
+      {
+        "time": 10,
+        "en": "Mix meat ingredients (except oil) in a large bowl. Add cabbage and blend well.",
+        "sk": "Zmiešajte mäsové ingrediencie (okrem oleja) vo veľkej miske. Pridajte kapustu a dobre premiešajte.",
+        "ja": "大きなボウルで肉の材料（油以外）を混ぜます。キャベツを加えてよく混ぜ合わせます。",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 5,
+        "en": "Divide mixture into 8 equal patties.",
+        "sk": "Rozdeľte zmes na 8 rovnakých fašírok.",
+        "ja": "混ぜた材料を8等分してパティを作ります。",
+        "primaryIngredient": "patties"
+      },
+      {
+        "time": 40,
+        "en": "Fry patties in batches, about 8 minutes per side, until done in the center.",
+        "sk": "Smažte fašírky po dávkach, asi 8 minút z každej strany, kým nie sú prepečené v strede.",
+        "ja": "パティをバッチで揚げ、両面約8分ずつ、中まで火が通るまで調理します。",
+        "primaryIngredient": "fried patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen. *You'll only use about 1 1/2 pounds of trimmed cabbage (about 8 cups chopped).",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "308",
+      "protein": "25g",
+      "carbohydrates": "7g",
+      "fat": "20g"
+    }
+  }

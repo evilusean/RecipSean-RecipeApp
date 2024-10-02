@@ -1,0 +1,68 @@
+{
+    "id": "zucchini-and-bacon-stir-fry",
+    "name": "Zucchini & Bacon Stir-Fry",
+    "ingredients": [
+      "4 slices bacon, chopped",
+      "1 ounce onion, chopped, 1/4 cup",
+      "2 medium zucchini, cut in half moons, 12 ounces",
+      "Salt and pepper, to taste",
+      "2 eggs",
+      "1 tablespoon butter"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "Knife",
+      "Cutting board",
+      "Wooden spoon or spatula",
+      "Serving plate"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Fry chopped bacon in a medium skillet until it starts to brown and render fat.",
+        "sk": "Opražte nakrájanú slaninu na strednej panvici, kým nezačne hnednúť a vypúšťať tuk.",
+        "ja": "中サイズのフライパンで刻んだベーコンを茶色くなり脂が出るまで炒めます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 8,
+        "en": "Add onion and zucchini. Cook over medium-high heat until zucchini is tender and caramelized, and bacon is fully cooked. Season with salt and pepper.",
+        "sk": "Pridajte cibuľu a cuketu. Varte na stredne vysokom ohni, kým cuketa nezmäkne a nezkaramelizuje a slanina nie je úplne prepečená. Ochuťte soľou a korením.",
+        "ja": "玉ねぎとズッキーニを加えます。中高温で、ズッキーニが柔らかくカラメル化し、ベーコンが完全に火が通るまで炒めます。塩コショウで味を調えます。",
+        "primaryIngredient": "zucchini and onion"
+      },
+      {
+        "time": 2,
+        "en": "Transfer zucchini mixture to a serving plate and keep warm.",
+        "sk": "Preložte zmes cukety na servírovací tanier a udržujte teplú.",
+        "ja": "ズッキーニミックスを盛り付け皿に移し、温かく保ちます。",
+        "primaryIngredient": "cooked mixture"
+      },
+      {
+        "time": 5,
+        "en": "In the same skillet, fry two eggs in butter.",
+        "sk": "Na tej istej panvici usmažte dve vajcia na masle.",
+        "ja": "同じフライパンでバターを使って卵2個を焼きます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 1,
+        "en": "Serve the fried eggs over the zucchini mixture.",
+        "sk": "Podávajte vyprážané vajcia na zmesi cukety.",
+        "ja": "ズッキーニミックスの上に目玉焼きをのせて提供します。",
+        "primaryIngredient": "completed dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 2 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "228",
+      "protein": "12g",
+      "carbohydrates": "7g",
+      "fat": "17g"
+    }
+  }

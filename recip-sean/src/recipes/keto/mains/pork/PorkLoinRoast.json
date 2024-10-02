@@ -1,0 +1,57 @@
+{
+    "id": "pork-loin-roast",
+    "name": "Pork Loin Roast",
+    "ingredients": [
+      "3 1/2-4 pound pork loin roast",
+      "Seasonings (Spicy Seasoning Salt, garlic powder, toasted onion powder, salt, and pepper)"
+    ],
+    "utensils": [
+      "Roasting pan",
+      "Aluminum foil",
+      "Meat thermometer",
+      "Measuring spoons",
+      "Oven"
+    ],
+    "cookingTime": 90,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Place the pork loin roast in a roasting pan.",
+        "sk": "Vložte bravčovú sviečkovú do pekáča.",
+        "ja": "ローストパンに豚ロース肉を置きます。",
+        "primaryIngredient": "pork loin roast"
+      },
+      {
+        "time": 5,
+        "en": "Season on all sides with Spicy Seasoning Salt, garlic powder, toasted onion powder, salt, and pepper.",
+        "sk": "Okoreňte zo všetkých strán pikantnou koreninovou soľou, cesnakovým práškom, praženým cibuľovým práškom, soľou a korením.",
+        "ja": "スパイシーシーズニングソルト、ガーリックパウダー、ローストオニオンパウダー、塩、コショウで全面を味付けします。",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 2,
+        "en": "Turn the roast so the fat side is up. Cover with foil.",
+        "sk": "Otočte pečienku tak, aby tučná strana smerovala nahor. Prikryte fóliou.",
+        "ja": "脂肪側を上にして肉を置き、アルミホイルで覆います。",
+        "primaryIngredient": "covered roast"
+      },
+      {
+        "time": 90,
+        "en": "Roast at 325°F (165°C) for about 1 1/2 hours or until a meat thermometer reads 140°F (60°C). Optionally uncover after the first hour to brown the top.",
+        "sk": "Pečte pri teplote 165°C asi 1 1/2 hodiny alebo kým teplomer na mäso neukáže 60°C. Voliteľne môžete po prvej hodine odkryť na zhnednutie vrchu.",
+        "ja": "325°F（165°C）のオーブンで約1時間半、または肉温度計が140°F（60°C）を示すまで焼きます。最初の1時間後に上面を焼き色つけるためにホイルを外してもよいでしょう。",
+        "primaryIngredient": "roasting pork"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes multiple servings. Can be frozen. Covering the roast keeps it moist and juicy. Uncover after the first hour for browning if desired.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "299",
+      "protein": "23g",
+      "carbohydrates": "trace",
+      "fat": "22g"
+    }
+  }

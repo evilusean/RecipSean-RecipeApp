@@ -1,0 +1,60 @@
+{
+    "id": "spicy-sausage-casserole",
+    "name": "Spicy Sausage Casserole",
+    "ingredients": [
+      "1 pound pork sausage",
+      "8 ounces cream cheese, softened",
+      "10 ounce can Ro-tel tomatoes, undrained (diced tomatoes with green chiles)",
+      "16 ounces frozen cauliflower, cooked and drained"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Mixing bowl",
+      "Wooden spoon or spatula",
+      "Knife",
+      "Cutting board",
+      "Measuring cups"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the pork sausage in a large skillet. Drain fat if necessary.",
+        "sk": "Opečte bravčovú klobásu na veľkej panvici. V prípade potreby zlejte tuk.",
+        "ja": "大きなフライパンで豚肉ソーセージを炒めます。必要に応じて脂を切ります。",
+        "primaryIngredient": "pork sausage"
+      },
+      {
+        "time": 3,
+        "en": "Stir in softened cream cheese until blended.",
+        "sk": "Vmiešajte zmäknutý krémový syr, kým sa nespojí.",
+        "ja": "柔らかくしたクリームチーズを加えてよく混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 2,
+        "en": "Add Ro-tel tomatoes to the mixture.",
+        "sk": "Pridajte paradajky Ro-tel do zmesi.",
+        "ja": "Ro-telトマトを混ぜ合わせます。",
+        "primaryIngredient": "Ro-tel tomatoes"
+      },
+      {
+        "time": 5,
+        "en": "Slightly chop the cooked and drained cauliflower. Mix with the sausage mixture.",
+        "sk": "Mierne nasekajte uvarenú a odkvapkanú karfiol. Zmiešajte so zmesou klobásy.",
+        "ja": "調理して水気を切ったカリフラワーを軽く刻みます。ソーセージミックスと混ぜ合わせます。",
+        "primaryIngredient": "cauliflower"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Do not freeze. Good served with a fried egg on top.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "399",
+      "protein": "20g",
+      "carbohydrates": "7g",
+      "fat": "34g"
+    }
+  }

@@ -1,0 +1,61 @@
+{
+    "id": "pork-and-mushroom-stir-fry",
+    "name": "Pork & Mushroom Stir-Fry",
+    "ingredients": [
+      "1 tablespoon oil",
+      "2 tablespoons butter",
+      "1 pound raw pork shoulder, cut into bite-size strips",
+      "1 large onion, slivered (about 5 ounces)",
+      "8 ounces fresh mushrooms, sliced",
+      "Seasonings of your choice *"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Spatula or wooden spoon"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Heat oil and butter in a large skillet or wok over medium-high heat.",
+        "sk": "Na veľkej panvici alebo woku rozohrejte olej a maslo na stredne vysokom ohni.",
+        "ja": "大きなフライパンまたは中華鍋で中高温で油とバターを熱します。",
+        "primaryIngredient": "oil and butter"
+      },
+      {
+        "time": 12,
+        "en": "Add pork and onions. Stir-fry until well browned and pork is cooked through.",
+        "sk": "Pridajte bravčové mäso a cibuľu. Smažte za stáleho miešania, kým mäso nezhnedne a nie je prepečené.",
+        "ja": "豚肉と玉ねぎを加えます。よく焼き色がつき、豚肉に火が通るまで炒めます。",
+        "primaryIngredient": "pork and onions"
+      },
+      {
+        "time": 6,
+        "en": "Add mushrooms and stir-fry until tender.",
+        "sk": "Pridajte huby a smažte za stáleho miešania, kým nezmäknú.",
+        "ja": "マッシュルームを加え、柔らかくなるまで炒めます。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 1,
+        "en": "Season as desired.",
+        "sk": "Ochuťte podľa chuti.",
+        "ja": "好みで味付けをします。",
+        "primaryIngredient": "seasonings"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. *Suggested seasonings: salt, pepper, garlic powder, and onion powder.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "306",
+      "protein": "17g",
+      "carbohydrates": "5g",
+      "fat": "25g"
+    }
+  }

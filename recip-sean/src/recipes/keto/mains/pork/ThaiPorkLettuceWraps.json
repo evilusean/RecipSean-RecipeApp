@@ -1,0 +1,77 @@
+{
+    "id": "thai-pork-lettuce-wraps",
+    "name": "Thai Pork Lettuce Wraps",
+    "ingredients": [
+      "1 pound ground pork or turkey",
+      "1 small onion, sliced thin, 2 1/2 ounces",
+      "2 tablespoons fresh ginger, grated",
+      "1 clove garlic, minced",
+      "2 cups coleslaw mix with carrots, about 4 ounces",
+      "1 teaspoon sesame oil",
+      "3 tablespoons soy sauce",
+      "2 tablespoons lime juice",
+      "1 tablespoon granular Splenda or equivalent liquid Splenda",
+      "2 teaspoons ground coriander",
+      "1/2 teaspoon crushed red pepper",
+      "8 romaine lettuce leaves, for wraps, 5 ounces total",
+      "Fresh cilantro, for garnish, optional"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Small bowl",
+      "Measuring spoons and cups",
+      "Grater",
+      "Knife",
+      "Cutting board",
+      "Wooden spoon or spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Brown ground pork and onions in a large skillet or wok; drain fat.",
+        "sk": "Opečte mleté bravčové mäso a cibuľu na veľkej panvici alebo woku; zlejte tuk.",
+        "ja": "大きなフライパンまたは中華鍋で挽肉と玉ねぎを炒めて、脂を切ります。",
+        "primaryIngredient": "ground pork and onions"
+      },
+      {
+        "time": 2,
+        "en": "Add ginger, garlic, and coleslaw mix; stir-fry for 2 minutes until vegetables wilt.",
+        "sk": "Pridajte zázvor, cesnak a zmes coleslaw; smažte 2 minúty, kým zelenina nezvädne.",
+        "ja": "生姜、ニンニク、コールスローミックスを加え、野菜がしんなりするまで2分炒めます。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 3,
+        "en": "Combine sesame oil, soy sauce, lime juice, Splenda, coriander, and red pepper in a small bowl.",
+        "sk": "V malej miske zmiešajte sezamový olej, sójovú omáčku, limetkovú šťavu, Splenda, koriander a červené korenie.",
+        "ja": "小さなボウルでごま油、醤油、ライムジュース、スプレンダ、コリアンダー、唐辛子を混ぜます。",
+        "primaryIngredient": "sauce mixture"
+      },
+      {
+        "time": 2,
+        "en": "Add sauce mixture to skillet. Cook and stir constantly for 1 minute.",
+        "sk": "Pridajte zmes omáčky do panvice. Varte a neustále miešajte 1 minútu.",
+        "ja": "ソースミックスをフライパンに加え、1分間絶えずかき混ぜながら調理します。",
+        "primaryIngredient": "combined mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add cilantro if desired. Spoon mixture into lettuce leaves and roll up to serve.",
+        "sk": "Ak chcete, pridajte koriander. Naložte zmes do listov šalátu a zarolujte na podávanie.",
+        "ja": "お好みでパクチーを加えます。レタスの葉に具材を包んで巻いて提供します。",
+        "primaryIngredient": "lettuce wraps"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen without the lettuce.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "276",
+      "protein": "22g",
+      "carbohydrates": "7g",
+      "fat": "18g"
+    }
+  }

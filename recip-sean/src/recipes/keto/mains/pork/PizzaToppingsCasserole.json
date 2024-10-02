@@ -1,0 +1,70 @@
+{
+    "id": "pizza-toppings-casserole",
+    "name": "Pizza Toppings Casserole",
+    "ingredients": [
+      "1 pound bulk Italian sausage",
+      "8 ounces fresh mushrooms, sliced",
+      "4 eggs",
+      "1/2 cup heavy cream",
+      "1/4 cup pizza sauce",
+      "1/4 teaspoon garlic powder",
+      "1/2 teaspoon Italian seasoning and/or basil",
+      "3 1/2 ounces pepperoni, chopped",
+      "1/2 cup green pepper, chopped (2 ounces)",
+      "8 ounces whole milk mozzarella cheese, cut into small cubes",
+      "1/2 cup red onion, slivered (1 ounce)",
+      "Crushed red pepper, optional"
+    ],
+    "utensils": [
+      "7x9\" deep baking dish or 7x12\" shallow baking dish",
+      "Large skillet",
+      "Medium bowl",
+      "Whisk",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 55,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown sausage with mushrooms; drain grease.",
+        "sk": "Opečte klobásu s hubami; zlejte mastnotu.",
+        "ja": "ソーセージをマッシュルームと一緒に炒めて、脂を切ります。",
+        "primaryIngredient": "sausage and mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Whisk eggs, cream, pizza sauce, and seasonings in a bowl.",
+        "sk": "V miske vyšľahajte vajcia, smotanu, pizzovú omáčku a korenie.",
+        "ja": "ボウルで卵、クリーム、ピザソース、調味料を混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 10,
+        "en": "Layer meats, mushrooms, peppers, and cheese in greased baking dish. Pour egg mixture over and mix. Top with onion and additional seasonings.",
+        "sk": "Do vymastenej zapekacej misky vrstvite mäso, huby, papriku a syr. Zalejte vaječnou zmesou a premiešajte. Navrch dajte cibuľu a ďalšie korenie.",
+        "ja": "油を塗った焼き皿に肉、マッシュルーム、ピーマン、チーズを層にして入れます。卵液を注いで混ぜ、玉ねぎと追加の調味料をのせます。",
+        "primaryIngredient": "casserole assembly"
+      },
+      {
+        "time": 55,
+        "en": "Bake at 350°F (175°C) for 45-55 minutes until browned and mostly set. Let stand 5 minutes before serving.",
+        "sk": "Pečte pri 175°C 45-55 minút, kým nezhnedne a takmer sa neustáli. Pred podávaním nechajte 5 minút odstáť.",
+        "ja": "350°F（175°C）のオーブンで45-55分、茶色くなりほぼ固まるまで焼きます。提供前に5分間置きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Pizza sauce recipe included separately.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "582",
+      "protein": "27g",
+      "carbohydrates": "5g",
+      "fat": "50g"
+    }
+  }

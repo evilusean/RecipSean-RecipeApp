@@ -1,0 +1,54 @@
+{
+    "id": "oven-bacon",
+    "name": "Oven Bacon",
+    "ingredients": [
+      "Bacon (12-ounce package)"
+    ],
+    "utensils": [
+      "Heavy duty foil",
+      "Large sheet pan (17x12\")",
+      "Oven"
+    ],
+    "cookingTime": 20,
+    "prepTime": 5,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Preheat oven to 375-400°F (190-200°C).",
+        "sk": "Predhrejte rúru na 190-200°C.",
+        "ja": "オーブンを375-400°F（190-200°C）に予熱します。",
+        "primaryIngredient": "oven"
+      },
+      {
+        "time": 3,
+        "en": "Line a rimmed baking sheet with heavy foil.",
+        "sk": "Vyložte plech na pečenie s okrajmi ťažkou fóliou.",
+        "ja": "縁のあるベーキングシートに厚手のアルミホイルを敷きます。",
+        "primaryIngredient": "foil"
+      },
+      {
+        "time": 2,
+        "en": "Arrange bacon slices in a single layer side by side on the foil.",
+        "sk": "Rozložte plátky slaniny v jednej vrstve vedľa seba na fóliu.",
+        "ja": "ベーコンスライスをアルミホイルの上に一列に並べます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 20,
+        "en": "Bake for 15-20 minutes, rotating the pan every 5 minutes. Watch closely after 10 minutes to prevent burning.",
+        "sk": "Pečte 15-20 minút, každých 5 minút otočte plech. Po 10 minútach pozorne sledujte, aby sa nespálila.",
+        "ja": "15-20分焼き、5分ごとに天板を回転させます。10分経過後は焦げないよう注意深く見守ります。",
+        "primaryIngredient": "baking bacon"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-side",
+    "notes": "A 12-ounce package fits on a 17x12\" pan. Thick bacon may take longer to cook. No need to flip the bacon. The bacon cooks in its own fat, resulting in a deep-fried texture. Clean-up is easy with the foil lining.",
+    "nutritionalInformation": {
+      "amount": "Varies",
+      "calories": "Varies",
+      "protein": "Varies",
+      "carbohydrates": "0g",
+      "fat": "Varies"
+    }
+  }

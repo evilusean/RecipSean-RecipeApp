@@ -1,0 +1,64 @@
+{
+    "id": "pork-roast-patties",
+    "name": "Pork Roast Patties",
+    "ingredients": [
+      "Leftover roast pork",
+      "1-2 eggs",
+      "Oil or pork fat for frying"
+    ],
+    "utensils": [
+      "Food processor with chopping blade",
+      "Frying pan",
+      "Spatula",
+      "Measuring cups (for shaping patties)"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Roughly chop the leftover roast pork and put it in a food processor with the chopping blade.",
+        "sk": "Nahrubo nasekajte zvyšné pečené bravčové mäso a vložte ho do kuchynského robota s nožom na sekanie.",
+        "ja": "残りの焼き豚を大まかに切り、フードプロセッサーのチョッピングブレードで処理します。",
+        "primaryIngredient": "roast pork"
+      },
+      {
+        "time": 2,
+        "en": "Pulse until the meat is ground but not pureed.",
+        "sk": "Pulzujte, kým sa mäso nerozmelie, ale nie na kašu.",
+        "ja": "肉がひき肉状になるまでパルス機能で処理しますが、ペースト状にはしないでください。",
+        "primaryIngredient": "ground pork"
+      },
+      {
+        "time": 2,
+        "en": "Add an egg or two and process to blend it with the meat.",
+        "sk": "Pridajte jedno alebo dve vajcia a spracujte, aby sa zmiešali s mäsom.",
+        "ja": "卵を1〜2個加え、肉とよく混ざるまで処理します。",
+        "primaryIngredient": "meat and egg mixture"
+      },
+      {
+        "time": 3,
+        "en": "Shape the mixture into patties.",
+        "sk": "Vytvarujte zmes do fašírok.",
+        "ja": "混ぜた材料でパティ状に成形します。",
+        "primaryIngredient": "patties"
+      },
+      {
+        "time": 10,
+        "en": "Pan-fry in hot oil until crispy and brown on the outside.",
+        "sk": "Smažte na horúcom oleji, kým nie sú zvonku chrumkavé a hnedé.",
+        "ja": "熱した油で外側がカリッと茶色くなるまで焼きます。",
+        "primaryIngredient": "fried patties"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "This recipe is versatile. You can add various spices, onions, or other ingredients to the patties for different flavors. The dish is virtually carb-free, consisting mainly of pork, fat, and egg.",
+    "nutritionalInformation": {
+      "amount": "Not specified",
+      "calories": "Not specified",
+      "protein": "Not specified",
+      "carbohydrates": "Virtually carb-free",
+      "fat": "Not specified"
+    }
+  }

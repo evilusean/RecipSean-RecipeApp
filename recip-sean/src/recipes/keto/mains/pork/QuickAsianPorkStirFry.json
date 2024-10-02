@@ -1,0 +1,68 @@
+{
+    "id": "quick-asian-pork-stir-fry",
+    "name": "Quick Asian Pork Stir-Fry",
+    "ingredients": [
+      "1 pound ground pork",
+      "1 small onion, slivered",
+      "1 clove garlic, minced",
+      "16 ounce bag frozen Asian-style vegetable mixture *",
+      "1 teaspoon sesame oil",
+      "3 tablespoons soy sauce",
+      "2 tablespoons lime juice **",
+      "1 tablespoon granular Splenda or equivalent liquid Splenda",
+      "1/2 teaspoon ground ginger, or to taste",
+      "2 teaspoons ground coriander",
+      "1 teaspoon Sambal Oelek, or to taste",
+      "1/4 teaspoon xanthan gum, optional",
+      "1-2 tablespoons cooking oil (if using lean ground pork)"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Measuring spoons and cups",
+      "Knife",
+      "Cutting board",
+      "Wooden spoon or spatula"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "If using lean pork, heat 1-2 tbsp cooking oil in a large skillet or wok.",
+        "sk": "Ak používate chudé bravčové, rozohrejte 1-2 lyžice oleja na varenie vo veľkej panvici alebo woku.",
+        "ja": "脂肪の少ない豚肉を使用する場合、大きなフライパンまたは中華鍋で1-2大さじの調理油を熱します。",
+        "primaryIngredient": "cooking oil"
+      },
+      {
+        "time": 8,
+        "en": "Brown ground pork with onions and garlic.",
+        "sk": "Opečte mleté bravčové mäso s cibuľou a cesnakom.",
+        "ja": "挽き肉を玉ねぎとニンニクと一緒に炒めます。",
+        "primaryIngredient": "ground pork"
+      },
+      {
+        "time": 7,
+        "en": "Add frozen vegetables and remaining ingredients. Cook until vegetables are done as desired.",
+        "sk": "Pridajte mrazenú zeleninu a zvyšné ingrediencie. Varte, kým zelenina nie je hotová podľa vašej chuti.",
+        "ja": "冷凍野菜と残りの材料を加えます。野菜が好みの柔らかさになるまで調理します。",
+        "primaryIngredient": "vegetables and seasonings"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle xanthan gum over surface, stir in quickly. Let stand to thicken sauce.",
+        "sk": "Posypte povrch xantánovou gumou, rýchlo zamiešajte. Nechajte postáť, aby omáčka zhustla.",
+        "ja": "キサンタンガムを表面に振りかけ、素早く混ぜます。ソースが濃くなるまで少し置きます。",
+        "primaryIngredient": "xanthan gum"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. *Frozen Asian-style vegetable mixtures vary in composition. **2 packets of True Lime can be used instead of lime juice. Carb counts are approximate due to variation in vegetable mixtures.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "302",
+      "protein": "22g",
+      "carbohydrates": "13g",
+      "fat": "18g"
+    }
+  }

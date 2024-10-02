@@ -1,0 +1,64 @@
+{
+    "id": "spicy-sausage-and-rice-casserole",
+    "name": "Spicy Sausage and \"Rice\" Casserole",
+    "ingredients": [
+      "15 ounces fresh cauliflower, shredded",
+      "1 pound pork sausage",
+      "8 ounces cream cheese, softened",
+      "10 ounce can Ro-tel tomatoes, undrained (diced tomatoes with green chiles)",
+      "4 ounces cheddar cheese, shredded",
+      "Salt and pepper, to taste",
+      "2 tablespoons water"
+    ],
+    "utensils": [
+      "Large casserole dish",
+      "Large skillet",
+      "Microwave",
+      "Oven (optional)",
+      "Measuring cups and spoons",
+      "Grater",
+      "Wooden spoon or spatula"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Microwave shredded cauliflower with 2 tbsp water for 4 minutes on HIGH, stir, then cook 3-4 more minutes until tender-crisp.",
+        "sk": "Nastrúhanú karfiol varte v mikrovlnke s 2 lyžicami vody 4 minúty na VYSOKOM výkone, premiešajte a varte ďalších 3-4 minúty, kým nie je chrumkavá.",
+        "ja": "刻んだカリフラワーを2大さじの水と共に電子レンジで4分間高温で加熱し、かき混ぜてからさらに3-4分加熱して歯ごたえが残る程度に仕上げます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 10,
+        "en": "Brown sausage in a large skillet; drain fat.",
+        "sk": "Opečte klobásu na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンでソーセージを炒めて脂を切ります。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 5,
+        "en": "Stir softened cream cheese into cauliflower \"rice\". Add tomatoes, salt, pepper, cheddar cheese, and sausage.",
+        "sk": "Vmiešajte zmäknutý krémový syr do karfiolovej \"ryže\". Pridajte paradajky, soľ, korenie, čedar a klobásu.",
+        "ja": "柔らかくしたクリームチーズをカリフラワー「ライス」に混ぜます。トマト、塩、コショウ、チェダーチーズ、ソーセージを加えます。",
+        "primaryIngredient": "mixed ingredients"
+      },
+      {
+        "time": 20,
+        "en": "Microwave on MEDIUM for 10-20 minutes until hot and bubbly, or bake at 350°F (175°C) for 20-30 minutes.",
+        "sk": "Varte v mikrovlnke na STREDNOM výkone 10-20 minút, kým nie je horúce a bublajúce, alebo pečte pri 175°C 20-30 minút.",
+        "ja": "電子レンジで中火で10-20分、または350°F（175°C）のオーブンで20-30分、熱々になるまで調理します。",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "475",
+      "protein": "24g",
+      "carbohydrates": "7g",
+      "fat": "40g"
+    }
+  }

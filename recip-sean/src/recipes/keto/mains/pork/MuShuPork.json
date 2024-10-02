@@ -1,0 +1,76 @@
+{
+    "id": "mu-shu-pork",
+    "name": "Mu Shu Pork",
+    "ingredients": [
+      "1 pound lean pork, cut in thin strips *",
+      "2 eggs, beaten with a dash of salt",
+      "Oil and cooking spray, as needed",
+      "1 medium carrot, julienned",
+      "10 ounces angel hair cabbage",
+      "1 can bamboo shoots, drained and julienned",
+      "8 ounces fresh cremini mushrooms, sliced",
+      "8 ounces fresh bean sprouts or 14 ounce can, drained",
+      "4 green onions, cut on the bias",
+      "1/2 teaspoon xanthan gum, optional",
+      "Salt, to taste",
+      "1/4 cup soy sauce",
+      "2 tablespoons dry white wine",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda",
+      "2 teaspoons sesame oil",
+      "2 teaspoons hoisin sauce",
+      "1/2 teaspoon pepper",
+      "1 teaspoon fresh ginger, grated or 1/8 teaspoon ground ginger",
+      "2 cloves garlic, minced"
+    ],
+    "utensils": [
+      "Large wok",
+      "12-inch nonstick skillet",
+      "Medium bowl",
+      "Cutting board",
+      "Knife",
+      "Measuring cups and spoons",
+      "Grater"
+    ],
+    "cookingTime": 30,
+    "prepTime": 210,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Combine marinade ingredients in a medium bowl. Add pork, mix well, and marinate in refrigerator for 3 hours.",
+        "sk": "V strednej miske zmiešajte ingrediencie na marinádu. Pridajte bravčové mäso, dobre premiešajte a marinujte v chladničke 3 hodiny.",
+        "ja": "中サイズのボウルでマリネの材料を混ぜます。豚肉を加えてよく混ぜ、冷蔵庫で3時間マリネします。",
+        "primaryIngredient": "pork and marinade"
+      },
+      {
+        "time": 10,
+        "en": "Cook beaten eggs in a sprayed skillet to form a thin 'pancake'. Cool, roll, and slice into ribbons.",
+        "sk": "V nastriekanej panvici uvarte rozšľahané vajcia tak, aby vytvorili tenkú 'palacinku'. Ochlaďte, zrolujte a nakrájajte na pásiky.",
+        "ja": "スプレーをかけたフライパンで溶き卵を薄い「パンケーキ」状に焼きます。冷まして巻き、細く切ります。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 15,
+        "en": "Heat oil in wok. Cook marinated pork, then add vegetables and cook until crisp-tender. Add egg ribbons and heat through. Optionally thicken with xanthan gum and adjust salt.",
+        "sk": "Rozohrejte olej vo woku. Uvarte marinované bravčové mäso, potom pridajte zeleninu a varte, kým nie je chrumkavá. Pridajte vaječné pásiky a prehrejte. Voliteľne zahustite xantánovou gumou a upravte soľ.",
+        "ja": "中華鍋で油を熱し、マリネした豚肉を炒めます。野菜を加えてシャキッとするまで炒めます。卵の細切りを加えて温めます。必要に応じてキサンタンガムで濃度を調整し、塩加減を整えます。",
+        "primaryIngredient": "pork and vegetables"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with green onions just before serving.",
+        "sk": "Tesne pred podávaním posypte jarnou cibuľkou.",
+        "ja": "提供直前にネギを振りかけます。",
+        "primaryIngredient": "green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Freezing not recommended. *I used part of a boneless pork loin roast.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "184",
+      "protein": "20g",
+      "carbohydrates": "11g",
+      "fat": "7g"
+    }
+  }
