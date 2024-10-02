@@ -1,0 +1,76 @@
+{
+    "id": "hamburger-broccoli-alfredo-casserole",
+    "name": "Hamburger-Broccoli Alfredo Casserole",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 small onion, diced, 2 1/2 ounces",
+      "10 ounces frozen broccoli florets",
+      "8 ounces cream cheese",
+      "1/2 cup heavy cream",
+      "1/2 cup freshly grated parmesan cheese",
+      "1/2 teaspoon garlic powder",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Microwaveable bowl",
+      "Whisk",
+      "2 1/2 quart or larger casserole dish"
+    ],
+    "cookingTime": 55,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and onion in a large skillet, seasoning with salt and pepper. Drain fat.",
+        "sk": "Opečte mleté mäso a cibuľu na veľkej panvici, ochuťte soľou a korením. Zlejte tuk.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、塩コショウで味付けします。脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Cook broccoli until tender-crisp, drain well, and season with salt and pepper.",
+        "sk": "Uvarte brokolicu do polomäkka, dobre sceďte a ochuťte soľou a korením.",
+        "ja": "ブロッコリーを歯ごたえが残る程度に茹で、よく水気を切り、塩コショウで味付けします。",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 2,
+        "en": "Microwave cream cheese on HIGH for 45 seconds until soft. Whisk until creamy and smooth.",
+        "sk": "Ohrejte krémový syr v mikrovlnke na VYSOKOM výkone 45 sekúnd do zmäknutia. Vyšľahajte do krémova.",
+        "ja": "クリームチーズを電子レンジの高温で45秒加熱して柔らかくします。滑らかになるまで泡立て器で混ぜます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 3,
+        "en": "Gradually whisk heavy cream into cream cheese, then stir in parmesan and garlic powder.",
+        "sk": "Postupne vmiešajte smotanu do krémového syra, potom pridajte parmezán a cesnakový prášok.",
+        "ja": "生クリームを少しずつクリームチーズに加えて混ぜ、パルメザンチーズとニンニクパウダーを加えます。",
+        "primaryIngredient": "alfredo sauce"
+      },
+      {
+        "time": 5,
+        "en": "Mix hamburger and broccoli in a greased casserole dish. Pour in cream sauce and mix well. Season with salt and pepper.",
+        "sk": "Zmiešajte mäso a brokolicu vo vymastenej zapekacej miske. Vlejte smotanovú omáčku a dobre premiešajte. Ochuťte soľou a korením.",
+        "ja": "グリースを塗ったキャセロール皿に挽肉とブロッコリーを入れて混ぜます。クリームソースを注ぎ、よく混ぜます。塩コショウで味を調えます。",
+        "primaryIngredient": "assembled casserole"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F for 35-45 minutes, until bubbly and browned on top.",
+        "sk": "Pečte pri 175°C 35-45 minút, kým nebude bublajúce a zhnednuté na povrchu.",
+        "ja": "350°F（175°C）のオーブンで35〜45分間、表面が泡立ち茶色くなるまで焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "517",
+      "protein": "33g",
+      "carbohydrates": "5g",
+      "fat": "40g"
+    }
+  }

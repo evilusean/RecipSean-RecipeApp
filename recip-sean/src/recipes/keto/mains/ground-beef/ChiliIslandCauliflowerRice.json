@@ -1,0 +1,89 @@
+{
+    "id": "coney-island-chili-rice",
+    "name": "Coney Island Chili \"Rice\"",
+    "ingredients": [
+      "20 ounces fresh cauliflower, 1 medium",
+      "Butter",
+      "Salt and pepper",
+      "1 pound ground beef",
+      "8 ounces tomato sauce",
+      "2 tablespoons tomato paste",
+      "1 teaspoon mustard",
+      "2 tablespoons chili powder",
+      "1 teaspoon cumin",
+      "3/4 - 1 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "1/4 cup water",
+      "5 Kosher hot dogs, sliced, optional",
+      "4 ounces cheddar cheese"
+    ],
+    "utensils": [
+      "Food processor",
+      "2 1/2 quart casserole with lid",
+      "Large skillet",
+      "Microwave or oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Trim and chop cauliflower, then grate using food processor. Place in casserole with 2-4 tbsp water.",
+        "sk": "Očistite a nakrájajte karfiol, potom nastrúhajte pomocou kuchynského robota. Vložte do zapekacej misy s 2-4 lyžicami vody.",
+        "ja": "カリフラワーを手入れして刻み、フードプロセッサーで擦ります。キャセロール皿に入れ、大さじ2〜4の水を加えます。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 14,
+        "en": "Microwave cauliflower on HIGH for 8-14 minutes, stirring every 4-5 minutes until tender but not mushy.",
+        "sk": "Varte karfiol v mikrovlnke na VYSOKOM výkone 8-14 minút, miešajte každých 4-5 minút, kým nezmäkne, ale nie na kašu.",
+        "ja": "カリフラワーを高温で8〜14分電子レンジで加熱し、4〜5分ごとにかき混ぜ、柔らかくなるまで（ただしドロドロにならないように）調理します。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Add butter, salt, and pepper to cauliflower \"rice\". Keep warm.",
+        "sk": "Pridajte maslo, soľ a korenie do karfiolovej \"ryže\". Udržujte teplé.",
+        "ja": "カリフラワーの「ライス」にバター、塩、コショウを加えます。温かく保ちます。",
+        "primaryIngredient": "seasoned cauliflower rice"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef in a skillet; drain fat.",
+        "sk": "Opečte mleté mäso na panvici; zlejte tuk.",
+        "ja": "フライパンで挽肉を炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Add tomato sauce, paste, mustard, seasonings, water, and optional hot dogs to beef. Simmer 10-15 minutes.",
+        "sk": "Pridajte k mäsu paradajkovú omáčku, pretlak, horčicu, koreniny, vodu a voliteľne párky. Varte 10-15 minút.",
+        "ja": "挽肉にトマトソース、トマトペースト、マスタード、調味料、水、オプションのホットドッグを加えます。10〜15分煮込みます。",
+        "primaryIngredient": "chili mixture"
+      },
+      {
+        "time": 5,
+        "en": "Mix chili into cauliflower \"rice\" and stir in cheese.",
+        "sk": "Zmiešajte chili s karfiolovou \"ryžou\" a vmiešajte syr.",
+        "ja": "チリをカリフラワーの「ライス」に混ぜ、チーズを加えて混ぜます。",
+        "primaryIngredient": "combined dish"
+      },
+      {
+        "time": 20,
+        "en": "Bake uncovered at 350°F for 20 minutes or microwave covered on MEDIUM for 10 minutes until hot and bubbly.",
+        "sk": "Pečte nezakryté pri 175°C 20 minút alebo varte zakryté v mikrovlnke na STREDNOM výkone 10 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで20分間蓋をせずに焼くか、電子レンジの中火で10分間蓋をして加熱し、熱々になり泡立つまで調理します。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8 servings. Can be frozen. Faux Rice alone makes 6-10 servings and freezing is not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per Serving (with hot dogs)",
+      "calories": "270",
+      "protein": "17g",
+      "carbohydrates": "5g",
+      "fat": "21g"
+    }
+  }

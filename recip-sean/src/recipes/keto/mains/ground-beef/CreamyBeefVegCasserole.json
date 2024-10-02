@@ -1,0 +1,67 @@
+{
+    "id": "creamy-beef-vegetable-casserole",
+    "name": "Creamy Beef & Vegetable Casserole",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 small onion (about 2 ounces)",
+      "2 stalks celery, chopped",
+      "12 ounce package frozen California Style vegetable blend, cooked and drained",
+      "1/2 cup mayonnaise",
+      "Salt and pepper, to taste",
+      "Other seasonings, to taste",
+      "8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "2-quart casserole dish"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion and celery in a large skillet, seasoning with salt and pepper. Drain fat.",
+        "sk": "Opečte mleté mäso s cibuľou a zelerom na veľkej panvici, ochuťte soľou a korením. Zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、セロリを炒めて茶色くし、塩コショウで味付けします。脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Transfer meat mixture to a 2-quart casserole dish. Stir in cooked vegetables and mayonnaise.",
+        "sk": "Preložte mäsovú zmes do 2-litrovej zapekacej misy. Vmiešajte uvarené zeleninu a majonézu.",
+        "ja": "肉の混ぜ物を2クォートのキャセロール皿に移します。調理した野菜とマヨネーズを混ぜ合わせます。",
+        "primaryIngredient": "meat and vegetable mixture"
+      },
+      {
+        "time": 2,
+        "en": "Add additional seasonings to taste.",
+        "sk": "Pridajte ďalšie koreniny podľa chuti.",
+        "ja": "好みに応じて追加の調味料を加えます。",
+        "primaryIngredient": "seasonings"
+      },
+      {
+        "time": 3,
+        "en": "Stir in shredded cheddar cheese.",
+        "sk": "Vmiešajte nastrúhaný čedar.",
+        "ja": "シュレッドしたチェダーチーズを混ぜ込みます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for about 30 minutes until hot and bubbly.",
+        "sk": "Pečte pri 175°C asi 30 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで約30分間、熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "651",
+      "protein": "34g",
+      "carbohydrates": "8g",
+      "fat": "53g"
+    }
+  }

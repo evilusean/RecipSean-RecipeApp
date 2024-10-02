@@ -1,0 +1,59 @@
+{
+    "id": "korean-chicken",
+    "name": "Korean Chicken",
+    "ingredients": [
+      "5 bone-in chicken breasts, with skin",
+      "5 tablespoons soy sauce",
+      "1/4 cup granulated Splenda or equivalent liquid Splenda",
+      "1/4 teaspoon black pepper",
+      "4 green onions, chopped",
+      "1 tablespoon garlic, minced",
+      "1 tablespoon sesame oil",
+      "5 tablespoons water"
+    ],
+    "utensils": [
+      "Small bowl",
+      "Large ziploc bag",
+      "Pan",
+      "Grill or 9x13\" baking pan"
+    ],
+    "cookingTime": 60,
+    "prepTime": 240,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix all ingredients except the chicken in a small bowl.",
+        "primaryIngredient": "marinade"
+      },
+      {
+        "time": 5,
+        "en": "Place the chicken in a large ziploc bag and pour in the marinade.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 240,
+        "en": "Place in a pan (in case of leaks) and marinate 4 hours or overnight, turning the bag occasionally.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 5,
+        "en": "Drain the marinade and discard.",
+        "primaryIngredient": "chicken"
+      },
+      {
+        "time": 60,
+        "en": "Grill the chicken or bake in a greased 9x13\" baking pan at 350º for 45-60 minutes, or until done to your liking.",
+        "primaryIngredient": "chicken"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 5 servings. Can be frozen. Don't discard the drippings in the pan, they are good served over the meat.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "355",
+      "protein": "48g",
+      "carbohydrates": "4g",
+      "fat": "15g"
+    }
+  }

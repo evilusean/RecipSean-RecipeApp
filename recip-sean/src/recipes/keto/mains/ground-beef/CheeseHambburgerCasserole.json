@@ -1,0 +1,76 @@
+{
+    "id": "cheesy-hamburger-broccoli-casserole",
+    "name": "Cheesy Hamburger & Broccoli Casserole",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/4 cup onion, chopped, 1 1/4 ounces",
+      "4 ounce can mushrooms, drained",
+      "16 ounces frozen broccoli",
+      "Salt and pepper, to taste",
+      "8 ounces sharp cheddar cheese, shredded",
+      "1/2 cup heavy cream",
+      "1/2 cup mayonnaise"
+    ],
+    "utensils": [
+      "Medium skillet",
+      "2 1/2-3 quart casserole dish with lid",
+      "4-cup glass measure",
+      "Microwave"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, onion, and mushrooms in a skillet. Season with salt and pepper. Drain fat.",
+        "sk": "Opečte mleté mäso, cibuľu a huby na panvici. Ochuťte soľou a korením. Zlejte tuk.",
+        "ja": "フライパンで挽肉、玉ねぎ、マッシュルームを炒めます。塩コショウで味付けし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 8,
+        "en": "Microwave frozen broccoli in casserole dish with 2 tbsp water, covered, for 6-8 minutes until tender-crisp. Drain.",
+        "sk": "Mrazený brokolicu varte v zakrytej nádobe s 2 lyžicami vody v mikrovlnke 6-8 minút, kým nezmäkne. Sceďte.",
+        "ja": "キャセロール皿に冷凍ブロッコリーと大さじ2の水を入れ、蓋をして6〜8分電子レンジで加熱し、歯ごたえが残る程度に柔らかくします。水気を切ります。",
+        "primaryIngredient": "broccoli"
+      },
+      {
+        "time": 3,
+        "en": "Stir ground beef mixture into broccoli.",
+        "sk": "Vmiešajte mäsovú zmes do brokolice.",
+        "ja": "ブロッコリーに肉の混ぜ物を加えて混ぜます。",
+        "primaryIngredient": "beef and broccoli mixture"
+      },
+      {
+        "time": 5,
+        "en": "Microwave sauce ingredients in glass measure for about 2 1/2 minutes, stirring every minute, until melted and smooth.",
+        "sk": "Ingrediencie na omáčku varte v sklenenej nádobe v mikrovlnke asi 2 1/2 minúty, miešajte každú minútu, kým sa neroztopia a nevytvoria hladkú zmes.",
+        "ja": "ガラス計量カップにソースの材料を入れ、1分ごとにかき混ぜながら約2分半電子レンジで加熱し、滑らかになるまで溶かします。",
+        "primaryIngredient": "cheese sauce"
+      },
+      {
+        "time": 2,
+        "en": "Add sauce to broccoli mixture and mix well. Adjust seasoning.",
+        "sk": "Pridajte omáčku k brokolicovej zmesi a dobre premiešajte. Upravte chuť.",
+        "ja": "ソースをブロッコリーの混ぜ物に加えてよく混ぜます。味を調整します。",
+        "primaryIngredient": "combined casserole"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for 20 minutes until hot and bubbly.",
+        "sk": "Pečte pri 175°C 20 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで20分間、熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "760",
+      "protein": "37g",
+      "carbohydrates": "10g",
+      "fat": "65g"
+    }
+  }

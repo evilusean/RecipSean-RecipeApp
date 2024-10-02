@@ -1,0 +1,55 @@
+{
+    "id": "green-bean-and-hamburger-casserole",
+    "name": "Green Bean and Hamburger Casserole",
+    "ingredients": [
+      "1 pound ground beef",
+      "2 14-ounce cans French cut green beans, well-drained",
+      "4 ounce can mushrooms, drained",
+      "1 small onion, diced, 2 1/2 ounces",
+      "2 stalks celery, diced",
+      "1/4 cup mayonnaise",
+      "8 ounces cheddar cheese, shredded",
+      "1/2 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/8 teaspoon garlic powder"
+    ],
+    "utensils": [
+      "Large skillet",
+      "2 to 2 1/2 quart casserole dish"
+    ],
+    "cookingTime": 50,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, onion, celery, and mushrooms in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso, cibuľu, zeler a huby na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、セロリ、マッシュルームを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Mix all ingredients in a greased 2 to 2 1/2 quart casserole dish.",
+        "sk": "Zmiešajte všetky prísady vo vymastenej 2 až 2,5 litrovej zapekacej miske.",
+        "ja": "グリースを塗った2〜2.5クォートのキャセロール皿に全ての材料を混ぜ合わせます。",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 40,
+        "en": "Bake uncovered at 350°F for 40 minutes until hot and bubbly.",
+        "sk": "Pečte nezakryté pri 175°C 40 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで40分間、熱々になり泡立つまで蓋をせずに焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "375",
+      "protein": "23g",
+      "carbohydrates": "7g",
+      "fat": "28g"
+    }
+  }

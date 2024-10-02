@@ -1,0 +1,72 @@
+{
+    "id": "lasagna-stuffed-peppers",
+    "name": "Lasagna Stuffed Peppers",
+    "ingredients": [
+      "4 large green peppers, halved lengthwise and seeded",
+      "1 pound ground beef",
+      "1 clove garlic, minced",
+      "Salt and pepper, to taste",
+      "1/4 teaspoon garlic powder, divided",
+      "1/2 pound mushrooms, sliced",
+      "1 cup spaghetti sauce",
+      "15 ounces whole milk ricotta cheese",
+      "2 tablespoons parmesan cheese",
+      "1 egg",
+      "6 ounces mozzarella cheese, shredded",
+      "1/4 cup parmesan cheese"
+    ],
+    "utensils": [
+      "Large baking pan (at least 9x13 inches)",
+      "Large skillet",
+      "Small bowl"
+    ],
+    "cookingTime": 55,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Place halved peppers in a large baking pan and sprinkle inside with salt.",
+        "sk": "Vložte polovice paprík do veľkej zapekacej formy a posoľte ich vnútro.",
+        "ja": "大きな焼き皿にピーマンの半分を置き、内側に塩をふります。",
+        "primaryIngredient": "green peppers"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef, garlic, mushrooms, and half the garlic powder; drain fat. Stir in spaghetti sauce and adjust seasonings.",
+        "sk": "Opečte mleté mäso, cesnak, huby a polovicu cesnakového prášku; zlejte tuk. Vmiešajte špagety omáčku a upravte ochutenie.",
+        "ja": "挽肉、ニンニク、マッシュルーム、ガーリックパウダーの半分を炒めて茶色くし、脂を切ります。スパゲッティソースを加えて混ぜ、味を調整します。",
+        "primaryIngredient": "meat sauce"
+      },
+      {
+        "time": 5,
+        "en": "Mix ricotta, egg, 2 tbsp parmesan, salt, pepper, and remaining garlic powder in a small bowl.",
+        "sk": "V malej miske zmiešajte ricottu, vajce, 2 lyžice parmezánu, soľ, korenie a zvyšok cesnakového prášku.",
+        "ja": "小さなボウルでリコッタ、卵、パルメザン2大さじ、塩、コショウ、残りのガーリックパウダーを混ぜます。",
+        "primaryIngredient": "ricotta mixture"
+      },
+      {
+        "time": 10,
+        "en": "Divide ricotta mixture among pepper halves. Top with meat sauce, mozzarella, and 1/4 cup parmesan.",
+        "sk": "Rozdeľte ricottovú zmes medzi polovice paprík. Navrch dajte mäsovú omáčku, mozzarellu a 1/4 šálky parmezánu.",
+        "ja": "リコッタの混ぜ物をピーマンの半分に分けて入れます。肉ソース、モッツァレラ、パルメザン1/4カップをのせます。",
+        "primaryIngredient": "assembled peppers"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F for 45 minutes or until cheese is melted and browned.",
+        "sk": "Pečte pri 175°C 45 minút alebo kým sa syr neroztopí a nezhnedne.",
+        "ja": "350°F（175°C）のオーブンで45分間、またはチーズが溶けて茶色くなるまで焼きます。",
+        "primaryIngredient": "baked stuffed peppers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "327",
+      "protein": "24g",
+      "carbohydrates": "9g",
+      "fat": "21g"
+    }
+  }

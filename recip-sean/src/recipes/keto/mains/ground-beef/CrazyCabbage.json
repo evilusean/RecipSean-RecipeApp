@@ -1,0 +1,66 @@
+{
+    "id": "moms-crazy-cabbage",
+    "name": "Mom's Crazy Cabbage",
+    "ingredients": [
+      "1 1/2 pounds ground beef",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "1 small cabbage, coarsely chopped, about 1 pound 13 ounces before trimming",
+      "14.5 ounce can diced tomatoes, undrained",
+      "3 strips bacon",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "9x13 inch baking dish",
+      "Aluminum foil"
+    ],
+    "cookingTime": 180,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and onion in a large skillet; drain grease and season with salt and pepper.",
+        "sk": "Opečte mleté mäso a cibuľu na veľkej panvici; zlejte mastnotu a ochuťte soľou a korením.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、脂を切り、塩コショウで味付けします。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 10,
+        "en": "Layer half the chopped cabbage in a greased 9x13 inch baking dish. Season with salt and pepper.",
+        "sk": "Rozložte polovicu nasekanej kapusty do vymastenej 23x33 cm zapekacej formy. Ochuťte soľou a korením.",
+        "ja": "グリースを塗った9x13インチの焼き皿に刻んだキャベツの半分を敷きます。塩コショウで味付けします。",
+        "primaryIngredient": "cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Top cabbage with meat mixture, then remaining cabbage. Season again.",
+        "sk": "Na kapustu položte mäsovú zmes, potom zvyšnú kapustu. Znovu ochuťte.",
+        "ja": "キャベツの上に肉の混ぜ物をのせ、さらに残りのキャベツをのせます。再度味付けします。",
+        "primaryIngredient": "layered ingredients"
+      },
+      {
+        "time": 5,
+        "en": "Pour diced tomatoes evenly over cabbage and lay bacon strips on top. Cover with foil.",
+        "sk": "Rovnomerne nalejte kocky paradajok na kapustu a položte na vrch plátky slaniny. Prikryte fóliou.",
+        "ja": "キャベツの上にダイストマトを均等にかけ、ベーコンを並べます。アルミホイルで覆います。",
+        "primaryIngredient": "tomatoes and bacon"
+      },
+      {
+        "time": 180,
+        "en": "Bake at 325°F for 3 hours. Discard bacon before serving.",
+        "sk": "Pečte pri 165°C 3 hodiny. Pred podávaním odstráňte slaninu.",
+        "ja": "325°F（165°C）のオーブンで3時間焼きます。提供前にベーコンを取り除きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen. Use a small cabbage (about 1.5 pounds after trimming) to ensure it fits in the baking dish.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "259",
+      "protein": "22g",
+      "carbohydrates": "10g",
+      "fat": "15g"
+    }
+  }

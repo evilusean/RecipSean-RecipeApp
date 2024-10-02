@@ -1,0 +1,77 @@
+{
+    "id": "hamburger-gravy-and-mashed-potatoes",
+    "name": "Hamburger Gravy and Mashed \"Potatoes\"",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 stalk celery, finely chopped",
+      "2 tablespoon onion, chopped",
+      "3 ounces mushrooms, minced, about 8 small",
+      "1/2 cup chicken broth",
+      "3/4 cup heavy cream",
+      "Salt and pepper, to taste",
+      "1 1/2 bags frozen cauliflower, 24 ounces",
+      "1/2-1 teaspoon xanthan gum, optional",
+      "Butter for mashed cauliflower"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Pot for cooking cauliflower",
+      "Masher"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 8,
+        "en": "Brown ground beef, celery, and onion in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso, zeler a cibuľu na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、セロリ、玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add minced mushrooms, salt, and pepper. Cook until mushrooms are tender.",
+        "sk": "Pridajte nasekané huby, soľ a korenie. Varte, kým huby nezmäknú.",
+        "ja": "みじん切りのマッシュルーム、塩、コショウを加えます。マッシュルームが柔らかくなるまで調理します。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 10,
+        "en": "Add broth and cream; bring to a boil. Simmer until liquid reduces by half and thickens. Season to taste.",
+        "sk": "Pridajte vývar a smotanu; priveďte do varu. Varte, kým sa tekutina nezredukuje na polovicu a nezhustne. Ochuťte podľa chuti.",
+        "ja": "スープとクリームを加えて沸騰させます。液体が半分になり濃くなるまで煮込みます。味を調えます。",
+        "primaryIngredient": "gravy"
+      },
+      {
+        "time": 8,
+        "en": "Cook cauliflower until very tender, about 8 minutes; drain well.",
+        "sk": "Varte karfiol do veľmi mäkka, asi 8 minút; dobre sceďte.",
+        "ja": "カリフラワーを約8分間、非常に柔らかくなるまで茹でます。よく水気を切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 2,
+        "en": "Mash cauliflower, add butter, and season to taste.",
+        "sk": "Roztlačte karfiol, pridajte maslo a ochuťte podľa chuti.",
+        "ja": "カリフラワーをマッシュし、バターを加え、味を調えます。",
+        "primaryIngredient": "mashed cauliflower"
+      },
+      {
+        "time": 1,
+        "en": "Serve meat sauce over mashed cauliflower or mix together.",
+        "sk": "Podávajte mäsovú omáčku na roztlačenom karfiole alebo zmiešajte dohromady.",
+        "ja": "マッシュしたカリフラワーの上に肉ソースをかけるか、全体を混ぜ合わせて提供します。",
+        "primaryIngredient": "assembled dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 5 servings. Optional: Use xanthan gum to thicken gravy instead of reducing. Add 1/2 teaspoon at a time, stir quickly, and simmer to thicken.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "321",
+      "protein": "19g",
+      "carbohydrates": "9g",
+      "fat": "24g"
+    }
+  }

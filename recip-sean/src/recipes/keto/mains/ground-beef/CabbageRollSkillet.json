@@ -1,0 +1,53 @@
+{
+    "id": "cabbage-roll-skillet",
+    "name": "Cabbage Roll Skillet",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 medium onion (6 ounces before trimming)",
+      "1 clove garlic, minced",
+      "1 small-medium cabbage, chopped (2 pounds cabbage before trimming)",
+      "28 ounce can crushed tomatoes",
+      "1 teaspoon salt, or to taste",
+      "1 teaspoon pepper, or to taste",
+      "2 tablespoons vinegar",
+      "2 tablespoons granular Splenda or equivalent liquid Splenda"
+    ],
+    "utensils": [
+      "Very large skillet, wok, or Dutch oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion and garlic in a very large skillet, wok, or Dutch oven. Drain fat if desired.",
+        "sk": "Na veľmi veľkej panvici, woku alebo liatinovom hrnci opečte mleté mäso s cibuľou a cesnakom. Podľa potreby zlejte tuk.",
+        "ja": "大きなフライパン、中華鍋、またはダッチオーブンで挽肉、玉ねぎ、ニンニクを炒めます。必要に応じて脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Stir in remaining ingredients: cabbage, crushed tomatoes, salt, pepper, vinegar, and Splenda.",
+        "sk": "Vmiešajte zvyšné prísady: kapustu, pretlačené paradajky, soľ, korenie, ocot a Splendu.",
+        "ja": "残りの材料（キャベツ、クラッシュトマト、塩、コショウ、酢、スプレンダ）を加えて混ぜます。",
+        "primaryIngredient": "cabbage and tomatoes"
+      },
+      {
+        "time": 40,
+        "en": "Cover and simmer for 30-40 minutes or until cabbage is tender.",
+        "sk": "Prikryte a varte na miernom ohni 30-40 minút alebo kým kapusta nezmäkne.",
+        "ja": "蓋をして30〜40分、またはキャベツが柔らかくなるまで煮込みます。",
+        "primaryIngredient": "cabbage mixture"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. The original recipe called for diced tomatoes and tomato sauce, but using crushed tomatoes reduces carbs. Water was omitted to further reduce carbs.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "338",
+      "protein": "28g",
+      "carbohydrates": "18g",
+      "fat": "18g"
+    }
+  }

@@ -1,0 +1,60 @@
+{
+    "id": "bacon-cheeseburger-skillet",
+    "name": "Bacon Cheeseburger Skillet",
+    "ingredients": [
+      "2 pounds ground beef",
+      "6 slices bacon, coarsely chopped",
+      "1/4 cup low carb ketchup",
+      "1 teaspoon yellow mustard",
+      "1/4 cup dill pickles, chopped",
+      "Salt and pepper, to taste",
+      "4 ounces cheddar cheese, cubed",
+      "1 small onion, coarsely chopped (2 1/2 ounces)",
+      "1 medium tomato, coarsely chopped"
+    ],
+    "utensils": [
+      "Large skillet or wok"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and bacon in a large skillet or wok; drain grease.",
+        "sk": "Na veľkej panvici alebo vo woku opečte mleté mäso a slaninu; zlejte mastnotu.",
+        "ja": "大きなフライパンまたはワックで挽肉とベーコンを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and bacon"
+      },
+      {
+        "time": 5,
+        "en": "Stir in ketchup, mustard, pickles, salt, and pepper.",
+        "sk": "Vmiešajte kečup, horčicu, nakladané uhorky, soľ a korenie.",
+        "ja": "ケチャップ、マスタード、ピクルス、塩、コショウを加えて混ぜます。",
+        "primaryIngredient": "condiments"
+      },
+      {
+        "time": 3,
+        "en": "Add cheese cubes and heat until cheese starts to melt but isn't fully incorporated.",
+        "sk": "Pridajte kocky syra a zahrejte, kým sa syr nezačne topiť, ale nie je úplne zapracovaný.",
+        "ja": "チーズキューブを加え、チーズが溶け始めるまで加熱しますが、完全に混ざらないようにします。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Just before serving, stir in onion and tomato.",
+        "sk": "Tesne pred podávaním vmiešajte cibuľu a paradajku.",
+        "ja": "提供直前に玉ねぎとトマトを加えて混ぜます。",
+        "primaryIngredient": "onion and tomato"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. For crispier bacon, brown it separately before adding beef. You can use 1/4 cup dill pickle relish instead of chopped pickles. Consider adding extra condiments for stronger flavors. The fresh onion and tomato add a nice pop of flavor.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "389",
+      "protein": "32g",
+      "carbohydrates": "3g",
+      "fat": "27g"
+    }
+  }

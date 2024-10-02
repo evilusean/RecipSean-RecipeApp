@@ -1,0 +1,73 @@
+{
+    "id": "bacon-beef-rolls",
+    "name": "Bacon Beef Rolls",
+    "ingredients": [
+      "2 eggs, beaten",
+      "1/4 cup low carb ketchup",
+      "2 tablespoons Worcestershire sauce",
+      "4 ounces cheddar cheese, shredded",
+      "1/4 cup onion, chopped fine",
+      "2 tablespoons parmesan cheese",
+      "1 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "2 pounds ground beef",
+      "12 strips bacon"
+    ],
+    "utensils": [
+      "Large bowl",
+      "9x13 inch baking pan",
+      "Heavy foil",
+      "Wax paper",
+      "Wide spatula",
+      "Meat thermometer"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Combine all ingredients except bacon in a large bowl. Mix well and shape into two 6-inch long logs.",
+        "sk": "V veľkej miske zmiešajte všetky prísady okrem slaniny. Dobre premiešajte a vytvarujte dva 15 cm dlhé valčeky.",
+        "ja": "ベーコン以外の全ての材料を大きなボウルで混ぜ合わせます。よく混ぜて、15cmの長さの丸太形に2つ成形します。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 10,
+        "en": "On wax paper, lay 6 bacon strips side by side. Place one beef log crosswise at one end and roll up. Carefully transfer to foil-lined baking pan.",
+        "sk": "Na voskovaný papier položte 6 plátkov slaniny vedľa seba. Na jeden koniec položte jeden hovädzí valček a zarolujte. Opatrne preneste do pekáča vyloženého fóliou.",
+        "ja": "ワックスペーパーの上にベーコン6枚を並べます。一端に牛肉の丸太を横向きに置いて巻きます。慎重にホイル敷きの焼き皿に移します。",
+        "primaryIngredient": "bacon and beef log"
+      },
+      {
+        "time": 5,
+        "en": "Repeat with remaining bacon and beef log.",
+        "sk": "Zopakujte so zvyšnou slaninou a hovädzím valčekom.",
+        "ja": "残りのベーコンと牛肉の丸太で同じ作業を繰り返します。",
+        "primaryIngredient": "bacon and beef log"
+      },
+      {
+        "time": 50,
+        "en": "Bake at 375°F for 45-50 minutes or until center reaches 160°F.",
+        "sk": "Pečte pri 190°C 45-50 minút alebo kým stred nedosiahne 71°C.",
+        "ja": "375°F（190°C）のオーブンで45〜50分、または中心温度が160°F（71°C）になるまで焼きます。",
+        "primaryIngredient": "beef rolls"
+      },
+      {
+        "time": 2,
+        "en": "If needed, broil for 1-2 minutes to brown bacon on top.",
+        "sk": "V prípade potreby grilujte 1-2 minúty, aby sa slanina na vrchu opiekla.",
+        "ja": "必要に応じて、上部のベーコンを茶色くするために1〜2分間グリルします。",
+        "primaryIngredient": "bacon-wrapped beef rolls"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Use a wide spatula to carefully transfer the rolls to avoid breaking.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "345",
+      "protein": "28g",
+      "carbohydrates": "2g",
+      "fat": "24g"
+    }
+  }

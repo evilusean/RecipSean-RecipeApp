@@ -1,0 +1,61 @@
+{
+    "id": "mexican-spinach-hamburger-casserole",
+    "name": "Mexican Spinach & Hamburger Casserole",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/2 medium onion, chopped, 2 ounces",
+      "10 ounce package frozen chopped spinach, thawed and well-drained",
+      "8 ounce cream cheese, softened",
+      "1/3 cup sour cream",
+      "2 teaspoons Seasoning for Tacos",
+      "10 ounce can Ro-tel tomatoes, drained (diced tomatoes with green chiles)",
+      "1/4 cup canned sliced pickled jalapeños",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "2 1/2-quart casserole dish"
+    ],
+    "cookingTime": 50,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and onion in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso a cibuľu na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Transfer meat mixture to a greased 2 1/2-quart casserole dish.",
+        "sk": "Preložte mäsovú zmes do vymastenej 2,5 litrovej zapekacej misy.",
+        "ja": "グリースを塗った2.5クォートのキャセロール皿に肉の混ぜ物を移します。",
+        "primaryIngredient": "cooked meat mixture"
+      },
+      {
+        "time": 10,
+        "en": "Add all remaining ingredients to the casserole dish and mix well.",
+        "sk": "Pridajte všetky zvyšné prísady do zapekacej misy a dobre premiešajte.",
+        "ja": "残りの材料を全てキャセロール皿に加え、よく混ぜ合わせます。",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F for about 40 minutes or until bubbly and browned on top.",
+        "sk": "Pečte pri 175°C asi 40 minút alebo kým nebude bublajúce a zhnednuté na povrchu.",
+        "ja": "350°F（175°C）のオーブンで約40分間、または表面が泡立ち茶色くなるまで焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "315",
+      "protein": "17g",
+      "carbohydrates": "6g",
+      "fat": "25g"
+    }
+  }

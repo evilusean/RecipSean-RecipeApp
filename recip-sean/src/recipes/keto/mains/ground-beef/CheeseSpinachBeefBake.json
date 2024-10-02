@@ -1,0 +1,54 @@
+{
+    "id": "cheesy-spinach-beef-bake",
+    "name": "Cheesy Spinach Beef Bake",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1/2 cup onion, chopped",
+      "2 eggs, beaten",
+      "10 ounce package frozen chopped spinach, thawed and drained well",
+      "4 ounce can mushrooms, drained",
+      "8 ounces cheddar cheese, shredded",
+      "1/2 teaspoon garlic powder",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "2-quart casserole dish",
+      "Mixing bowl"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and onion in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso a cibuľu na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Mix all ingredients in a greased 2-quart casserole dish.",
+        "sk": "Zmiešajte všetky prísady vo vymastenej 2-litrovej zapekacej miske.",
+        "ja": "グリースを塗った2クォートのキャセロール皿に全ての材料を混ぜ合わせます。",
+        "primaryIngredient": "all ingredients"
+      },
+      {
+        "time": 30,
+        "en": "Bake uncovered at 375°F for 25-30 minutes until hot and bubbly.",
+        "sk": "Pečte nezakryté pri 190°C 25-30 minút, kým nebude horúce a bublajúce.",
+        "ja": "375°F（190°C）のオーブンで25〜30分間、熱々になり泡立つまで蓋をせずに焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "455",
+      "protein": "38g",
+      "carbohydrates": "5g",
+      "fat": "31g"
+    }
+  }

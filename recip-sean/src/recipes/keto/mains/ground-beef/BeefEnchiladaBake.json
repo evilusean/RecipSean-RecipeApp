@@ -1,0 +1,62 @@
+{
+    "id": "enchilada-bake",
+    "name": "Enchilada Bake",
+    "ingredients": [
+      "4 ounces cream cheese, softened",
+      "2 eggs",
+      "1/2 teaspoon Taco Seasoning",
+      "16 ounces cheddar cheese, shredded (divided)",
+      "1 pound ground beef",
+      "1 tablespoon Taco Seasoning",
+      "8 1/2 ounce jar enchilada sauce",
+      "4 ounce can chopped green chiles"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Wooden spoon",
+      "9 x 13 inch baking dish",
+      "Skillet"
+    ],
+    "cookingTime": 60,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix cream cheese, eggs, 1/2 tsp Taco Seasoning, and 8 oz cheddar cheese in a large bowl until smooth.",
+        "sk": "V veľkej miske zmiešajte krémový syr, vajcia, 1/2 lyžičky Taco korenia a 8 uncí nastrúhaného čedaru, kým nevznikne hladká zmes.",
+        "ja": "大きなボウルでクリームチーズ、卵、タコシーズニング小さじ1/2、チェダーチーズ8オンスを滑らかになるまで混ぜます。",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 35,
+        "en": "Spread cheese mixture in greased 9x13 inch baking dish. Bake at 350°F for 35 minutes until browned. Let stand 5-10 minutes.",
+        "sk": "Rozotrite syrovú zmes do vymastenej 23x33 cm zapekacej misy. Pečte pri 175°C 35 minút do zhnednutia. Nechajte odstáť 5-10 minút.",
+        "ja": "グリースを塗った9x13インチの焼き皿にチーズの混ぜ物を広げます。350°F（175°C）で35分間、茶色くなるまで焼きます。5〜10分置きます。",
+        "primaryIngredient": "cheese crust"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef in a skillet; drain fat. Stir in 1 tbsp Taco Seasoning, enchilada sauce, and green chiles.",
+        "sk": "Opečte mleté mäso na panvici; zlejte tuk. Vmiešajte 1 lyžicu Taco korenia, enchilada omáčku a zelené čili.",
+        "ja": "フライパンで挽肉を炒めて茶色くし、脂を切ります。タコシーズニング大さじ1、エンチラーダソース、青唐辛子を加えて混ぜます。",
+        "primaryIngredient": "beef mixture"
+      },
+      {
+        "time": 20,
+        "en": "Spread beef mixture over crust, top with remaining cheese. Bake for 20 minutes until hot and bubbly.",
+        "sk": "Rozložte mäsovú zmes na kôrku, posypte zvyšným syrom. Pečte 20 minút, kým nebude horúce a bublajúce.",
+        "ja": "チーズクラストの上に肉の混ぜ物を広げ、残りのチーズをのせます。20分間、熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen. Optional toppings (not included in nutritional info): Shredded lettuce, Sour cream, Salsa, Ripe olives, Pickled jalapeno slices, Guacamole",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "411",
+      "protein": "27g",
+      "carbohydrates": "5g",
+      "fat": "31g"
+    }
+  }

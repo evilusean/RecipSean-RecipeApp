@@ -1,0 +1,77 @@
+{
+    "id": "dotties-burger-scramble-florentine",
+    "name": "Dottie's Burger Scramble Florentine",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 1/2 ounces onion, chopped (about 1/2 a small onion)",
+      "2 cloves garlic, minced (optional)",
+      "10 ounce package frozen chopped spinach, thawed and well-drained",
+      "8 ounces cream cheese, softened and cubed",
+      "1/2 cup parmesan cheese (2 ounces)",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon garlic powder (optional)",
+      "1 1/2 teaspoons salt",
+      "1/2 teaspoon pepper"
+    ],
+    "utensils": [
+      "2-quart casserole dish",
+      "Large pot or Dutch oven",
+      "Non-stick spray"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Spray a 2-quart casserole dish with non-stick spray.",
+        "sk": "Postriekajte 2-litrovú zapekaciu misu sprejom proti prilepeniu.",
+        "ja": "2クォートのキャセロール皿にノンスティックスプレーを吹きかけます。",
+        "primaryIngredient": "non-stick spray"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef and onion (and optional garlic) in a large pot; drain fat.",
+        "sk": "Opečte mleté mäso a cibuľu (a voliteľne cesnak) vo veľkom hrnci; zlejte tuk.",
+        "ja": "大きな鍋で挽肉と玉ねぎ（オプションでニンニク）を炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Stir in spinach, salt, pepper, and optional garlic powder until well combined.",
+        "sk": "Vmiešajte špenát, soľ, korenie a voliteľne cesnakový prášok, kým sa dobre nespoja.",
+        "ja": "ほうれん草、塩、コショウ、オプションのニンニクパウダーを加えてよく混ぜ合わせます。",
+        "primaryIngredient": "spinach and seasonings"
+      },
+      {
+        "time": 5,
+        "en": "Add cubed cream cheese, stirring and mashing until blended with the meat mixture.",
+        "sk": "Pridajte nakrájaný krémový syr, miešajte a roztlačte, kým sa nespojí s mäsovou zmesou.",
+        "ja": "角切りのクリームチーズを加え、肉の混ぜ物とよく混ざるまで混ぜてつぶします。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 3,
+        "en": "Stir in parmesan cheese and heavy cream; mix well.",
+        "sk": "Vmiešajte parmezán a smotanu na šľahanie; dobre premiešajte.",
+        "ja": "パルメザンチーズと生クリームを加えてよく混ぜます。",
+        "primaryIngredient": "parmesan and cream"
+      },
+      {
+        "time": 35,
+        "en": "Pour into casserole dish. Bake uncovered at 350°F for 30-35 minutes, until bubbly and browned.",
+        "sk": "Nalejte do zapekacej misy. Pečte nezakryté pri 175°C 30-35 minút, kým nebude bublajúce a zhnednuté.",
+        "ja": "キャセロール皿に注ぎます。350°F（175°C）のオーブンで30〜35分間、泡立ち茶色くなるまで蓋をせずに焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. Optional garlic and garlic powder not included in nutritional counts.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "514",
+      "protein": "33g",
+      "carbohydrates": "4g",
+      "fat": "40g"
+    }
+  }

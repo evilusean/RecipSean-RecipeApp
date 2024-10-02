@@ -1,0 +1,62 @@
+{
+    "id": "creamy-hamburger-and-rice-skillet",
+    "name": "Creamy Hamburger and \"Rice\" Skillet",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 stalk celery, chopped fine",
+      "2 tablespoon onion, chopped fine",
+      "1/2 pound fresh mushrooms, divided (slice half and finely mince half)",
+      "1 pound cauliflower, grated, about 1/2 medium, weighed after trimming",
+      "1 cup beef or chicken broth",
+      "3/4 cup heavy cream",
+      "Salt and pepper, to taste",
+      "1 tablespoon fresh parsley, chopped, optional",
+      "Xanthan gum, optional"
+    ],
+    "utensils": [
+      "Large, deep skillet",
+      "Grater"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, celery, onion, and sliced mushrooms in a large skillet. Drain fat well.",
+        "sk": "Opečte mleté mäso, zeler, cibuľu a nakrájané huby na veľkej panvici. Dobre zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、セロリ、玉ねぎ、スライスしたマッシュルームを炒めて茶色くします。脂をよく切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add minced mushrooms, grated cauliflower, and broth. Bring to boil, then simmer covered for 5 minutes.",
+        "sk": "Pridajte nasekané huby, nastrúhaný karfiol a vývar. Priveďte do varu, potom varte prikryté 5 minút.",
+        "ja": "みじん切りのマッシュルーム、すりおろしたカリフラワー、スープを加えます。沸騰させてから蓋をして5分煮込みます。",
+        "primaryIngredient": "cauliflower and mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Uncover, add cream, and boil on high heat until sauce thickens, about 5 minutes, stirring often.",
+        "sk": "Odkryte, pridajte smotanu a varte na vysokom ohni, kým sa omáčka nezahustí, asi 5 minút, často miešajte.",
+        "ja": "蓋を取り、クリームを加え、高温で約5分間、ソースが濃くなるまで頻繁に混ぜながら煮込みます。",
+        "primaryIngredient": "cream sauce"
+      },
+      {
+        "time": 2,
+        "en": "Season to taste, add parsley. Optionally dust with xanthan gum and stir. Let stand to thicken.",
+        "sk": "Ochuťte podľa chuti, pridajte petržlen. Voliteľne posypte xantánovou gumou a zamiešajte. Nechajte postáť, aby zhustlo.",
+        "ja": "味を調え、パセリを加えます。必要に応じてキサンタンガムを振りかけて混ぜます。少し置いて濃くなるまで待ちます。",
+        "primaryIngredient": "seasonings"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Cauliflower is used as a low-carb rice substitute.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "268",
+      "protein": "16g",
+      "carbohydrates": "7g",
+      "fat": "20g"
+    }
+  }

@@ -1,0 +1,83 @@
+{
+    "id": "italian-casserole",
+    "name": "Italian Casserole",
+    "ingredients": [
+      "1 pound ground beef",
+      "1/2 pound Italian sausage",
+      "1 clove garlic, minced",
+      "2 tablespoons onion, chopped",
+      "1/2 pound fresh mushrooms, sliced",
+      "8 ounce can tomato sauce",
+      "Salt, to taste",
+      "1/8 teaspoon pepper",
+      "1/4 teaspoon Italian seasoning, or to taste",
+      "8 ounces mozzarella cheese, shredded, divided",
+      "1/2 cup sour cream",
+      "1/2 cup mayonnaise",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon pepper",
+      "1/2 cup freshly shredded parmesan cheese"
+    ],
+    "utensils": [
+      "Large skillet",
+      "7x11 inch baking dish",
+      "Mixing bowl",
+      "Spatula"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, Italian sausage, garlic, onions, and mushrooms in a large skillet. Season with salt and pepper. Drain fat.",
+        "sk": "Opečte mleté mäso, taliansku klobásu, cesnak, cibuľu a huby na veľkej panvici. Ochuťte soľou a korením. Zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、イタリアンソーセージ、ニンニク、玉ねぎ、マッシュルームを炒めて茶色くします。塩コショウで味付けし、脂を切ります。",
+        "primaryIngredient": "meat and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Stir in tomato sauce, Italian seasoning, and 4 oz mozzarella cheese. Adjust seasoning if needed.",
+        "sk": "Vmiešajte paradajkovú omáčku, talianske korenie a 4 unce mozzarelly. V prípade potreby upravte ochutenie.",
+        "ja": "トマトソース、イタリアンシーズニング、モッツァレラチーズ4オンスを加えて混ぜます。必要に応じて味を調整します。",
+        "primaryIngredient": "sauce and cheese"
+      },
+      {
+        "time": 5,
+        "en": "Transfer mixture to a greased 7x11 inch baking dish.",
+        "sk": "Preložte zmes do vymastenej zapekacej misy 18x28 cm.",
+        "ja": "グリースを塗った7x11インチの焼き皿に混ぜ物を移します。",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 5,
+        "en": "In a bowl, combine sour cream, mayonnaise, garlic powder, pepper, parmesan, and remaining mozzarella for topping.",
+        "sk": "V miske zmiešajte kyslú smotanu, majonézu, cesnakový prášok, korenie, parmezán a zvyšnú mozzarellu na polevu.",
+        "ja": "ボウルにサワークリーム、マヨネーズ、ニンニクパウダー、コショウ、パルメザン、残りのモッツァレラを入れて混ぜ、トッピングを作ります。",
+        "primaryIngredient": "topping mixture"
+      },
+      {
+        "time": 2,
+        "en": "Spread topping evenly over meat mixture with a spatula.",
+        "sk": "Rovnomerne rozotrite polevu na mäsovú zmes pomocou stierky.",
+        "ja": "へらを使って肉の混ぜ物の上にトッピングを均等に広げます。",
+        "primaryIngredient": "assembled casserole"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F for about 40 minutes until topping is nicely browned.",
+        "sk": "Pečte pri 175°C asi 40 minút, kým poleva pekne nezhnedne.",
+        "ja": "350°F（175°C）のオーブンで約40分間、トッピングがきれいに茶色くなるまで焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Canned parmesan cheese can be used as a cost-effective alternative to freshly shredded parmesan.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "463",
+      "protein": "24g",
+      "carbohydrates": "5g",
+      "fat": "38g"
+    }
+  }

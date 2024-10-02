@@ -1,0 +1,61 @@
+{
+    "id": "baked-meatballs",
+    "name": "Baked Meatballs",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 pound bulk Italian sausage",
+      "2 teaspoons dry minced onion",
+      "1/2 teaspoon garlic powder",
+      "1/2 cup parmesan cheese, 2 ounces (canned variety)",
+      "2 eggs",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Large baking sheet with sides",
+      "Colander"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix all ingredients in a large bowl using your fingers until meat no longer feels slimy from eggs.",
+        "sk": "Zmiešajte všetky prísady vo veľkej miske prstami, kým mäso prestane byť slizké od vajec.",
+        "ja": "大きなボウルに全ての材料を入れ、卵のぬめりがなくなるまで指でよく混ぜます。",
+        "primaryIngredient": "ground meats and seasonings"
+      },
+      {
+        "time": 5,
+        "en": "Shape into golf ball sized meatballs and place on a large baking sheet with sides.",
+        "sk": "Vytvarujte guľky veľkosti golfovej loptičky a položte ich na veľký plech s okrajmi.",
+        "ja": "ゴルフボールサイズの肉団子を作り、縁のある大きなベーキングシートに並べます。",
+        "primaryIngredient": "meatball mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 375°F for 15-20 minutes until meatballs are cooked through.",
+        "sk": "Pečte pri 190°C 15-20 minút, kým nie sú mäsové guľky prepečené.",
+        "ja": "375°F（190°C）のオーブンで15〜20分、肉団子に火が通るまで焼きます。",
+        "primaryIngredient": "meatballs"
+      },
+      {
+        "time": 2,
+        "en": "Rinse meatballs in a colander to remove any leaked egg and cheese.",
+        "sk": "Opláchnite mäsové guľky v cedidle, aby ste odstránili vytečené vajce a syr.",
+        "ja": "ザルで肉団子をすすぎ、漏れ出た卵やチーズを取り除きます。",
+        "primaryIngredient": "cooked meatballs"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 20-30 meatballs. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per meatball",
+      "calories": "92",
+      "protein": "6g",
+      "carbohydrates": "trace",
+      "fat": "7g"
+    }
+  }

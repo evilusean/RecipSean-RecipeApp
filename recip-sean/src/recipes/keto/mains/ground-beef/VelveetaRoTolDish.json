@@ -1,0 +1,50 @@
+{
+    "id": "like-velveeta-ro-tel-main-dish",
+    "name": "Like Velveeta Ro-Tel Main Dish",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "10 ounce can Ro-tel tomatoes (tomatoes with green chilies)",
+      "16 ounces cabbage, finely shredded, about 1/2 a medium cabbage",
+      "8 ounces Deluxe American cheese, diced (not cheese food)"
+    ],
+    "utensils": [
+      "Large skillet"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with salt and pepper in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso so soľou a korením na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉を塩コショウで味付けしながら炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 15,
+        "en": "Add undrained Ro-tel tomatoes and shredded cabbage. Simmer uncovered for about 15 minutes or until cabbage is tender, stirring occasionally.",
+        "sk": "Pridajte neodcedené paradajky Ro-tel a nastrúhanú kapustu. Varte nezakryté asi 15 minút alebo kým kapusta nezmäkne, občas premiešajte.",
+        "ja": "水気を切らないRo-telトマトと千切りキャベツを加えます。蓋をせずに約15分間、またはキャベツが柔らかくなるまで時々かき混ぜながら煮込みます。",
+        "primaryIngredient": "tomatoes and cabbage"
+      },
+      {
+        "time": 5,
+        "en": "Add diced cheese and stir. Heat on low until melted, then stir well to combine.",
+        "sk": "Pridajte nakrájaný syr a premiešajte. Ohrejte na nízkom plameni, kým sa syr neroztopí, potom dobre premiešajte.",
+        "ja": "角切りチーズを加えて混ぜます。弱火で溶けるまで加熱し、その後よく混ぜ合わせます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Can be frozen. The recipe originally called for a 10 ounce bag of angel hair cabbage, but the author used 16 ounces of self-shredded cabbage instead.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "417",
+      "protein": "34g",
+      "carbohydrates": "6g",
+      "fat": "28g"
+    }
+  }

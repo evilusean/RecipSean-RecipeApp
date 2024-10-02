@@ -1,0 +1,56 @@
+{
+    "id": "cheesy-burger-bake",
+    "name": "Cheesy Burger Bake",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 medium onion, slivered (about 6 ounces)",
+      "Seasonings of your choice",
+      "8 ounces colby-jack cheese, diced or cubed"
+    ],
+    "utensils": [
+      "Large skillet",
+      "6x8 inch baking dish"
+    ],
+    "cookingTime": 30,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion until onion starts to brown. Drain fat if desired.",
+        "sk": "Opečte mleté mäso s cibuľou, kým cibuľa nezačne hnednúť. Podľa potreby zlejte tuk.",
+        "ja": "挽肉と玉ねぎを玉ねぎが少し茶色くなるまで炒めます。必要に応じて脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 2,
+        "en": "Season the meat mixture to taste.",
+        "sk": "Ochuťte mäsovú zmes podľa chuti.",
+        "ja": "肉の混ぜ物を好みの味付けにします。",
+        "primaryIngredient": "seasoned meat mixture"
+      },
+      {
+        "time": 3,
+        "en": "Put meat mixture in a 6x8 inch baking dish and stir in the diced cheese.",
+        "sk": "Vložte mäsovú zmes do zapekacej misy 15x20 cm a vmiešajte nakrájaný syr.",
+        "ja": "6x8インチ（約15x20cm）の焼き皿に肉の混ぜ物を入れ、角切りチーズを混ぜ込みます。",
+        "primaryIngredient": "meat and cheese mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for 20 minutes or until cheese is melted and bubbly.",
+        "sk": "Pečte pri 175°C 20 minút alebo kým sa syr neroztopí a nezačne bublať.",
+        "ja": "350°F（175°C）のオーブンで20分間、またはチーズが溶けて泡立つまで焼きます。",
+        "primaryIngredient": "assembled dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 4 servings. Suggested seasonings include a combination of taco seasoning and Nacho Cheddar flavor Kernel Seasons, but any preferred seasonings can be used.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "430",
+      "protein": "32g",
+      "carbohydrates": "5g",
+      "fat": "31g"
+    }
+  }

@@ -1,0 +1,55 @@
+{
+    "id": "hamburger-cabbage-stir-fry",
+    "name": "Hamburger Cabbage Stir-Fry",
+    "ingredients": [
+      "1 pound ground beef",
+      "2 cloves garlic, minced",
+      "16 ounce bag coleslaw mix",
+      "8 ounces fresh mushrooms, sliced",
+      "2 tablespoons soy sauce",
+      "1 tablespoon sesame oil",
+      "Pinch ginger, optional",
+      "Pinch cayenne, optional",
+      "Salt and pepper, to taste",
+      "2 teaspoons granular Splenda, optional",
+      "1 bunch green onions, cut on the bias (about 8 onions or 3 ounces after trimming)"
+    ],
+    "utensils": [
+      "Very large skillet or wok"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Brown ground beef with garlic, salt, and pepper in a large skillet or wok. Optionally drain fat.",
+        "sk": "Opečte mleté mäso s cesnakom, soľou a korením na veľkej panvici alebo woku. Voliteľne zlejte tuk.",
+        "ja": "大きなフライパンまたはワックで挽肉、ニンニク、塩、コショウを炒めて茶色くします。必要に応じて脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 8,
+        "en": "Add cabbage and mushrooms, stir-fry until cabbage is tender-crisp.",
+        "sk": "Pridajte kapustu a huby, miešajte a smažte, kým kapusta nie je na skus.",
+        "ja": "キャベツとマッシュルームを加え、キャベツが歯ごたえのある程度になるまで炒めます。",
+        "primaryIngredient": "cabbage and mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add remaining ingredients and heat through. Adjust seasoning to taste.",
+        "sk": "Pridajte zvyšné prísady a prehrejte. Upravte ochutenie podľa chuti.",
+        "ja": "残りの材料を加えて温めます。好みに合わせて味を調整します。",
+        "primaryIngredient": "seasonings and green onions"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. You can save money by shredding your own cabbage instead of using pre-packaged coleslaw mix. The author made this dish for about $3.50 using discounted ingredients.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "263",
+      "protein": "22g",
+      "carbohydrates": "7.5g",
+      "fat": "16g"
+    }
+  }

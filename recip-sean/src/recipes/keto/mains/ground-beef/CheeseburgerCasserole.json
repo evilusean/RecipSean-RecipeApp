@@ -1,0 +1,68 @@
+{
+    "id": "cheeseburger-casserole",
+    "name": "Cheeseburger Casserole",
+    "ingredients": [
+      "2 pounds ground beef",
+      "5 strips bacon, chopped",
+      "16 ounces frozen cauliflower",
+      "Butter",
+      "Salt and pepper, to taste",
+      "Pinch garlic powder",
+      "1 egg",
+      "8 ounce cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "2-quart casserole dish",
+      "Pot for cooking cauliflower"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef and bacon together; drain fat.",
+        "sk": "Opečte mleté mäso a slaninu spolu; zlejte tuk.",
+        "ja": "挽肉とベーコンを一緒に炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and bacon"
+      },
+      {
+        "time": 5,
+        "en": "Add salt, pepper, garlic powder, egg, and 3/4 of the cheese to the meat mixture.",
+        "sk": "Pridajte soľ, korenie, cesnakový prášok, vajce a 3/4 syra k mäsovej zmesi.",
+        "ja": "肉の混ぜ物に塩、コショウ、ニンニクパウダー、卵、チーズの3/4を加えます。",
+        "primaryIngredient": "seasoned meat mixture"
+      },
+      {
+        "time": 10,
+        "en": "Cook cauliflower until very tender. Mash and season with salt, pepper, and a little butter.",
+        "sk": "Uvarte karfiol do mäkka. Roztlačte a ochuťte soľou, korením a trochou masla.",
+        "ja": "カリフラワーを非常に柔らかくなるまで調理します。潰して塩、コショウ、少量のバターで味付けします。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "Put cauliflower in a greased 2-quart casserole dish. Spread meat mixture over cauliflower and top with remaining cheese.",
+        "sk": "Vložte karfiol do vymastenej 2-litrovej zapekacej misy. Navrch rozložte mäsovú zmes a posypte zvyšným syrom.",
+        "ja": "グリースを塗った2クォートのキャセロール皿にカリフラワーを入れます。カリフラワーの上に肉の混ぜ物を広げ、残りのチーズをのせます。",
+        "primaryIngredient": "layered casserole"
+      },
+      {
+        "time": 35,
+        "en": "Bake uncovered at 350°F for 35 minutes, until hot and bubbly.",
+        "sk": "Pečte nezakryté pri 175°C 35 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで35分間、熱々になり泡立つまで蓋をせずに焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "487",
+      "protein": "38g",
+      "carbohydrates": "4g",
+      "fat": "35g"
+    }
+  }

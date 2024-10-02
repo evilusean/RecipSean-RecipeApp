@@ -1,0 +1,68 @@
+{
+    "id": "mexican-stuffed-peppers",
+    "name": "Mexican Stuffed Peppers",
+    "ingredients": [
+      "1 1/2 pounds ground beef",
+      "1 small onion, chopped (about 2 1/2 ounces)",
+      "1 clove garlic, minced",
+      "8 ounce can tomato sauce",
+      "2 tablespoons taco seasoning",
+      "Salt and pepper, to taste",
+      "8 ounces cheddar cheese, shredded and divided",
+      "3 large green bell peppers, halved lengthwise and seeded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Baking dish",
+      "Pot for parboiling peppers"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, onion, and garlic in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso, cibuľu a cesnak na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、ニンニクを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 10,
+        "en": "Stir in tomato sauce and taco seasoning. Simmer for about 10 minutes.",
+        "sk": "Vmiešajte paradajkovú omáčku a taco korenie. Varte asi 10 minút.",
+        "ja": "トマトソースとタコシーズニングを加えて混ぜます。約10分間煮込みます。",
+        "primaryIngredient": "meat sauce"
+      },
+      {
+        "time": 5,
+        "en": "Parboil pepper halves in salted boiling water for 3 minutes; drain and place in baking dish.",
+        "sk": "Povarte polovice paprík v osolenej vriacej vode 3 minúty; sceďte a vložte do zapekacej misy.",
+        "ja": "ピーマンの半分を塩を入れた沸騰水で3分間茹でます。水を切り、焼き皿に置きます。",
+        "primaryIngredient": "bell peppers"
+      },
+      {
+        "time": 5,
+        "en": "Stir half the cheese into the meat mixture. Fill peppers with the meat and top with remaining cheese.",
+        "sk": "Vmiešajte polovicu syra do mäsovej zmesi. Naplňte papriky mäsom a posypte zvyšným syrom.",
+        "ja": "チーズの半分を肉の混ぜ物に加えて混ぜます。ピーマンに肉を詰め、残りのチーズをのせます。",
+        "primaryIngredient": "stuffed peppers"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for 15-20 minutes until hot and bubbly and peppers are tender.",
+        "sk": "Pečte pri 175°C 15-20 minút, kým nebude horúce a bublajúce a papriky mäkké.",
+        "ja": "350°F（175°C）のオーブンで15〜20分間、熱々になり泡立ち、ピーマンが柔らかくなるまで焼きます。",
+        "primaryIngredient": "baked stuffed peppers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 3-6 servings depending on whether served as half or whole peppers.",
+    "nutritionalInformation": {
+      "amount": "Per Half Pepper",
+      "calories": "380",
+      "protein": "29g",
+      "carbohydrates": "8g",
+      "fat": "26g"
+    }
+  }

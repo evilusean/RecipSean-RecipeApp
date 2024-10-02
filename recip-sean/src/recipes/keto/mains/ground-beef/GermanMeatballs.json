@@ -1,0 +1,86 @@
+{
+    "id": "german-meatballs",
+    "name": "German Meatballs",
+    "ingredients": [
+      "1 pound ground chuck or leaner ground beef",
+      "1 pound pork sausage, or another pound of ground beef",
+      "1/2 cup parmesan cheese, grated, 2 ounces",
+      "2 eggs",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "1/2 pound fresh mushrooms, sliced",
+      "2 tablespoon butter",
+      "8 ounces cream cheese, softened",
+      "3/4 cup heavy cream",
+      "1/2 cup freshly grated parmesan cheese, 2 ounces",
+      "1/4 teaspoon pepper",
+      "Pinch nutmeg",
+      "Salt and Spicy Seasoning Salt, to taste",
+      "2 tablespoons fresh parsley, chopped",
+      "Water, as needed to thin the sauce",
+      "1/2 teaspoon xanthan gum, optional"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Rimmed baking sheet",
+      "Large colander",
+      "Large pot",
+      "Whisk"
+    ],
+    "cookingTime": 70,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix meatball ingredients in a large bowl. Form into about 35 golf ball-sized meatballs.",
+        "sk": "Zmiešajte prísady na mäsové guľky vo veľkej miske. Vytvarujte asi 35 guľôčok veľkosti golfovej loptičky.",
+        "ja": "大きなボウルでミートボールの材料を混ぜます。ゴルフボール大のミートボールを約35個作ります。",
+        "primaryIngredient": "meatball mixture"
+      },
+      {
+        "time": 20,
+        "en": "Bake meatballs at 375°F for 15-20 minutes until cooked through. Rinse in colander if necessary.",
+        "sk": "Pečte mäsové guľky pri 190°C 15-20 minút, kým nie sú prepečené. V prípade potreby opláchnite v cedidle.",
+        "ja": "375°F（190°C）のオーブンで15〜20分、中まで火が通るまで焼きます。必要に応じてザルですすぎます。",
+        "primaryIngredient": "meatballs"
+      },
+      {
+        "time": 10,
+        "en": "Sauté mushrooms in butter until tender; set aside.",
+        "sk": "Opečte huby na masle do mäkka; odložte bokom.",
+        "ja": "バターでマッシュルームを柔らかくなるまで炒めます。取り置きます。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 10,
+        "en": "Melt cream cheese in pot, whisk in cream, parmesan, and seasonings. Add water to thin if needed.",
+        "sk": "Roztopte krémový syr v hrnci, vmiešajte smotanu, parmezán a korenie. V prípade potreby pridajte vodu na zriedenie.",
+        "ja": "鍋でクリームチーズを溶かし、生クリーム、パルメザン、調味料を泡立て器で混ぜます。必要に応じて水で薄めます。",
+        "primaryIngredient": "cheese sauce"
+      },
+      {
+        "time": 5,
+        "en": "Optionally add xanthan gum to thicken sauce. Adjust seasoning.",
+        "sk": "Voliteľne pridajte xantánovú gumu na zahustenie omáčky. Upravte ochutenie.",
+        "ja": "必要に応じてキサンタンガムを加えてソースを濃くします。味を調整します。",
+        "primaryIngredient": "sauce thickener"
+      },
+      {
+        "time": 30,
+        "en": "Add meatballs and mushrooms to sauce. Simmer on low heat for 20-30 minutes until heated through.",
+        "sk": "Pridajte mäsové guľky a huby do omáčky. Varte na miernom ohni 20-30 minút, kým sa neprehreje.",
+        "ja": "ソースにミートボールとマッシュルームを加えます。弱火で20〜30分、熱が通るまで煮込みます。",
+        "primaryIngredient": "assembled dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8 servings of 4-5 meatballs each. The meatballs can be frozen, but not the sauce.",
+    "nutritionalInformation": {
+      "amount": "Per serving (with half beef, half pork)",
+      "calories": "570",
+      "protein": "31g",
+      "carbohydrates": "4g",
+      "fat": "48g"
+    }
+  }

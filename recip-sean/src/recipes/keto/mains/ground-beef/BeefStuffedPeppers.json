@@ -1,0 +1,73 @@
+{
+    "id": "make-me-stuffed-peppers",
+    "name": "Make Me Stuffed Peppers",
+    "ingredients": [
+      "2 large green peppers, halved lengthwise",
+      "1 pound ground beef",
+      "1/4 cup onion, chopped, 1 1/4 ounces",
+      "1 clove garlic, minced",
+      "1/2 cup tomato, chopped, about 2 ounces",
+      "Salt and pepper, to taste",
+      "6 ounces cheddar cheese, shredded (divided)"
+    ],
+    "utensils": [
+      "Large pot",
+      "8x8 inch baking pan"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Boil peppers in a large pot of water for 3 minutes; drain.",
+        "sk": "Varte papriky vo veľkom hrnci s vodou 3 minúty; sceďte.",
+        "ja": "大きな鍋で水を沸かし、ピーマンを3分間茹でます。水を切ります。",
+        "primaryIngredient": "green peppers"
+      },
+      {
+        "time": 10,
+        "en": "In the same pot, brown ground beef with onion and garlic. Drain fat.",
+        "sk": "V tom istom hrnci opečte mleté mäso s cibuľou a cesnakom. Zlejte tuk.",
+        "ja": "同じ鍋で挽肉、玉ねぎ、ニンニクを炒めて茶色くします。脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Stir in chopped tomatoes and seasonings. Cook until tomatoes are hot.",
+        "sk": "Vmiešajte nakrájané paradajky a korenie. Varte, kým paradajky nie sú horúce.",
+        "ja": "刻んだトマトと調味料を加えて混ぜます。トマトが熱くなるまで調理します。",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 2,
+        "en": "Remove from heat and stir in 4 ounces of shredded cheddar cheese.",
+        "sk": "Odstavte z ohňa a vmiešajte 4 unce strúhaného čedaru.",
+        "ja": "火を止め、シュレッドチェダーチーズ4オンスを混ぜ込みます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "Place pepper halves in a greased 8x8 inch baking pan. Fill with meat mixture and top with remaining cheese.",
+        "sk": "Vložte polovice paprík do vymastenej 20x20 cm zapekacej formy. Naplňte mäsovou zmesou a posypte zvyšným syrom.",
+        "ja": "グリースを塗った8x8インチの焼き皿にピーマンの半分を置きます。肉の混ぜ物を詰め、残りのチーズをのせます。",
+        "primaryIngredient": "assembled peppers"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350°F for 20-25 minutes.",
+        "sk": "Pečte pri 175°C 20-25 minút.",
+        "ja": "350°F（175°C）のオーブンで20〜25分間焼きます。",
+        "primaryIngredient": "baked stuffed peppers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "388",
+      "protein": "30g",
+      "carbohydrates": "6g",
+      "fat": "27g"
+    }
+  }

@@ -1,0 +1,55 @@
+{
+    "id": "georges-ground-beef-stroganoff",
+    "name": "George's Ground Beef Stroganoff",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1/3 cup onion, chopped",
+      "2 cups celery, chopped",
+      "1 clove garlic, minced",
+      "1/2 teaspoon salt, or to taste",
+      "1/4 teaspoon pepper, or to taste",
+      "1 teaspoon beef bouillon granules",
+      "1 teaspoon dried dill weed",
+      "1 tablespoon dill pickle relish",
+      "8 ounces fresh mushrooms, sliced",
+      "8 ounces sour cream"
+    ],
+    "utensils": [
+      "Large Dutch oven"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onions, celery, garlic, salt, and pepper in a large Dutch oven until meat is cooked and vegetables are tender. Drain grease.",
+        "sk": "Opečte mleté mäso s cibuľou, zelerom, cesnakom, soľou a korením vo veľkom liatinovom hrnci, kým mäso nie je prepečené a zelenina mäkká. Zlejte mastnotu.",
+        "ja": "大きなダッチオーブンで挽肉、玉ねぎ、セロリ、ニンニク、塩、コショウを肉に火が通り野菜が柔らかくなるまで炒めます。脂を切ります。",
+        "primaryIngredient": "ground beef and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Add bouillon, dill weed, pickle relish, and mushrooms. Simmer for 5 minutes, stirring often.",
+        "sk": "Pridajte bujón, kôpor, nakladanú uhorku a huby. Varte 5 minút za častého miešania.",
+        "ja": "ブイヨン、ディルウィード、ピクルスレリッシュ、マッシュルームを加えます。頻繁に混ぜながら5分間煮込みます。",
+        "primaryIngredient": "seasonings and mushrooms"
+      },
+      {
+        "time": 2,
+        "en": "Remove from heat and stir in sour cream. Adjust seasonings as needed.",
+        "sk": "Odstavte z ohňa a vmiešajte kyslú smotanu. Podľa potreby upravte ochutenie.",
+        "ja": "火を止めてサワークリームを混ぜ込みます。必要に応じて味を調整します。",
+        "primaryIngredient": "sour cream"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Serve over pasta substitute of your choice (not included in nutritional info). George originally used fresh dill.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "358",
+      "protein": "27g",
+      "carbohydrates": "6g",
+      "fat": "25g"
+    }
+  }
