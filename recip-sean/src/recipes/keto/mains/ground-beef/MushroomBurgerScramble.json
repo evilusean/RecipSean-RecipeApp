@@ -1,0 +1,78 @@
+{
+    "id": "mushroom-burger-scramble",
+    "name": "Mushroom Burger Scramble",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 small onion, chopped",
+      "2 cloves garlic, minced",
+      "16 ounces fresh mushrooms, sliced",
+      "8 ounces cream cheese, softened",
+      "1/2 cup parmesan cheese (2 ounces)",
+      "1/2 cup heavy cream",
+      "1/2 teaspoon garlic powder",
+      "1 1/2 teaspoons salt",
+      "1/2 teaspoon pepper",
+      "Extra parmesan cheese for topping (optional)"
+    ],
+    "utensils": [
+      "2-quart casserole dish",
+      "Large pot or Dutch oven",
+      "Non-stick cooking spray"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Spray a 2-quart casserole dish with non-stick spray.",
+        "sk": "Postriekajte 2-litrovú zapekaciu misu sprejom proti prilepeniu.",
+        "ja": "2クォートのキャセロール皿にノンスティックスプレーを吹きかけます。",
+        "primaryIngredient": "casserole dish"
+      },
+      {
+        "time": 15,
+        "en": "Brown ground beef, onion, and fresh garlic in a large pot. Drain fat if desired.",
+        "sk": "Opečte mleté mäso, cibuľu a čerstvý cesnak vo veľkom hrnci. Podľa potreby zlejte tuk.",
+        "ja": "大きな鍋で挽肉、玉ねぎ、生ニンニクを炒めて茶色くします。必要に応じて脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 10,
+        "en": "Add mushrooms and cook until tender, stirring occasionally.",
+        "sk": "Pridajte huby a varte, kým nezmäknú, občas premiešajte.",
+        "ja": "マッシュルームを加え、時々かき混ぜながら柔らかくなるまで調理します。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Stir in softened cream cheese, mashing it into the meat. Add parmesan, cream, and seasonings.",
+        "sk": "Vmiešajte zmäknutý krémový syr, roztlačte ho do mäsa. Pridajte parmezán, smotanu a korenie.",
+        "ja": "柔らかくしたクリームチーズを加えて肉と混ぜ合わせます。パルメザン、生クリーム、調味料を加えます。",
+        "primaryIngredient": "cheese and cream"
+      },
+      {
+        "time": 5,
+        "en": "Pour mixture into prepared casserole dish. Sprinkle extra parmesan on top if desired.",
+        "sk": "Nalejte zmes do pripravenej zapekacej misy. Podľa chuti posypte extra parmezánom.",
+        "ja": "準備したキャセロール皿に混ぜ物を注ぎます。お好みで追加のパルメザンチーズをふりかけます。",
+        "primaryIngredient": "assembled casserole"
+      },
+      {
+        "time": 35,
+        "en": "Bake uncovered at 350°F for 30-35 minutes, until bubbly and browned.",
+        "sk": "Pečte nezakryté pri 175°C 30-35 minút, kým nebude bublajúce a zhnednuté.",
+        "ja": "350°F（175°C）のオーブンで30〜35分間、泡立ち茶色くなるまで蓋をせずに焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "683",
+      "protein": "48g",
+      "carbohydrates": "7g",
+      "fat": "51g"
+    }
+  }

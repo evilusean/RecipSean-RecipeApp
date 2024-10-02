@@ -1,0 +1,67 @@
+{
+    "id": "taco-stuffed-peppers",
+    "name": "Taco Stuffed Peppers",
+    "ingredients": [
+      "2 large green peppers, halved lengthwise and seeded, 6 ounces each",
+      "1 pound ground beef",
+      "2 teaspoons Taco Seasoning",
+      "1 tablespoon salsa",
+      "4 ounces cheddar cheese, shredded",
+      "2 tablespoons sour cream, for topping"
+    ],
+    "utensils": [
+      "Large pot for parboiling",
+      "9x9 inch baking dish",
+      "Large skillet",
+      "Microwave (optional)"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Parboil peppers in boiling water for 3 minutes; drain. Or microwave in covered dish with water for 5 minutes; drain.",
+        "sk": "Povarte papriky vo vriacej vode 3 minúty; sceďte. Alebo varte v mikrovlnnej rúre v zakrytej nádobe s vodou 5 minút; sceďte.",
+        "ja": "ピーマンを沸騰した湯で3分間茹でて水気を切ります。または、水を入れて覆った容器に入れ、電子レンジで5分間加熱し、水気を切ります。",
+        "primaryIngredient": "green peppers"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef in a skillet; drain fat. Mix with taco seasoning, salsa, and cheese.",
+        "sk": "Opečte mleté mäso na panvici; zlejte tuk. Zmiešajte s taco korením, salsou a syrom.",
+        "ja": "フライパンで挽肉を炒めて茶色くし、脂を切ります。タコシーズニング、サルサ、チーズと混ぜ合わせます。",
+        "primaryIngredient": "beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Fill peppers with beef mixture and arrange in a baking dish.",
+        "sk": "Naplňte papriky mäsovou zmesou a rozložte do zapekacej misy.",
+        "ja": "ピーマンに肉の混ぜ物を詰め、ベーキング皿に並べます。",
+        "primaryIngredient": "stuffed peppers"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 350°F for 20-25 minutes or microwave until hot and bubbly.",
+        "sk": "Pečte pri 175°C 20-25 minút alebo varte v mikrovlnnej rúre, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで20〜25分間、または電子レンジで熱々になり泡立つまで加熱します。",
+        "primaryIngredient": "baked stuffed peppers"
+      },
+      {
+        "time": 2,
+        "en": "Serve topped with sour cream.",
+        "sk": "Podávajte posypané kyslou smotanou.",
+        "ja": "サワークリームをのせて提供します。",
+        "primaryIngredient": "sour cream topping"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "345",
+      "protein": "27g",
+      "carbohydrates": "6g",
+      "fat": "24g"
+    }
+  }

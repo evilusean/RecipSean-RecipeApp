@@ -1,0 +1,64 @@
+{
+    "id": "spanish-rice-and-hamburger",
+    "name": "Spanish \"Rice\" and Hamburger",
+    "ingredients": [
+      "1 pound ground beef",
+      "4 slices bacon, chopped",
+      "2 tablespoons onion, chopped, 1 3/4 ounces",
+      "1/4 cup green pepper, chopped, 1 1/4 ounces",
+      "1 pound fresh cauliflower, grated",
+      "8 ounce can tomato sauce",
+      "1 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1 teaspoon chili powder",
+      "1/8 teaspoon cumin",
+      "1/8 teaspoon garlic powder",
+      "4 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Grater"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, bacon, onion, and green pepper in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso, slaninu, cibuľu a zelenú papriku na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、ベーコン、玉ねぎ、ピーマンを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add all remaining ingredients except cheese. Mix well.",
+        "sk": "Pridajte všetky zvyšné prísady okrem syra. Dobre premiešajte.",
+        "ja": "チーズ以外の残りの材料を全て加えてよく混ぜます。",
+        "primaryIngredient": "cauliflower and seasonings"
+      },
+      {
+        "time": 15,
+        "en": "Cover and simmer about 15 minutes, until cauliflower is tender, stirring occasionally.",
+        "sk": "Prikryte a varte na miernom ohni asi 15 minút, kým karfiol nezmäkne, občas premiešajte.",
+        "ja": "蓋をして約15分間、時々かき混ぜながらカリフラワーが柔らかくなるまで煮込みます。",
+        "primaryIngredient": "simmered mixture"
+      },
+      {
+        "time": 5,
+        "en": "Sprinkle cheese evenly over the \"rice\". Cover and cook on lowest heat for about 5 minutes, until cheese is melted.",
+        "sk": "Posypte syr rovnomerne na \"ryžu\". Prikryte a varte na najnižšom ohni asi 5 minút, kým sa syr neroztopí.",
+        "ja": "「ライス」の上にチーズを均等にふりかけます。蓋をして最低温で約5分間、チーズが溶けるまで調理します。",
+        "primaryIngredient": "cheese topping"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "263",
+      "protein": "20g",
+      "carbohydrates": "7g",
+      "fat": "17g"
+    }
+  }

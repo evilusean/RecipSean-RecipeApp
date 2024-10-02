@@ -1,0 +1,67 @@
+{
+    "id": "zucchini-casserole",
+    "name": "Zucchini Casserole",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "6 small zucchini, sliced in half moons, 24 ounces",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 batch Dottie's Cream of Mushroom Soup for Recipes",
+      "8 ounces cheddar cheese, shredded",
+      "Salt and pepper to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Large casserole dish (3 quarts or larger)",
+      "Grater"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion, salt, and pepper in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso s cibuľou, soľou a korením na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、塩、コショウを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 5,
+        "en": "Transfer meat to a large, greased casserole dish.",
+        "sk": "Preložte mäso do veľkej, vymastenej zapekacej misy.",
+        "ja": "肉を大きな油を塗ったキャセロール皿に移します。",
+        "primaryIngredient": "cooked ground beef"
+      },
+      {
+        "time": 10,
+        "en": "Sauté zucchini and mushrooms until almost tender; season lightly and add to the ground beef in the casserole.",
+        "sk": "Opečte cuketu a huby, kým nebudú takmer mäkké; jemne ochuťte a pridajte k mletému mäsu v zapekacej mise.",
+        "ja": "ズッキーニとマッシュルームをほぼ柔らかくなるまで炒めます。軽く味付けし、キャセロール皿の挽肉に加えます。",
+        "primaryIngredient": "zucchini and mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Prepare Dottie's Cream of Mushroom Soup and stir into meat and vegetable mixture along with the cheese. Adjust seasoning if necessary.",
+        "sk": "Pripravte Dottieho krémovú hubovú polievku a vmiešajte do zmesi mäsa a zeleniny spolu so syrom. V prípade potreby upravte ochutenie.",
+        "ja": "ドッティーのクリームマッシュルームスープを準備し、肉と野菜の混ぜ物に加え、チーズと一緒に混ぜます。必要に応じて味を調整します。",
+        "primaryIngredient": "soup and cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for 30 minutes or until hot and bubbly.",
+        "sk": "Pečte pri 175°C 30 minút alebo kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで30分間、または熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "436",
+      "protein": "28g",
+      "carbohydrates": "6g",
+      "fat": "34g"
+    }
+  }

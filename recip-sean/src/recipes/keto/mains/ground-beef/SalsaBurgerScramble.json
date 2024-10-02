@@ -1,0 +1,78 @@
+{
+    "id": "salsa-burger-scramble",
+    "name": "Salsa Burger Scramble",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 medium onion, chopped (about 5 ounces)",
+      "2 cloves garlic, minced",
+      "6 ounces frozen chopped spinach, thawed and chopped fine",
+      "8 ounces cream cheese, softened",
+      "1/2 cup parmesan cheese",
+      "3/4 cup salsa",
+      "1 1/2 teaspoons salt",
+      "1/2 teaspoon pepper",
+      "Other optional seasonings, to taste"
+    ],
+    "utensils": [
+      "4-quart Dutch oven",
+      "2 1/2-quart casserole dish",
+      "Large knife",
+      "Cutting board"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion and garlic in a 4-quart Dutch oven; drain fat if desired.",
+        "sk": "Opečte mleté mäso s cibuľou a cesnakom v 4-litrovom hrnci; podľa potreby zlejte tuk.",
+        "ja": "4クォートのダッチオーブンで挽肉、玉ねぎ、ニンニクを炒めて茶色くします。必要に応じて脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Stir in finely chopped spinach.",
+        "sk": "Vmiešajte jemne nasekaný špenát.",
+        "ja": "細かく刻んだほうれん草を混ぜ込みます。",
+        "primaryIngredient": "spinach"
+      },
+      {
+        "time": 5,
+        "en": "Add cream cheese chunks and blend well into the meat mixture.",
+        "sk": "Pridajte kúsky krémového syra a dobre vmiešajte do mäsovej zmesi.",
+        "ja": "クリームチーズを小さく切って加え、肉の混ぜ物とよく混ぜ合わせます。",
+        "primaryIngredient": "cream cheese"
+      },
+      {
+        "time": 5,
+        "en": "Stir in parmesan cheese and salsa; mix well.",
+        "sk": "Vmiešajte parmezán a salsu; dobre premiešajte.",
+        "ja": "パルメザンチーズとサルサを加えてよく混ぜます。",
+        "primaryIngredient": "cheese and salsa"
+      },
+      {
+        "time": 5,
+        "en": "Transfer mixture to a greased 2 1/2-quart casserole dish. Optionally sprinkle with additional parmesan.",
+        "sk": "Preložte zmes do vymastenej 2,5-litrovej zapekacej misy. Voliteľne posypte ďalším parmezánom.",
+        "ja": "混ぜ物を油を塗った2.5クォートのキャセロール皿に移します。お好みで追加のパルメザンチーズをふりかけます。",
+        "primaryIngredient": "assembled casserole"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for about 30 minutes until hot, bubbly, and browned on top.",
+        "sk": "Pečte pri 175°C asi 30 minút, kým nebude horúce, bublajúce a zhnednuté na povrchu.",
+        "ja": "350°F（175°C）のオーブンで約30分間、熱々になり、泡立ち、表面が茶色くなるまで焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. This is a variation of Dottie's Burger Scramble Florentine recipe. The salsa used has about 4 carbs per 1/4 cup. Parmesan cheese from a green can is used. Fat draining is optional. Frozen spinach is finely chopped before use.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "593",
+      "protein": "45g",
+      "carbohydrates": "7g",
+      "fat": "42g"
+    }
+  }

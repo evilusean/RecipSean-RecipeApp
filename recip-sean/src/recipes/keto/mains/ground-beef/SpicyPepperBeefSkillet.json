@@ -1,0 +1,72 @@
+{
+    "id": "spicy-pepper-beef-skillet-dinner",
+    "name": "Spicy Pepper Beef Skillet Dinner",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 small onion, sliced thin, 2 1/2 ounces",
+      "1 teaspoon ginger, grated",
+      "1/4 teaspoon xanthan gum, optional",
+      "1 green pepper, cut into strips, about 4 ounces",
+      "1 red pepper, cut into strips, about 4 ounces",
+      "1/4 cup soy sauce",
+      "1/2 teaspoon crushed red pepper",
+      "1 teaspoon granular Splenda",
+      "1/4 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1 tablespoon sesame oil",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large skillet or wok",
+      "Small bowl"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix sauce ingredients in a small bowl.",
+        "sk": "Zmiešajte prísady na omáčku v malej miske.",
+        "ja": "小さなボウルでソースの材料を混ぜ合わせます。",
+        "primaryIngredient": "sauce mixture"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion and ginger in a large skillet or wok; drain grease.",
+        "sk": "Opečte mleté mäso s cibuľou a zázvorom na veľkej panvici alebo woku; zlejte mastnotu.",
+        "ja": "大きなフライパンまたは中華鍋で挽肉、玉ねぎ、生姜を炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add peppers and cook until tender-crisp.",
+        "sk": "Pridajte papriky a varte, kým nebudú chrumkavé.",
+        "ja": "ピーマンを加え、歯ごたえが残る程度に調理します。",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 2,
+        "en": "Sprinkle xanthan gum over meat and mix in well.",
+        "sk": "Posypte xantánovou gumou mäso a dobre premiešajte.",
+        "ja": "キサンタンガムを肉の上にふりかけ、よく混ぜ込みます。",
+        "primaryIngredient": "xanthan gum"
+      },
+      {
+        "time": 5,
+        "en": "Pour in sauce mixture, bring to a boil; simmer until thickened. Adjust seasoning if necessary.",
+        "sk": "Vlejte omáčku, priveďte do varu; varte, kým nezhustne. V prípade potreby upravte ochutenie.",
+        "ja": "ソースを注ぎ入れ、沸騰させます。とろみがつくまで煮込みます。必要に応じて味を調整します。",
+        "primaryIngredient": "sauce and seasoning"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "296",
+      "protein": "25g",
+      "carbohydrates": "4g",
+      "fat": "19g"
+    }
+  }

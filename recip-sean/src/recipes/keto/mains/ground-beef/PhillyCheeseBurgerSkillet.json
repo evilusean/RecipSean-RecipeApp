@@ -1,0 +1,52 @@
+{
+    "id": "philly-cheeseburger-skillet-dinner",
+    "name": "Philly Cheeseburger Skillet Dinner",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 small onion, sliced, 3 ounces",
+      "8 ounces fresh mushrooms, sliced",
+      "1 green pepper, cut in strips, about 5 ounces",
+      "1 red pepper, cut in strips, about 5 ounces",
+      "1 clove garlic, minced",
+      "Salt and pepper, to taste",
+      "4 ounces American cheese, cut up, 6 slices"
+    ],
+    "utensils": [
+      "Large skillet or wok"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Brown ground beef with onion in a large skillet or wok; drain grease.",
+        "sk": "Opečte mleté mäso s cibuľou na veľkej panvici alebo woku; zlejte mastnotu.",
+        "ja": "大きなフライパンまたは中華鍋で挽肉と玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 8,
+        "en": "Add mushrooms, green pepper, and garlic. Stir-fry until peppers are tender-crisp, seasoning with salt and pepper.",
+        "sk": "Pridajte huby, zelenú papriku a cesnak. Opekajte, kým papriky nezmäknú, ale zostanú chrumkavé, ochuťte soľou a korením.",
+        "ja": "マッシュルーム、ピーマン、ニンニクを加えます。ピーマンがやわらかくなるまで炒め、塩コショウで味付けします。",
+        "primaryIngredient": "vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Stir in cheese and cook over low heat until melted.",
+        "sk": "Vmiešajte syr a varte na miernom ohni, kým sa neroztopí.",
+        "ja": "チーズを加えて混ぜ、弱火で溶けるまで調理します。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "386",
+      "protein": "30g",
+      "carbohydrates": "8g",
+      "fat": "26g"
+    }
+  }

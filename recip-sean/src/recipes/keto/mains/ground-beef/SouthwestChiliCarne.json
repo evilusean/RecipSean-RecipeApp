@@ -1,0 +1,64 @@
+{
+    "id": "georges-southwestern-chili-con-carne",
+    "name": "George's Southwestern Chili Con Carne",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1/2 cup red onion, chopped (2 3/4 ounces)",
+      "1 green pepper, chopped",
+      "1 red bell pepper, chopped",
+      "2 tablespoons chili powder",
+      "1 tablespoon cumin",
+      "2 cloves garlic, minced",
+      "1/4 teaspoon cayenne",
+      "2 teaspoons salt",
+      "1 teaspoon pepper",
+      "1/2 teaspoon garlic powder",
+      "3 Roma tomatoes, diced (about 8 ounces)",
+      "2 tablespoons fresh cilantro, chopped"
+    ],
+    "utensils": [
+      "Large skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, onion, and garlic in a large skillet; drain grease.",
+        "sk": "Opečte mleté mäso, cibuľu a cesnak na veľkej panvici; zlejte mastnotu.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、ニンニクを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add peppers and all spices to the skillet.",
+        "sk": "Pridajte papriky a všetky koreniny do panvice.",
+        "ja": "フライパンにピーマンとすべての香辛料を加えます。",
+        "primaryIngredient": "peppers and spices"
+      },
+      {
+        "time": 10,
+        "en": "Stir in tomatoes; bring to a simmer and cook for 10 minutes.",
+        "sk": "Vmiešajte paradajky; priveďte do varu a varte 10 minút.",
+        "ja": "トマトを加えて混ぜ、沸騰させて10分間煮込みます。",
+        "primaryIngredient": "tomatoes"
+      },
+      {
+        "time": 2,
+        "en": "Stir in cilantro. Serve over chopped lettuce and garnish with shredded cheese and sour cream if desired.",
+        "sk": "Vmiešajte koriander. Podávajte na nasekanom šaláte a podľa chuti ozdobte strúhaným syrom a kyslou smotanou.",
+        "ja": "コリアンダーを混ぜ込みます。刻んだレタスの上に盛り、お好みでシュレッドチーズとサワークリームを添えて提供します。",
+        "primaryIngredient": "cilantro and garnishes"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen. Garnishes (cheese and sour cream) are not included in nutritional information.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "292",
+      "protein": "26g",
+      "carbohydrates": "7g",
+      "fat": "18g"
+    }
+  }

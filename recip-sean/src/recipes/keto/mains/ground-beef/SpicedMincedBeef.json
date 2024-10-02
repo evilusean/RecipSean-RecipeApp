@@ -1,0 +1,54 @@
+{
+    "id": "spiced-minced-beef-keema",
+    "name": "Spiced Minced Beef (Keema)",
+    "ingredients": [
+      "1/4 cup ghee or unsalted butter",
+      "1 large onion, sliced (about 9-10 ounces peeled)",
+      "2 cloves garlic, sliced",
+      "1 teaspoon turmeric",
+      "2 teaspoons chili powder",
+      "1/2 teaspoon ground coriander",
+      "1/2 teaspoon cumin",
+      "1 teaspoon salt",
+      "1 teaspoon pepper",
+      "1 pound lean ground beef"
+    ],
+    "utensils": [
+      "Large skillet or wok"
+    ],
+    "cookingTime": 20,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Melt ghee or butter in a large skillet or wok. Add onions and garlic, fry until soft and golden brown.",
+        "sk": "Rozpustite ghí alebo maslo na veľkej panvici alebo woku. Pridajte cibuľu a cesnak, smažte do mäkka a zlatohneda.",
+        "ja": "大きなフライパンまたは中華鍋でギーまたはバターを溶かします。玉ねぎとニンニクを加え、柔らかく金色になるまで炒めます。",
+        "primaryIngredient": "onions and garlic"
+      },
+      {
+        "time": 3,
+        "en": "Add spices and seasonings; fry 3 minutes over medium-low heat, stirring constantly.",
+        "sk": "Pridajte korenie a ochucovadlá; smažte 3 minúty na stredne nízkom ohni za stáleho miešania.",
+        "ja": "スパイスと調味料を加え、中火〜弱火で3分間、絶えずかき混ぜながら炒めます。",
+        "primaryIngredient": "spices"
+      },
+      {
+        "time": 10,
+        "en": "Add beef and cook until browned. Drain off any excess grease.",
+        "sk": "Pridajte hovädzie mäso a varte, kým nezhnedne. Zlejte prebytočný tuk.",
+        "ja": "牛挽肉を加えて茶色くなるまで調理します。余分な脂があれば切ります。",
+        "primaryIngredient": "ground beef"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "342",
+      "protein": "19g",
+      "carbohydrates": "7g",
+      "fat": "27g"
+    }
+  }

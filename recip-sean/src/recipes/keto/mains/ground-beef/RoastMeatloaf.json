@@ -1,0 +1,81 @@
+{
+    "id": "roast-meatloaf",
+    "name": "Roast Meatloaf",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 pound ground pork",
+      "4 eggs",
+      "4 ounces parmesan cheese, 1 cup",
+      "1 1/2 teaspoons salt",
+      "1/4 teaspoon pepper",
+      "1/4 teaspoon garlic powder",
+      "2 tablespoons onion, chopped, or 1 1/2 teaspoons dry minced onion",
+      "4 slices raw bacon",
+      "1/2 cup Better \"Heinz\" Ketchup, or other low carb ketchup",
+      "1/4 teaspoon dry mustard",
+      "2 tablespoons granular Splenda"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Fork",
+      "9x13 inch baking pan or 9x5 inch loaf pan",
+      "Aluminum foil",
+      "Small bowl for glaze"
+    ],
+    "cookingTime": 65,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a large bowl, beat eggs, then mix in parmesan cheese and seasonings.",
+        "sk": "Vo veľkej miske vyšľahajte vajcia, potom vmiešajte parmezán a korenie.",
+        "ja": "大きなボウルで卵を溶き、パルメザンチーズと調味料を混ぜ合わせます。",
+        "primaryIngredient": "eggs and seasonings"
+      },
+      {
+        "time": 10,
+        "en": "Add meats and mix well with hands until no streaks of parmesan are visible.",
+        "sk": "Pridajte mäso a dobre premiešajte rukami, až kým nebudú viditeľné žiadne pruhy parmezánu.",
+        "ja": "肉を加え、パルメザンの筋が見えなくなるまで手でよく混ぜます。",
+        "primaryIngredient": "meat mixture"
+      },
+      {
+        "time": 5,
+        "en": "Shape into a loaf in a foil-lined and greased 9x13 inch pan or pack into a 9x5 inch loaf pan.",
+        "sk": "Vytvarujte do bochníka vo fóliou vyloženej a vymastenej 23x33 cm forme alebo natlačte do 23x13 cm formy na chlieb.",
+        "ja": "アルミホイルを敷いて油を塗った9x13インチの焼き皿に形作るか、9x5インチのパウンド型に詰めます。",
+        "primaryIngredient": "shaped meatloaf"
+      },
+      {
+        "time": 5,
+        "en": "Lay bacon strips over the top. Mix glaze ingredients and spread over meatloaf.",
+        "sk": "Na vrch položte plátky slaniny. Zmiešajte prísady na glazúru a rozotrite po sekanej.",
+        "ja": "上にベーコンを並べます。グレーズの材料を混ぜ、ミートローフの上に塗ります。",
+        "primaryIngredient": "bacon and glaze"
+      },
+      {
+        "time": 65,
+        "en": "Bake at 350°F for 60-65 minutes or until meat is done in the center.",
+        "sk": "Pečte pri 175°C 60-65 minút alebo kým mäso nie je prepečené v strede.",
+        "ja": "350°F（175°C）のオーブンで60〜65分、または中心まで火が通るまで焼きます。",
+        "primaryIngredient": "baked meatloaf"
+      },
+      {
+        "time": 5,
+        "en": "Let rest a few minutes before slicing.",
+        "sk": "Pred krájaním nechajte niekoľko minút odstáť.",
+        "ja": "切り分ける前に数分間休ませます。",
+        "primaryIngredient": "rested meatloaf"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8-10 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Recipe",
+      "calories": "342",
+      "protein": "30g",
+      "carbohydrates": "3g",
+      "fat": "23g"
+    }
+  }

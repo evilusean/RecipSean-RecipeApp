@@ -1,0 +1,73 @@
+{
+    "id": "sloppy-joe-stuffed-peppers",
+    "name": "Sloppy Joe Stuffed Peppers",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 ounce onion, chopped, about 2 tablespoons",
+      "1 stalk celery, chopped",
+      "1 clove garlic, minced",
+      "1/2 cup tomato sauce",
+      "1 teaspoon granular Splenda",
+      "1 1/2 teaspoons white vinegar",
+      "1 1/2 teaspoons Worcestershire sauce",
+      "1/2 teaspoon mustard",
+      "1/2 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "8 ounces cheddar cheese, shredded",
+      "3 green peppers, halved lengthwise"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Baking dish",
+      "Pot for parboiling peppers"
+    ],
+    "cookingTime": 35,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, onion, celery, and garlic in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso, cibuľu, zeler a cesnak na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、セロリ、ニンニクを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 10,
+        "en": "Stir in all remaining ingredients except cheese and peppers. Simmer for 10 minutes.",
+        "sk": "Vmiešajte všetky zvyšné prísady okrem syra a paprík. Varte 10 minút.",
+        "ja": "チーズとピーマン以外の残りの材料を全て加えて混ぜます。10分間煮込みます。",
+        "primaryIngredient": "sloppy joe sauce"
+      },
+      {
+        "time": 5,
+        "en": "Parboil halved green peppers in boiling water for 3 minutes; drain and place in baking dish.",
+        "sk": "Povarte polovice zelenej papriky vo vriacej vode 3 minúty; sceďte a vložte do zapekacej misy.",
+        "ja": "半分に切ったピーマンを沸騰した湯で3分間茹でます。水気を切り、焼き皿に並べます。",
+        "primaryIngredient": "green peppers"
+      },
+      {
+        "time": 5,
+        "en": "Stir half the cheese into the meat mixture. Fill peppers with the meat and top with remaining cheese.",
+        "sk": "Vmiešajte polovicu syra do mäsovej zmesi. Naplňte papriky mäsom a posypte zvyšným syrom.",
+        "ja": "肉の混ぜ物に半分のチーズを混ぜ込みます。ピーマンに肉を詰め、残りのチーズをのせます。",
+        "primaryIngredient": "stuffed peppers"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for 15-20 minutes until hot and bubbly and peppers are tender.",
+        "sk": "Pečte pri 175°C 15-20 minút, kým nebude horúce a bublajúce a papriky mäkké.",
+        "ja": "350°F（175°C）のオーブンで15〜20分間、熱々になり泡立ち、ピーマンが柔らかくなるまで焼きます。",
+        "primaryIngredient": "baked stuffed peppers"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "306",
+      "protein": "23g",
+      "carbohydrates": "6g",
+      "fat": "21g"
+    }
+  }

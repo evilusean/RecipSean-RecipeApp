@@ -1,0 +1,60 @@
+{
+    "id": "tomato-mushroom-cheeseburger-skillet",
+    "name": "Tomato-Mushroom Cheeseburger Skillet",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "1 clove garlic, minced",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 1/2 teaspoons salt",
+      "1 teaspoon pepper",
+      "8 ounce can tomato sauce",
+      "16 ounces cabbage, finely shredded, about 1/2 a medium cabbage",
+      "8 ounces Deluxe American cheese, diced (not cheese food)"
+    ],
+    "utensils": [
+      "Very large skillet or Dutch oven"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion, garlic, and mushrooms in a very large skillet or Dutch oven. Season with salt and pepper; drain fat.",
+        "sk": "Opečte mleté mäso s cibuľou, cesnakom a hubami na veľmi veľkej panvici alebo v liatinovom hrnci. Ochuťte soľou a korením; zlejte tuk.",
+        "ja": "大きなフライパンまたはダッチオーブンで挽肉、玉ねぎ、ニンニク、マッシュルームを炒めて茶色くします。塩コショウで味付けし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 2,
+        "en": "Add tomato sauce and cabbage; toss to coat cabbage with sauce.",
+        "sk": "Pridajte paradajkovú omáčku a kapustu; premiešajte, aby sa kapusta obalila omáčkou.",
+        "ja": "トマトソースとキャベツを加え、キャベツにソースがからむように混ぜ合わせます。",
+        "primaryIngredient": "cabbage and sauce"
+      },
+      {
+        "time": 10,
+        "en": "Simmer uncovered for about 10 minutes or until cabbage is tender, stirring occasionally.",
+        "sk": "Varte nezakryté asi 10 minút alebo kým kapusta nezmäkne, občas premiešajte.",
+        "ja": "蓋をせずに約10分間、またはキャベツが柔らかくなるまで時々かき混ぜながら煮込みます。",
+        "primaryIngredient": "simmered mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add cheese and stir; heat on low until melted, then stir well. Adjust seasonings if necessary.",
+        "sk": "Pridajte syr a premiešajte; ohrejte na nízkom ohni, kým sa neroztopí, potom dobre premiešajte. V prípade potreby upravte ochutenie.",
+        "ja": "チーズを加えて混ぜ、弱火で溶けるまで加熱し、よく混ぜ合わせます。必要に応じて味を調整します。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "432",
+      "protein": "35g",
+      "carbohydrates": "9g",
+      "fat": "28g"
+    }
+  }

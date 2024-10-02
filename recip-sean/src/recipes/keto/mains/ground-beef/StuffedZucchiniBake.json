@@ -1,0 +1,68 @@
+{
+    "id": "stuffed-zucchini-bake",
+    "name": "Stuffed Zucchini Bake",
+    "ingredients": [
+      "4 medium zucchini, about 28 ounces *",
+      "1 pound ground beef",
+      "1 clove garlic",
+      "1 small onion, diced, 2 1/2 ounces or about 1/2 cup",
+      "1/2 cup fresh mushrooms, diced, 2 large or about 3 ounces",
+      "Salt and pepper, to taste",
+      "2 ounces freshly grated parmesan cheese, 1/2 cup"
+    ],
+    "utensils": [
+      "Rimmed baking sheet",
+      "Aluminum foil",
+      "Large skillet",
+      "Teaspoon for scooping"
+    ],
+    "cookingTime": 55,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cut zucchini in half lengthwise. Scoop out pulp, leaving 1/4 inch of flesh. Discard pulp. Place shells on greased, foil-lined baking sheet. Season with salt and pepper.",
+        "sk": "Rozrežte cukety pozdĺžne na polovicu. Vyberte dužinu, nechajte 0,6 cm dužiny. Dužinu zahoďte. Položte šupky na vymastený, fóliou vyložený plech. Ochuťte soľou a korením.",
+        "ja": "ズッキーニを縦半分に切ります。果肉を1/4インチ残して中身をくり抜きます。くり抜いた中身は捨てます。殻を油を塗ったアルミホイル敷きのベーキングシートに置きます。塩コショウで味付けします。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef, garlic, onion, and mushrooms in a skillet. Season with salt and pepper; drain fat.",
+        "sk": "Opečte mleté mäso, cesnak, cibuľu a huby na panvici. Ochuťte soľou a korením; zlejte tuk.",
+        "ja": "フライパンで挽肉、ニンニク、玉ねぎ、マッシュルームを炒めて茶色くします。塩コショウで味付けし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Fill zucchini shells with meat mixture.",
+        "sk": "Naplňte cuketové šupky mäsovou zmesou.",
+        "ja": "ズッキーニの殻に肉の混ぜ物を詰めます。",
+        "primaryIngredient": "stuffed zucchini"
+      },
+      {
+        "time": 45,
+        "en": "Cover with foil and bake at 350°F for 45 minutes or until zucchini is tender.",
+        "sk": "Prikryte fóliou a pečte pri 175°C 45 minút alebo kým cuketa nezmäkne.",
+        "ja": "アルミホイルで覆い、350°F（175°C）のオーブンで45分間、またはズッキーニが柔らかくなるまで焼きます。",
+        "primaryIngredient": "baked zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Uncover, top with cheese and bake for about 10 minutes to melt the cheese.",
+        "sk": "Odkryte, posypte syrom a pečte asi 10 minút, aby sa syr roztopil.",
+        "ja": "アルミホイルを外し、チーズをのせてさらに10分ほど焼いてチーズを溶かします。",
+        "primaryIngredient": "cheese topping"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Freezing not recommended. *Carb count adjusted for 19 ounces of zucchini after removing pulp.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "143",
+      "protein": "13g",
+      "carbohydrates": "3g",
+      "fat": "9g"
+    }
+  }

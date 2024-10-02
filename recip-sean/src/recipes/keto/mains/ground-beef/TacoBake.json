@@ -1,0 +1,69 @@
+{
+    "id": "taco-bake",
+    "name": "Taco Bake",
+    "ingredients": [
+      "4 ounces cream cheese, softened",
+      "2 eggs",
+      "1/2 teaspoon Taco Seasoning",
+      "16 ounces cheddar cheese, shredded (4 cups total)",
+      "1 pound ground beef",
+      "3 teaspoons Taco Seasoning",
+      "1/4 cup tomato sauce",
+      "4 ounce can chopped green chiles"
+    ],
+    "utensils": [
+      "Large bowl",
+      "Wooden spoon",
+      "9 x 13 inch baking dish",
+      "Large skillet"
+    ],
+    "cookingTime": 55,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix crust ingredients in a large bowl until smooth.",
+        "sk": "Zmiešajte prísady na kôrku vo veľkej miske, kým nebude zmes hladká.",
+        "ja": "大きなボウルでクラストの材料を滑らかになるまで混ぜ合わせます。",
+        "primaryIngredient": "crust mixture"
+      },
+      {
+        "time": 35,
+        "en": "Spread cheese mixture in greased 9x13 inch baking dish. Bake at 375°F for 35 minutes until browned. Let stand 5-10 minutes.",
+        "sk": "Rozotrite syrovou zmes do vymastenej 23x33 cm zapekacej formy. Pečte pri 190°C 35 minút do zhnednutia. Nechajte odstáť 5-10 minút.",
+        "ja": "油を塗った9x13インチのベーキング皿にチーズの混ぜ物を広げます。375°F（190°C）のオーブンで35分間、茶色くなるまで焼きます。5〜10分間置きます。",
+        "primaryIngredient": "cheese crust"
+      },
+      {
+        "time": 10,
+        "en": "Brown ground beef in a skillet; drain fat. Stir in seasoning, tomato sauce, and chiles.",
+        "sk": "Opečte mleté mäso na panvici; zlejte tuk. Vmiešajte korenie, paradajkovú omáčku a čili.",
+        "ja": "フライパンで挽肉を炒めて茶色くし、脂を切ります。調味料、トマトソース、チリを混ぜ込みます。",
+        "primaryIngredient": "beef topping"
+      },
+      {
+        "time": 5,
+        "en": "Spread beef mixture over crust. Top with remaining cheese.",
+        "sk": "Rozotrite mäsovú zmes na kôrku. Posypte zvyšným syrom.",
+        "ja": "ビーフの混ぜ物をクラストの上に広げます。残りのチーズをのせます。",
+        "primaryIngredient": "assembled dish"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 350°F for 20 minutes until hot and bubbly.",
+        "sk": "Pečte pri 175°C 20 minút, kým nebude horúce a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで20分間、熱々になり泡立つまで焼きます。",
+        "primaryIngredient": "baked taco bake"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen. Serve with toppings of your choice (additional carbs not included in nutritional information).",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "396",
+      "protein": "26g",
+      "carbohydrates": "3g",
+      "fat": "31g"
+    }
+  }

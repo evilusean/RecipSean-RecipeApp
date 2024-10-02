@@ -1,0 +1,58 @@
+{
+    "id": "red-enchilada-skillet-dinner",
+    "name": "Red Enchilada Skillet Dinner",
+    "ingredients": [
+      "1 1/2 pounds ground beef",
+      "1 small onion, chopped (2 1/2 ounces)",
+      "2/3 cup Red Enchilada Sauce",
+      "2 Roma tomatoes, diced (about 6 ounces)",
+      "8 green onions, chopped, one bunch",
+      "4 ounces cheddar cheese, shredded",
+      "Chopped fresh cilantro, optional"
+    ],
+    "utensils": [
+      "Large skillet or wok"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Brown ground beef with onion in a large skillet or wok; drain grease.",
+        "sk": "Opečte mleté mäso s cibuľou na veľkej panvici alebo woku; zlejte mastnotu.",
+        "ja": "大きなフライパンまたは中華鍋で挽肉と玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Stir in enchilada sauce, tomatoes, and green onions. Bring to a boil; simmer 5 minutes. Season with salt if needed.",
+        "sk": "Vmiešajte enchilada omáčku, paradajky a jarnú cibuľku. Priveďte do varu; varte 5 minút. Podľa potreby osoľte.",
+        "ja": "エンチラーダソース、トマト、青ねぎを加えて混ぜます。沸騰させ、5分間煮込みます。必要に応じて塩で味を調えます。",
+        "primaryIngredient": "sauce and vegetables"
+      },
+      {
+        "time": 3,
+        "en": "Sprinkle with cheese and cook over low heat until cheese is melted.",
+        "sk": "Posypte syrom a varte na miernom ohni, kým sa syr neroztopí.",
+        "ja": "チーズをふりかけ、弱火でチーズが溶けるまで調理します。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Add cilantro if using. Serve over chopped lettuce and top with sour cream if desired.",
+        "sk": "Pridajte koriander, ak ho používate. Podávajte na nasekanom šaláte a podľa chuti ozdobte kyslou smotanou.",
+        "ja": "コリアンダーを使用する場合は加えます。刻んだレタスの上に盛り、お好みでサワークリームをトッピングします。",
+        "primaryIngredient": "garnish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Can be frozen. Lettuce and sour cream for serving are not included in nutritional information.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "455",
+      "protein": "36g",
+      "carbohydrates": "9g",
+      "fat": "30g"
+    }
+  }

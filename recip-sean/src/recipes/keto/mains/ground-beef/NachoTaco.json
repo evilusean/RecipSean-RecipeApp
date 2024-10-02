@@ -1,0 +1,57 @@
+{
+    "id": "nacho-taco",
+    "name": "Nacho Taco",
+    "ingredients": [
+      "1 pound ground beef",
+      "2 tablespoons Taco Seasoning",
+      "1 small onion, chopped",
+      "1 Roma tomato, chopped",
+      "3 batches Quick Nacho Cheese Dip",
+      "Toppings of your choice"
+    ],
+    "utensils": [
+      "Large skillet"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion in a large skillet; drain fat if desired. Stir in taco seasoning.",
+        "sk": "Opečte mleté mäso s cibuľou na veľkej panvici; podľa potreby zlejte tuk. Vmiešajte taco korenie.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くします。必要に応じて脂を切ります。タコシーズニングを混ぜ込みます。",
+        "primaryIngredient": "ground beef"
+      },
+      {
+        "time": 10,
+        "en": "Prepare Quick Nacho Cheese Dip according to recipe.",
+        "sk": "Pripravte rýchlu syrovou omáčku Nacho podľa receptu.",
+        "ja": "レシピに従ってクイックナチョチーズディップを作ります。",
+        "primaryIngredient": "cheese dip"
+      },
+      {
+        "time": 5,
+        "en": "Add chopped tomatoes and cheese dip to the ground beef mixture. Mix well.",
+        "sk": "Pridajte nakrájané paradajky a syrovou omáčku k mletému mäsu. Dobre premiešajte.",
+        "ja": "刻んだトマトとチーズディップを挽肉の混ぜ物に加えます。よく混ぜ合わせます。",
+        "primaryIngredient": "assembled mixture"
+      },
+      {
+        "time": 2,
+        "en": "Serve with your choice of toppings.",
+        "sk": "Podávajte s oblohou podľa vášho výberu.",
+        "ja": "お好みのトッピングを添えて提供します。",
+        "primaryIngredient": "finished dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 4 servings. A simplified method is provided: After browning and seasoning the meat, stir in salsa and cut up American cheese slices. Simmer until cheese melts, then stir well. Raw onion and tomato can be added at the end if preferred fresh.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "445",
+      "protein": "36g",
+      "carbohydrates": "7g",
+      "fat": "30g"
+    }
+  }

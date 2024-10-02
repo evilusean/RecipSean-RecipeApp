@@ -1,0 +1,72 @@
+{
+    "id": "sloppy-joe-unstuffed-peppers",
+    "name": "Sloppy Joe Unstuffed Peppers",
+    "ingredients": [
+      "1 pound ground beef",
+      "1 ounce onion, chopped, about 1 1/2 tablespoons",
+      "1 stalk celery, chopped fine",
+      "2 green peppers, cut into large chunks, 6 ounces each",
+      "1/2 clove garlic, minced",
+      "1/4 cup tomato sauce",
+      "1 teaspoon granular Splenda",
+      "1 1/2 teaspoon vinegar",
+      "1 1/2 teaspoon Worcestershire sauce",
+      "1/2 teaspoon mustard",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "8 ounces cheddar cheese, shredded or cubed"
+    ],
+    "utensils": [
+      "Large skillet",
+      "8x8 inch glass baking dish"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef, onion, celery, and garlic in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso, cibuľu, zeler a cesnak na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉、玉ねぎ、セロリ、ニンニクを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Add chopped peppers and sauté until crisp-tender.",
+        "sk": "Pridajte nakrájané papriky a opekajte, kým nebudú chrumkavé a mäkké.",
+        "ja": "刻んだピーマンを加え、歯ごたえが残る程度に炒めます。",
+        "primaryIngredient": "peppers"
+      },
+      {
+        "time": 5,
+        "en": "Stir in tomato sauce, Splenda, vinegar, Worcestershire sauce, mustard, salt, and pepper. Cook on low until heated.",
+        "sk": "Vmiešajte paradajkovú omáčku, Splendu, ocot, Worcesterskú omáčku, horčicu, soľ a korenie. Varte na miernom ohni, kým sa nezohrejú.",
+        "ja": "トマトソース、スプレンダ、酢、ウスターソース、マスタード、塩、コショウを加えて混ぜます。弱火で温まるまで調理します。",
+        "primaryIngredient": "sauce"
+      },
+      {
+        "time": 5,
+        "en": "Transfer mixture to an 8x8 inch glass baking dish; mix in the cheese.",
+        "sk": "Preložte zmes do 20x20 cm sklenenej zapekacej misy; vmiešajte syr.",
+        "ja": "混ぜ物を8x8インチのガラス製ベーキング皿に移し、チーズを混ぜ込みます。",
+        "primaryIngredient": "assembled dish"
+      },
+      {
+        "time": 30,
+        "en": "Bake uncovered at 350°F for 25-30 minutes until cheese is melted.",
+        "sk": "Pečte nezakryté pri 175°C 25-30 minút, kým sa syr neroztopí.",
+        "ja": "350°F（175°C）のオーブンで25〜30分間、チーズが溶けるまで蓋をせずに焼きます。",
+        "primaryIngredient": "baked dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "449",
+      "protein": "33g",
+      "carbohydrates": "7g",
+      "fat": "32g"
+    }
+  }

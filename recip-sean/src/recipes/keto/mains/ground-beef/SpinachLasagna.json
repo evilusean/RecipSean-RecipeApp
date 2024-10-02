@@ -1,0 +1,64 @@
+{
+    "id": "spinach-lasagna",
+    "name": "Spinach Lasagna",
+    "ingredients": [
+      "1 pound ground beef",
+      "2 tablespoons onion, chopped",
+      "1/8 teaspoon garlic powder",
+      "1/2 cup spaghetti sauce",
+      "8 ounces cream cheese",
+      "1 egg",
+      "1/8 teaspoon pepper",
+      "10 ounces frozen chopped spinach, thawed & drained",
+      "4 ounces mozzarella cheese, shredded",
+      "2 tablespoons parmesan cheese (canned type)"
+    ],
+    "utensils": [
+      "Large skillet",
+      "8 x 8 inch glass baking pan",
+      "Medium-size microwaveable bowl",
+      "Spoon"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion in a large skillet; drain fat. Mix in garlic powder and spaghetti sauce; season to taste and heat until bubbly.",
+        "sk": "Opečte mleté mäso s cibuľou na veľkej panvici; zlejte tuk. Vmiešajte cesnakový prášok a špagety omáčku; ochuťte podľa chuti a ohrejte do bublania.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、脂を切ります。ニンニクパウダーとスパゲッティソースを混ぜ、味付けし、泡立つまで加熱します。",
+        "primaryIngredient": "ground beef mixture"
+      },
+      {
+        "time": 5,
+        "en": "Soften cream cheese in a microwave for 40-60 seconds. Stir until creamy; beat in egg and pepper. Blend in spinach.",
+        "sk": "Zmäkčite krémový syr v mikrovlnnej rúre 40-60 sekúnd. Miešajte do krémova; vmiešajte vajce a korenie. Vmiešajte špenát.",
+        "ja": "クリームチーズを電子レンジで40〜60秒柔らかくします。クリーミーになるまで混ぜ、卵とコショウを加えてよく混ぜます。ほうれん草を混ぜ込みます。",
+        "primaryIngredient": "cream cheese mixture"
+      },
+      {
+        "time": 5,
+        "en": "Layer half the meat mixture in a greased 8x8 inch glass baking pan. Spread spinach mixture over meat; top with mozzarella, then remaining meat. Sprinkle with parmesan.",
+        "sk": "Rozložte polovicu mäsovej zmesi do vymastenej 20x20 cm sklenenej zapekacej formy. Na mäso rozotrite špenátovú zmes; posypte mozzarellou, potom zvyšným mäsom. Posypte parmezánom.",
+        "ja": "油を塗った8x8インチのガラス製ベーキング皿に肉の混ぜ物の半分を敷きます。その上にほうれん草の混ぜ物を広げ、モッツァレラチーズをのせ、残りの肉をのせます。パルメザンチーズをふりかけます。",
+        "primaryIngredient": "layered ingredients"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F for about 30 minutes until hot and bubbly. Alternatively, microwave on HIGH for 3 minutes, then on MEDIUM for 7-10 minutes until hot and bubbly. Let stand 3 minutes before serving.",
+        "sk": "Pečte pri 175°C asi 30 minút, kým nebude horúce a bublajúce. Alternatívne, varte v mikrovlnnej rúre na VYSOKOM výkone 3 minúty, potom na STREDNOM 7-10 minút, kým nebude horúce a bublajúce. Pred podávaním nechajte 3 minúty odstáť.",
+        "ja": "350°F（175°C）のオーブンで約30分間、熱々になり泡立つまで焼きます。または、電子レンジの強で3分間、その後中で7〜10分間、熱々になり泡立つまで加熱します。提供前に3分間置きます。",
+        "primaryIngredient": "baked lasagna"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-9 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "368",
+      "protein": "23g",
+      "carbohydrates": "5.5g",
+      "fat": "28g"
+    }
+  }

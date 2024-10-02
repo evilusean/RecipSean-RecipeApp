@@ -1,0 +1,62 @@
+{
+    "id": "spinach-beef-bake",
+    "name": "Spinach Beef Bake",
+    "ingredients": [
+      "2 pounds ground beef",
+      "1/2 cup onion, 2 3/4 ounces",
+      "2 eggs, beaten",
+      "10 ounce package frozen spinach, thawed and drained",
+      "4 ounce can mushrooms, drained",
+      "4 ounces mozzarella cheese",
+      "1/4 cup parmesan cheese, 1 ounce",
+      "1 teaspoon garlic powder",
+      "Salt and pepper, to taste",
+      "2 tablespoons butter, melted"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Large casserole dish"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown ground beef with onion in a large skillet; drain fat.",
+        "sk": "Opečte mleté mäso s cibuľou na veľkej panvici; zlejte tuk.",
+        "ja": "大きなフライパンで挽肉と玉ねぎを炒めて茶色くし、脂を切ります。",
+        "primaryIngredient": "ground beef and onion"
+      },
+      {
+        "time": 5,
+        "en": "Mix all ingredients except butter in a large casserole dish.",
+        "sk": "Zmiešajte všetky prísady okrem masla vo veľkej zapekacej miske.",
+        "ja": "バター以外の全ての材料を大きなキャセロール皿で混ぜ合わせます。",
+        "primaryIngredient": "mixed ingredients"
+      },
+      {
+        "time": 2,
+        "en": "Drizzle melted butter over the mixture.",
+        "sk": "Pokvapkajte roztopeným maslom.",
+        "ja": "溶かしたバターを混ぜ物の上にかけます。",
+        "primaryIngredient": "melted butter"
+      },
+      {
+        "time": 30,
+        "en": "Bake uncovered at 375°F for 25-30 minutes.",
+        "sk": "Pečte nezakryté pri 190°C 25-30 minút.",
+        "ja": "375°F（190°C）のオーブンで25〜30分間、蓋をせずに焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "419",
+      "protein": "34g",
+      "carbohydrates": "5g",
+      "fat": "29g"
+    }
+  }
