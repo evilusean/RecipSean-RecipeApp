@@ -1,0 +1,66 @@
+{
+    "id": "cheesy-ham-green-bean-casserole",
+    "name": "Cheesy Ham and Green Bean Casserole",
+    "ingredients": [
+      "1 small onion, sliced very thin, 2.5 ounces",
+      "1/4 cup celery, finely diced",
+      "2 tablespoons butter",
+      "2 14 ounce cans French-cut green beans, drained well",
+      "4 ounce can mushrooms, drained well",
+      "12 ounces ham, diced",
+      "1/4 cup mayonnaise",
+      "1/4 teaspoon salt",
+      "1/2 teaspoon pepper",
+      "1/8 teaspoon garlic powder",
+      "8 ounces pepper-jack, cheddar or Swiss cheese, shredded"
+    ],
+    "utensils": [
+      "2-quart casserole dish",
+      "Skillet",
+      "Mixing bowl",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Sauté onion and celery in butter until very tender and slightly browned.",
+        "sk": "Opražte cibuľu a zeler na masle, kým nie sú veľmi mäkké a mierne zhnednuté.",
+        "ja": "玉ねぎとセロリをバターで柔らかくなり少し茶色くなるまで炒めます。",
+        "primaryIngredient": "onion and celery"
+      },
+      {
+        "time": 5,
+        "en": "In a greased 2-quart casserole, mix green beans, mushrooms, ham, mayonnaise, and seasonings.",
+        "sk": "V 2-litrovej vymastenej nádobe na zapekanie zmiešajte zelené fazuľky, huby, šunku, majonézu a korenie.",
+        "ja": "2クォートのグリース塗りのキャセロール皿に、グリーンビーンズ、マッシュルーム、ハム、マヨネーズ、調味料を混ぜます。",
+        "primaryIngredient": "green beans and ham mixture"
+      },
+      {
+        "time": 5,
+        "en": "Stir in the sautéed onion mixture, then the shredded cheese.",
+        "sk": "Vmiešajte opraženú cibuľovú zmes, potom nastrúhaný syr.",
+        "ja": "炒めた玉ねぎミックスを加えて混ぜ、次に刻んだチーズを加えます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 30,
+        "en": "Bake uncovered at 350°F (175°C) for 30 minutes, or until browned and bubbly.",
+        "sk": "Pečte nezakryté pri 175°C 30 minút, alebo kým nie je zhnednuté a bublajúce.",
+        "ja": "350°F（175°C）のオーブンで30分間、または表面が茶色くなり泡立つまで蓋をせずに焼きます。",
+        "primaryIngredient": "assembled casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Do not freeze. If assembling ahead of time and chilled, bake an additional 10-15 minutes.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "299",
+      "protein": "16g",
+      "carbohydrates": "8g",
+      "fat": "23g"
+    }
+  }

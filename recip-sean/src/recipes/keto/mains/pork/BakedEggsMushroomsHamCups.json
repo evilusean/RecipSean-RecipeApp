@@ -1,0 +1,63 @@
+{
+    "id": "baked-eggs-mushrooms-ham-cups",
+    "name": "Baked Eggs and Mushrooms in Ham Cups",
+    "ingredients": [
+      "6 ounces fresh mushrooms, finely chopped",
+      "2 tablespoons shallot, minced, 1/2 ounce",
+      "1 tablespoon butter",
+      "1/4 teaspoon salt",
+      "1/8 teaspoon pepper",
+      "1 tablespoon sour cream",
+      "6 thin slices ham (round \"deli\" thin packaged slices)",
+      "6 eggs"
+    ],
+    "utensils": [
+      "Muffin tin",
+      "Skillet",
+      "Spoon",
+      "Butter knife",
+      "Oven"
+    ],
+    "cookingTime": 15,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook mushrooms and shallots in butter with salt and pepper until liquid evaporates. Remove from heat and stir in sour cream.",
+        "sk": "Varte huby a šalotky na masle so soľou a korením, kým sa tekutina neodparí. Odstavte z ohňa a vmiešajte kyslú smotanu.",
+        "ja": "マッシュルームとエシャロットを塩コショウを加えてバターで液体が蒸発するまで炒めます。火を止めてサワークリームを混ぜ込みます。",
+        "primaryIngredient": "mushrooms and shallots"
+      },
+      {
+        "time": 5,
+        "en": "Fit ham slices into greased muffin tin cups. Divide mushroom mixture among ham cups.",
+        "sk": "Vložte plátky šunky do vymazaných formičiek na muffiny. Rozdeľte hubovú zmes medzi šunkové košíčky.",
+        "ja": "ハムのスライスをグリースを塗ったマフィン型に敷きます。マッシュルームの混ぜ物をハムのカップに分けて入れます。",
+        "primaryIngredient": "ham and mushroom mixture"
+      },
+      {
+        "time": 5,
+        "en": "Crack one egg into each cup. Sprinkle with salt and pepper.",
+        "sk": "Rozbite jedno vajce do každého košíčka. Posypte soľou a korením.",
+        "ja": "各カップに卵を1個割り入れます。塩コショウをふります。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 15,
+        "en": "Bake at 400°F for 15 minutes until whites are cooked but yolks are still runny. Check before 15 minutes.",
+        "sk": "Pečte pri 200°C 15 minút, kým bielky nie sú uvarené, ale žĺtky sú stále tekuté. Skontrolujte pred uplynutím 15 minút.",
+        "ja": "400°F（200°C）で15分間、白身が固まり黄身がまだ流動的な状態になるまで焼きます。15分経つ前に確認してください。",
+        "primaryIngredient": "baked egg cups"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-breakfast",
+    "notes": "Makes 3-6 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Cup",
+      "calories": "130",
+      "protein": "12g",
+      "carbohydrates": "2g",
+      "fat": "8g"
+    }
+  }

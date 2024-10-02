@@ -1,0 +1,61 @@
+{
+    "id": "cheesy-pork-casserole",
+    "name": "Cheesy Pork Casserole",
+    "ingredients": [
+      "16 ounce bag frozen cauliflower",
+      "Salt and pepper, to taste",
+      "3 ounces cream cheese with chives and onions",
+      "2 tablespoons heavy cream",
+      "8 ounces cheddar cheese, shredded",
+      "4 servings leftover roast pork, cubed"
+    ],
+    "utensils": [
+      "1 1/2 quart casserole dish",
+      "4-cup glass measure",
+      "Microwave",
+      "Oven",
+      "Mixing spoon"
+    ],
+    "cookingTime": 35,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Cook cauliflower until very tender; drain. Place in casserole dish and season with salt and pepper.",
+        "sk": "Varte karfiol, kým nie je veľmi mäkký; sceďte. Vložte do zapekacej misy a ochuťte soľou a korením.",
+        "ja": "カリフラワーを柔らかくなるまで調理し、水気を切ります。キャセロール皿に入れ、塩コショウで味付けします。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 5,
+        "en": "In a glass measure, microwave cream cheese, cream, and most of the cheddar cheese on MEDIUM for 2-3 minutes, stirring occasionally until creamy.",
+        "sk": "V sklenenej odmerke mikrovlnne zohrievajte krémový syr, smotanu a väčšinu čedaru na STREDNOM výkone 2-3 minúty, občas premiešajte, kým nie je krémové.",
+        "ja": "ガラス計量カップにクリームチーズ、クリーム、ほとんどのチェダーチーズを入れ、電子レンジの中火で2-3分加熱し、時々かき混ぜてクリーミーにします。",
+        "primaryIngredient": "cheese mixture"
+      },
+      {
+        "time": 5,
+        "en": "Pour cheese mixture over cauliflower and mix well. Stir in cubed pork and season to taste. Top with reserved cheese.",
+        "sk": "Nalejte syrovú zmes na karfiol a dobre premiešajte. Vmiešajte nakrájanú bravčovinu a ochuťte podľa chuti. Posypte zvyšným syrom.",
+        "ja": "チーズミックスをカリフラワーにかけてよく混ぜます。角切りの豚肉を加えて味を調え、残りのチーズをトッピングします。",
+        "primaryIngredient": "assembled casserole"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 35 minutes, until bubbly and starting to brown on top.",
+        "sk": "Pečte pri 175°C 35 minút, kým nie je bublajúce a začne sa zvrchu hnednúť.",
+        "ja": "350°F（175°C）のオーブンで35分間、泡立ち表面が茶色くなり始めるまで焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "484",
+      "protein": "30g",
+      "carbohydrates": "8g",
+      "fat": "38g"
+    }
+  }

@@ -1,0 +1,56 @@
+{
+    "id": "mexican-spinach-sausage-casserole",
+    "name": "Mexican Spinach & Sausage Casserole",
+    "ingredients": [
+      "1 pound bulk pork sausage",
+      "10 ounce package frozen chopped spinach, thawed and well-drained",
+      "8 ounce cream cheese, softened",
+      "1/3 cup sour cream",
+      "4 ounces cheddar cheese, shredded",
+      "2 teaspoons Seasoning for Tacos",
+      "10 ounce can Ro-tel tomatoes, drained (diced tomatoes with green chiles)",
+      "1/4 cup canned sliced pickled jalapeños"
+    ],
+    "utensils": [
+      "2 1/2-quart casserole dish",
+      "Large skillet",
+      "Mixing bowl",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the sausage in a skillet and drain the fat.",
+        "sk": "Opečte klobásu na panvici a zlejte tuk.",
+        "ja": "フライパンでソーセージを炒めて脂肪を切ります。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 10,
+        "en": "In a greased 2 1/2-quart casserole dish, combine browned sausage with all remaining ingredients. Mix well.",
+        "sk": "V mastnej 2,5 litrovej zapekacej miske zmiešajte opečenú klobásu so všetkými zvyšnými ingredienciami. Dobre premiešajte.",
+        "ja": "グリースを塗った2.5クォートのキャセロール皿に、炒めたソーセージと残りの全ての材料を入れてよく混ぜます。",
+        "primaryIngredient": "mixed casserole"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for about 40 minutes or until bubbly and browned on top.",
+        "sk": "Pečte pri teplote 175°C asi 40 minút alebo kým nie je bublajúce a zhnednuté na povrchu.",
+        "ja": "350°F（175°C）のオーブンで約40分、または表面が泡立ち茶色くなるまで焼きます。",
+        "primaryIngredient": "baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "503",
+      "protein": "25g",
+      "carbohydrates": "7g",
+      "fat": "43g"
+    }
+  }

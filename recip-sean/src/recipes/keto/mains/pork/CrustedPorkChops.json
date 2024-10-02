@@ -1,0 +1,59 @@
+{
+    "id": "aunt-lindas-crusted-pork-chops",
+    "name": "Aunt Linda's Crusted Pork Chops",
+    "ingredients": [
+      "1 thick boneless pork chop, preferably with a little fat on it, about 6 ounces",
+      "1 tablespoon mayonnaise",
+      "1 ounce parmesan cheese, 1/4 cup (the kind in a can)",
+      "1 thin slice of onion",
+      "Salt, pepper or desired seasoning",
+      "1 teaspoon butter, optional"
+    ],
+    "utensils": [
+      "Baking dish",
+      "Measuring spoons",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Place pork chop in a greased baking dish. Season liberally on both sides.",
+        "sk": "Vložte bravčovú kotletu do vymastenej zapekacej misky. Dôkladne ochuťte z oboch strán.",
+        "ja": "グリースを塗ったベーキング皿に豚肉を置きます。両面に十分な調味料をふります。",
+        "primaryIngredient": "pork chop"
+      },
+      {
+        "time": 3,
+        "en": "Top pork chop with mayonnaise, then parmesan cheese.",
+        "sk": "Na bravčovú kotletu naneste majonézu a potom parmezán.",
+        "ja": "豚肉の上にマヨネーズを塗り、その上にパルメザンチーズをかけます。",
+        "primaryIngredient": "mayonnaise and cheese"
+      },
+      {
+        "time": 1,
+        "en": "Place a thin onion slice on top and add a pat of butter if desired.",
+        "sk": "Na vrch položte tenký plátok cibule a podľa chuti pridajte kúsok masla.",
+        "ja": "上に薄切りの玉ねぎを置き、お好みでバターを少量のせます。",
+        "primaryIngredient": "onion and butter"
+      },
+      {
+        "time": 40,
+        "en": "Bake uncovered at 350-375°F (175-190°C) for about 40 minutes or until meat is done. Check after 35-40 minutes.",
+        "sk": "Pečte nezakryté pri teplote 175-190°C asi 40 minút alebo kým nie je mäso hotové. Skontrolujte po 35-40 minútach.",
+        "ja": "350-375°F（175-190°C）のオーブンで蓋をせずに約40分、または肉が焼けるまで調理します。35-40分後に確認してください。",
+        "primaryIngredient": "baked pork chop"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Can be frozen. Original recipe suggests 1 hour cooking time, but it's recommended to check earlier, around 35-40 minutes.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "581",
+      "protein": "33g",
+      "carbohydrates": "3g",
+      "fat": "48g"
+    }
+  }

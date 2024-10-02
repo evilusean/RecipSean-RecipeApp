@@ -1,0 +1,60 @@
+{
+    "id": "breadless-blt-sandwich",
+    "name": "Breadless BLT Sandwich",
+    "ingredients": [
+      "2 slices Deluxe American cheese",
+      "1 tablespoon mayonnaise",
+      "1/2 ounce lettuce",
+      "2 slices cooked bacon",
+      "1 1/2-2 ounces sliced tomato"
+    ],
+    "utensils": [
+      "Microwave",
+      "Parchment paper",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons"
+    ],
+    "cookingTime": 2,
+    "prepTime": 8,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Make two cheese crisps by microwaving cheese slices on parchment paper for 30-60 seconds each until brown.",
+        "sk": "Pripravte dva syrové chipsy mikrovlnením plátkov syra na papieri na pečenie po 30-60 sekúnd, kým nezhnednú.",
+        "ja": "パーチメント紙の上でチーズスライスを30〜60秒ずつ電子レンジで加熱し、茶色になるまで2枚のチーズクリスプを作ります。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Remove cheese crisps from parchment paper and let cool.",
+        "sk": "Vyberte syrové chipsy z papiera na pečenie a nechajte vychladnúť.",
+        "ja": "チーズクリスプをパーチメント紙から取り出し、冷まします。",
+        "primaryIngredient": "cheese crisps"
+      },
+      {
+        "time": 2,
+        "en": "Spread mayonnaise on the bottom sides of both cheese crisps.",
+        "sk": "Natrite majonézu na spodné strany oboch syrových chipsov.",
+        "ja": "両方のチーズクリスプの下側にマヨネーズを塗ります。",
+        "primaryIngredient": "mayonnaise"
+      },
+      {
+        "time": 3,
+        "en": "Top one cheese crisp with lettuce, bacon, and tomato. Place the second cheese crisp on top to create a sandwich.",
+        "sk": "Na jeden syrový chips položte šalát, slaninu a paradajku. Na vrch položte druhý syrový chips, aby ste vytvorili sendvič.",
+        "ja": "一方のチーズクリスプにレタス、ベーコン、トマトをのせます。もう一方のチーズクリスプを上に置いてサンドイッチを作ります。",
+        "primaryIngredient": "assembled sandwich"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-lunch",
+    "notes": "Makes 1 serving.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "407",
+      "protein": "19g",
+      "carbohydrates": "4g",
+      "fat": "35g"
+    }
+  }

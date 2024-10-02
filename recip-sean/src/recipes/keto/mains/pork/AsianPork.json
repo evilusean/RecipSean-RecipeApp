@@ -1,0 +1,56 @@
+{
+  "id": "asian-pork",
+  "name": "Asian Pork",
+  "ingredients": [
+    "Pork loin roast, approximately 4-6 pounds",
+    "5 tablespoons soy sauce",
+    "1/4 cup granulated Splenda",
+    "1/4 teaspoon pepper",
+    "1/4 cup green onions, chopped, 1 ounce or about 1 1/2 green onions",
+    "1 tablespoon garlic, minced",
+    "1 tablespoon sesame oil",
+    "5 tablespoons water"
+  ],
+  "utensils": [
+    "Crock pot",
+    "Measuring spoons and cups",
+    "Mixing bowl",
+    "Knife",
+    "Cutting board"
+  ],
+  "cookingTime": 480,
+  "prepTime": 15,
+  "instructions": [
+    {
+      "time": 5,
+      "en": "Put the meat in a crock pot, fat side up, cutting the roast in half to fit if necessary.",
+      "sk": "Vložte mäso do pomalého hrnca tučnou stranou nahor, v prípade potreby rozrežte pečienku na polovicu, aby sa zmestila.",
+      "ja": "肉を脂肪側を上にしてクロックポットに入れます。必要に応じて半分に切って入れてください。",
+      "primaryIngredient": "pork loin roast"
+    },
+    {
+      "time": 10,
+      "en": "Mix the remaining ingredients and pour over the meat.",
+      "sk": "Zmiešajte zvyšné prísady a nalejte na mäso.",
+      "ja": "残りの材料を混ぜ、肉の上にかけます。",
+      "primaryIngredient": "sauce mixture"
+    },
+    {
+      "time": 480,
+      "en": "Cook on LOW 8 hours, basting with the sauce occasionally.",
+      "sk": "Varte na NÍZKEJ teplote 8 hodín, občas polievajte omáčkou.",
+      "ja": "低温で8時間調理し、時々ソースをかけます。",
+      "primaryIngredient": "cooked pork"
+    }
+  ],
+  "favorite": false,
+  "recipeType": "keto-main",
+  "notes": "Makes about 8-10 servings, depending on the size of the roast. Can be frozen.",
+  "nutritionalInformation": {
+    "amount": "Per 1/8 Recipe",
+    "calories": "324",
+    "protein": "24g",
+    "carbohydrates": "2g",
+    "fat": "24g"
+  }
+}

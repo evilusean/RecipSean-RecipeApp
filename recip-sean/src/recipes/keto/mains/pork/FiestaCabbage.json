@@ -1,0 +1,63 @@
+{
+    "id": "fiesta-cabbage",
+    "name": "Fiesta Cabbage",
+    "ingredients": [
+      "1 pound Boar's Head kielbasa *",
+      "2 tablespoons butter",
+      "4 ounces red onion, diced, 1 medium",
+      "1 green pepper, diced",
+      "2 pounds cabbage, chopped, 1 medium head",
+      "14.5 ounce can diced tomatoes, undrained",
+      "1 teaspoon salt",
+      "1/2 teaspoon pepper"
+    ],
+    "utensils": [
+      "Very large nonstick skillet or wok",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Can opener"
+    ],
+    "cookingTime": 25,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Cut kielbasa on the bias into 1/4-inch slices and brown in skillet. Remove and reserve drippings.",
+        "sk": "Nakrájajte klobásu šikmo na 1/4-palcové plátky a opečte na panvici. Vyberte a odložte výpek.",
+        "ja": "キルバサを斜めに1/4インチの厚さに切り、フライパンで焼き色をつけます。取り出して油を残します。",
+        "primaryIngredient": "kielbasa"
+      },
+      {
+        "time": 3,
+        "en": "Add butter to skillet. Sauté onion and green pepper in drippings and butter over medium-high heat for 3 minutes.",
+        "sk": "Pridajte maslo do panvice. Opražte cibuľu a zelenú papriku vo výpeku a masle na stredne vysokom ohni 3 minúty.",
+        "ja": "フライパンにバターを加えます。中高温で玉ねぎとピーマンを残った油とバターで3分間炒めます。",
+        "primaryIngredient": "onion and pepper"
+      },
+      {
+        "time": 15,
+        "en": "Stir in cabbage, sausage, tomatoes, salt and pepper. Cover and cook on low heat for 15 minutes or until cabbage is tender.",
+        "sk": "Primiešajte kapustu, klobásu, paradajky, soľ a korenie. Prikryte a varte na miernom ohni 15 minút alebo kým kapusta nezmäkne.",
+        "ja": "キャベツ、ソーセージ、トマト、塩、コショウを加えて混ぜます。蓋をして弱火で15分間、またはキャベツが柔らかくなるまで調理します。",
+        "primaryIngredient": "cabbage mixture"
+      },
+      {
+        "time": 5,
+        "en": "Uncover during the last 5 minutes to allow some liquid to evaporate if needed.",
+        "sk": "V prípade potreby odkryte posledných 5 minút, aby sa odparila časť tekutiny.",
+        "ja": "必要に応じて最後の5分間は蓋を取り、液体を蒸発させます。",
+        "primaryIngredient": "finished dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen. *Any kielbasa or smoked sausage with no sugar added can be used.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "257",
+      "protein": "15g",
+      "carbohydrates": "14g",
+      "fat": "18g"
+    }
+  }

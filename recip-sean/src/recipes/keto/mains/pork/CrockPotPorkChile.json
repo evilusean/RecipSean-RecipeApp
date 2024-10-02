@@ -1,0 +1,64 @@
+{
+    "id": "crock-pot-pork-chile-verde",
+    "name": "Crock Pot Pork Chile Verde",
+    "ingredients": [
+      "4 1/2 pound Boston butt pork roast",
+      "Salt and pepper",
+      "1 medium onion, diced (4 ounces)",
+      "7.76 ounce can Mexican green salsa",
+      "2 teaspoons chili powder",
+      "1 teaspoon cumin",
+      "2 cloves garlic, minced",
+      "1/2 teaspoon xanthan gum, optional"
+    ],
+    "utensils": [
+      "Slow cooker",
+      "Small bowl",
+      "Knife",
+      "Cutting board",
+      "Measuring spoons",
+      "Two forks or tongs"
+    ],
+    "cookingTime": 480,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Trim visible fat from pork roast. Place in slow cooker and season with salt and pepper.",
+        "sk": "Odstráňte viditeľný tuk z bravčového mäsa. Vložte do pomalého hrnca a ochuťte soľou a korením.",
+        "ja": "豚肉の目に見える脂肪を取り除きます。スロークッカーに入れ、塩コショウで味付けします。",
+        "primaryIngredient": "pork roast"
+      },
+      {
+        "time": 5,
+        "en": "Mix onion, salsa, chili powder, cumin, and garlic in a small bowl. Pour over the roast.",
+        "sk": "V malej miske zmiešajte cibuľu, salsu, čili prášok, rascu a cesnak. Nalejte na pečienku.",
+        "ja": "小さなボウルに玉ねぎ、サルサ、チリパウダー、クミン、ニンニクを混ぜます。ローストの上にかけます。",
+        "primaryIngredient": "seasoning mixture"
+      },
+      {
+        "time": 480,
+        "en": "Cook on LOW for 8 hours or until meat falls apart.",
+        "sk": "Varte na NÍZKEJ teplote 8 hodín alebo kým sa mäso nerozpadá.",
+        "ja": "低温で8時間、または肉がほぐれるまで調理します。",
+        "primaryIngredient": "cooked pork"
+      },
+      {
+        "time": 10,
+        "en": "Remove bone and shred meat using forks or tongs. Optionally, sprinkle xanthan gum over meat and stir to thicken sauce.",
+        "sk": "Odstráňte kosť a mäso natrhajte pomocou vidličiek alebo klieští. Voliteľne posypte xantánovou gumou a premiešajte na zahustenie omáčky.",
+        "ja": "骨を取り除き、フォークまたはトングを使って肉をほぐします。必要に応じてキサンタンガムをふりかけ、ソースを濃くするために混ぜます。",
+        "primaryIngredient": "shredded pork"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes about 8 servings. Can be frozen. Serve as is or with low carb tortillas or over chopped lettuce with toppings of your choice (not included in nutritional information).",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "459",
+      "protein": "39g",
+      "carbohydrates": "3g",
+      "fat": "31g"
+    }
+  }

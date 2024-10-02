@@ -1,0 +1,63 @@
+{
+    "id": "full-english-breakfast",
+    "name": "Full English Breakfast",
+    "ingredients": [
+      "2 eggs",
+      "3 slices Canadian bacon",
+      "2 sausage links, brown and serve",
+      "1 Roma tomato, halved lengthwise",
+      "2 ounces fresh mushrooms, quartered",
+      "1 tablespoon butter",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Small skillet",
+      "Spatula",
+      "Knife",
+      "Cutting board",
+      "Dinner plate"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Heat butter in a large skillet. Sauté mushrooms until tender, season with salt and pepper. Remove and keep warm.",
+        "sk": "Rozohrejte maslo na veľkej panvici. Opečte huby do mäkka, ochuťte soľou a korením. Vyberte a udržujte teplé.",
+        "ja": "大きなフライパンでバターを熱し、マッシュルームを柔らかくなるまで炒めて塩コショウで味付けします。取り出して温めておきます。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 7,
+        "en": "In the same skillet, cook tomatoes, bacon, and sausage links until heated through and browned on both sides. Season tomatoes with salt and pepper.",
+        "sk": "Na tej istej panvici opečte paradajky, slaninu a klobásky, kým nie sú prepečené a opečené z oboch strán. Ochuťte paradajky soľou a korením.",
+        "ja": "同じフライパンでトマト、ベーコン、ソーセージを両面が焼けて温まるまで調理します。トマトに塩コショウをふります。",
+        "primaryIngredient": "tomatoes, bacon, and sausage"
+      },
+      {
+        "time": 3,
+        "en": "In a small skillet, fry or scramble the eggs in the remaining butter.",
+        "sk": "Na malej panvici usmažte alebo pomiešajte vajcia na zvyšnom masle.",
+        "ja": "小さなフライパンで残りのバターを使って卵を焼くか、スクランブルエッグを作ります。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 2,
+        "en": "Arrange all components on a dinner plate and serve.",
+        "sk": "Všetky komponenty usporiadajte na tanier a podávajte.",
+        "ja": "すべての具材をディナープレートに盛り付けて提供します。",
+        "primaryIngredient": "assembled breakfast"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-breakfast",
+    "notes": "Makes 1 serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "592",
+      "protein": "33g",
+      "carbohydrates": "9g",
+      "fat": "48g"
+    }
+  }

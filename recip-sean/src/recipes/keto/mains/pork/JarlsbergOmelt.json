@@ -1,0 +1,63 @@
+{
+    "id": "jarlsberg-omelet",
+    "name": "Jarlsberg Omelet",
+    "ingredients": [
+      "4 medium mushrooms, sliced, 2 ounces",
+      "1 green onion, sliced",
+      "1 tablespoon butter",
+      "2 eggs, beaten",
+      "1 ounce Jarlsberg or Swiss cheese, shredded",
+      "1 ounce ham, diced",
+      "Salt, to taste"
+    ],
+    "utensils": [
+      "Large nonstick skillet",
+      "Knife",
+      "Cutting board",
+      "Mixing bowl",
+      "Whisk or fork",
+      "Spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Sauté mushrooms and green onion in half the butter until mushrooms are tender. Season with salt, remove from pan, and set aside.",
+        "sk": "Opražte huby a jarnú cibuľku v polovici masla, kým huby nezmäknú. Osoľte, vyberte z panvice a odložte bokom.",
+        "ja": "バターの半分でマッシュルームと青ねぎを炒め、マッシュルームが柔らかくなるまで調理します。塩で味付けし、フライパンから取り出して脇に置きます。",
+        "primaryIngredient": "mushrooms and green onion"
+      },
+      {
+        "time": 3,
+        "en": "Heat remaining butter over medium heat. Pour in beaten eggs and tilt pan to coat bottom.",
+        "sk": "Rozohrejte zvyšok masla na strednom ohni. Nalejte rozšľahané vajcia a nakloňte panvicu, aby sa pokrylo dno.",
+        "ja": "残りのバターを中火で熱します。溶き卵を注ぎ、フライパンを傾けて底全体に広げます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "Sprinkle with salt and top one side with mushroom mixture, cheese, and ham.",
+        "sk": "Posoľte a na jednu stranu položte hubovú zmes, syr a šunku.",
+        "ja": "塩をふり、片側にマッシュルームミックス、チーズ、ハムをのせます。",
+        "primaryIngredient": "omelet fillings"
+      },
+      {
+        "time": 2,
+        "en": "When egg is nearly set, fold plain side over filled side. Turn off heat and let stand until cheese melts.",
+        "sk": "Keď je vajce takmer hotové, preložte prázdnu stranu cez plnenú stranu. Vypnite oheň a nechajte stáť, kým sa syr neroztopí.",
+        "ja": "卵がほぼ固まったら、具材のない側を具材のある側に折りたたみます。火を止め、チーズが溶けるまで置いておきます。",
+        "primaryIngredient": "folded omelet"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-breakfast",
+    "notes": "Makes 1 serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "427",
+      "protein": "27g",
+      "carbohydrates": "7g",
+      "fat": "33g"
+    }
+  }

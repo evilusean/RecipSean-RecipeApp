@@ -1,0 +1,55 @@
+{
+    "id": "danas-hot-dog-scramble",
+    "name": "Dana's Hot Dog Scramble",
+    "ingredients": [
+      "1 tablespoon butter",
+      "2 Kosher hot dogs, sliced diagonally *",
+      "1 1/4 ounces onion, chopped, 1/2 small",
+      "4 eggs, beaten",
+      "Salt and pepper, to taste",
+      "2 ounces cheddar or Deluxe American cheese, shredded or diced *"
+    ],
+    "utensils": [
+      "Medium nonstick skillet",
+      "Knife",
+      "Cutting board",
+      "Mixing bowl",
+      "Whisk or fork",
+      "Spatula"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Heat butter in a medium nonstick skillet over medium heat. Add sliced hot dogs and chopped onions. Cook until onion is tender and hot dogs have browned.",
+        "sk": "Na strednom ohni rozohrejte maslo v stredne veľkej nepriľnavej panvici. Pridajte nakrájané párky a nasekanú cibuľu. Varte, kým cibuľa nezmäkne a párky nezhnednú.",
+        "ja": "中火で中サイズのノンスティックフライパンにバターを熱し、スライスしたホットドッグとみじん切りの玉ねぎを加えます。玉ねぎが柔らかくなり、ホットドッグが茶色くなるまで調理します。",
+        "primaryIngredient": "hot dogs and onions"
+      },
+      {
+        "time": 7,
+        "en": "Add beaten eggs, salt, and pepper. Cook over medium-low heat until nearly done.",
+        "sk": "Pridajte rozšľahané vajcia, soľ a korenie. Varte na stredne nízkom ohni, kým nie sú takmer hotové.",
+        "ja": "溶き卵、塩、コショウを加えます。中低温で、ほぼ火が通るまで調理します。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 3,
+        "en": "Add cheese and continue cooking until eggs are set and cheese is melted.",
+        "sk": "Pridajte syr a pokračujte vo varení, kým sa vajcia neustália a syr sa neroztopí.",
+        "ja": "チーズを加え、卵が固まりチーズが溶けるまで調理を続けます。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-breakfast",
+    "notes": "Makes 2 servings. Do not freeze. *The carb counts are based on using hot dogs that have 1 net carb each and Deluxe American cheese, not cheese food singles.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "462",
+      "protein": "25g",
+      "carbohydrates": "4g",
+      "fat": "39g"
+    }
+  }

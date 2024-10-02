@@ -1,0 +1,73 @@
+{
+    "id": "creamy-ham-and-potato-casserole",
+    "name": "Creamy Ham and \"Potato\" Casserole",
+    "ingredients": [
+      "2 pounds frozen cauliflower",
+      "8 ounces cream cheese",
+      "1/4 cup sour cream",
+      "1 1/2 ounces green onion, chopped, 1 bunch",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon pepper",
+      "8 ounces sharp cheddar cheese, shredded",
+      "12 ounces ham, diced, about 2 cups",
+      "Paprika or Spicy Seasoning Salt for garnish"
+    ],
+    "utensils": [
+      "2 1/2-3 quart casserole dish with lid",
+      "Large pot for cooking cauliflower",
+      "Colander",
+      "Knife",
+      "Cutting board",
+      "Mixing spoon",
+      "Oven"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "Cook cauliflower until very tender; drain well. Roughly cut florets into small, chunky pieces.",
+        "sk": "Varte karfiol, kým nie je veľmi mäkký; dobre sceďte. Nakrájajte ružičky nahrubo na malé kúsky.",
+        "ja": "カリフラワーを柔らかくなるまで調理し、よく水気を切ります。小さめの粗めの形に切ります。",
+        "primaryIngredient": "cauliflower"
+      },
+      {
+        "time": 10,
+        "en": "In a greased casserole dish, mix cauliflower with cream cheese, sour cream, green onion, salt, pepper, cheddar cheese, and ham.",
+        "sk": "V mastnej zapekacej miske zmiešajte karfiol s krémovým syrom, kyslou smotanou, jarnou cibuľkou, soľou, korením, čedarom a šunkou.",
+        "ja": "グリースを塗ったキャセロール皿にカリフラワー、クリームチーズ、サワークリーム、青ねぎ、塩、コショウ、チェダーチーズ、ハムを混ぜます。",
+        "primaryIngredient": "mixed casserole"
+      },
+      {
+        "time": 2,
+        "en": "Adjust seasoning if necessary and sprinkle top with paprika or Spicy Seasoning Salt.",
+        "sk": "V prípade potreby upravte korenenie a posypte vrch paprikou alebo pikantnou koreninovou soľou.",
+        "ja": "必要に応じて味を調整し、上からパプリカまたはスパイシーシーズニングソルトをふりかけます。",
+        "primaryIngredient": "seasoned casserole"
+      },
+      {
+        "time": 30,
+        "en": "Cover and bake at 350°F (175°C) for 30 minutes.",
+        "sk": "Prikryte a pečte pri 175°C 30 minút.",
+        "ja": "蓋をして350°F（175°C）のオーブンで30分間焼きます。",
+        "primaryIngredient": "partially baked casserole"
+      },
+      {
+        "time": 20,
+        "en": "Uncover and bake for another 20 minutes until browned and bubbly.",
+        "sk": "Odkryte a pečte ďalších 20 minút, kým nie je zhnednuté a bublajúce.",
+        "ja": "蓋を取り、さらに20分間焼いて表面が茶色くなり泡立つまで調理します。",
+        "primaryIngredient": "fully baked casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "335",
+      "protein": "19g",
+      "carbohydrates": "8g",
+      "fat": "26g"
+    }
+  }

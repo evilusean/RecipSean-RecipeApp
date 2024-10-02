@@ -1,0 +1,63 @@
+{
+    "id": "italian-sausage-with-peppers-onions-tomato-cheese",
+    "name": "Italian Sausage with Onions, Peppers, Tomato Sauce and Cheese",
+    "ingredients": [
+      "19 1/2 ounces Italian sausage links, about 5 links",
+      "2 tablespoons oil",
+      "1 large green pepper",
+      "1 large red pepper",
+      "1 large onion, 5 1/4 ounces",
+      "1 clove garlic, chopped",
+      "1/2 cup spaghetti sauce",
+      "4 ounces mozzarella cheese, shredded, 1 cup"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Knife",
+      "Cutting board",
+      "Measuring cups",
+      "Spatula or tongs"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Heat oil in a large skillet on medium heat and brown the sausages.",
+        "sk": "Na strednom ohni rozohrejte olej vo veľkej panvici a opečte klobásy.",
+        "ja": "大きなフライパンで中火で油を熱し、ソーセージを焼き色がつくまで調理します。",
+        "primaryIngredient": "sausages"
+      },
+      {
+        "time": 10,
+        "en": "Cut peppers and onion into thick slices or chunks. When sausage is half done, add peppers, onions, and garlic. Cook until sausage is done and vegetables are tender-crisp.",
+        "sk": "Nakrájajte papriky a cibuľu na hrubé plátky alebo kúsky. Keď sú klobásy napoly hotové, pridajte papriky, cibuľu a cesnak. Varte, kým nie sú klobásy hotové a zelenina chrumkavá.",
+        "ja": "ピーマンと玉ねぎを厚めにスライスまたは一口大に切ります。ソーセージが半分程度焼けたら、ピーマン、玉ねぎ、ニンニクを加えます。ソーセージに火が通り、野菜がシャキッとするまで調理します。",
+        "primaryIngredient": "peppers and onions"
+      },
+      {
+        "time": 5,
+        "en": "Remove and slice sausages diagonally into bite-size pieces. Return to skillet. Stir in spaghetti sauce, cover, and simmer for 5 minutes.",
+        "sk": "Vyberte a nakrájajte klobásy šikmo na kúsky. Vráťte do panvice. Vmiešajte paradajkovú omáčku, prikryte a varte 5 minút.",
+        "ja": "ソーセージを取り出し、斜めに一口大にスライスします。フライパンに戻し、スパゲッティソースを加えて混ぜ、蓋をして5分間煮込みます。",
+        "primaryIngredient": "sliced sausages and sauce"
+      },
+      {
+        "time": 5,
+        "en": "Sprinkle with cheese, turn off heat, and cover to melt the cheese.",
+        "sk": "Posypte syrom, vypnite oheň a prikryte, aby sa syr roztopil.",
+        "ja": "チーズをふりかけ、火を止めて蓋をし、チーズを溶かします。",
+        "primaryIngredient": "cheese"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4-5 servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "682",
+      "protein": "28g",
+      "carbohydrates": "11g",
+      "fat": "58g"
+    }
+  }

@@ -1,0 +1,59 @@
+{
+    "id": "blt-wraps",
+    "name": "BLT Wraps",
+    "ingredients": [
+      "2 romaine, iceberg or Boston lettuce leaves",
+      "4 slices bacon, fried crisp",
+      "1 tablespoon mayonnaise",
+      "1/4 cup tomato, chopped, about 1 1/2 ounces",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Knife",
+      "Cutting board",
+      "Frying pan (for bacon)",
+      "Measuring spoons"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Spread mayonnaise on one side of each lettuce leaf.",
+        "sk": "Natrite majonézu na jednu stranu každého listu šalátu.",
+        "ja": "レタスの葉の片面にマヨネーズを塗ります。",
+        "primaryIngredient": "lettuce and mayonnaise"
+      },
+      {
+        "time": 3,
+        "en": "Arrange bacon and chopped tomato in the center of each leaf.",
+        "sk": "Rozložte slaninu a nakrájané paradajky do stredu každého listu.",
+        "ja": "各葉の中央にベーコンと刻んだトマトを並べます。",
+        "primaryIngredient": "bacon and tomato"
+      },
+      {
+        "time": 1,
+        "en": "Season with salt and pepper to taste.",
+        "sk": "Ochuťte soľou a korením podľa chuti.",
+        "ja": "塩コショウで味を調えます。",
+        "primaryIngredient": "seasoning"
+      },
+      {
+        "time": 1,
+        "en": "Roll up each leaf and serve.",
+        "sk": "Každý list zrolujte a podávajte.",
+        "ja": "各葉を巻いて提供します。",
+        "primaryIngredient": "assembled wrap"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-lunch",
+    "notes": "Makes 1 serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "256",
+      "protein": "8g",
+      "carbohydrates": "3g",
+      "fat": "24g"
+    }
+  }

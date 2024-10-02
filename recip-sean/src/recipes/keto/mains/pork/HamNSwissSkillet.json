@@ -1,0 +1,67 @@
+{
+    "id": "ham-and-swiss-skillet",
+    "name": "Ham and Swiss Skillet",
+    "ingredients": [
+      "1 cup mushrooms, sliced, 2 1/2 ounces",
+      "1 green onion, sliced",
+      "1 tablespoon butter",
+      "1 small zucchini, chopped fine, 4 ounces",
+      "3/4 cup ham, chopped fine, about 3 slices lunchmeat",
+      "6 eggs",
+      "Dash salt",
+      "Dash pepper",
+      "2 ounces Swiss cheese",
+      "Chives, for garnish"
+    ],
+    "utensils": [
+      "Large skillet (preferably oven-proof)",
+      "Mixing bowl",
+      "Whisk or fork",
+      "Knife",
+      "Cutting board",
+      "Spatula",
+      "Broiler or microwave"
+    ],
+    "cookingTime": 20,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 7,
+        "en": "Sauté mushrooms, green onion, and zucchini in butter until tender. Season with salt and pepper. Stir in ham and sauté until hot.",
+        "sk": "Opražte huby, jarnú cibuľku a cuketu na masle do mäkka. Ochuťte soľou a korením. Vmiešajte šunku a opražte do horúca.",
+        "ja": "マッシュルーム、青ねぎ、ズッキーニをバターで柔らかくなるまで炒めます。塩コショウで味付けし、ハムを加えて熱くなるまで炒めます。",
+        "primaryIngredient": "vegetables and ham"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs with salt and pepper. Pour over ingredients in skillet. Cook on low until set on bottom and edges, lifting edges to let raw egg flow underneath.",
+        "sk": "Rozšľahajte vajcia so soľou a korením. Nalejte na ingrediencie v panvici. Varte na miernom ohni, kým sa nespodok a okraje neustália, pričom zdvíhajte okraje, aby surové vajce pretieklo pod ne.",
+        "ja": "卵を塩コショウと混ぜ、フライパンの具材の上に注ぎます。底と端が固まるまで弱火で調理し、端を持ち上げて生卵を下に流し込みます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 3,
+        "en": "Top with Swiss cheese. Broil 5 inches from heat for 1-2 minutes to melt cheese. Alternatively, microwave for 2-3 minutes if skillet isn't oven-proof.",
+        "sk": "Posypte švajčiarskym syrom. Grilujte 5 palcov od tepla 1-2 minúty, aby sa syr roztopil. Alternatívne, ak panvica nie je vhodná do rúry, použite mikrovlnku na 2-3 minúty.",
+        "ja": "スイスチーズをのせます。オーブンの熱源から5インチ離して1-2分焼き、チーズを溶かします。フライパンがオーブン対応でない場合は、電子レンジで2-3分加熱します。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 1,
+        "en": "Sprinkle with chives for garnish.",
+        "sk": "Posypte pažítkou na ozdobu.",
+        "ja": "飾り用にチャイブをふりかけます。",
+        "primaryIngredient": "chives"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-breakfast",
+    "notes": "Makes 4-6 servings. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "246",
+      "protein": "18g",
+      "carbohydrates": "4g",
+      "fat": "17g"
+    }
+  }

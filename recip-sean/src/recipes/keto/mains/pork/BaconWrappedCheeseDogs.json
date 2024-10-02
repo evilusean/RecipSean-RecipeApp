@@ -1,0 +1,57 @@
+{
+    "id": "bacon-wrapped-hot-dogs",
+    "name": "Bacon-Wrapped Hot Dogs",
+    "ingredients": [
+      "1 hot dog",
+      "2/3 ounce chunk cheddar cheese",
+      "1 slice bacon, thin sliced recommended"
+    ],
+    "utensils": [
+      "Knife",
+      "Baking sheet",
+      "Aluminum foil",
+      "Broiler"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Split hot dogs lengthwise but not all the way through. Open up flat.",
+        "sk": "Rozrežte párky pozdĺžne, ale nie úplne. Rozložte naplocho.",
+        "ja": "ホットドッグを縦に切り込みを入れますが、完全には切り離さないでください。平らに開きます。",
+        "primaryIngredient": "hot dog"
+      },
+      {
+        "time": 2,
+        "en": "Cut cheese into 2 or 3 little sticks and insert into the hot dog slits.",
+        "sk": "Nakrájajte syr na 2 alebo 3 malé tyčinky a vložte ich do zárezov v párkoch.",
+        "ja": "チーズを2〜3本の小さな棒状に切り、ホットドッグの切り込みに挿入します。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 3,
+        "en": "Wrap a strip of bacon around the hot dog from end to end, distributing evenly.",
+        "sk": "Obaľte pásik slaniny okolo párku od jedného konca k druhému, rovnomerne ho rozložte.",
+        "ja": "ベーコンの細切りをホットドッグの端から端まで均等に巻きつけます。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Place on foil-lined baking sheet and broil until bacon is crisp, watching closely to prevent burning.",
+        "sk": "Položte na plech vyložený alobalom a grilujte, kým slanina nie je chrumkavá. Pozorne sledujte, aby sa nepripálili.",
+        "ja": "アルミホイルを敷いたベーキングシートに置き、ベーコンがカリカリになるまでブロイルします。焦げないように注意深く見守ってください。",
+        "primaryIngredient": "assembled hot dog"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "The carb count will vary depending on the brand of hot dogs. Oscar Mayer bun-length hot dogs have about 1 carb each. Hebrew National, Nathan's, Boar's Head and Oscar Mayer all make hot dogs that have about 2 carbs or less each. It took about 2 ounces of cheese for three hot dogs.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Recipe",
+      "calories": "269",
+      "protein": "14g",
+      "carbohydrates": "1g",
+      "fat": "24g"
+    }
+  }

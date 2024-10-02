@@ -1,0 +1,51 @@
+{
+    "id": "chipotle-pork-chops",
+    "name": "Chipotle Pork Chops",
+    "ingredients": [
+      "6-8 boneless or bone-in pork chops",
+      "Salt, to taste",
+      "2 teaspoons chipotle chile powder",
+      "1/4 teaspoon garlic powder",
+      "1/8 teaspoon onion powder"
+    ],
+    "utensils": [
+      "Grill",
+      "Small mixing bowl",
+      "Measuring spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix chipotle chile powder, garlic powder, onion powder, and salt in a small bowl.",
+        "sk": "V malej miske zmiešajte čili prášok chipotle, cesnakový prášok, cibuľový prášok a soľ.",
+        "ja": "小さなボウルにチポトレチリパウダー、ガーリックパウダー、オニオンパウダー、塩を混ぜます。",
+        "primaryIngredient": "spice mixture"
+      },
+      {
+        "time": 5,
+        "en": "Rub the seasoning mixture all over the pork chops.",
+        "sk": "Potrite zmesou korenia celé bravčové kotlety.",
+        "ja": "調味料ミックスを豚肉の全体にすり込みます。",
+        "primaryIngredient": "seasoned pork chops"
+      },
+      {
+        "time": 15,
+        "en": "Grill the pork chops until cooked through.",
+        "sk": "Grilujte bravčové kotlety, kým nie sú prepečené.",
+        "ja": "豚肉を中まで火が通るまでグリルで焼きます。",
+        "primaryIngredient": "grilled pork chops"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "237",
+      "protein": "23g",
+      "carbohydrates": "1g",
+      "fat": "15g"
+    }
+  }

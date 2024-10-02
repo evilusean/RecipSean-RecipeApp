@@ -1,0 +1,67 @@
+{
+    "id": "delicious-apple-glazed-pork-chops",
+    "name": "Delicious Apple Glazed Pork Chops",
+    "ingredients": [
+      "4 pork chops, bone-in or boneless",
+      "2 tablespoons oil",
+      "1/2 cup cider vinegar",
+      "3 tablespoons granular Splenda or equivalent liquid Splenda",
+      "1 teaspoon soy sauce",
+      "2 1/2 ounces onion, sliced thin, 1 small"
+    ],
+    "utensils": [
+      "Large skillet with lid",
+      "Measuring cups and spoons",
+      "Mixing bowl",
+      "Tongs or spatula"
+    ],
+    "cookingTime": 55,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown pork chops on both sides in hot oil in a large skillet.",
+        "sk": "Opečte bravčové kotlety z oboch strán na horúcom oleji vo veľkej panvici.",
+        "ja": "大きなフライパンで熱した油で豚肉の両面を焼き色がつくまで調理します。",
+        "primaryIngredient": "pork chops"
+      },
+      {
+        "time": 5,
+        "en": "Mix vinegar, Splenda, and soy sauce. Pour over the chops.",
+        "sk": "Zmiešajte ocot, Splendu a sójovú omáčku. Nalejte na kotlety.",
+        "ja": "酢、スプレンダ、醤油を混ぜます。豚肉の上にかけます。",
+        "primaryIngredient": "sauce mixture"
+      },
+      {
+        "time": 2,
+        "en": "Scatter sliced onions on top of the pork chops.",
+        "sk": "Na bravčové kotlety nasypte nakrájanú cibuľu.",
+        "ja": "豚肉の上に薄切りの玉ねぎを散らします。",
+        "primaryIngredient": "onions"
+      },
+      {
+        "time": 45,
+        "en": "Cover and simmer, turning occasionally, for 45 minutes or until sauce is nearly evaporated. Uncover for the last 5-10 minutes if needed.",
+        "sk": "Prikryte a varte na miernom ohni, občas otočte, 45 minút alebo kým sa omáčka takmer neodparí. V prípade potreby odkryte posledných 5-10 minút.",
+        "ja": "蓋をして時々裏返しながら45分間、またはソースがほぼ蒸発するまで煮込みます。必要に応じて最後の5-10分は蓋を取ります。",
+        "primaryIngredient": "simmered pork chops"
+      },
+      {
+        "time": 2,
+        "en": "Spoon onions over each pork chop to serve.",
+        "sk": "Pri podávaní naložte cibuľu na každú bravčovú kotletu.",
+        "ja": "提供時に各豚肉の上に玉ねぎをスプーンでかけます。",
+        "primaryIngredient": "finished dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 4 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/4 Recipe",
+      "calories": "351",
+      "protein": "19g",
+      "carbohydrates": "4g",
+      "fat": "28g"
+    }
+  }
