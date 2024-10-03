@@ -4,10 +4,12 @@ End: 01October2024</br>
 
 https://recip-sean-recipe-app.vercel.app/   
 
-A repo for building a recipe app that takes the food you have and tells you what you can cook - or what you need to buy</br>
-Going to use React, TS, TailwindCSS, ShadCN, NextJS, Store recipes as JSON objects in this repo, create an ingredients list, maybe responsive?(future sean problem) and I want to try out ShadCN components - after built host on Vercel</br>
-Eventually want to get to a point where I can store my grocery list locally and have recipes pulled, whenever I buy more groceries, update local list, and then update available meals, eventually I would want a percent counter so if I'm just missing paprika or whatever it'll give me a status bar with like 95% or something and have highlighted the missing components, search feature, I also eventually want to be able to have a staples list so if I use up milk/eggs/cheese/rice/whatever it will automatically tell me to buy(Tuna, and rice, for 4 months-never 4give 4get, F=-F)</br>
-Have dual language support, so I can learn languages as I cook - Japanese recipes in Japanese and English, Czech/Slovak recipes in Slovak and English, flip the card if I need to review. </br>
-Recipe Search feature - return react objects </br>
-Favorites feature </br>
+A repo for building a recipe app that takes the food you have and tells you what you can cook - can search by recipe, name, type, or ingredients</br>
+Uses React, TS, TailwindCSS, ShadCN, NextJS, Store recipes as JSON objects in this repo, create an ingredients list, is responsive and uses ShadCN components - hosted on Vercel</br>
+Has a random feature since there is no such thing a true random 
+I created a way that uses a unique entropy file, time. 
+Time 4 entropy - takes datetime and uses that to generate a random recipe, if I want to change it up, or don't know what to cook, I can always just refresh the page.</br>
+Have triple language support, so I can learn languages as I cook - Japanese recipes in Japanese and English, Czech/Slovak recipes in Slovak and English, flip the card if I need to review. </br>
+Recipe Search feature</br>
+Favorites feature, notes, utensils, ingredients, and cooking information</br>
 
