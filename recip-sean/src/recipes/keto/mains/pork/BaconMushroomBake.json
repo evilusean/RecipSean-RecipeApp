@@ -1,0 +1,80 @@
+{
+    "id": "bacon-and-mushroom-bake",
+    "name": "Bacon & Mushroom Bake",
+    "ingredients": [
+      "4-5 slices bacon, chopped",
+      "1 pound mushrooms, sliced",
+      "8 ounces Monterey Jack cheese",
+      "8 eggs",
+      "3/4 cup heavy cream",
+      "1/4 teaspoon salt",
+      "1/4 teaspoon celery salt",
+      "Dash pepper",
+      "4 green onions, chopped"
+    ],
+    "utensils": [
+      "Large skillet",
+      "11.75x7.5\" baking dish",
+      "Medium bowl",
+      "Whisk or fork",
+      "Knife",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Fry chopped bacon until crisp, reserving 2 tablespoons of drippings. Remove bacon from pan.",
+        "sk": "Opražte nakrájanú slaninu do chrumkava, odložte 2 lyžice výpeku. Vyberte slaninu z panvice.",
+        "ja": "刻んだベーコンをカリカリに炒め、油を2大さじ残します。ベーコンを取り出します。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 10,
+        "en": "Sauté mushrooms in reserved bacon grease until tender and liquid has evaporated. Season with salt and pepper.",
+        "sk": "Opražte huby na odloženom slaninkovom tuku, kým nezmäknú a tekutina sa neodparí. Ochuťte soľou a korením.",
+        "ja": "残したベーコンの油でマッシュルームを炒め、柔らかくなり水分が蒸発するまで調理します。塩コショウで味付けします。",
+        "primaryIngredient": "mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Spread cheese in greased baking dish. Top with mushrooms, bacon, and green onions.",
+        "sk": "Rozložte syr do vymastenej zapekacej misky. Navrch dajte huby, slaninu a jarnú cibuľku.",
+        "ja": "油を塗った焼き皿にチーズを敷き詰め、その上にマッシュルーム、ベーコン、青ねぎをのせます。",
+        "primaryIngredient": "layered ingredients"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, cream, salt, celery salt, and pepper in a medium bowl. Pour over layered ingredients.",
+        "sk": "V strednej miske vyšľahajte vajcia, smotanu, soľ, zelerinovú soľ a korenie. Nalejte na vrstvy ingrediencií.",
+        "ja": "中サイズのボウルで卵、生クリーム、塩、セロリソルト、コショウを混ぜ、層になった具材の上に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for 35-40 minutes, until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-40 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-40分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "baked dish"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "sk": "Pred podávaním nechajte 10 minút odstáť.",
+        "ja": "提供前に10分間置きます。",
+        "primaryIngredient": "finished dish"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 recipe",
+      "calories": "394",
+      "protein": "21g",
+      "carbohydrates": "5g",
+      "fat": "32g"
+    }
+  }

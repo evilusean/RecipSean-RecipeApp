@@ -1,0 +1,88 @@
+{
+    "id": "mushroom-and-garlic-pizza",
+    "name": "Mushroom and Garlic Pizza",
+    "ingredients": [
+      "Crust:",
+      "8 ounces cream cheese, softened",
+      "3 eggs",
+      "1 cup pork rind crumbs, about 3 ounces",
+      "1/4 cup parmesan cheese",
+      "1 teaspoon garlic powder",
+      "8 ounces mozzarella cheese, shredded",
+      "Topping:",
+      "1 pound mushrooms, sliced",
+      "3 cloves garlic, minced",
+      "2 tablespoons butter or olive oil",
+      "Salt, to taste",
+      "8 ounces smoked mozzarella cheese, shredded"
+    ],
+    "utensils": [
+      "14-inch round pizza pan",
+      "Parchment paper",
+      "Cooking spray",
+      "Mixing bowl",
+      "Whisk",
+      "Large spoon",
+      "Plastic wrap",
+      "Rolling pin",
+      "Rubber spatula",
+      "Large skillet",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Prepare pan with parchment paper and cooking spray.",
+        "sk": "Pripravte panvicu s papierom na pečenie a sprejom na varenie.",
+        "ja": "パーチメント紙とクッキングスプレーでパンを準備します。",
+        "primaryIngredient": "pan preparation"
+      },
+      {
+        "time": 10,
+        "en": "Mix crust ingredients: whisk cream cheese and eggs, add other ingredients except mozzarella, then stir in mozzarella.",
+        "sk": "Zmiešajte ingrediencie na cesto: vyšľahajte krémový syr a vajcia, pridajte ostatné ingrediencie okrem mozzarelly, potom vmiešajte mozzarellu.",
+        "ja": "クラストの材料を混ぜます：クリームチーズと卵を泡立て、モッツァレラ以外の材料を加え、最後にモッツァレラを混ぜ込みます。",
+        "primaryIngredient": "crust mixture"
+      },
+      {
+        "time": 5,
+        "en": "Spread dough in pan, roll to edges, then push away from edges slightly.",
+        "sk": "Rozotrite cesto na panvicu, rozvaľkajte k okrajom, potom mierne odtlačte od okrajov.",
+        "ja": "生地をパンに広げ、端まで伸ばし、その後端から少し離します。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 20,
+        "en": "Bake crust at 425°F (220°C) for 20 minutes. Let stand 10 minutes or chill.",
+        "sk": "Pečte cesto pri teplote 220°C 20 minút. Nechajte odstáť 10 minút alebo vychlaďte.",
+        "ja": "425°F（220°C）で20分クラストを焼きます。10分置くか冷やします。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 10,
+        "en": "Sauté mushrooms and garlic in butter/oil until tender, then cook on high heat until liquid evaporates.",
+        "sk": "Opečte huby a cesnak na masle/oleji do mäkka, potom varte na vysokom ohni, kým sa tekutina neodparí.",
+        "ja": "マッシュルームとニンニクをバター/オイルで柔らかくなるまで炒め、その後高温で液体が蒸発するまで調理します。",
+        "primaryIngredient": "mushrooms and garlic"
+      },
+      {
+        "time": 10,
+        "en": "Top crust with cheese and mushroom mixture. Bake at 375°F (190°C) for about 10 minutes until hot and bubbly.",
+        "sk": "Na cesto položte syr a hubovú zmes. Pečte pri teplote 190°C asi 10 minút, kým nie je horúce a bublinkové.",
+        "ja": "クラストにチーズとマッシュルームの混合物をのせます。375°F（190°C）で約10分、熱くなり泡立つまで焼きます。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "394",
+      "protein": "24g",
+      "carbohydrates": "5g",
+      "fat": "32g"
+    }
+  }

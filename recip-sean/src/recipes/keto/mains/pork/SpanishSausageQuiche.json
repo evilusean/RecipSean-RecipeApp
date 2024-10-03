@@ -1,0 +1,82 @@
+{
+    "id": "spanish-style-sausage-quiche",
+    "name": "Spanish-Style Sausage Quiche",
+    "ingredients": [
+      "1 pound hot pork sausage",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "1 small green pepper, diced",
+      "1 medium tomato, diced",
+      "8 ounces sharp cheddar cheese, shredded",
+      "6 eggs",
+      "1/2 teaspoon salt",
+      "Dash pepper",
+      "1/2 cup heavy cream"
+    ],
+    "utensils": [
+      "Large skillet",
+      "9-10\" pie plate",
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Paper towels",
+      "Oven"
+    ],
+    "cookingTime": 55,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown sausage with onion in a large skillet. Drain grease when cooked through.",
+        "sk": "Opečte klobásu s cibuľou na veľkej panvici. Po prevarení zlejte mastnotu.",
+        "ja": "大きなフライパンでソーセージと玉ねぎを炒めます。火が通ったら脂を切ります。",
+        "primaryIngredient": "sausage and onion"
+      },
+      {
+        "time": 5,
+        "en": "Add green pepper and tomato. Cook until peppers are tender-crisp and tomato juice has reduced.",
+        "sk": "Pridajte zelenú papriku a paradajku. Varte, kým paprika nezmäkne a šťava z paradajok sa neodparí.",
+        "ja": "ピーマンとトマトを加えます。ピーマンがやわらかくなり、トマトの水分が減るまで調理します。",
+        "primaryIngredient": "green pepper and tomato"
+      },
+      {
+        "time": 5,
+        "en": "Drain sausage and vegetables on paper towels, then place in greased pie plate. Top with cheese.",
+        "sk": "Klobásu a zeleninu nechajte odkvapkať na papierových utierka, potom vložte do vymastenej formy na koláč. Posypte syrom.",
+        "ja": "ソーセージと野菜をペーパータオルで水気を切り、油を塗ったパイ皿に入れます。上にチーズをのせます。",
+        "primaryIngredient": "sausage mixture and cheese"
+      },
+      {
+        "time": 5,
+        "en": "Whisk eggs, salt, and pepper, then whisk in cream. Pour evenly over sausage and cheese.",
+        "sk": "Vyšľahajte vajcia, soľ a korenie, potom zašľahajte smotanu. Nalejte rovnomerne na klobásu a syr.",
+        "ja": "卵、塩、コショウを混ぜ、次に生クリームを加えて混ぜます。ソーセージとチーズの上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F (175°C) for 35-45 minutes until knife inserted in center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-45 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-45分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand about 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte asi 10 minút odstáť.",
+        "ja": "切る前に約10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "550",
+      "protein": "31g",
+      "carbohydrates": "5g",
+      "fat": "45g"
+    }
+  }

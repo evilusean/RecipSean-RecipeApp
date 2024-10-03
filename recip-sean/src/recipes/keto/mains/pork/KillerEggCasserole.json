@@ -1,0 +1,90 @@
+{
+    "id": "killer-egg-casserole",
+    "name": "Killer Egg Casserole",
+    "ingredients": [
+      "1 pound pork sausage, browned and drained",
+      "12 ounces bacon, chopped and fried until crisp",
+      "4 ounce can mushrooms, drained",
+      "1/2 medium green pepper, chopped",
+      "4 green onions, chopped",
+      "12 eggs",
+      "8 ounces cream cheese, softened",
+      "1 cup heavy cream",
+      "1/2 teaspoon salt",
+      "Pepper, to taste",
+      "8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Large mixing bowl",
+      "Medium mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 70,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Put all meat and vegetables in a greased 9x13\" baking pan; mix well.",
+        "sk": "Vložte všetko mäso a zeleninu do vymastenej 23x33 cm zapekacej formy; dobre premiešajte.",
+        "ja": "油を塗った9x13インチの焼き皿に全ての肉と野菜を入れ、よく混ぜます。",
+        "primaryIngredient": "meat and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "In a large bowl, beat eggs and salt.",
+        "sk": "Vo veľkej miske vyšľahajte vajcia a soľ.",
+        "ja": "大きなボウルで卵と塩を混ぜます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, whisk cream cheese until creamy. Gradually whisk in cream.",
+        "sk": "V strednej miske vyšľahajte krémový syr do krémova. Postupne zašľahajte smotanu.",
+        "ja": "中サイズのボウルでクリームチーズをクリーム状になるまで泡立て、徐々に生クリームを加えて混ぜます。",
+        "primaryIngredient": "cream cheese and cream"
+      },
+      {
+        "time": 5,
+        "en": "Pour cream mixture into eggs and blend well. Pour evenly over meat and vegetables.",
+        "sk": "Nalejte smotanovú zmes do vajec a dobre premiešajte. Nalejte rovnomerne na mäso a zeleninu.",
+        "ja": "クリームの混合物を卵に加えてよく混ぜ、肉と野菜の上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Top with shredded cheddar cheese.",
+        "sk": "Navrch posypte strúhaným čedarom.",
+        "ja": "上に細切りのチェダーチーズをかけます。",
+        "primaryIngredient": "cheddar cheese"
+      },
+      {
+        "time": 60,
+        "en": "Bake at 350°F (175°C) for 40-60 minutes, until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 40-60 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで40-60分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "finished casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8-12 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 recipe",
+      "calories": "849",
+      "protein": "43g",
+      "carbohydrates": "5g",
+      "fat": "73g"
+    }
+  }

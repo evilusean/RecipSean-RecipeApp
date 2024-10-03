@@ -1,0 +1,70 @@
+{
+    "id": "cheese-crust-pizza",
+    "name": "Cheese Crust Pizza",
+    "ingredients": [
+      "Crust:",
+      "3 ounces mozzarella cheese, shredded",
+      "1 ounce cheddar cheese, shredded",
+      "1 egg",
+      "Pinch garlic powder",
+      "Pinch basil",
+      "Toppings:",
+      "2 tablespoons pizza sauce",
+      "12 slices pepperoni (about 3/4 ounces)",
+      "2 ounces cooked, crumbled Italian sausage (about 1/2 cup)",
+      "1-2 fresh mushrooms, thinly sliced (about 1 ounce)",
+      "1 ounce red onion, very thinly sliced",
+      "2 ounces mozzarella cheese, shredded",
+      "Pinch garlic powder",
+      "Pinch basil, optional"
+    ],
+    "utensils": [
+      "9-inch round cake pan",
+      "Parchment paper or nonstick foil",
+      "Small mixing bowl",
+      "Oven with broiler",
+      "Measuring cups and spoons"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix crust ingredients in a small bowl. Spread evenly in lined 9-inch pan.",
+        "sk": "Zmiešajte ingrediencie na cesto v malej miske. Rovnomerne rozotrite do vyloženej 23 cm formy.",
+        "ja": "小さなボウルでクラストの材料を混ぜます。裏打ちした9インチの型に均等に広げます。",
+        "primaryIngredient": "crust mixture"
+      },
+      {
+        "time": 10,
+        "en": "Bake at 450°F (230°C) for 5 minutes, then at 400°F (200°C) for 4-5 minutes until nicely browned.",
+        "sk": "Pečte pri teplote 230°C 5 minút, potom pri 200°C 4-5 minút, kým nezhnedne.",
+        "ja": "450°F（230°C）で5分、その後400°F（200°C）で4-5分、きつね色になるまで焼きます。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 5,
+        "en": "Spread sauce over crust, top with 2/3 of cheese, arrange meats and vegetables, sprinkle remaining cheese.",
+        "sk": "Rozotrite omáčku na cesto, posypte 2/3 syra, rozložte mäso a zeleninu, posypte zvyšným syrom.",
+        "ja": "クラストにソースを塗り、チーズの2/3をのせ、肉と野菜を並べ、残りのチーズをかけます。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 5,
+        "en": "Broil for 4-5 minutes until toppings are hot and cheese is melted and bubbly.",
+        "sk": "Grilujte 4-5 minút, kým nie sú prísady horúce a syr roztopený a bublinkový.",
+        "ja": "トッピングが熱くなり、チーズが溶けて泡立つまで4-5分グリルします。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 2 servings.",
+    "nutritionalInformation": {
+      "amount": "Per 1/2 Pizza with Toppings",
+      "calories": "486",
+      "protein": "29g",
+      "carbohydrates": "5g",
+      "fat": "39g"
+    }
+  }

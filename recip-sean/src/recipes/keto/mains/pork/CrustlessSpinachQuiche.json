@@ -1,0 +1,74 @@
+{
+    "id": "crustless-spinach-quiche",
+    "name": "Crustless Spinach Quiche",
+    "ingredients": [
+      "2 ounces onion, chopped",
+      "2 medium mushrooms, sliced, 1 ounce",
+      "1 tablespoon butter",
+      "10 ounce package frozen chopped spinach, thawed and drained very well",
+      "2/3 cup ham, diced, optional",
+      "5 eggs",
+      "12 ounces cheddar cheese, shredded",
+      "1/8 teaspoon pepper",
+      "1/2 teaspoon salt"
+    ],
+    "utensils": [
+      "Skillet",
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 35,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Sauté onion and mushrooms in butter until tender.",
+        "sk": "Opečte cibuľu a huby na masle do mäkka.",
+        "ja": "玉ねぎとキノコをバターで柔らかくなるまで炒めます。",
+        "primaryIngredient": "onion and mushrooms"
+      },
+      {
+        "time": 5,
+        "en": "Add spinach and ham; stir and cook until heated and mixed well.",
+        "sk": "Pridajte špenát a šunku; miešajte a varte, kým sa nezohrejú a dobre nepremixujú.",
+        "ja": "ほうれん草とハムを加え、熱くなってよく混ざるまで炒めます。",
+        "primaryIngredient": "spinach and ham"
+      },
+      {
+        "time": 3,
+        "en": "Put cheese in a greased pie plate. Mix in the spinach mixture.",
+        "sk": "Vložte syr do vymastenej formy na koláč. Vmiešajte špenátovú zmes.",
+        "ja": "油を塗ったパイ皿にチーズを入れます。ほうれん草のミックスを加えて混ぜます。",
+        "primaryIngredient": "cheese and spinach mixture"
+      },
+      {
+        "time": 2,
+        "en": "Beat eggs, salt, and pepper. Pour evenly over the spinach; mix well.",
+        "sk": "Vyšľahajte vajcia, soľ a korenie. Nalejte rovnomerne na špenát; dobre premiešajte.",
+        "ja": "卵、塩、コショウを混ぜます。ほうれん草の上に均等に注ぎ、よく混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 25-35 minutes.",
+        "sk": "Pečte pri teplote 175°C 25-35 minút.",
+        "ja": "350°F（175°C）のオーブンで25-35分焼きます。",
+        "primaryIngredient": "quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "350",
+      "protein": "23g",
+      "carbohydrates": "5g",
+      "fat": "27g"
+    }
+  }

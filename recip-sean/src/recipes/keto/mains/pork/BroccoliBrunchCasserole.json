@@ -1,0 +1,84 @@
+{
+    "id": "broccoli-brunch-casserole",
+    "name": "Broccoli Brunch Casserole",
+    "ingredients": [
+      "1 pound pork sausage",
+      "6 ounces ham, diced",
+      "10 ounces frozen broccoli, cooked and drained",
+      "8 ounces Monterey jack cheese, shredded",
+      "8 ounces cheddar cheese, shredded",
+      "3/4 cup parmesan cheese, 3 ounces",
+      "8 ounces cream cheese, softened",
+      "1/2 cup heavy cream",
+      "12 eggs",
+      "1/2 teaspoon onion powder",
+      "1/2 teaspoon Spicy Seasoning Salt",
+      "Pepper, to taste"
+    ],
+    "utensils": [
+      "9x13\" baking pan",
+      "Large skillet",
+      "Mixing bowl",
+      "Whisk",
+      "Electric mixer",
+      "Measuring cups and spoons",
+      "Knife",
+      "Oven"
+    ],
+    "cookingTime": 60,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown the sausage in a skillet; drain the fat.",
+        "sk": "Opečte klobásu na panvici; zlejte tuk.",
+        "ja": "フライパンでソーセージを炒めて脂を切ります。",
+        "primaryIngredient": "pork sausage"
+      },
+      {
+        "time": 5,
+        "en": "Place sausage in greased 9x13\" baking pan. Add ham, cheeses, and chopped broccoli; toss lightly.",
+        "sk": "Vložte klobásu do vymastenej 23x33 cm zapekacej formy. Pridajte šunku, syry a nasekanú brokolicu; zľahka premiešajte.",
+        "ja": "油を塗った9x13インチの焼き皿にソーセージを入れます。ハム、チーズ、刻んだブロッコリーを加えて軽く混ぜます。",
+        "primaryIngredient": "sausage mixture"
+      },
+      {
+        "time": 5,
+        "en": "Beat cream cheese until creamy; gradually beat in cream.",
+        "sk": "Vyšľahajte krémový syr do krémova; postupne zašľahajte smotanu.",
+        "ja": "クリームチーズをクリーム状になるまで混ぜ、徐々に生クリームを加えます。",
+        "primaryIngredient": "cream cheese mixture"
+      },
+      {
+        "time": 5,
+        "en": "Whisk in eggs and seasonings; pour over ingredients in pan.",
+        "sk": "Vmiešajte vajcia a korenie; nalejte na ingrediencie v zapekacej forme.",
+        "ja": "卵と調味料を泡立て器で混ぜ、パンの具材の上に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 50,
+        "en": "Bake at 350°F (175°C) for 45-50 minutes, until a knife inserted in center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 45-50 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで45-50分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "sk": "Pred podávaním nechajte 10 minút odstáť.",
+        "ja": "提供前に10分間置きます。",
+        "primaryIngredient": "finished casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 12 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "508",
+      "protein": "31g",
+      "carbohydrates": "4g",
+      "fat": "41g"
+    }
+  }

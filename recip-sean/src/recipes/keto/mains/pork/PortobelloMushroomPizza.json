@@ -1,0 +1,70 @@
+{
+    "id": "portobello-mushroom-pizza",
+    "name": "Portobello Mushroom Pizza",
+    "ingredients": [
+      "1 3-ounce portobello mushroom, stem removed",
+      "Oil",
+      "Salt, to taste",
+      "Garlic powder",
+      "1 tablespoon tomato or pizza sauce",
+      "1 ounce mozzarella cheese, shredded",
+      "Toppings (sausage, pepperoni, green peppers, etc.)",
+      "Seasonings of your choice"
+    ],
+    "utensils": [
+      "Nonstick skillet",
+      "Paper towels",
+      "Baking sheet",
+      "Aluminum foil",
+      "Oven with broiler"
+    ],
+    "cookingTime": 10,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Clean mushroom with damp paper towel.",
+        "sk": "Očistite hubu vlhkou papierovou utierkou.",
+        "ja": "湿らせたペーパータオルでキノコを拭きます。",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 5,
+        "en": "Cook mushroom in oiled skillet, cap side down first, then flip. Drain on paper towels.",
+        "sk": "Opečte hubu na oleji na panvici, najprv klobúkom nadol, potom otočte. Nechajte odkvapkať na papierových utierka.",
+        "ja": "油を引いたフライパンでキノコを調理し、最初は傘の部分を下にして、その後裏返します。ペーパータオルで水気を切ります。",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 2,
+        "en": "Place mushroom on foil-lined baking sheet, gill side up. Season with salt and garlic powder.",
+        "sk": "Položte hubu na plech vyložený fóliou, lupeňmi nahor. Ochuťte soľou a cesnakovým práškom.",
+        "ja": "アルミホイルを敷いたベーキングシートにキノコを傘の裏側を上にして置きます。塩とニンニクパウダーで味付けします。",
+        "primaryIngredient": "mushroom"
+      },
+      {
+        "time": 3,
+        "en": "Spread sauce, add half cheese, toppings, remaining cheese, and seasonings.",
+        "sk": "Rozotrite omáčku, pridajte polovicu syra, prísady, zvyšný syr a korenie.",
+        "ja": "ソースを広げ、チーズの半分、トッピング、残りのチーズ、調味料を加えます。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 1,
+        "en": "Broil for about a minute until cheese is melted and bubbly.",
+        "sk": "Grilujte asi minútu, kým sa syr neroztopí a nezačne bublať.",
+        "ja": "チーズが溶けて泡立つまで約1分間グリルします。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. Do not freeze.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "247",
+      "protein": "12g",
+      "carbohydrates": "6g",
+      "fat": "20g"
+    }
+  }

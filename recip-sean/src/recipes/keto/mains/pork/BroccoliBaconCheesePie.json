@@ -1,0 +1,86 @@
+{
+    "id": "crustless-broccoli-bacon-cheese-pie",
+    "name": "Crustless Broccoli, Bacon & Cheese Pie",
+    "ingredients": [
+      "1/2 pound bacon, chopped",
+      "1 small onion, sliced, 2 1/2 ounces",
+      "6 eggs",
+      "16 ounces frozen, chopped broccoli, cooked & drained well",
+      "3/4 cup heavy cream",
+      "8 ounces Swiss cheese, shredded",
+      "1/2 teaspoon salt",
+      "1/4 teaspoon cayenne"
+    ],
+    "utensils": [
+      "9 1/2-10\" deep dish pie plate",
+      "Medium skillet",
+      "Large bowl",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 50,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Grease a 9 1/2-10\" deep dish pie plate.",
+        "sk": "Vymastite hlbokú formu na koláč s priemerom 24-25 cm.",
+        "ja": "9.5-10インチのディープディッシュパイ皿に油を塗ります。",
+        "primaryIngredient": "pie plate"
+      },
+      {
+        "time": 10,
+        "en": "Fry bacon in a medium skillet until crisp; set aside, reserving 1 tablespoon of drippings in pan.",
+        "sk": "Opečte slaninu na strednej panvici do chrumkava; odložte bokom, ponechajte 1 lyžicu výpeku na panvici.",
+        "ja": "中サイズのフライパンでベーコンをカリカリに炒めます。1大さじの油を残してベーコンを取り出します。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 5,
+        "en": "Sauté onion in the drippings until tender.",
+        "sk": "Opečte cibuľu na výpeku do mäkka.",
+        "ja": "残した油で玉ねぎを柔らかくなるまで炒めます。",
+        "primaryIngredient": "onion"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, cream, and seasonings in a large bowl. Stir in remaining ingredients and mix well.",
+        "sk": "V veľkej miske vyšľahajte vajcia, smotanu a korenie. Vmiešajte zvyšné prísady a dobre premiešajte.",
+        "ja": "大きなボウルで卵、生クリーム、調味料を混ぜます。残りの材料を加えてよく混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour mixture into the pie plate.",
+        "sk": "Nalejte zmes do formy na koláč.",
+        "ja": "混ぜた材料をパイ皿に注ぎます。",
+        "primaryIngredient": "pie mixture"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for 35-40 minutes, until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-40 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-40分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "baked pie"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "finished pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "561",
+      "protein": "31g",
+      "carbohydrates": "7g",
+      "fat": "45g"
+    }
+  }

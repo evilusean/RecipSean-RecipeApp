@@ -1,0 +1,70 @@
+{
+    "id": "smoked-sausage-swiss-cheese-quiche",
+    "name": "Smoked Sausage & Swiss Cheese Quiche",
+    "ingredients": [
+      "1/2 pound smoked sausage *",
+      "6 ounces Swiss cheese, shredded",
+      "6 eggs",
+      "3/4 cup heavy cream",
+      "1/2 teaspoon salt",
+      "1 teaspoon chives, minced"
+    ],
+    "utensils": [
+      "9-10 inch glass pie plate",
+      "Medium mixing bowl",
+      "Whisk",
+      "Knife",
+      "Cutting board",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Peel skin off smoked sausage, cut in half lengthwise, then cut each half into halfmoons.",
+        "sk": "Olúpte kožu z údenej klobásy, rozrežte na polovicu po dĺžke, potom každú polovicu nakrájajte na polmesiačiky.",
+        "ja": "スモークソーセージの皮をむき、縦半分に切り、さらに各半分を半月形に切ります。",
+        "primaryIngredient": "smoked sausage"
+      },
+      {
+        "time": 5,
+        "en": "In a medium bowl, whisk eggs. Add cream, salt, and chives; whisk well.",
+        "sk": "V strednej miske vyšľahajte vajcia. Pridajte smotanu, soľ a pažítku; dobre vyšľahajte.",
+        "ja": "中サイズのボウルで卵を溶きます。生クリーム、塩、チャイブを加えてよく混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 3,
+        "en": "Arrange cheese and sausage evenly in the bottom of a greased 9-10 inch glass pie plate.",
+        "sk": "Rozložte syr a klobásu rovnomerne na dno vymastenej 23-25 cm sklenenej formy na koláč.",
+        "ja": "油を塗った9-10インチのガラスパイ皿の底にチーズとソーセージを均等に並べます。",
+        "primaryIngredient": "cheese and sausage"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture over the cheese and sausage.",
+        "sk": "Nalejte vaječnú zmes na syr a klobásu.",
+        "ja": "卵液をチーズとソーセージの上に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for 35-40 minutes, until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-40 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-40分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen. * If you can find smoked sausage with zero carbs subtract 2 carbs per serving.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "410",
+      "protein": "20g",
+      "carbohydrates": "4g",
+      "fat": "35g"
+    }
+  }

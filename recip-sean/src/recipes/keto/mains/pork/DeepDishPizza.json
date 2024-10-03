@@ -1,0 +1,76 @@
+{
+    "id": "deep-dish-pizza",
+    "name": "Deep Dish Pizza",
+    "ingredients": [
+      "CRUST:",
+      "4 ounces cream cheese, softened",
+      "2 eggs",
+      "1/4 cup parmesan cheese, 1 ounce (I used the kind in a can)",
+      "1/4 teaspoon oregano or Italian seasoning",
+      "1/4 teaspoon garlic powder",
+      "8 ounces Italian cheese blend or mozzarella cheese, shredded",
+      "TOPPINGS:",
+      "1/4 cup pizza sauce",
+      "4 ounces mozzarella cheese, shredded",
+      "Assorted toppings: pepperoni, ham, sausage, 4 ounce can mushrooms, green peppers, bacon, ground beef, etc.",
+      "Dash of garlic pepper or garlic powder and some Italian seasoning for top of pizza"
+    ],
+    "utensils": [
+      "9x13\" glass baking dish or rimmed baking sheet",
+      "Parchment paper (optional)",
+      "Medium mixing bowl",
+      "Spoon",
+      "Wire rack",
+      "Metal spatula",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Mix cream cheese, eggs, parmesan, seasonings, and 8 oz mozzarella in a bowl until well-blended.",
+        "sk": "Zmiešajte krémový syr, vajcia, parmezán, korenie a 230 g mozzarelly v miske, kým sa dobre nespoja.",
+        "ja": "ボウルにクリームチーズ、卵、パルメザン、調味料、モッツァレラ230gを入れ、よく混ぜます。",
+        "primaryIngredient": "crust mixture"
+      },
+      {
+        "time": 5,
+        "en": "Spread cheese mixture evenly in greased 9x13\" dish or lined baking sheet.",
+        "sk": "Rozotrite syrovou zmes rovnomerne do vymastenej 23x33 cm formy alebo vyloženého plechu.",
+        "ja": "油を塗った23x33cmの型または裏打ちしたベーキングシートにチーズの混合物を均等に広げます。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 375°F (190°C) for 20-25 minutes until evenly browned. Cool completely on wire rack.",
+        "sk": "Pečte pri teplote 190°C 20-25 minút, kým nezhnedne rovnomerne. Nechajte úplne vychladnúť na drôtenej mriežke.",
+        "ja": "375°F（190°C）で20-25分、均一に焼き色がつくまで焼きます。ワイヤーラックの上で完全に冷まします。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 5,
+        "en": "Spread crust with pizza sauce, cheese, and chosen toppings. Sprinkle with seasonings.",
+        "sk": "Natrite cesto pizzovou omáčkou, syrom a vybranými prísadami. Posypte korením.",
+        "ja": "クラストにピザソース、チーズ、選んだトッピングを乗せます。調味料をふりかけます。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 20,
+        "en": "Bake at 375°F (190°C) for 15-20 minutes until toppings are bubbly. Let stand before cutting.",
+        "sk": "Pečte pri teplote 190°C 15-20 minút, kým prísady nie sú bublinkové. Pred krájaním nechajte odstáť.",
+        "ja": "375°F（190°C）で15-20分、トッピングが泡立つまで焼きます。切る前に少し置きます。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen. Chilling the crust before topping is optional.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "304",
+      "protein": "17g",
+      "carbohydrates": "3g",
+      "fat": "25g"
+    }
+  }

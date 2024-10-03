@@ -1,0 +1,62 @@
+{
+    "id": "ham-and-pepper-jack-quiche",
+    "name": "Ham and Pepper Jack Quiche",
+    "ingredients": [
+      "6 eggs",
+      "1 cup heavy cream",
+      "8 ounces pepper jack cheese, shredded",
+      "3/4 cup ham, diced, about 4 slices of packaged lunchmeat ham",
+      "Dash of minced chives, optional",
+      "Salt and pepper, to taste"
+    ],
+    "utensils": [
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Beat eggs, cream, chives, salt, and pepper well. Go easy on the salt due to ham content.",
+        "sk": "Dobre vyšľahajte vajcia, smotanu, pažítku, soľ a korenie. Buďte opatrní so soľou kvôli obsahu soli v šunke.",
+        "ja": "卵、生クリーム、チャイブ、塩、コショウをよく混ぜます。ハムに塩分が含まれているため、塩は控えめにしてください。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 5,
+        "en": "Put cheese and ham in a greased pie plate and mix slightly.",
+        "sk": "Vložte syr a šunku do vymastenej formy na koláč a zľahka premiešajte.",
+        "ja": "油を塗ったパイ皿にチーズとハムを入れ、軽く混ぜます。",
+        "primaryIngredient": "cheese and ham"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture evenly over the cheese and ham.",
+        "sk": "Nalejte vaječnú zmes rovnomerne na syr a šunku.",
+        "ja": "卵液をチーズとハムの上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F (175°C) for 35-45 minutes until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-45 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-45分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "310",
+      "protein": "14g",
+      "carbohydrates": "2g",
+      "fat": "27g"
+    }
+  }

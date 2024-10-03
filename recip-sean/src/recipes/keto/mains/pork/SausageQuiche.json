@@ -1,0 +1,76 @@
+{
+    "id": "sausage-quiche",
+    "name": "Sausage Quiche",
+    "ingredients": [
+      "1 pound pork sausage, browned",
+      "8 ounces cheddar cheese, shredded",
+      "6 eggs",
+      "1/2 teaspoon salt",
+      "Dash pepper",
+      "1 cup heavy cream"
+    ],
+    "utensils": [
+      "Large pie plate",
+      "Mixing bowl",
+      "Whisk or fork",
+      "Measuring cups and spoons",
+      "Knife",
+      "Oven"
+    ],
+    "cookingTime": 55,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 3,
+        "en": "Put browned sausage in the bottom of a large pie plate.",
+        "sk": "Vložte opečenú klobásu na dno veľkej formy na koláč.",
+        "ja": "大きなパイ皿の底に炒めたソーセージを敷きます。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 2,
+        "en": "Top with shredded cheddar cheese.",
+        "sk": "Posypte strúhaným čedarom.",
+        "ja": "上に細切りのチェダーチーズをかけます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, salt, and pepper, then beat in cream.",
+        "sk": "Vyšľahajte vajcia, soľ a korenie, potom zašľahajte smotanu.",
+        "ja": "卵、塩、コショウを混ぜ、次に生クリームを加えて混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Slowly pour egg mixture evenly over sausage and cheese.",
+        "sk": "Pomaly nalejte vaječnú zmes rovnomerne na klobásu a syr.",
+        "ja": "卵液をゆっくりとソーセージとチーズの上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F (175°C) for 35-45 minutes until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-45 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-45分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand about 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte asi 10 minút odstáť.",
+        "ja": "切る前に約10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "607",
+      "protein": "31g",
+      "carbohydrates": "3g",
+      "fat": "52g"
+    }
+  }

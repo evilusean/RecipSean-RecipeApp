@@ -1,0 +1,75 @@
+{
+    "id": "early-rise-breakfast",
+    "name": "Early Rise Breakfast",
+    "ingredients": [
+      "12-16 ounces bacon, chopped",
+      "1 pound pork sausage",
+      "1/2 cup onion, chopped, 2 1/2 ounces",
+      "1/2 cup green pepper, chopped, 1/2 medium",
+      "Other cooked meats of your choice, such as ham, roast beef, etc.",
+      "12 eggs",
+      "1 cup heavy cream",
+      "4 ounce can mushrooms, drained, optional",
+      "Salt and pepper, to taste",
+      "8 ounces cheddar cheese, shredded"
+    ],
+    "utensils": [
+      "Large skillet",
+      "9x13\" baking dish",
+      "Large bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 60,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 15,
+        "en": "Brown bacon, sausage, onions, and peppers; drain the grease.",
+        "sk": "Opečte slaninu, klobásu, cibuľu a papriku; zlejte mastnotu.",
+        "ja": "ベーコン、ソーセージ、玉ねぎ、ピーマンを炒めて、脂を切ります。",
+        "primaryIngredient": "bacon and sausage"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs in a large bowl; beat in cream. Add salt and pepper to taste.",
+        "sk": "V veľkej miske vyšľahajte vajcia; vmiešajte smotanu. Pridajte soľ a korenie podľa chuti.",
+        "ja": "大きなボウルで卵を溶き、生クリームを加えます。塩コショウで味を調えます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 10,
+        "en": "Arrange meats, onion, green pepper, mushrooms, and cheese in a greased 9x13\" baking dish.",
+        "sk": "Rozložte mäso, cibuľu, zelenú papriku, huby a syr do vymastenej 23x33 cm zapekacej formy.",
+        "ja": "油を塗った9x13インチの焼き皿に肉類、玉ねぎ、ピーマン、マッシュルーム、チーズを並べます。",
+        "primaryIngredient": "meat and vegetable mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture evenly over everything.",
+        "sk": "Nalejte vaječnú zmes rovnomerne na všetko.",
+        "ja": "卵液を全体に均等にかけます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 60,
+        "en": "Bake at 350°F (175°C) for 50-60 minutes, until golden brown and a knife inserted comes out clean.",
+        "sk": "Pečte pri teplote 175°C 50-60 minút, kým nezhnedne a nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで50-60分、金色に焼け、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "baked breakfast casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8-12 servings. Can be frozen. If not chilled overnight, bake for about 40-45 minutes.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Recipe",
+      "calories": "846",
+      "protein": "46g",
+      "carbohydrates": "5g",
+      "fat": "71g"
+    }
+  }

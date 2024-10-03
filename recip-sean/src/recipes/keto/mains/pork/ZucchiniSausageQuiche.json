@@ -1,0 +1,88 @@
+{
+    "id": "zucchini-and-italian-sausage-quiche",
+    "name": "Zucchini & Italian Sausage Quiche",
+    "ingredients": [
+      "7 ounces zucchini, shredded, 1 medium or 2 cups",
+      "2 tablespoons butter",
+      "1/2 pound Italian sausage, browned and drained",
+      "4 ounces Swiss cheese, shredded",
+      "1 ounce parmesan cheese, 1/4 cup",
+      "5 eggs",
+      "1 cup heavy cream",
+      "1/2 teaspoon salt",
+      "Dash pepper"
+    ],
+    "utensils": [
+      "10-inch pie plate",
+      "Skillet",
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Grater",
+      "Paper towels",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Sauté shredded zucchini in butter for 5 minutes.",
+        "sk": "Opečte nastrúhanú cuketu na masle 5 minút.",
+        "ja": "細切りズッキーニをバターで5分炒めます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 3,
+        "en": "Place zucchini in greased pie plate and pat dry with paper towel.",
+        "sk": "Vložte cuketu do vymastenej formy na koláč a osušte papierovou utierkou.",
+        "ja": "油を塗ったパイ皿にズッキーニを入れ、ペーパータオルで軽く押さえて水気を取ります。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 2,
+        "en": "Top with browned sausage and Swiss cheese.",
+        "sk": "Na vrch dajte opečenú klobásu a švajčiarsky syr.",
+        "ja": "炒めたソーセージとスイスチーズをのせます。",
+        "primaryIngredient": "sausage and cheese"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, cream, parmesan, salt, and pepper; pour over sausage.",
+        "sk": "Vyšľahajte vajcia, smotanu, parmezán, soľ a korenie; nalejte na klobásu.",
+        "ja": "卵、生クリーム、パルメザンチーズ、塩、コショウを混ぜ、ソーセージの上にかけます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 15,
+        "en": "Bake at 450°F (230°C) for 15 minutes.",
+        "sk": "Pečte pri teplote 230°C 15 minút.",
+        "ja": "450°F（230°C）のオーブンで15分焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 20,
+        "en": "Reduce heat to 350°F (175°C) and bake 15-20 minutes longer until browned and knife inserted in center comes out clean.",
+        "sk": "Znížte teplotu na 175°C a pečte ďalších 15-20 minút, kým nezhnedne a nôž vložený do stredu nevyjde čistý.",
+        "ja": "温度を350°F（175°C）に下げ、さらに15-20分、きつね色になり中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before serving.",
+        "sk": "Pred podávaním nechajte 10 minút odstáť.",
+        "ja": "提供前に10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "461",
+      "protein": "19g",
+      "carbohydrates": "4g",
+      "fat": "41g"
+    }
+  }

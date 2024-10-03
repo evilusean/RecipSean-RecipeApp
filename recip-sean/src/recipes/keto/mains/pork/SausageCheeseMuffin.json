@@ -1,0 +1,68 @@
+{
+    "id": "sausage-cheese-muffins",
+    "name": "Sausage Cheese Muffins",
+    "ingredients": [
+      "1 pound pork sausage, browned and drained",
+      "12 eggs",
+      "8 ounces cheddar cheese",
+      "1/4 teaspoon salt",
+      "Dash pepper"
+    ],
+    "utensils": [
+      "Muffin tin (18 cups)",
+      "Large mixing bowl",
+      "Whisk or fork",
+      "Ladle",
+      "Measuring spoons",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Beat eggs in a large mixing bowl.",
+        "sk": "Vyšľahajte vajcia vo veľkej miske.",
+        "ja": "大きなボウルで卵を溶きます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 5,
+        "en": "Combine beaten eggs with browned sausage, cheddar cheese, salt, and pepper.",
+        "sk": "Zmiešajte vyšľahané vajcia s opečenou klobásou, čedarom, soľou a korením.",
+        "ja": "溶いた卵に炒めたソーセージ、チェダーチーズ、塩、コショウを加えて混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 5,
+        "en": "Ladle mixture into 18 well-greased muffin cups.",
+        "sk": "Nalejte zmes do 18 dobre vymastených formičiek na muffiny.",
+        "ja": "よく油を塗った18個のマフィン型に生地をお玉で入れます。",
+        "primaryIngredient": "muffin mixture"
+      },
+      {
+        "time": 30,
+        "en": "Bake at 350°F (175°C) for 30 minutes until browned and set.",
+        "sk": "Pečte pri teplote 175°C 30 minút, kým nezhnednú a nestuhne.",
+        "ja": "350°F（175°C）のオーブンで30分、きつね色になって固まるまで焼きます。",
+        "primaryIngredient": "muffins"
+      },
+      {
+        "time": 10,
+        "en": "Cool and remove from the pan.",
+        "sk": "Nechajte vychladnúť a vyberte z formy.",
+        "ja": "冷まして型から取り出します。",
+        "primaryIngredient": "finished muffins"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 18 muffins. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "182",
+      "protein": "12g",
+      "carbohydrates": "1g",
+      "fat": "14g"
+    }
+  }

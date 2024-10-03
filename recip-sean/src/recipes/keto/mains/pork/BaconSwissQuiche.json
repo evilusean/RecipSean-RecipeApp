@@ -1,0 +1,70 @@
+{
+    "id": "bacon-and-swiss-quiche",
+    "name": "Bacon & Swiss Quiche",
+    "ingredients": [
+      "3-4 slices bacon, chopped",
+      "6 eggs",
+      "1 cup heavy cream",
+      "1/2 teaspoon salt",
+      "8 ounces Swiss cheese, shredded"
+    ],
+    "utensils": [
+      "Frying pan",
+      "Paper towels",
+      "Medium bowl",
+      "Whisk or fork",
+      "9-10 inch glass pie plate",
+      "Knife",
+      "Measuring cups and spoons",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Fry chopped bacon pieces until brown and crispy; drain on paper towel.",
+        "sk": "Opražte nakrájané kúsky slaniny do hneda a chrumkava; nechajte odkvapkať na papierovej utierke.",
+        "ja": "刻んだベーコンをカリカリになるまで炒め、キッチンペーパーで油を切ります。",
+        "primaryIngredient": "bacon"
+      },
+      {
+        "time": 3,
+        "en": "In a medium bowl, beat the eggs. Add cream and salt; mix well.",
+        "sk": "V strednej miske vyšľahajte vajcia. Pridajte smotanu a soľ; dobre premiešajte.",
+        "ja": "中サイズのボウルで卵を溶き、生クリームと塩を加えてよく混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 5,
+        "en": "Arrange cheese and bacon evenly in the bottom of a greased 9-10 inch glass pie plate.",
+        "sk": "Rozložte syr a slaninu rovnomerne na dno vymastenej 23-25 cm sklenenej formy na koláč.",
+        "ja": "油を塗った9-10インチのガラスパイ皿に、チーズとベーコンを均等に敷き詰めます。",
+        "primaryIngredient": "cheese and bacon"
+      },
+      {
+        "time": 2,
+        "en": "Pour the egg mixture over the cheese and bacon.",
+        "sk": "Nalejte vaječnú zmes na syr a slaninu.",
+        "ja": "卵液をチーズとベーコンの上に注ぎます。",
+        "primaryIngredient": "assembled quiche"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for 35-40 minutes, until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-40 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-40分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "baked quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "378",
+      "protein": "19g",
+      "carbohydrates": "3g",
+      "fat": "32g"
+    }
+  }

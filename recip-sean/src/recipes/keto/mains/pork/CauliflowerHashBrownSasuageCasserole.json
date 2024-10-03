@@ -1,0 +1,72 @@
+{
+    "id": "italian-hash-brown-sausage-casserole",
+    "name": "Italian \"Hash Brown\" Sausage Casserole",
+    "ingredients": [
+      "8 eggs",
+      "1 cup heavy cream",
+      "1 pound pork sausage, browned",
+      "1/2 14.5-ounce can Italian crushed tomatoes",
+      "1/4 medium fresh cauliflower, shredded, 5 ounces",
+      "1 teaspoon salt",
+      "1 teaspoon pepper",
+      "4 ounces parmesan cheese",
+      "1 1/2 cups mozzarella cheese, shredded, 6 ounces"
+    ],
+    "utensils": [
+      "Very large mixing bowl",
+      "Whisk",
+      "9x13\" baking dish",
+      "Measuring cups and spoons",
+      "Grater",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "In a very large bowl, whisk eggs and cream well.",
+        "sk": "Vo veľmi veľkej miske dobre vyšľahajte vajcia a smotanu.",
+        "ja": "大きなボウルで卵と生クリームをよく泡立てます。",
+        "primaryIngredient": "eggs and cream"
+      },
+      {
+        "time": 10,
+        "en": "Place remaining ingredients, except mozzarella cheese, in a greased 9x13\" baking dish.",
+        "sk": "Vložte zvyšné prísady, okrem mozzarelly, do vymastenej 23x33 cm zapekacej formy.",
+        "ja": "モッツァレラチーズ以外の残りの材料を、油を塗った9x13インチの焼き皿に入れます。",
+        "primaryIngredient": "sausage and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Pour egg mixture over everything and mix well.",
+        "sk": "Nalejte vaječnú zmes na všetko a dobre premiešajte.",
+        "ja": "卵液を全体にかけてよく混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Top with mozzarella cheese.",
+        "sk": "Navrch posypte mozzarellou.",
+        "ja": "上にモッツァレラチーズをかけます。",
+        "primaryIngredient": "mozzarella cheese"
+      },
+      {
+        "time": 40,
+        "en": "Bake at 350°F (175°C) for about 40 minutes.",
+        "sk": "Pečte pri teplote 175°C asi 40 minút.",
+        "ja": "350°F（175°C）のオーブンで約40分焼きます。",
+        "primaryIngredient": "casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 10-12 servings. Freezing not recommended.",
+    "nutritionalInformation": {
+      "amount": "Per 1/10 Recipe",
+      "calories": "404",
+      "protein": "23g",
+      "carbohydrates": "5g",
+      "fat": "33g"
+    }
+  }

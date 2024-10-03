@@ -1,0 +1,82 @@
+{
+    "id": "sausage-quiche-squares",
+    "name": "Sausage Quiche Squares",
+    "ingredients": [
+      "1 pound pork sausage, browned and drained",
+      "8 ounces colby jack cheese, shredded",
+      "1/2 cup onion, chopped, 2.5 ounces or 1 small",
+      "4 ounce can chopped green chiles",
+      "1 tablespoon jalapeño pepper, minced",
+      "10 eggs",
+      "1 teaspoon chili powder",
+      "1 teaspoon cumin",
+      "1 teaspoon salt",
+      "1/2 teaspoon garlic powder",
+      "1/2 teaspoon pepper"
+    ],
+    "utensils": [
+      "9x13\" baking dish",
+      "Large mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 32,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Spread browned and drained sausage in a greased 9x13\" baking dish.",
+        "sk": "Rozložte opečenú a odkvapkanú klobásu do vymastenej 23x33 cm zapekacej formy.",
+        "ja": "油を塗った9x13インチの焼き皿に炒めて油を切ったソーセージを広げます。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 5,
+        "en": "Layer with half of the cheese, then onion, chiles, jalapeños, and remaining cheese.",
+        "sk": "Vrstvite polovicou syra, potom cibuľou, čili papričkami, jalapeños a zvyšným syrom.",
+        "ja": "チーズの半分を敷き、その上に玉ねぎ、チリ、ハラペーニョ、残りのチーズを重ねます。",
+        "primaryIngredient": "cheese and vegetables"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs with seasonings (chili powder, cumin, salt, garlic powder, pepper).",
+        "sk": "Vyšľahajte vajcia s korením (čili prášok, rasca, soľ, cesnakový prášok, korenie).",
+        "ja": "卵と調味料（チリパウダー、クミン、塩、ガーリックパウダー、コショウ）を混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture evenly over everything.",
+        "sk": "Nalejte vaječnú zmes rovnomerne na všetko.",
+        "ja": "卵液を全体に均等にかけます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 22,
+        "en": "Bake at 375°F (190°C) for 22 minutes.",
+        "sk": "Pečte pri teplote 190°C 22 minút.",
+        "ja": "375°F（190°C）のオーブンで22分焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 12 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "265",
+      "protein": "18g",
+      "carbohydrates": "2g",
+      "fat": "21g"
+    }
+  }

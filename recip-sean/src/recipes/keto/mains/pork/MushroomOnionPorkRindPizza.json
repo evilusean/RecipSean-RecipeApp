@@ -1,0 +1,75 @@
+{
+    "id": "mushroom-onion-pizza-pork-rind-crust",
+    "name": "Mushroom & Onion Pizza with MSWood's Pork Rind Pizza Crust",
+    "ingredients": [
+      "Crust:",
+      "1/4 cup ground pork rinds (about 1/2 ounce)",
+      "1/4 cup parmesan cheese (1 ounce) *",
+      "1 egg",
+      "1/2 teaspoon Italian seasoning",
+      "Toppings:",
+      "3 small fresh mushrooms, thinly sliced (about 1 1/2 ounces)",
+      "1 ounce red onion, thinly sliced",
+      "1 teaspoon butter",
+      "2 ounces mozzarella cheese, shredded",
+      "Pinch garlic powder, optional",
+      "Pinch basil, optional"
+    ],
+    "utensils": [
+      "9-inch individual size pizza pan or cake pan",
+      "Parchment paper or nonstick foil",
+      "Small mixing bowl",
+      "Spoon or whisk",
+      "Skillet",
+      "Oven with broiler"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Mix crust ingredients in a small bowl. Spread evenly in lined 9-inch pan.",
+        "sk": "Zmiešajte ingrediencie na cesto v malej miske. Rovnomerne rozotrite do vyloženej 23 cm formy.",
+        "ja": "小さなボウルでクラストの材料を混ぜます。裏打ちした9インチの型に均等に広げます。",
+        "primaryIngredient": "crust mixture"
+      },
+      {
+        "time": 10,
+        "en": "Bake crust at 350°F (175°C) for about 10 minutes until set and slightly browned.",
+        "sk": "Pečte cesto pri teplote 175°C asi 10 minút, kým nie je pevné a mierne zhnednuté.",
+        "ja": "350°F（175°C）で約10分、固まり少し焼き色がつくまでクラストを焼きます。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 5,
+        "en": "Sauté mushrooms and onions in butter until tender.",
+        "sk": "Opečte huby a cibuľu na masle, kým nezmäknú.",
+        "ja": "マッシュルームと玉ねぎをバターで柔らかくなるまで炒めます。",
+        "primaryIngredient": "mushrooms and onions"
+      },
+      {
+        "time": 5,
+        "en": "Top crust with mozzarella, mushrooms, and onions. Sprinkle with garlic powder and basil if desired.",
+        "sk": "Na cesto položte mozzarellu, huby a cibuľu. Podľa chuti posypte cesnakovým práškom a bazalkou.",
+        "ja": "クラストにモッツァレラ、マッシュルーム、玉ねぎをのせます。お好みでニンニクパウダーとバジルをふりかけます。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 5,
+        "en": "Broil for 3-5 minutes until toppings are hot and cheese is melted and bubbly.",
+        "sk": "Grilujte 3-5 minút, kým nie sú prísady horúce a syr roztopený a bublinkový.",
+        "ja": "トッピングが熱くなり、チーズが溶けて泡立つまで3-5分グリルします。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. * I used the kind of parmesan cheese that comes in a green can.",
+    "nutritionalInformation": {
+      "amount": "Per Pizza",
+      "calories": "477",
+      "protein": "37g",
+      "carbohydrates": "7g",
+      "fat": "33g"
+    }
+  }

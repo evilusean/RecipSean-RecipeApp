@@ -1,0 +1,70 @@
+{
+    "id": "ham-and-cheese-quiche",
+    "name": "Ham & Cheese Quiche",
+    "ingredients": [
+      "5-6 ounces ham, diced",
+      "4 ounces cheddar cheese, shredded",
+      "3 eggs",
+      "3/4 cup heavy cream",
+      "1/8 teaspoon pepper",
+      "1 tablespoon chives or green onion, minced"
+    ],
+    "utensils": [
+      "Large pie plate",
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Arrange cheese and ham in a large greased pie plate.",
+        "sk": "Rozložte syr a šunku do veľkej vymastenej formy na koláč.",
+        "ja": "大きな油を塗ったパイ皿にチーズとハムを並べます。",
+        "primaryIngredient": "cheese and ham"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, cream, pepper, and chives well.",
+        "sk": "Dobre vyšľahajte vajcia, smotanu, korenie a pažítku.",
+        "ja": "卵、生クリーム、コショウ、チャイブをよく混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture over the ham and cheese.",
+        "sk": "Nalejte vaječnú zmes na šunku a syr.",
+        "ja": "卵液をハムとチーズの上に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 35 minutes, until a knife inserted in the center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "268",
+      "protein": "13g",
+      "carbohydrates": "2g",
+      "fat": "23g"
+    }
+  }

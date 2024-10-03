@@ -1,0 +1,64 @@
+{
+    "id": "broiled-skillet-pizza",
+    "name": "Broiled Skillet Pizza",
+    "ingredients": [
+      "2 tablespoons pizza sauce *",
+      "2 ounces mozzarella cheese, shredded",
+      "Toppings of your choice: pepperoni, Italian sausage, mushrooms, red onions, green peppers, etc."
+    ],
+    "utensils": [
+      "8-9\" round cake pan or nonstick skillet with oven-proof handle",
+      "Nonstick foil or parchment paper",
+      "Oven with broiler",
+      "Dinner plate"
+    ],
+    "cookingTime": 5,
+    "prepTime": 10,
+    "instructions": [
+      {
+        "time": 2,
+        "en": "Line pan with nonstick foil or parchment paper, or use a nonstick skillet with an oven-proof handle.",
+        "sk": "Vyložte formu nelepivou fóliou alebo papierom na pečenie, alebo použite nepriľnavú panvicu s rúčkou odolnou voči teplu.",
+        "ja": "型に焦げ付き防止ホイルまたはパーチメント紙を敷くか、オーブン対応ハンドル付きの焦げ付き防止フライパンを使用します。",
+        "primaryIngredient": "pan preparation"
+      },
+      {
+        "time": 3,
+        "en": "Spread pizza sauce in the bottom of the pan and top with shredded cheese.",
+        "sk": "Rozotrite pizzovú omáčku na dno formy a posypte strúhaným syrom.",
+        "ja": "鍋の底にピザソースを広げ、その上に細切りチーズをのせます。",
+        "primaryIngredient": "sauce and cheese"
+      },
+      {
+        "time": 3,
+        "en": "Add your choice of toppings.",
+        "sk": "Pridajte obľúbené prísady.",
+        "ja": "お好みのトッピングを追加します。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 5,
+        "en": "Broil on the top rack for about 3-5 minutes or until everything is hot and bubbly.",
+        "sk": "Grilujte na hornom rošte asi 3-5 minút alebo kým všetko nie je horúce a bublinkové.",
+        "ja": "上段のラックで3-5分程度、すべてが熱くなり泡立つまでグリルします。",
+        "primaryIngredient": "pizza"
+      },
+      {
+        "time": 2,
+        "en": "Lift the foil or parchment paper out of the pan and slide the \"pizza\" onto a dinner plate.",
+        "sk": "Zdvihnite fóliu alebo papier na pečenie z formy a zsuňte \"pizzu\" na tanier.",
+        "ja": "ホイルまたはパーチメント紙を持ち上げて鍋から取り出し、「ピザ」を皿に滑らせます。",
+        "primaryIngredient": "finished pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 1 serving. * Bobo36us used 3 tablespoons of sauce on his but I wanted to keep the carbs to a minimum. I didn't use a skillet for mine because I don't have one with an oven-proof handle.",
+    "nutritionalInformation": {
+      "amount": "Per Pizza",
+      "calories": "464",
+      "protein": "25g",
+      "carbohydrates": "7g",
+      "fat": "37g"
+    }
+  }

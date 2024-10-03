@@ -1,0 +1,83 @@
+{
+    "id": "ilses-spinach-sausage-brunch-casserole",
+    "name": "Ilse's Spinach Sausage Brunch Casserole",
+    "ingredients": [
+      "1 pound bulk Italian sausage",
+      "1 cup onion, chopped, about 5 ounces",
+      "8 ounces provolone cheese, shredded and divided *",
+      "2 roasted red bell peppers, chopped, divided, 7 ounces *",
+      "10 ounces frozen chopped spinach, thawed and drained",
+      "1/4 cup parmesan cheese, 1 ounce",
+      "8 eggs",
+      "1 cup heavy cream",
+      "1/2 teaspoon salt",
+      "1 tablespoons fresh basil, chopped, or 1 teaspoon dried"
+    ],
+    "utensils": [
+      "9x13\" baking dish",
+      "Large skillet",
+      "Large mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Paper towels",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 30,
+    "prepTime": 25,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown sausage and onion; drain on paper towels.",
+        "sk": "Opečte klobásu a cibuľu; nechajte odkvapkať na papierových utierka.",
+        "ja": "ソーセージと玉ねぎを炒め、ペーパータオルで油を切ります。",
+        "primaryIngredient": "sausage and onion"
+      },
+      {
+        "time": 5,
+        "en": "Spread sausage in greased 9x13\" baking dish. Layer with half provolone, half red pepper, spinach, and parmesan.",
+        "sk": "Rozložte klobásu do vymastenej 23x33 cm zapekacej formy. Vrstvite polovicou provolone, polovicou červenej papriky, špenátom a parmezánom.",
+        "ja": "油を塗った9x13インチの焼き皿にソーセージを広げます。プロヴォローネチーズの半分、赤ピーマンの半分、ほうれん草、パルメザンチーズの順に重ねます。",
+        "primaryIngredient": "sausage and cheese layers"
+      },
+      {
+        "time": 5,
+        "en": "Whisk eggs, cream, salt, and basil. Pour evenly over casserole.",
+        "sk": "Vyšľahajte vajcia, smotanu, soľ a bazalku. Nalejte rovnomerne na zapekanku.",
+        "ja": "卵、生クリーム、塩、バジルを混ぜます。キャセロールの上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 25,
+        "en": "Bake at 425°F (220°C) for 20-25 minutes until knife inserted in center comes out clean and lightly browned.",
+        "sk": "Pečte pri teplote 220°C 20-25 minút, kým nôž vložený do stredu nevyjde čistý a zapekanku nie je zľahka zhnednutá.",
+        "ja": "425°F（220°C）のオーブンで20-25分、中心に刺したナイフがきれいに抜け、軽く焼き色がつくまで焼きます。",
+        "primaryIngredient": "casserole"
+      },
+      {
+        "time": 3,
+        "en": "Sprinkle remaining red peppers and provolone. Bake 2-3 minutes until cheese melts.",
+        "sk": "Posypte zvyšnými červenými paprikami a provolone. Pečte 2-3 minúty, kým sa syr neroztopí.",
+        "ja": "残りの赤ピーマンとプロヴォローネチーズをかけます。チーズが溶けるまで2-3分焼きます。",
+        "primaryIngredient": "cheese topping"
+      },
+      {
+        "time": 5,
+        "en": "Let stand 5 minutes before cutting into squares.",
+        "sk": "Pred nakrájaním na štvorce nechajte 5 minút odstáť.",
+        "ja": "5分間置いてから正方形に切り分けます。",
+        "primaryIngredient": "finished casserole"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8 servings. Can be frozen. * I couldn't find provolone cheese in a chunk so I bought a bag of shredded 6-cheese Italian blend which contained some provolone. You'll need to buy a 12 ounce jar of roasted red peppers to get two 3 1/2-ounce peppers.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "506",
+      "protein": "25g",
+      "carbohydrates": "7g",
+      "fat": "42g"
+    }
+  }

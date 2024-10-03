@@ -1,0 +1,78 @@
+{
+    "id": "zucchini-pizza-pie",
+    "name": "Zucchini Pizza Pie",
+    "ingredients": [
+      "1 1/2 pounds zucchini *",
+      "2 eggs",
+      "4 ounces mozzarella cheese, shredded",
+      "4 ounces cheddar cheese, shredded",
+      "1 pound Italian sausage",
+      "1/4 teaspoon garlic powder",
+      "2 teaspoons Italian seasoning",
+      "8 ounces tomato sauce",
+      "Salt, to taste",
+      "1 small onion, sliced, 2 1/2 ounces",
+      "1 green pepper, cut into thin strips",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 ounce parmesan cheese, 1/4 cup"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Food processor (optional)",
+      "Large bowl",
+      "10x15\" baking pan",
+      "Parchment paper",
+      "Nonstick spray",
+      "Oven",
+      "Kitchen shears"
+    ],
+    "cookingTime": 45,
+    "prepTime": 30,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown Italian sausage in skillet, remove and drain, reserving some fat. Add garlic powder, Italian seasoning, and tomato sauce to sausage.",
+        "sk": "Opečte taliansku klobásu na panvici, vyberte a nechajte odkvapkať, odložte trochu tuku. Pridajte cesnakový prášok, talianske korenie a paradajkovú omáčku ku klobáse.",
+        "ja": "フライパンでイタリアンソーセージを炒め、取り出して脂を切り、少量の脂を取っておきます。ソーセージにニンニクパウダー、イタリアンシーズニング、トマトソースを加えます。",
+        "primaryIngredient": "Italian sausage"
+      },
+      {
+        "time": 10,
+        "en": "Shred zucchini, squeeze out moisture. Mix with eggs and 2 oz each of mozzarella and cheddar cheese. Spread in prepared baking pan.",
+        "sk": "Nastrúhajte cuketu, vytlačte vlhkosť. Zmiešajte s vajcami a 60 g každého z mozzarelly a čedaru. Rozotrite na pripravený plech.",
+        "ja": "ズッキーニをすりおろし、水気を絞ります。卵とモッツァレラチーズとチェダーチーズ各60gと混ぜます。準備したベーキング皿に広げます。",
+        "primaryIngredient": "zucchini"
+      },
+      {
+        "time": 10,
+        "en": "Bake zucchini crust at 400°F (200°C) for 10 minutes.",
+        "sk": "Pečte cuketovú kôrku pri teplote 200°C 10 minút.",
+        "ja": "400°F（200°C）で10分間ズッキーニクラストを焼きます。",
+        "primaryIngredient": "zucchini crust"
+      },
+      {
+        "time": 10,
+        "en": "Sauté onions, green pepper, and mushrooms in reserved fat. Layer sausage mixture, vegetables, and remaining cheese on zucchini crust.",
+        "sk": "Opečte cibuľu, zelenú papriku a huby na odloženom tuku. Navrstvite zmes klobásy, zeleninu a zvyšný syr na cuketovú kôrku.",
+        "ja": "取っておいた脂で玉ねぎ、ピーマン、マッシュルームを炒めます。ズッキーニクラストの上にソーセージミックス、野菜、残りのチーズを重ねます。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 30,
+        "en": "Bake for 30 minutes at 400°F (200°C). Let stand 5 minutes before cutting.",
+        "sk": "Pečte 30 minút pri teplote 200°C. Pred krájaním nechajte 5 minút odstáť.",
+        "ja": "400°F（200°C）で30分焼きます。切る前に5分間置きます。",
+        "primaryIngredient": "pizza pie"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen. * Weight of zucchini before trimming.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "484",
+      "protein": "27g",
+      "carbohydrates": "9g",
+      "fat": "38g"
+    }
+  }

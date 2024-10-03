@@ -1,0 +1,76 @@
+{
+    "id": "pizza-quiche",
+    "name": "Pizza Quiche",
+    "ingredients": [
+      "1 pound bulk Italian sausage, browned and drained",
+      "8 ounces mozzarella cheese, shredded",
+      "5 eggs",
+      "4 ounce can mushrooms, drained",
+      "1/4 cup green pepper, chopped, 1 1/2 ounces"
+    ],
+    "utensils": [
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk or fork",
+      "Measuring cups",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Put browned and drained sausage in a greased pie plate.",
+        "sk": "Vložte opečenú a odkvapkanú klobásu do vymastenej formy na koláč.",
+        "ja": "油を塗ったパイ皿に炒めて油を切ったソーセージを入れます。",
+        "primaryIngredient": "sausage"
+      },
+      {
+        "time": 3,
+        "en": "Top with shredded cheese and mix in slightly.",
+        "sk": "Posypte strúhaným syrom a zľahka premiešajte.",
+        "ja": "上に細切りチーズをかけ、軽く混ぜます。",
+        "primaryIngredient": "cheese"
+      },
+      {
+        "time": 2,
+        "en": "Distribute mushrooms and peppers evenly over the cheese.",
+        "sk": "Rovnomerne rozložte huby a papriku na syr.",
+        "ja": "チーズの上にマッシュルームとピーマンを均等に散らします。",
+        "primaryIngredient": "mushrooms and peppers"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs well (don't add salt); pour over everything.",
+        "sk": "Dobre vyšľahajte vajcia (nepridávajte soľ); nalejte na všetko.",
+        "ja": "卵をよく溶きます（塩は加えない）。全体に注ぎます。",
+        "primaryIngredient": "eggs"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 35 minutes.",
+        "sk": "Pečte pri teplote 175°C 35 minút.",
+        "ja": "350°F（175°C）のオーブンで35分焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "450",
+      "protein": "25g",
+      "carbohydrates": "3g",
+      "fat": "37g"
+    }
+  }

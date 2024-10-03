@@ -1,0 +1,71 @@
+{
+    "id": "ham-and-swiss-cheese-quiche",
+    "name": "Ham & Swiss Cheese Quiche",
+    "ingredients": [
+      "4 ounces Swiss cheese, grated",
+      "1 cup smoked ham, chopped, 5-6 ounces",
+      "3 tablespoons onion, chopped, 1 ounce",
+      "3 eggs",
+      "1 cup heavy cream",
+      "1/8 teaspoon pepper"
+    ],
+    "utensils": [
+      "Pie plate",
+      "Mixing bowl",
+      "Whisk",
+      "Grater",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 45,
+    "prepTime": 15,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Arrange cheese, ham, and onion in greased pie plate.",
+        "sk": "Rozložte syr, šunku a cibuľu do vymastenej formy na koláč.",
+        "ja": "油を塗ったパイ皿にチーズ、ハム、玉ねぎを並べます。",
+        "primaryIngredient": "cheese, ham, and onion"
+      },
+      {
+        "time": 3,
+        "en": "Beat eggs, cream, and pepper in a mixing bowl.",
+        "sk": "V miske vyšľahajte vajcia, smotanu a korenie.",
+        "ja": "ボウルで卵、生クリーム、コショウを混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 2,
+        "en": "Pour egg mixture evenly into the pan over cheese, ham, and onion.",
+        "sk": "Nalejte vaječnú zmes rovnomerne do formy na syr, šunku a cibuľu.",
+        "ja": "卵液をパン内のチーズ、ハム、玉ねぎの上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 35,
+        "en": "Bake at 350°F (175°C) for 30-35 minutes until a knife inserted in center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 30-35 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで30-35分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte 10 minút odstáť.",
+        "ja": "切る前に10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per Serving",
+      "calories": "298",
+      "protein": "14g",
+      "carbohydrates": "3g",
+      "fat": "25g"
+    }
+  }

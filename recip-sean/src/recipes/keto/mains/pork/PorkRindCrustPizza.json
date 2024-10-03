@@ -1,0 +1,88 @@
+{
+    "id": "pork-rind-pizza-crust",
+    "name": "Pork Rind Pizza Crust",
+    "ingredients": [
+      "8 ounces cream cheese, softened",
+      "3 eggs",
+      "1 cup pork rinds, finely crushed, 2 1/2-3 ounces",
+      "1/4 cup parmesan cheese",
+      "8 ounces mozzarella cheese, shredded",
+      "1 teaspoon Italian seasoning",
+      "1 teaspoon garlic powder",
+      "Toppings (optional):",
+      "1/4 cup pizza sauce",
+      "8 ounces mozzarella cheese, shredded",
+      "4 ounce can mushrooms",
+      "2 ounces pepperoni slices",
+      "1/4 pound Italian sausage, browned and crumbled",
+      "1/4 cup green pepper, diced"
+    ],
+    "utensils": [
+      "14-inch round pizza pan",
+      "Parchment paper",
+      "Cooking spray",
+      "Mixing bowl",
+      "Whisk",
+      "Large spoon",
+      "Plastic wrap",
+      "Rolling pin",
+      "Rubber spatula",
+      "Oven"
+    ],
+    "cookingTime": 40,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 5,
+        "en": "Prepare pan with parchment paper and cooking spray.",
+        "sk": "Pripravte panvicu s papierom na pečenie a sprejom na varenie.",
+        "ja": "パーチメント紙とクッキングスプレーでパンを準備します。",
+        "primaryIngredient": "pan preparation"
+      },
+      {
+        "time": 10,
+        "en": "Mix crust ingredients: whisk cream cheese and eggs, add other ingredients except mozzarella, then stir in mozzarella.",
+        "sk": "Zmiešajte ingrediencie na cesto: vyšľahajte krémový syr a vajcia, pridajte ostatné ingrediencie okrem mozzarelly, potom vmiešajte mozzarellu.",
+        "ja": "クラストの材料を混ぜます：クリームチーズと卵を泡立て、モッツァレラ以外の材料を加え、最後にモッツァレラを混ぜ込みます。",
+        "primaryIngredient": "crust mixture"
+      },
+      {
+        "time": 5,
+        "en": "Spread dough in pan, roll to edges, then push away from edges slightly.",
+        "sk": "Rozotrite cesto na panvicu, rozvaľkajte k okrajom, potom mierne odtlačte od okrajov.",
+        "ja": "生地をパンに広げ、端まで伸ばし、その後端から少し離します。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 20,
+        "en": "Bake crust at 425°F (220°C) for 20 minutes. Let stand 10 minutes or chill.",
+        "sk": "Pečte cesto pri teplote 220°C 20 minút. Nechajte odstáť 10 minút alebo vychlaďte.",
+        "ja": "425°F（220°C）で20分クラストを焼きます。10分置くか冷やします。",
+        "primaryIngredient": "crust"
+      },
+      {
+        "time": 5,
+        "en": "Add toppings of your choice.",
+        "sk": "Pridajte prísady podľa vášho výberu.",
+        "ja": "お好みのトッピングを追加します。",
+        "primaryIngredient": "toppings"
+      },
+      {
+        "time": 20,
+        "en": "Bake with toppings at 375°F (190°C) for 15-20 minutes until bubbly and slightly browned.",
+        "sk": "Pečte s prísadami pri teplote 190°C 15-20 minút, kým nie je bublinkové a mierne zhnednuté.",
+        "ja": "375°F（190°C）で15-20分、泡立ち少し焼き色がつくまでトッピングと一緒に焼きます。",
+        "primaryIngredient": "pizza"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 8-12 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/8 Pizza with Toppings",
+      "calories": "469",
+      "protein": "28g",
+      "carbohydrates": "5g",
+      "fat": "37g"
+    }
+  }

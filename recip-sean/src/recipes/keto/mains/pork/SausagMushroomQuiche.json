@@ -1,0 +1,80 @@
+{
+    "id": "sausage-quiche-with-mushrooms",
+    "name": "Sausage Quiche with Mushrooms",
+    "ingredients": [
+      "1 pound pork sausage",
+      "1/2 pound fresh mushrooms, sliced",
+      "1 small onion, chopped, 2 1/2 ounces",
+      "8 ounces cheddar cheese, shredded",
+      "6 eggs",
+      "1/2 teaspoon salt",
+      "Dash pepper",
+      "1 cup heavy cream"
+    ],
+    "utensils": [
+      "Large skillet",
+      "Large pie plate",
+      "Mixing bowl",
+      "Whisk",
+      "Measuring cups and spoons",
+      "Knife",
+      "Cutting board",
+      "Oven"
+    ],
+    "cookingTime": 55,
+    "prepTime": 20,
+    "instructions": [
+      {
+        "time": 10,
+        "en": "Brown sausage along with mushrooms and onions; drain the fat.",
+        "sk": "Opečte klobásu spolu s hubami a cibuľou; zlejte tuk.",
+        "ja": "ソーセージをマッシュルームと玉ねぎと一緒に炒め、脂を切ります。",
+        "primaryIngredient": "sausage, mushrooms, and onions"
+      },
+      {
+        "time": 2,
+        "en": "Put sausage mixture in the bottom of a large pie plate. Top with cheese.",
+        "sk": "Vložte zmes klobásy na dno veľkej formy na koláč. Posypte syrom.",
+        "ja": "大きなパイ皿の底にソーセージの混ぜ物を入れます。上にチーズをかけます。",
+        "primaryIngredient": "sausage mixture and cheese"
+      },
+      {
+        "time": 5,
+        "en": "Beat eggs, salt, and pepper, then beat in cream.",
+        "sk": "Vyšľahajte vajcia, soľ a korenie, potom zašľahajte smotanu.",
+        "ja": "卵、塩、コショウを混ぜ、次に生クリームを加えて混ぜます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 3,
+        "en": "Slowly pour egg mixture evenly over sausage and cheese.",
+        "sk": "Pomaly nalejte vaječnú zmes rovnomerne na klobásu a syr.",
+        "ja": "卵液をゆっくりとソーセージとチーズの上に均等に注ぎます。",
+        "primaryIngredient": "egg mixture"
+      },
+      {
+        "time": 45,
+        "en": "Bake at 350°F (175°C) for 35-45 minutes until a knife inserted in center comes out clean.",
+        "sk": "Pečte pri teplote 175°C 35-45 minút, kým nôž vložený do stredu nevyjde čistý.",
+        "ja": "350°F（175°C）のオーブンで35-45分、中心に刺したナイフがきれいに抜けるまで焼きます。",
+        "primaryIngredient": "quiche"
+      },
+      {
+        "time": 10,
+        "en": "Let stand about 10 minutes before cutting.",
+        "sk": "Pred krájaním nechajte asi 10 minút odstáť.",
+        "ja": "切る前に約10分間置きます。",
+        "primaryIngredient": "finished quiche"
+      }
+    ],
+    "favorite": false,
+    "recipeType": "keto-main",
+    "notes": "Makes 6-8 servings. Can be frozen.",
+    "nutritionalInformation": {
+      "amount": "Per 1/6 Recipe",
+      "calories": "619",
+      "protein": "33g",
+      "carbohydrates": "5g",
+      "fat": "53g"
+    }
+  }
