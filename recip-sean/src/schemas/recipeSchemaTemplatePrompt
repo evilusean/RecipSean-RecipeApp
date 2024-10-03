@@ -1,4 +1,4 @@
-Use this prompt for the JSOn schema, because it will often leave some rows out of the
+Use this prompt for the Json schema, because it will often leave some rows out of the
     schema with AI :
 Below is the schema I am going to use for recipes, please take note of how 
 there are 3 different types of instructions 'en' for english, 'sk' for slovak

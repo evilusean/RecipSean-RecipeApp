@@ -38,3 +38,23 @@ I'm building a recipe app using TS/Tailwind/and ShadCN components - I want it to
 
 I figured out a good way to visually show how it all works - instead of figma - going to try playing around with obsidian - will be able to show how each part connects with eachother and the prompts I used to build that component to save future sean some time - 
 system design diagram - I can also make sure the schema is set up for the DB - and see how it interacts - Do I need graphQL? MongoDB? SQL? Do I even need a DB? How does the schema look like? how is the nextJS app going to read it, multiple languages? - how do they interact? etc - still have alot of planning to do - better done in obsidian
+
+Recipe Sites :
+Torrented some cookbooks to get recipes, also found some sites :
+https://www.allrecipes.com/
+https://www.recipetineats.com/
+https://thecozycook.com/
+
+Keto(LowCarb) - already have visisble abs, no gym, no money for food, I don't need these, yet:
+https://www.genaw.com/lowcarb/recipes.html
+https://www.gnom-gnom.com/
+https://cavemanketo.com/
+http://healthyketo.com/
+https://www.heyketomama.com/
+https://www.ibreatheimhungry.com/
+https://www.ketoconnect.net/recipes/
+https://www.ruled.me/
+https://nobunplease.com/
+https://www.tasteaholics.com/recipes/low-carb-recipes/
+https://www.strongrfastr.com/meal_plans/keto
+https://www.reddit.com/r/ketorecipes/wiki/index/#wiki_useful_keto_recipe_blogs.3A
