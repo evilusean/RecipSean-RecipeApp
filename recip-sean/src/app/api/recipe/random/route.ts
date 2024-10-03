@@ -2,15 +2,12 @@ import { NextResponse } from 'next/server'
 import { recipes } from '@/utils/recipeUtils'
 import seedrandom from 'seedrandom'
 
-let requestCounter = 0;
-
 function generateSeed(): string {
   const timestamp = Date.now();
-  const counter = requestCounter++;
   const randomValue = Math.random();
   
   // Combine multiple sources of entropy
-  return `${timestamp}-${counter}-${randomValue}`;
+  return `${timestamp}-${randomValue}`;
 }
 
 function shuffleArray<T>(array: T[], rng: () => number): T[] {
