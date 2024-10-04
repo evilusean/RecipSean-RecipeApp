@@ -44,9 +44,14 @@ export default function RecipePage({ params }: { params: { slug: string[] } }) {
     try {
       const response = await fetch('/api/recipe/random')
       if (!response.ok) {
-        throw new Error('Failed to fetch random recipe')
+        throw new Error('Failed to fetch recipes')
       }
-      const randomRecipe = await response.json()
+      const allRecipes = await response.json()
+      if (allRecipes.length === 0) {
+        throw new Error('No recipes found')
+      }
+      const randomIndex = Math.floor(Math.random() * allRecipes.length)
+      const randomRecipe = allRecipes[randomIndex]
       router.push(`/recipe/${randomRecipe.folder}/${randomRecipe.id}`)
     } catch (error) {
       console.error('Error fetching random recipe:', error)

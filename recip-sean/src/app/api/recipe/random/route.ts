@@ -1,14 +1,12 @@
 import { NextResponse } from 'next/server'
-import { getRandomRecipe } from '@/utils/recipeUtils'
-
-export const dynamic = 'force-static'
+import { recipes } from '@/utils/recipeUtils'
 
 export function GET() {
-  const randomRecipe = getRandomRecipe();
-
-  if (!randomRecipe) {
+  if (recipes.length === 0) {
     return new NextResponse('No recipes found', { status: 404 })
   }
 
-  return NextResponse.json(randomRecipe)
+  return NextResponse.json(recipes)
 }
+
+export const dynamic = 'force-static'
