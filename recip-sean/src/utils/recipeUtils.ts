@@ -29,7 +29,7 @@ interface NutritionalInformation {
   [key: string]: string | undefined;
 }
 
-export function getAllRecipes(): Recipe[] {
+function getAllRecipes(): Recipe[] {
   const recipesDir = path.join(process.cwd(), 'src/recipes');
   return getRecipesFromDir(recipesDir);
 }
@@ -76,5 +76,12 @@ function getRecipesFromDir(dir: string, baseDir: string = dir): Recipe[] {
 
 export const recipes: Recipe[] = getAllRecipes();
 
-// Log the number of recipes loaded
 console.log(`Loaded ${recipes.length} recipes`);
+
+export function getRandomRecipe(): Recipe | null {
+  if (recipes.length === 0) {
+    return null;
+  }
+  const randomIndex = Math.floor(Math.random() * recipes.length);
+  return recipes[randomIndex];
+}
