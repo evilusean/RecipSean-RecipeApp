@@ -29,7 +29,7 @@ interface NutritionalInformation {
   [key: string]: string | undefined;
 }
 
-function getAllRecipes(): Recipe[] {
+export function getAllRecipes(): Recipe[] {
   const recipesDir = path.join(process.cwd(), 'src/recipes');
   return getRecipesFromDir(recipesDir);
 }
