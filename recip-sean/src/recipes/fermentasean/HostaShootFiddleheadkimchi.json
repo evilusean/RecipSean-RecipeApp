@@ -1,0 +1,80 @@
+{
+    "id": "hosta-shoot-kimchi-recipe-001",
+    "name": "Hosta Shoot Kimchi",
+    "ingredients": [
+        "1 pound (455 g) hosta shoots (or napa cabbage, or other vegetable) (roughly 6 loosely packed cups)",
+        "3 ounces (85 g) daikon radish, sliced into ¼-inch (6 mm) half-moons (about ½ cup)",
+        "3 ounces (85 g) ramp leaves (or green onions, sliced into 1-inch / 2.5 cm lengths)",
+        "Scant ¾ ounce (20 g / 3 teaspoons) kosher salt",
+        "½ cup (135 ml) water",
+        "1 tablespoon maple syrup or equivalent",
+        "3 tablespoons fish sauce",
+        "1 tablespoon white rice flour or grind white rice as finely as possible in a coffee grinder",
+        "¼ cup (30 g) Korean gochugaru chili flakes (coarse)",
+        "3 large cloves garlic, minced",
+        "1-inch (2.5 cm) cube fresh ginger, minced"
+    ],
+    "utensils": [
+        "3 cup or 1 quart mason jar",
+        "Mixing bowl",
+        "Pot for simmering",
+        "Measuring cups and spoons",
+        "Knife and cutting board"
+    ],
+    "cookingTime": 10,
+    "fermentationTime": 10080,
+    "totalTime": 10090,
+    "servings": 10,
+    "calories": 24,
+    "instructions": [
+        {
+            "time": 10,
+            "en": "Cut the hostas into 1-inch (2.5 cm) pieces and combine in a bowl with the radish, ramp leaves or onions, and salt. Mix very well and allow to sit for an hour or two.",
+            "sk": "Nakrájajte hosty na kusy s dĺžkou 1 palec (2,5 cm) a skombinujte ich v miske s reďkovkou, listami rampy alebo cibuľou a soľou. Dobre premiešajte a nechajte stáť jednu alebo dve hodiny.",
+            "ja": "ホスタを1インチ（2.5 cm）の大きさに切り、ボウルに大根、ランプの葉または玉ねぎ、塩と一緒に入れます。よく混ぜて、1〜2時間置いておきます。",
+            "primaryIngredient": "Hosta Shoots"
+        },
+        {
+            "time": 5,
+            "en": "Bring the water, maple syrup, and fish sauce to a simmer with the rice flour until thickened. Cool to room temperature, then mix with the chili flakes, garlic, and ginger.",
+            "sk": "Varte vodu, javorový sirup a rybaciu omáčku na miernom ohni s ryžovou múkou, kým sa nezahustí. Nechajte vychladnúť na izbovú teplotu a potom zmiešajte s chili vločkami, cesnakom a zázvorom.",
+            "ja": "水、メープルシロップ、魚醤を米粉と一緒に煮立たせ、濃くなるまで加熱します。室温まで冷やし、次に唐辛子フレーク、ニンニク、ショウガと混ぜます。",
+            "primaryIngredient": "Chili Paste"
+        },
+        {
+            "time": 5,
+            "en": "Rinse the salted hosta mixture well, drain, and pat dry with a towel if needed to remove excess moisture. Toss the hosta mixture with the chili paste, then pack into a quart (945 ml) jar.",
+            "sk": "Dobre opláchnite soľný hosta zmes, sceďte a ak je to potrebné, osušte uterákom, aby ste odstránili prebytočnú vlhkosť. Zmiešajte hosta zmes s chili pastou a potom ju naplňte do litrového (945 ml) pohára.",
+            "ja": "塩漬けのホスタ混合物をよくすすぎ、排水し、必要に応じてタオルで乾かして余分な水分を取り除きます。ホスタ混合物を唐辛子ペーストと混ぜ、1クォート（945 ml）の瓶に詰めます。",
+            "primaryIngredient": "Hosta Mixture"
+        },
+        {
+            "time": 5,
+            "en": "Screw on the lid and leave out for 2 to 5 days, depending on how sour you want the kimchi to be, removing the lid occasionally to let carbon dioxide escape, then refrigerate.",
+            "sk": "Zaskrutkujte viečko a nechajte ho vonku 2 až 5 dní, v závislosti od toho, ako kyslé chcete, aby kimchi bolo, občas odstráňte viečko, aby sa uvoľnil oxid uhličitý, a potom ho uložte do chladničky.",
+            "ja": "蓋を締めて、キムチの酸味の好みに応じて2〜5日間外に置き、時々蓋を外して二酸化炭素を逃がし、その後冷蔵します。",
+            "primaryIngredient": "Kimchi"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Adjust the sour flavor by leaving it out longer for a stronger taste. The kimchi will last for a month or longer if kept submerged in its liquid.",
+    "nutritionalInformation": {
+        "amount": "1 serving",
+        "calories": "24",
+        "carbohydrates": "5 g",
+        "protein": "2 g",
+        "fat": "0.1 g",
+        "saturatedFat": "0.03 g",
+        "polyunsaturatedFat": "0.04 g",
+        "monounsaturatedFat": "0.01 g",
+        "sodium": "428 mg",
+        "potassium": "157 mg",
+        "fiber": "1 g",
+        "sugar": "3 g",
+        "vitaminA": "428 IU",
+        "vitaminC": "6 mg",
+        "calcium": "23 mg",
+        "iron": "1 mg"
+    }
+}

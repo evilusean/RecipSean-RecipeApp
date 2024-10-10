@@ -1,0 +1,76 @@
+{
+    "id": "easy-bannock-bread-recipe-002",
+    "name": "Easy Bannock Bread",
+    "ingredients": [
+        "2 cups all-purpose flour (260 grams)",
+        "2 teaspoons baking powder",
+        "½ teaspoon salt",
+        "1 tablespoon olive oil or vegetable oil",
+        "¾ cup water (175 grams)",
+        "Vegetable oil for frying"
+    ],
+    "utensils": [
+        "Large mixing bowl",
+        "Fork",
+        "Lightly floured flat surface",
+        "Frying pan or cast iron skillet",
+        "Paper towels"
+    ],
+    "prepTime": 10,
+    "cookTime": 15,
+    "totalTime": 25,
+    "servings": 5,
+    "calories": 208,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "In a large bowl, whisk together the flour, salt, and baking powder.",
+            "sk": "Vo veľkej miske zmiešajte múku, soľ a prášok do pečiva.",
+            "ja": "大きなボウルに小麦粉、塩、ベーキングパウダーを混ぜます。",
+            "primaryIngredient": "Dry Ingredients"
+        },
+        {
+            "time": 5,
+            "en": "Add the olive oil and whisk together with a fork. Gradually add water and stir until the dough almost holds together.",
+            "sk": "Pridajte olivový olej a zmiešajte vidlicou. Postupne pridávajte vodu a miešajte, kým sa cesto takmer nespojí.",
+            "ja": "オリーブオイルを加え、フォークで混ぜます。徐々に水を加え、生地がほぼまとまるまでかき混ぜます。",
+            "primaryIngredient": "Dough"
+        },
+        {
+            "time": 5,
+            "en": "Move to a lightly floured flat surface and gently knead about 10 times just until the dough comes together. The dough will be sticky; do not overknead.",
+            "sk": "Presuňte na ľahko pomúčený plochý povrch a jemne hnetite asi 10-krát, kým sa cesto nespojí. Cesto bude lepkavé; nehnietiť príliš.",
+            "ja": "軽く粉を振った平らな表面に移し、生地がまとまるまで約10回優しくこねます。生地は粘着性がありますが、こねすぎないでください。",
+            "primaryIngredient": "Dough"
+        },
+        {
+            "time": 5,
+            "en": "Divide into 5 balls and flatten with the palm of your hand. Fry in hot oil (350F/175C) on medium heat until golden brown on both sides.",
+            "sk": "Rozdeľte na 5 guľôčok a sploštejte dlaňou. Smažte v horúcom oleji (350F/175C) na strednom ohni, kým nie sú zlatohnedé z oboch strán.",
+            "ja": "生地を5つのボールに分け、手のひらで平らにします。中火で熱い油（350F/175C）で両面が黄金色になるまで揚げます。",
+            "primaryIngredient": "Fried Bannock"
+        },
+        {
+            "time": 5,
+            "en": "Drain on a paper towel-lined plate and eat warm or at room temperature.",
+            "sk": "Nechajte odkvapkať na tanieri vystlanom papierovými utierkami a jedzte teplé alebo pri izbovej teplote.",
+            "ja": "ペーパータオルを敷いた皿で油を切り、温かいまままたは室温で食べます。",
+            "primaryIngredient": "Served Bannock"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Do not cook on too high a heat or they will only cook on the outside. Best eaten fresh.",
+    "nutritionalInformation": {
+        "amount": "1 serving",
+        "calories": "208",
+        "carbohydrates": "38 g",
+        "protein": "5 g",
+        "fat": "3 g",
+        "sodium": "236 mg",
+        "potassium": "215 mg",
+        "fiber": "1 g",
+        "calcium": "77 mg",
+        "iron": "2.4 mg"
+    }
+}

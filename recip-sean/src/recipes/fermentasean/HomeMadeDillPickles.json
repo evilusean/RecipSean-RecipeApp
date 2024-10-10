@@ -1,0 +1,96 @@
+{
+    "id": "homemade-dill-pickles-recipe-001",
+    "name": "Homemade Canned Dill Pickles",
+    "ingredients": [
+        "3 lbs pickling cucumbers",
+        "4 tsp dill seeds",
+        "2 tsp mustard seeds",
+        "4 cloves garlic",
+        "16 whole black peppercorns",
+        "2 cups water",
+        "1 ½ cups white vinegar",
+        "2 tbsp pickling salt",
+        "1 tbsp sugar"
+    ],
+    "utensils": [
+        "4 pint size mason jars",
+        "Large stock pot with rack",
+        "Canning jar lifter tongs",
+        "Funnel",
+        "Clean towels"
+    ],
+    "cookingTime": 40,
+    "prepTime": 40,
+    "restingTime": 720,
+    "totalTime": 800,
+    "instructions": [
+        {
+            "time": 10,
+            "en": "Clean mason jars and lids with soap and water, then dip in a large pot of boiling water to completely sanitize jars and lids. Carefully remove from boiling water and set on clean towels to dry.",
+            "sk": "Umývajte poháre a viečka mydlom a vodou, potom ich ponorte do veľkého hrnca s vriacou vodou, aby ste ich úplne dezinfikovali. Opatrne ich vyberte z vriacej vody a položte na čisté utierky, aby uschli.",
+            "ja": "メイソンジャーと蓋を石鹸と水で洗い、大きな鍋の沸騰した水に浸して完全に消毒します。沸騰した水から慎重に取り出し、清潔なタオルの上に置いて乾かします。",
+            "primaryIngredient": "Mason Jars"
+        },
+        {
+            "time": 10,
+            "en": "Wash and rinse the cucumbers. Trim off the ends of the cucumbers to remove the enzyme that promotes softening. Cut larger cucumbers down to size to fit into jars.",
+            "sk": "Umývajte a opláchnite uhorky. Orezajte konce uhorky, aby ste odstránili enzým, ktorý podporuje zmäkčenie. Väčšie uhorky nakrájajte na menšie kusy, aby sa zmestili do pohárov.",
+            "ja": "キュウリを洗ってすすぎます。キュウリの端を切り落として、柔らかくなる酵素を取り除きます。大きなキュウリは、瓶に入るようにサイズを切り詰めます。",
+            "primaryIngredient": "Cucumbers"
+        },
+        {
+            "time": 5,
+            "en": "To each jar, add: 1 tsp dill seeds, ½ tsp mustard seeds, 1 clove garlic, and 4 whole peppercorns. Divide the prepared cucumbers between the jars, packing them tightly.",
+            "sk": "Do každého pohára pridajte: 1 čajovú lyžičku kôprových semien, ½ čajovej lyžičky horčičných semien, 1 strúčik cesnaku a 4 celé korenie. Rozdeľte pripravené uhorky medzi poháre a pevne ich naplňte.",
+            "ja": "各瓶に、1ティースプーンのディルシード、½ティースプーンのマスタードシード、1片のニンニク、4粒の全黒胡椒を加えます。準備したキュウリを瓶に分けて、しっかり詰めます。",
+            "primaryIngredient": "Pickling Spices"
+        },
+        {
+            "time": 10,
+            "en": "In a medium pot, combine 2 cups of water, 1 ½ cups white vinegar, 2 tbsp pickling salt, and 1 tbsp sugar. Heat over medium-high heat until boiling and the sugar and salt dissolve.",
+            "sk": "V stredne veľkom hrnci zmiešajte 2 šálky vody, 1 ½ šálky bieleho octu, 2 polievkové lyžice nakladacej soli a 1 polievkovú lyžicu cukru. Zohrejte na stredne vysokom ohni, kým sa nezovrie a cukor a soľ sa nerozpustia.",
+            "ja": "中くらいの鍋に、水2カップ、白酢1.5カップ、ピクルス用塩大さじ2、砂糖大さじ1を混ぜます。中高火で加熱し、沸騰して砂糖と塩が溶けるまで加熱します。",
+            "primaryIngredient": "Pickle Brine"
+        },
+        {
+            "time": 5,
+            "en": "Pour the hot mixture into prepared jars, leaving ½\" of headspace. Place on lids and hand tighten, but not too tight.",
+            "sk": "Nalejte horúcu zmes do pripravených pohárov, pričom nechajte ½\" voľného priestoru. Umiestnite viečka a ručne ich utiahnite, ale nie príliš.",
+            "ja": "熱い混合物を準備した瓶に注ぎ、½インチの隙間を空けます。蓋を置き、手で締めますが、あまり強く締めないでください。",
+            "primaryIngredient": "Pickle Brine"
+        },
+        {
+            "time": 10,
+            "en": "Prepare a large stock pot with a rack on the bottom, fill with water, and bring to a rolling boil. Carefully add the jars, ensuring they are submerged, and boil for 10 minutes.",
+            "sk": "Pripravte veľký hrniec s roštom na dne, naplňte vodou a priveďte do varu. Opatrne pridajte poháre, aby boli ponorené, a varte 10 minút.",
+            "ja": "底にラックのある大きな鍋を準備し、水を満たして沸騰させます。瓶を慎重に加え、完全に浸るようにし、10分間煮ます。",
+            "primaryIngredient": "Canning Process"
+        },
+        {
+            "time": 5,
+            "en": "Remove the jars from the boiling water and let them cool on a cooling rack. Let the pickles sit for at least 12 to 24 hours before testing the seal.",
+            "sk": "Odstráňte poháre z vriacej vody a nechajte ich vychladnúť na chladiacej mriežke. Nechajte uhorky stáť aspoň 12 až 24 hodín pred testovaním tesnenia.",
+            "ja": "瓶を沸騰した水から取り出し、冷却ラックの上で冷やします。シールをテストする前に、ピクルスを少なくとも12〜24時間放置します。",
+            "primaryIngredient": "Canned Pickles"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Pickles can be stored in the pantry for up to 1 year. If the lid does not seal, refrigerate and consume within 7 days.",
+    "nutritionalInformation": {
+        "amount": "1 pint",
+        "calories": "89",
+        "carbohydrates": "13 g",
+        "protein": "3 g",
+        "fat": "1 g",
+        "saturatedFat": "1 g",
+        "sodium": "3504 mg",
+        "potassium": "519 mg",
+        "fiber": "3 g",
+        "sugar": "8 g",
+        "vitaminA": "249 IU",
+        "vitaminC": "12 mg",
+        "calcium": "102 mg",
+        "iron": "1 mg"
+    }
+}

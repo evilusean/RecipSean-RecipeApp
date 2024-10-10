@@ -1,0 +1,114 @@
+{
+    "id": "napa-cabbage-kimchi-recipe-001",
+    "name": "Napa Cabbage Kimchi (Tongbaechu-kimchi)",
+    "ingredients": [
+        "6 pounds (about 2.7 kg) napa cabbage",
+        "½ cup Kosher salt (2.5 ounces: 72 grams)",
+        "2 cups water (for porridge)",
+        "2 tablespoons sweet rice flour (glutinous rice flour)",
+        "2 tablespoons Turbinado sugar (or brown or white sugar)",
+        "2 cups Korean radish matchsticks (or daikon radish)",
+        "1 cup carrot matchsticks",
+        "7 to 8 green onions (scallions), chopped",
+        "1 cup chopped Asian chives (buchu), optional (substitute with 3 green onions, chopped)",
+        "1 cup water dropwort (minari), optional",
+        "½ cup garlic cloves (24 garlic cloves), minced",
+        "2 teaspoons ginger, minced",
+        "1 medium onion, minced",
+        "½ cup fish sauce",
+        "¼ cup fermented salted shrimp (saeujeot) with the salty brine, chopped",
+        "2 cups red pepper flakes (gochugaru)"
+    ],
+    "utensils": [
+        "Large mixing bowl",
+        "Small pot for porridge",
+        "Knife and cutting board",
+        "Mason jar or onggi for fermentation",
+        "Strainer"
+    ],
+    "prepTime": 30,
+    "saltingTime": 120,
+    "cookingTime": 10,
+    "totalTime": 160,
+    "servings": 10,
+    "calories": 24,
+    "instructions": [
+        {
+            "time": 10,
+            "en": "Trim the cores of the napa cabbage if they stick out too much. Cut a slit in the base of the cabbage to split it in half without shredding the leaves.",
+            "sk": "Orezajte jadrá napa kapusty, ak príliš vyčnievajú. Urobte zárez na spodnej časti kapusty, aby ste ju rozdelili na polovicu bez roztrhnutia listov.",
+            "ja": "ナパキャベツの芯が出すぎている場合は、切り取ります。キャベツの底に切れ目を入れて、葉を傷めずに半分に分けます。",
+            "primaryIngredient": "Napa Cabbage"
+        },
+        {
+            "time": 10,
+            "en": "Cut a slit through the core of each half, 2 inches above the stem. Dunk the halves in a basin of water and sprinkle salt between the leaves.",
+            "sk": "Urobte zárez cez jadro každej polovice, 2 palce nad stonkou. Ponorte polovice do nádoby s vodou a posypte soľ medzi listy.",
+            "ja": "各半分の芯に2インチの切れ目を入れます。半分を水の入った大きなボウルに浸し、葉の間に塩を振りかけます。",
+            "primaryIngredient": "Napa Cabbage"
+        },
+        {
+            "time": 120,
+            "en": "Let the cabbages rest for 2 hours, turning them every 30 minutes. After 2 hours, wash the cabbage halves under cold running water and drain.",
+            "sk": "Nechajte kapustu odpočívať 2 hodiny, každých 30 minút ju otočte. Po 2 hodinách umyte polovice kapusty pod studenou tečúcou vodou a sceďte.",
+            "ja": "キャベツを2時間休ませ、30分ごとにひっくり返します。2時間後、キャベツの半分を冷水で洗い、排水します。",
+            "primaryIngredient": "Napa Cabbage"
+        },
+        {
+            "time": 10,
+            "en": "While the cabbage is salting, make the porridge by combining water and sweet rice flour in a small pot. Cook over medium heat until it starts to bubble, then add sugar and cook for 1 more minute.",
+            "sk": "Kým sa kapusta solí, pripravte kašu zmiešaním vody a sladkej ryžovej múky v malom hrnci. Varíme na strednom ohni, kým nezačne bublinkovať, potom pridajte cukor a varte ešte 1 minútu.",
+            "ja": "キャベツが塩漬けされている間、小鍋に水と甘い米粉を混ぜてお粥を作ります。中火で泡立ち始めるまで加熱し、砂糖を加えてさらに1分間調理します。",
+            "primaryIngredient": "Porridge"
+        },
+        {
+            "time": 5,
+            "en": "Pour cooled porridge into a large mixing bowl. Add garlic, ginger, onion, fish sauce, fermented salted shrimp, and hot pepper flakes. Mix well until it turns into a thin paste.",
+            "sk": "Ochladenú kašu nalejte do veľkej miešacej misy. Pridajte cesnak, zázvor, cibuľu, rybaciu omáčku, fermentované slané krevety a čili vločky. Dobre premiešajte, kým sa nezmení na tenkú pastu.",
+            "ja": "冷却したお粥を大きなボウルに注ぎます。ニンニク、ショウガ、玉ねぎ、魚醤、発酵した塩漬けエビ、唐辛子フレークを加えます。薄いペーストになるまでよく混ぜます。",
+            "primaryIngredient": "Kimchi Paste"
+        },
+        {
+            "time": 10,
+            "en": "Add the radish, carrot, and green onion, plus the Asian chives and water dropwort if using. Mix well.",
+            "sk": "Pridajte reďkovku, mrkvu a zelenú cibuľu, plus ázijské pažítky a vodný dropwort, ak používate. Dobre premiešajte.",
+            "ja": "大根、ニンジン、ネギ、アジアのチャイブ、水のドロップワートを加えます（使用する場合）。よく混ぜます。",
+            "primaryIngredient": "Vegetables"
+        },
+        {
+            "time": 10,
+            "en": "Spread some kimchi paste on each cabbage leaf. Wrap each leaf around itself into a small packet and place into your jar or container.",
+            "sk": "Na každý list kapusty rozotrite trochu kimchi pasty. Zabalte každý list do seba do malého balíčka a vložte do pohára alebo nádoby.",
+            "ja": "各キャベツの葉にキムチペーストを広げます。各葉を小さなパケットに巻き、瓶や容器に入れます。",
+            "primaryIngredient": "Kimchi"
+        },
+        {
+            "time": 5,
+            "en": "Let the kimchi sit at room temperature for a day or two to ferment, then store in the refrigerator.",
+            "sk": "Nechajte kimchi stáť pri izbovej teplote jeden alebo dva dni na fermentáciu, potom ho uložte do chladničky.",
+            "ja": "キムチを室温で1〜2日間発酵させ、その後冷蔵庫に保存します。",
+            "primaryIngredient": "Fermented Kimchi"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "The kimchi will ferment faster in warmer temperatures. Store in the refrigerator to slow down fermentation.",
+    "nutritionalInformation": {
+        "amount": "1 serving",
+        "calories": "24",
+        "carbohydrates": "5 g",
+        "protein": "2 g",
+        "fat": "0.1 g",
+        "saturatedFat": "0.03 g",
+        "polyunsaturatedFat": "0.04 g",
+        "monounsaturatedFat": "0.01 g",
+        "sodium": "428 mg",
+        "potassium": "157 mg",
+        "fiber": "1 g",
+        "sugar": "3 g",
+        "vitaminA": "428 IU",
+        "vitaminC": "6 mg",
+        "calcium": "23 mg",
+        "iron": "1 mg"
+    }
+}
