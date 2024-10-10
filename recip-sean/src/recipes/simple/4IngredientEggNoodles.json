@@ -1,0 +1,73 @@
+{
+    "id": "egg-noodles-recipe-001",
+    "name": "4 Ingredient Homemade Egg Noodles",
+    "ingredients": [
+        "1 egg",
+        "2 egg yolks",
+        "3 tablespoons cold water",
+        "1 teaspoon salt",
+        "2 cups all-purpose flour"
+    ],
+    "utensils": [
+        "Mixing Bowl",
+        "Whisk",
+        "Rolling Pin",
+        "Pizza Cutter or Knife",
+        "Pot for Boiling"
+    ],
+    "cookingTime": 10,
+    "prepTime": 20,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "Whisk the eggs and egg yolks until light and fluffy.",
+            "sk": "Šľahajte vajcia a žĺtky, kým nie sú svetlé a nadýchané.",
+            "ja": "卵と卵黄を軽くふわふわになるまで泡立てます。",
+            "primaryIngredient": "Eggs"
+        },
+        {
+            "time": 5,
+            "en": "Add the water, salt, and flour. Mix until a dough forms.",
+            "sk": "Pridajte vodu, soľ a múku. Miešajte, kým sa nevytvorí cesto.",
+            "ja": "水、塩、小麦粉を加え、生地ができるまで混ぜます。",
+            "primaryIngredient": "Flour"
+        },
+        {
+            "time": 5,
+            "en": "Knead the dough on a floured surface until smooth.",
+            "sk": "Hnetite cesto na pomúčenom povrchu, kým nie je hladké.",
+            "ja": "粉を振った表面で生地を滑らかになるまでこねます。",
+            "primaryIngredient": "Dough"
+        },
+        {
+            "time": 5,
+            "en": "Roll out the dough to about 1/8 inches thick. Cut into strips as thin or as wide as you want.",
+            "sk": "Cesto rozvaľkajte na hrúbku asi 1/8 palca. Nakrájajte na prúžky podľa želania.",
+            "ja": "生地を約1/8インチの厚さに伸ばし、好みの太さに切ります。",
+            "primaryIngredient": "Dough"
+        },
+        {
+            "time": 7,
+            "en": "To cook the noodles, drop them into boiling, salted water and cook for 7 to 9 minutes. Drain and use as desired.",
+            "sk": "Na varenie rezancov ich vložte do vriacej, osolenej vody a varte 7 až 9 minút. Sceďte a použite podľa želania.",
+            "ja": "麺を沸騰した塩水に入れ、7〜9分間茹でます。水を切り、お好みで使用します。",
+            "primaryIngredient": "Noodles"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Use these egg noodles in your favorite recipes. Use gluten-free flour for gluten-free egg noodles. Store the uncooked egg noodles in the refrigerator for two to three days or in the freezer for up to two months.",
+    "nutritionalInformation": {
+        "amount": "1 serving",
+        "calories": "181",
+        "fat": "3 g",
+        "saturatedFat": "1 g",
+        "carbohydrates": "32 g",
+        "fiber": "1 g",
+        "netCarbs": "31 g",
+        "sugar": "0 g",
+        "protein": "6 g",
+        "sodium": "402 mg",
+        "cholesterol": "92 mg"
+    }
+}

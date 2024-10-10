@@ -1,0 +1,81 @@
+{
+    "id": "sauerkraut-recipe-001",
+    "name": "Homemade Sauerkraut",
+    "ingredients": [
+        "1 head of cabbage (green, red, or heirloom)",
+        "1 tablespoon salt (or 1½ tablespoons for a medium-sized head)"
+    ],
+    "utensils": [
+        "Wide-mouth Mason jar",
+        "Chef's knife or handheld slicer",
+        "Mixing bowl",
+        "Wooden spoon",
+        "Weight (e.g., glass paperweight or small jar with marbles)"
+    ],
+    "cookingTime": 10,
+    "prepTime": 30,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "Remove any outer leaves from the cabbage, then quarter it and cut out the core. Slice each quarter into thin strips, about ⅛ to ¼ inch wide.",
+            "sk": "Odstráňte vonkajšie listy z kapusty, potom ju rozštvrťte a vyberte jadro. Každú štvrtinu nakrájajte na tenké prúžky, asi ⅛ až ¼ palca široké.",
+            "ja": "キャベツの外葉を取り除き、四分の一に切り、芯を取り除きます。各四分の一を薄いストリップにスライスします。幅は約⅛インチから¼インチです。",
+            "primaryIngredient": "Cabbage"
+        },
+        {
+            "time": 5,
+            "en": "Add salt to the cabbage. The magic ratio is 1 tablespoon of salt for 1¾ pounds of cabbage. Mix well and taste for saltiness.",
+            "sk": "Pridajte soľ do kapusty. Magická pomer je 1 polievková lyžica soli na 1¾ libry kapusty. Dobre premiešajte a ochutnajte na slanosť.",
+            "ja": "キャベツに塩を加えます。魔法の比率は、1¾ポンドのキャベツに対して1杯の塩です。よく混ぜて塩加減を味わいます。",
+            "primaryIngredient": "Salt"
+        },
+        {
+            "time": 10,
+            "en": "Knead the cabbage for about 10 minutes to release the brine.",
+            "sk": "Hnetite kapustu asi 10 minút, aby ste uvoľnili soľanku.",
+            "ja": "キャベツを約10分間こねて、塩水を放出します。",
+            "primaryIngredient": "Cabbage"
+        },
+        {
+            "time": 5,
+            "en": "Pack the cabbage tightly into the Mason jar, ensuring there are no air bubbles and the brine covers the cabbage.",
+            "sk": "Dôkladne naplňte kapustu do sklenenej nádoby, pričom sa uistite, že nie sú žiadne vzduchové bubliny a soľanka pokrýva kapustu.",
+            "ja": "キャベツを密にメイソンジャーに詰め、空気の泡がないことを確認し、塩水がキャベツを覆うようにします。",
+            "primaryIngredient": "Cabbage"
+        },
+        {
+            "time": 5,
+            "en": "Wedge a fresh cabbage leaf on top to keep the shredded cabbage submerged. Use a weight to keep everything pressed down.",
+            "sk": "Na vrch položte čerstvý list kapusty, aby ste udržali nastrúhanú kapustu ponorenú. Použite závažia, aby ste všetko stlačili.",
+            "ja": "細切りキャベツを沈めるために、新鮮なキャベツの葉を上に置きます。すべてを押さえるために重りを使用します。",
+            "primaryIngredient": "Cabbage"
+        },
+        {
+            "time": 7,
+            "en": "Let the jar ferment for about a week to 10 days, releasing gases every other day.",
+            "sk": "Nechajte nádobu fermentovať asi týždeň až 10 dní, pričom každé dva dni uvoľnite plyny.",
+            "ja": "瓶を約1週間から10日間発酵させ、2日に1回ガスを放出します。",
+            "primaryIngredient": "Sauerkraut"
+        },
+        {
+            "time": 5,
+            "en": "Taste the sauerkraut after a week. If it tastes good, it's done. If not, let it ferment longer.",
+            "sk": "Ochutnajte kyslú kapustu po týždni. Ak chutí dobre, je hotová. Ak nie, nechajte ju fermentovať dlhšie.",
+            "ja": "1週間後にザワークラウトを味わいます。美味しければ完成です。そうでなければ、さらに発酵させます。",
+            "primaryIngredient": "Sauerkraut"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Use any type of cabbage. Store in the refrigerator for up to 2 months. Adjust salt to taste.",
+    "nutritionalInformation": {
+        "amount": "1 serving",
+        "calories": "20",
+        "fat": "0 g",
+        "carbohydrates": "4 g",
+        "fiber": "2 g",
+        "sugar": "1 g",
+        "protein": "1 g",
+        "sodium": "300 mg"
+    }
+}

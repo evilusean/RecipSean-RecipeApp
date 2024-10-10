@@ -1,0 +1,61 @@
+{
+    "id": "pine-needle-tea-recipe-001",
+    "name": "Pine Needle Tea",
+    "ingredients": [
+        "½ cup pine needles (lodgepole, Douglas fir, or spruce)",
+        "2 cups boiling water",
+        "Optional: citrus slices, cardamom pods, whole cloves, cinnamon sticks, ginger",
+        "Sweetener of choice (honey, brown sugar, etc.)"
+    ],
+    "utensils": [
+        "Teapot",
+        "Tea infuser (optional)",
+        "Kitchen shears",
+        "Teacup"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "Wash and chop spruce branches (or other edible pine needles) to measure ½ cup. Add the needles and a few orange slices to a teapot. Pour two cups of boiling water into the teapot.",
+            "sk": "Umyte a nakrájajte smrekové vetvičky (alebo iné jedlé ihličie) na ½ šálky. Pridajte ihličie a niekoľko plátkov pomaranča do čajníka. Nalejte do čajníka dve šálky vriacej vody.",
+            "ja": "スプルースの枝（または他の食用の松の針）を洗って切り、½カップを測ります。針とオレンジのスライスを数枚ティーポットに加えます。ティーポットに2カップの沸騰した水を注ぎます。",
+            "primaryIngredient": "Pine Needles"
+        },
+        {
+            "time": 15,
+            "en": "Simmer the tea over low heat for 15 minutes to extract the flavor and beneficial properties of the pine branches.",
+            "sk": "Čaj varte na nízkej teplote 15 minút, aby ste extrahovali chuť a prospešné vlastnosti borovicových vetvičiek.",
+            "ja": "松の枝の風味と有益な特性を抽出するために、低火で15分間煮ます。",
+            "primaryIngredient": "Pine Needles"
+        },
+        {
+            "time": 5,
+            "en": "Strain the tea into a teacup and sweeten it with honey, brown sugar, or the sweetener of your choice. Enjoy!",
+            "sk": "Preceďte čaj do šálky a oslaďte ho medom, hnedým cukrom alebo sladidlom podľa vášho výberu. Dobrú chuť!",
+            "ja": "ティーカップに茶をこし、蜂蜜、ブラウンシュガー、またはお好みの甘味料で甘くします。お楽しみください！",
+            "primaryIngredient": "Pine Needle Tea"
+        },
+        {
+            "time": 5,
+            "en": "Optional: Try adding mulling spices or your favorite spices to the teapot for an even more delicious cup of pine tea!",
+            "sk": "Voliteľné: Skúste pridať korenie na varenie alebo svoje obľúbené korenie do čajníka pre ešte chutnejší šálku borovicového čaju!",
+            "ja": "オプション：さらに美味しい松の茶を楽しむために、ティーポットにマリネスパイスやお気に入りのスパイスを追加してみてください！",
+            "primaryIngredient": "Pine Needle Tea"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Use any type of pine needles. Sweeten to taste. Optional spices can enhance flavor.",
+    "nutritionalInformation": {
+        "amount": "1 cup",
+        "calories": "5",
+        "fat": "0 g",
+        "carbohydrates": "1 g",
+        "fiber": "0 g",
+        "sugar": "0 g",
+        "protein": "0 g",
+        "sodium": "0 mg"
+    }
+}

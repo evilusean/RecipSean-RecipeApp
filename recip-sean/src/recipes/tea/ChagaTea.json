@@ -1,0 +1,56 @@
+{
+    "id": "chaga-tea-recipe-001",
+    "name": "Chaga Tea",
+    "ingredients": [
+        "½ oz dried chaga mushroom (fresh can also be used)",
+        "8 cups water or filtered water"
+    ],
+    "utensils": [
+        "4-quart soup pot with lid",
+        "Jar for storing used chaga",
+        "Measuring cups"
+    ],
+    "cookingTime": 30,
+    "prepTime": 5,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "Combine the chaga and water in a pot, cover, and bring to a simmer.",
+            "sk": "Spojte chagu a vodu v hrnci, zakryte a priveďte k varu.",
+            "ja": "鍋にチャガと水を入れ、蓋をして煮立たせます。",
+            "primaryIngredient": "Chaga Mushroom"
+        },
+        {
+            "time": 30,
+            "en": "Turn the heat to as low as possible and cook for at least 30 minutes or longer for a stronger flavor.",
+            "sk": "Znížte teplotu na minimum a varte aspoň 30 minút alebo dlhšie pre silnejšiu chuť.",
+            "ja": "火をできるだけ弱くし、少なくとも30分間、またはより強い風味のために長く煮ます。",
+            "primaryIngredient": "Chaga Tea"
+        },
+        {
+            "time": 5,
+            "en": "Remove the mushroom, put it in a jar, and store in the refrigerator to make additional batches of tea.",
+            "sk": "Odstráňte hubu, vložte ju do nádoby a uložte do chladničky na prípravu ďalších dávok čaju.",
+            "ja": "キノコを取り出し、瓶に入れて冷蔵庫に保存し、追加の茶を作ります。",
+            "primaryIngredient": "Chaga Mushroom"
+        },
+        {
+            "time": 5,
+            "en": "Reuse the mushroom until it no longer makes tea. Typically, 2-4 infusions can be made from one chunk. For a stronger brew, cut the water in half or simmer uncovered until the tea develops a dark color.",
+            "sk": "Hubu opätovne použite, kým už nevytvára čaj. Zvyčajne sa z jedného kusu dajú pripraviť 2-4 nálevy. Pre silnejší nálev znížte množstvo vody na polovicu alebo varte odkryté, kým čaj nezíska tmavú farbu.",
+            "ja": "キノコを再利用し、もう茶を作らなくなるまで使用します。通常、1つの塊から2〜4回の抽出が可能です。より強い抽出を得るには、水を半分に減らすか、茶が濃い色になるまで蓋をせずに煮ます。",
+            "primaryIngredient": "Chaga Tea"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Chaga can be reused multiple times for tea. Store used chunks in the refrigerator for future use. Be cautious of potential side effects.",
+    "nutritionalInformation": {
+        "amount": "1 serving (1 cup)",
+        "calories": "0",
+        "fat": "0 g",
+        "carbohydrates": "0 g",
+        "protein": "0 g",
+        "sodium": "0 mg"
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "id": "pemmican-recipe-001",
+    "name": "Backcountry Pemmican",
+    "ingredients": [
+        "Powdered Dried Beef or Wild Game",
+        "Beef or Bear Tallow",
+        "Salt",
+        "Dried Cherries",
+        "Dried Blueberries",
+        "Honey",
+        "Crushed Red Pepper"
+    ],
+    "utensils": [
+        "Food Processor",
+        "Double Boiler",
+        "Baking Dishes or Casserole Pans"
+    ],
+    "cookingTime": 60,
+    "prepTime": 30,
+    "instructions": [
+        {
+            "time": 10,
+            "en": "Make meat and fruit powders through dehydration and smoking process. Dry all ingredients beyond what you would for direct consumption.",
+            "sk": "Vyrobte prášky z mäsa a ovocia procesom dehydratácie a údenia. Vysušte všetky prísady nad rámec toho, čo by ste robili pre priamu konzumáciu.",
+            "ja": "肉と果物の粉を脱水と燻製のプロセスで作ります。直接消費するために行う以上にすべての材料を乾燥させます。",
+            "primaryIngredient": "Powdered Dried Beef or Wild Game"
+        },
+        {
+            "time": 10,
+            "en": "Use a food processor to blend powders to a flour consistency.",
+            "sk": "Použite kuchynský robot na zmiešanie práškov do konzistencie múky.",
+            "ja": "フードプロセッサーを使用して、粉を小麦粉のような一貫性に混ぜます。",
+            "primaryIngredient": "Powdered Dried Beef or Wild Game"
+        },
+        {
+            "time": 15,
+            "en": "Render beef or bear fat by slowly heating trimmed fat until it turns to a clear liquid, strain off liquid, and let it cool.",
+            "sk": "Vyrobte hovädzí alebo medvedí tuk pomalým zahrievaním orezaného tuku, kým sa nezmení na číru kvapalinu, sceďte kvapalinu a nechajte ju vychladnúť.",
+            "ja": "牛脂またはクマの脂肪を、切り取った脂肪をゆっくりと加熱して透明な液体になるまで加熱し、液体をこして冷やします。",
+            "primaryIngredient": "Beef or Bear Tallow"
+        },
+        {
+            "time": 10,
+            "en": "Mix your dry powders and salt at a rate of 1.5-1.9% of the total weight of your powders used.",
+            "sk": "Zmiešajte suché prášky a soľ v pomere 1,5-1,9% z celkovej hmotnosti použitých práškov.",
+            "ja": "乾燥した粉と塩を、使用した粉の総重量の1.5〜1.9%の割合で混ぜます。",
+            "primaryIngredient": "Salt"
+        },
+        {
+            "time": 10,
+            "en": "Heat up your tallow with a double boiler and slowly add the melted tallow to your dry mix until the mixture can be formed with your hand.",
+            "sk": "Tuk zahrejte v dvojitom kotli a pomaly pridávajte roztopený tuk do suchej zmesi, kým sa zmes nedá formovať rukou.",
+            "ja": "ダブルボイラーで脂肪を加熱し、手で形成できるまで溶かした脂肪を乾燥した混合物に少しずつ加えます。",
+            "primaryIngredient": "Beef or Bear Tallow"
+        },
+        {
+            "time": 10,
+            "en": "Form the pemmican mix in baking dishes or casserole pans, preferably 1/2\" to 3/4\" thickness.",
+            "sk": "Zmes pemikanu formujte do pekáčov alebo zapekacích misiek, ideálne v hrúbke 1/2\" až 3/4\".",
+            "ja": "ペミカンの混合物を焼き皿やキャセロールパンに形成し、好ましくは1/2\"から3/4\"の厚さにします。",
+            "primaryIngredient": "Pemmican Mix"
+        },
+        {
+            "time": 5,
+            "en": "Let the pemmican cool at room temperature or in the fridge. Once solid, cut into bars for packaging.",
+            "sk": "Nechajte pemikan vychladnúť pri izbovej teplote alebo v chladničke. Po stuhnutí nakrájajte na tyčinky na balenie.",
+            "ja": "ペミカンを室温または冷蔵庫で冷やします。固まったら、包装用にバーに切ります。",
+            "primaryIngredient": "Pemmican"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "This recipe is flexible; adjust ingredients to taste.",
+    "nutritionalInformation": {
+        "amount": "1 bar",
+        "calories": "250",
+        "protein": "15g",
+        "carbohydrates": "20g",
+        "fat": "15g"
+    }
+}

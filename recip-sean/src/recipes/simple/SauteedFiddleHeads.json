@@ -1,0 +1,65 @@
+{
+    "id": "sauteed-fiddleheads-recipe-001",
+    "name": "Sautéed Fiddleheads",
+    "ingredients": [
+        "3 cups fresh fiddlehead ferns, ends trimmed",
+        "3 tablespoons unfiltered extra-virgin olive oil",
+        "1 clove garlic, minced",
+        "½ teaspoon sea salt",
+        "½ teaspoon black pepper",
+        "1 tablespoon fresh lemon juice"
+    ],
+    "utensils": [
+        "Large pot",
+        "Skillet",
+        "Strainer",
+        "Measuring cups and spoons",
+        "Knife and cutting board"
+    ],
+    "cookingTime": 15,
+    "prepTime": 15,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "Gather all ingredients.",
+            "sk": "Zhromaždite všetky prísady.",
+            "ja": "すべての材料を集めます。",
+            "primaryIngredient": "Ingredients"
+        },
+        {
+            "time": 10,
+            "en": "Bring a large pot of salted water to a boil. Cook fiddlehead ferns in the boiling water until barely tender, about 7 to 10 minutes. Drain.",
+            "sk": "Varte veľký hrniec osolenej vody. Varíme kapradinové púčiky vo vriacej vode, kým nie sú len jemne mäkké, asi 7 až 10 minút. Sceďte.",
+            "ja": "大きな鍋に塩水を沸騰させます。沸騰した水でフジバカマをほぼ柔らかくなるまで、約7〜10分間茹でます。水を切ります。",
+            "primaryIngredient": "Fiddlehead Ferns"
+        },
+        {
+            "time": 5,
+            "en": "Heat olive oil in a large skillet over medium-high heat. Stir in prepared fiddlehead ferns, garlic, salt, and pepper. Cook and stir until ferns are lightly browned and tender, about 5 minutes.",
+            "sk": "Na veľkej panvici na stredne vysokom ohni zahrejte olivový olej. Pridajte pripravené kapradinové púčiky, cesnak, soľ a korenie. Varíme a miešame, kým nie sú púčiky jemne hnedé a mäkké, asi 5 minút.",
+            "ja": "大きなフライパンで中高火でオリーブオイルを熱します。準備したフジバカマ、ニンニク、塩、コショウを加えます。約5分間、フジバカマが軽く焼き色がつき、柔らかくなるまで調理し、かき混ぜます。",
+            "primaryIngredient": "Fiddlehead Ferns"
+        },
+        {
+            "time": 1,
+            "en": "Remove from heat and sprinkle with lemon juice.",
+            "sk": "Odstráňte z tepla a posypte citrónovou šťavou.",
+            "ja": "火から下ろし、レモンジュースを振りかけます。",
+            "primaryIngredient": "Lemon Juice"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Serve immediately as a side dish. Fiddleheads are seasonal, so enjoy them while they last!",
+    "nutritionalInformation": {
+        "amount": "1 serving (1/2 cup)",
+        "calories": "120",
+        "fat": "10 g",
+        "saturatedFat": "1.5 g",
+        "carbohydrates": "8 g",
+        "fiber": "3 g",
+        "sugar": "0 g",
+        "protein": "2 g",
+        "sodium": "200 mg"
+    }
+}

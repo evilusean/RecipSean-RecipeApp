@@ -1,0 +1,75 @@
+{
+    "id": "pine-needle-tea-recipe-002",
+    "name": "Pine Needle Tea",
+    "ingredients": [
+        "½ cup Eastern White Pine needles (about 3 needle clusters)",
+        "3 cups water",
+        "2 slices lemon (optional)",
+        "1 teaspoon sugar or honey (optional, to taste)",
+        "Herbal tea variations (optional): 2-3 sprigs fresh thyme, 2-3 sprigs fresh mint"
+    ],
+    "utensils": [
+        "Teapot or saucepan",
+        "Mesh sieve",
+        "Kitchen shears",
+        "Teacup or glasses"
+    ],
+    "cookingTime": 15,
+    "prepTime": 5,
+    "instructions": [
+        {
+            "time": 5,
+            "en": "Remove pine needles from the woody stems. Trim off any brown needles and rinse the needles with cold water. Set aside to dry.",
+            "sk": "Odstráňte ihličie z drevených stoniek. Orezajte akékoľvek hnedé ihličie a umyte ihličie studenou vodou. Nechajte uschnúť.",
+            "ja": "松の針を木の茎から取り外します。茶色の針を切り落とし、冷水で針を洗います。乾かしておきます。",
+            "primaryIngredient": "Pine Needles"
+        },
+        {
+            "time": 5,
+            "en": "Bring 3 cups of water to a boil. Pour into a teapot, saucepan, or French press.",
+            "sk": "Priveďte 3 šálky vody do varu. Nalejte do čajníka, hrnca alebo francúzskej tlačky.",
+            "ja": "3カップの水を沸騰させます。ティーポット、鍋、またはフレンチプレスに注ぎます。",
+            "primaryIngredient": "Water"
+        },
+        {
+            "time": 15,
+            "en": "Add the pine needles to the boiling water along with any additional ingredients (except lemon). Cover the pot and steep for about 15 minutes.",
+            "sk": "Pridajte ihličie do vriacej vody spolu s akýmikoľvek ďalšími prísadami (okrem citrónu). Zakryte hrniec a nechajte lúhovať asi 15 minút.",
+            "ja": "松の針を沸騰した水に加え、他の材料（レモンを除く）を加えます。鍋を覆い、約15分間浸します。",
+            "primaryIngredient": "Pine Needles"
+        },
+        {
+            "time": 5,
+            "en": "Strain out the needles by pouring the tea into glasses through a mesh sieve. Serve hot, with lemon if desired.",
+            "sk": "Preceďte ihličie tak, že čaj nalejete do pohárov cez jemné sitko. Podávajte horúce, s citrónom, ak chcete.",
+            "ja": "メッシュのふるいを通して茶をグラスに注ぎ、針を取り除きます。お好みでレモンを添えて熱いうちに提供します。",
+            "primaryIngredient": "Pine Needle Tea"
+        },
+        {
+            "time": 5,
+            "en": "For iced tea: make a larger batch, let it cool slightly, and store in a pitcher or glass jar in the fridge. Use within 2-3 days.",
+            "sk": "Na ľadový čaj: pripravte väčšiu dávku, nechajte ju mierne vychladnúť a uložte do džbánu alebo sklenenej nádoby v chladničke. Spotrebujte do 2-3 dní.",
+            "ja": "アイスティーの場合：大きなバッチを作り、少し冷やしてから、ピッチャーやガラス瓶に入れて冷蔵庫に保存します。2〜3日以内に使用します。",
+            "primaryIngredient": "Pine Needle Tea"
+        }
+    ],
+    "favorite": false,
+    "recipeType": "_",
+    "notes": "Ensure you positively identify the type of pine before using the needles. Avoid using Ponderosa Pine and Yew trees.",
+    "nutritionalInformation": {
+        "amount": "1 cup",
+        "calories": "14",
+        "carbohydrates": "4 g",
+        "protein": "1 g",
+        "fat": "1 g",
+        "saturatedFat": "1 g",
+        "sodium": "18 mg",
+        "potassium": "31 mg",
+        "fiber": "1 g",
+        "sugar": "2 g",
+        "vitaminA": "49 IU",
+        "vitaminC": "11 mg",
+        "calcium": "19 mg",
+        "iron": "1 mg"
+    }
+}
