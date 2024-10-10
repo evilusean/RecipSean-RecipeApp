@@ -69,7 +69,7 @@
         }
     ],
     "favorite": false,
-    "recipeType": "_",
+    "recipeType": "Simple",
     "notes": "This recipe is flexible; adjust ingredients to taste.",
     "nutritionalInformation": {
         "amount": "1 bar",

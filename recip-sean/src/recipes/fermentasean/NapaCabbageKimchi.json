@@ -91,7 +91,7 @@
         }
     ],
     "favorite": false,
-    "recipeType": "_",
+    "recipeType": "Simple",
     "notes": "The kimchi will ferment faster in warmer temperatures. Store in the refrigerator to slow down fermentation.",
     "nutritionalInformation": {
         "amount": "1 serving",
