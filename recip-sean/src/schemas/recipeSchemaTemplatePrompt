@@ -4,5 +4,5 @@ Below is the schema I am going to use for recipes, please take note of how
 there are 3 different types of instructions 'en' for english, 'sk' for slovak
 and 'jp' for japanese, please translate each recipe, also note that there is a
 'nutritional information' section and a 'notes' section for any additional notes,
-also, please make the 'recipeType' be _ for the folowing recipes, take
+also, please dont forget the 'recipeType' 
 the text recipe I give you and return to me a .json that works in this schema :
