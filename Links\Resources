@@ -1,3 +1,8 @@
+TODO:
+Implement PaginaSean / Reduce load of 500 recipes on startup - make sure search still works
+Implement a stricter search, searching 'tea' gives way too many recipes, 
+App was running kind of slow, see if pagination fixes this, or if I'm just overreacting
+
 I want the app to search current ingredients and give me what I can make on that, 90% of the time it will be tuna and rice, sometimes not even tuna. F=-F step 1) Escape.
 I basically just want a way to save any future recipes and search by main ingredients.
 
